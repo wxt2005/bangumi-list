@@ -1,0 +1,41 @@
+{
+  "name": "bangumi-list",
+  "version": "1.0.0",
+  "description": "A broadcast list for Japanese Donga.",
+  "keywords": [
+    "donga",
+    "anime"
+  ],
+  "scripts": {
+    "start": "npm run serve | npm run dev",
+    "deploy": "npm run clean:dist && NODE_ENV=production webpack -p",
+    "serve": "http-server -p 8080",
+    "clean:dist": "rm -rf dist",
+    "dev": "webpack-dev-server --progress --colors --hot --port 8090 --host 0.0.0.0",
+    "lodash": "lodash include=isEmpty,size,map,each,chain,sortByAll,sortBy,value,filter,assign,merge,every exports=node -d -o src/js/lib/lodash.custom.js"
+  },
+  "main": "./src/js/main.js",
+  "author": "wxt2005@gmail.com",
+  "license": "MIT",
+  "devDependencies": {
+    "css-loader": "^0.15.1",
+    "extract-text-webpack-plugin": "^0.8.2",
+    "file-loader": "^0.8.4",
+    "html-webpack-plugin": "^1.5.2",
+    "http-server": "^0.8.0",
+    "jsx-loader": "^0.13.2",
+    "less": "^2.5.1",
+    "less-loader": "^2.2.0",
+    "node-libs-browser": "^0.5.2",
+    "react-hot-loader": "^1.2.7",
+    "style-loader": "^0.12.3",
+    "url-loader": "^0.5.6",
+    "webpack": "^1.9.11",
+    "webpack-dev-server": "^1.9.0"
+  },
+  "dependencies": {
+    "flux": "^2.0.3",
+    "qwest": "^1.7.0",
+    "react": "^0.13.3"
+  }
+}

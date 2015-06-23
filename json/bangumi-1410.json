@@ -1,0 +1,1101 @@
+{
+  "1410_0": {
+    "titleCN": "名侦探柯南",
+    "titleJP": "名探偵コナン",
+    "officalSite": "http://www.ytv.co.jp/conan/",
+    "weekDayJP": 6,
+    "weekDayCN": 0,
+    "timeJP": "1800",
+    "timeCN": "",
+    "onAirSite": [
+      "http://www.acfun.tv/a/aa127",
+      "http://www.iqiyi.com/dongman/mztkngyb.html"
+    ],
+    "newBgm": false,
+    "showDate": "1996-01-08"
+  },
+  "1410_1": {
+    "titleCN": "海贼王",
+    "titleJP": "ONE PIECE",
+    "officalSite": "http://www.toei-anim.co.jp/tv/onep/",
+    "weekDayJP": 0,
+    "weekDayCN": 0,
+    "timeJP": "0930",
+    "timeCN": "",
+    "onAirSite": [
+      "http://www.bilibili.com/sp/海贼王",
+      "http://www.acfun.tv/a/aa126",
+      "http://tv.sohu.com/s2013/onepiece/"
+    ],
+    "newBgm": false,
+    "showDate": "1999-10-20"
+  },
+  "1410_2": {
+    "titleCN": "火影忍者 疾风传",
+    "titleJP": "NARUTO -ナルト- 疾風伝",
+    "officalSite": "http://www.tv-tokyo.co.jp/anime/naruto/index2.html",
+    "weekDayJP": 4,
+    "weekDayCN": 4,
+    "timeJP": "1830",
+    "timeCN": "1900",
+    "onAirSite": [
+      "http://www.tudou.com/albumcover/Lqfme5hSolM.html",
+      "http://www.bilibili.com/sp/火影忍者"
+    ],
+    "newBgm": false,
+    "showDate": "2007-02-15"
+  },
+  "1410_3": {
+    "titleCN": "偶像活动! 三期",
+    "titleJP": "アイカツ!アイドルカツドウ!",
+    "officalSite": "http://www.aikatsu.net",
+    "weekDayJP": 4,
+    "weekDayCN": 4,
+    "timeJP": "1700",
+    "timeCN": "1900",
+    "onAirSite": [
+      "http://www.bilibili.com/sp/偶像活动",
+      "http://www.acfun.tv/a/aa1464858",
+      "http://www.iqiyi.com/a_19rrhc0yjx.html"
+    ],
+    "newBgm": true,
+    "showDate": "2014-10-02"
+  },
+  "1410_4": {
+    "titleCN": "游戏王ARC-V",
+    "titleJP": "遊☆戯☆王ARC-V ",
+    "officalSite": "http://www.tv-tokyo.co.jp/anime/yugioh-arcv/",
+    "weekDayJP": 0,
+    "weekDayCN": 1,
+    "timeJP": "1630",
+    "timeCN": "",
+    "onAirSite": [
+      "http://www.bilibili.com/sp/游☆戏☆王",
+      "http://www.acfun.tv/a/aa1259367"
+    ],
+    "newBgm": false,
+    "showDate": "2014-04-06"
+  },
+  "1410_5": {
+    "titleCN": "Hi★sCoool! 世嘉硬件女孩",
+    "titleJP": "Hi★sCoool! セハガール",
+    "officalSite": "http://shg.sega.jp/anime.html",
+    "weekDayJP": 3,
+    "weekDayCN": 3,
+    "timeJP": "2100",
+    "timeCN": "2200",
+    "onAirSite": [
+      "http://www.bilibili.com/sp/世嘉硬件女孩"
+    ],
+    "newBgm": true,
+    "showDate": "2014-10-08"
+  },
+  "1410_6": {
+    "titleCN": "山贼女孩罗尼雅",
+    "titleJP": "山賊の娘ローニャ",
+    "officalSite": "http://www9.nhk.or.jp/anime/ronja/",
+    "weekDayJP": 6,
+    "weekDayCN": 6,
+    "timeJP": "1800",
+    "timeCN": "2148",
+    "onAirSite": [
+      "http://www.bilibili.com/sp/绿林女儿罗妮娅",
+      "http://www.acfun.tv/a/aa1464843"
+    ],
+    "newBgm": true,
+    "showDate": "2014-10-11"
+  },
+  "1410_7": {
+    "titleCN": "寄生兽 生命的准则",
+    "titleJP": "寄生獣 セイの格率",
+    "officalSite": "http://www.kiseiju.jp/",
+    "weekDayJP": 4,
+    "weekDayCN": 4,
+    "timeJP": "0029",
+    "timeCN": "0330",
+    "onAirSite": [
+      "http://www.tudou.com/albumcover/ljWaEal7TxI.html",
+      "http://www.bilibili.com/sp/寄生兽",
+      "http://www.acfun.tv/v/ab1464806"
+    ],
+    "newBgm": true,
+    "showDate": "2014-10-09"
+  },
+  "1410_8": {
+    "titleCN": "笑对阴天",
+    "titleJP": "曇天に笑う",
+    "officalSite": "http://www.dontenniwarau.com/",
+    "weekDayJP": 6,
+    "weekDayCN": 6,
+    "timeJP": "0058",
+    "timeCN": "0430",
+    "onAirSite": [
+      "http://www.iqiyi.com/a_19rrhc0xl1.html",
+      "http://www.acfun.tv/a/aa1464836",
+      "http://www.bilibili.com/sp/笑对阴天"
+    ],
+    "newBgm": true,
+    "showDate": "2014-10-04"
+  },
+  "1410_9": {
+    "titleCN": "甘城光辉游乐园",
+    "titleJP": "甘城ブリリアントパーク",
+    "officalSite": "http://www.tbs.co.jp/anime/amaburi/",
+    "weekDayJP": 5,
+    "weekDayCN": 5,
+    "timeJP": "0116",
+    "timeCN": "",
+    "onAirSite": [
+      "http://www.bilibili.com/sp/甘城光辉游乐园",
+      "http://www.acfun.tv/a/aa1464810"
+    ],
+    "newBgm": true,
+    "showDate": "2014-10-03"
+  },
+  "1410_10": {
+    "titleCN": "高达G之复国运动",
+    "titleJP": "ガンダム Gのレコンギスタ",
+    "officalSite": "http://www.g-reco.net/",
+    "weekDayJP": 5,
+    "weekDayCN": 5,
+    "timeJP": "0000",
+    "timeCN": "0349",
+    "onAirSite": [
+      "http://www.tudou.com/albumcover/iU6KdfiaSxo.html",
+      "http://www.youku.com/show_page/id_z21e664b6b01011e3a705.html",
+      "http://www.bilibili.com/sp/高达G之复国运动",
+      "http://www.acfun.tv/v/ab1464804"
+    ],
+    "newBgm": true,
+    "showDate": "2014-10-03"
+  },
+  "1410_11": {
+    "titleCN": "老子要成为双马尾",
+    "titleJP": "俺、ツインテールになります。",
+    "officalSite": "http://www.tbs.co.jp/anime/ore_twi/",
+    "weekDayJP": 5,
+    "weekDayCN": 5,
+    "timeJP": "0046",
+    "timeCN": "0246",
+    "onAirSite": [
+      "http://www.letv.com/comic/10005167.html",
+      "http://www.iqiyi.com/a_19rrhbzehh.html",
+      "http://www.bilibili.com/sp/我，要成为双马尾%E3%80%82",
+      "http://www.acfun.tv/a/aa1464824"
+    ],
+    "newBgm": true,
+    "showDate": "2014-10-10"
+  },
+  "1410_12": {
+    "titleCN": "BONJOUR♪恋味甜点坊",
+    "titleJP": "Bonjour♪恋味パティスリー",
+    "officalSite": "http://www.bonkoi.com/",
+    "weekDayJP": 5,
+    "weekDayCN": 6,
+    "timeJP": "2100",
+    "timeCN": "",
+    "onAirSite": [
+      "http://www.bilibili.com/sp/早安恋味糕点店",
+      "http://www.acfun.tv/a/aa1464826"
+    ],
+    "newBgm": true,
+    "showDate": "2014-10-10"
+  },
+  "1410_13": {
+    "titleCN": "结城友奈是勇者",
+    "titleJP": "結城友奈は勇者である",
+    "officalSite": "http://yuyuyu.tv/",
+    "weekDayJP": 5,
+    "weekDayCN": 5,
+    "timeJP": "0119",
+    "timeCN": "0350",
+    "onAirSite": [
+      "http://www.iqiyi.com/a_19rrhbyz99.html",
+      "http://www.bilibili.com/sp/结城友奈是勇者",
+      "http://www.acfun.tv/a/aa1464812"
+    ],
+    "newBgm": true,
+    "showDate": "2014-10-17"
+  },
+  "1410_14": {
+    "titleCN": "白箱",
+    "titleJP": "SHIROBAKO",
+    "officalSite": "http://www.shirobako-anime.com/",
+    "weekDayJP": 4,
+    "weekDayCN": 4,
+    "timeJP": "2230",
+    "timeCN": "2330",
+    "onAirSite": [
+      "http://www.iqiyi.com/a_19rrhbzeox.html",
+      "http://www.acfun.tv/v/ab1464814",
+      "http://www.bilibili.com/sp/SHIROBAKO"
+    ],
+    "newBgm": true,
+    "showDate": "2014-10-09"
+  },
+  "1410_15": {
+    "titleCN": "我家浴缸的二三事",
+    "titleJP": "オレん家のフロ事情",
+    "officalSite": "http://www.orefuro.jp/",
+    "weekDayJP": 1,
+    "weekDayCN": 1,
+    "timeJP": "2254",
+    "timeCN": "2301",
+    "onAirSite": [
+      "http://www.bilibili.com/sp/我家浴缸的二三事",
+      "http://www.iqiyi.com/a_19rrhc0z1p.html",
+      "http://www.acfun.tv/a/aa1464850"
+    ],
+    "newBgm": true,
+    "showDate": "2014-10-06"
+  },
+  "1410_16": {
+    "titleCN": "高达创战者 Try",
+    "titleJP": "ガンダムビルドファイターズ トライ",
+    "officalSite": "http://gundam-bf.net/",
+    "weekDayJP": 3,
+    "weekDayCN": 3,
+    "timeJP": "1700",
+    "timeCN": "1900",
+    "onAirSite": [
+      "http://www.tudou.com/albumcover/52Lw1YgzskQ.html",
+      "http://www.youku.com/show_page/id_z0a038a9e29c411e48b3f.html",
+      "http://www.iqiyi.com/a_19rrhc0r3l.html",
+      "http://www.acfun.tv/v/ab1464844",
+      "http://www.bilibili.com/sp/高达BUILD%20FIGHTERS#S-1332"
+    ],
+    "newBgm": true,
+    "showDate": "2014-10-08"
+  },
+  "1410_17": {
+    "titleCN": "天体的秩序",
+    "titleJP": "天体のメソッド",
+    "officalSite": "http://sora-no-method.jp/",
+    "weekDayJP": 0,
+    "weekDayCN": 0,
+    "timeJP": "2130",
+    "timeCN": "2230",
+    "onAirSite": [
+      "http://www.bilibili.com/sp/天体的秩序",
+      "http://www.acfun.tv/a/aa1464809"
+    ],
+    "newBgm": true,
+    "showDate": "2014-10-05"
+  },
+  "1410_18": {
+    "titleCN": "电器街的漫画店",
+    "titleJP": "デンキ街の本屋さん",
+    "officalSite": "http://umanohone.jp/",
+    "weekDayJP": 4,
+    "weekDayCN": 4,
+    "timeJP": "2130",
+    "timeCN": "2330",
+    "onAirSite": [
+      "http://www.bilibili.com/sp/电器街的漫画店",
+      "http://www.acfun.tv/a/aa1464849"
+    ],
+    "newBgm": true,
+    "showDate": "2014-10-02"
+  },
+  "1410_19": {
+    "titleCN": "寻找失去的未来",
+    "titleJP": "失われた未来を求めて",
+    "officalSite": "http://ushinawareta-mirai.com/",
+    "weekDayJP": 6,
+    "weekDayCN": 0,
+    "timeJP": "1930",
+    "timeCN": "0130",
+    "onAirSite": [
+      "http://www.bilibili.com/sp/寻找失去的未来",
+      "http://www.iqiyi.com/a_19rrhc108x.html",
+      "http://www.acfun.tv/a/aa1464840"
+    ],
+    "newBgm": true,
+    "showDate": "2014-10-04"
+  },
+  "1410_20": {
+    "titleCN": "棺姬嘉依卡 2期",
+    "titleJP": "棺姫のチャイカ AVENGING BATTLE",
+    "officalSite": "http://chaika-anime.jp/",
+    "weekDayJP": 4,
+    "weekDayCN": 4,
+    "timeJP": "0005",
+    "timeCN": "0135",
+    "onAirSite": [
+      "http://v.qq.com/detail/c/crrtngniol48xnn.html",
+      "http://www.bilibili.com/sp/棺姬嘉依卡#S-1334",
+      "http://www.acfun.tv/a/aa1464827"
+    ],
+    "newBgm": true,
+    "showDate": "2014-10-09"
+  },
+  "1410_21": {
+    "titleCN": "Fate/stay night [Unlimited Blade Works]",
+    "titleJP": "Fate/stay night [Unlimited Blade Works]",
+    "officalSite": "http://www.fate-sn.com/ubw/",
+    "weekDayJP": 6,
+    "weekDayCN": 0,
+    "timeJP": "2300",
+    "timeCN": "0030",
+    "onAirSite": [
+      "http://www.iqiyi.com/a_19rrhc107d.html",
+      "http://www.tudou.com/albumcover/RsfQldH8q6s.html",
+      "http://v.qq.com/detail/5/54v59r074ncc1kq.html",
+      "http://www.youku.com/show_page/id_z46465a1c711f11e38b3f.html",
+      "http://www.letv.com/comic/10005152.html",
+      "http://www.bilibili.com/sp/FATE%2FSTAY%20NIGHT%20-UBW-",
+      "http://www.acfun.tv/a/aa1464802"
+    ],
+    "newBgm": true,
+    "showDate": "2014-10-04"
+  },
+  "1410_22": {
+    "titleCN": "虫师 续章 2期",
+    "titleJP": "蟲師 続章 第2期",
+    "officalSite": "http://www.mushishi-anime.com/",
+    "weekDayJP": 6,
+    "weekDayCN": 0,
+    "timeJP": "2330",
+    "timeCN": "0400",
+    "onAirSite": [
+      "http://tv.sohu.com/s2014/csxz/",
+      "http://www.bilibili.com/sp/虫师#S-1335"
+    ],
+    "newBgm": true,
+    "showDate": "2014-10-18"
+  },
+  "1410_23": {
+    "titleCN": "狼少女与黑王子",
+    "titleJP": "オオカミ少女と黒王子",
+    "officalSite": "http://www.ookamishojo-anime.jp/",
+    "weekDayJP": 0,
+    "weekDayCN": 0,
+    "timeJP": "2100",
+    "timeCN": "2330",
+    "onAirSite": [
+      "http://www.iqiyi.com/a_19rrhc0zph.html",
+      "http://www.acfun.tv/a/aa1464857",
+      "http://www.bilibili.com/sp/狼少女与黑王子"
+    ],
+    "newBgm": true,
+    "showDate": "2014-10-05"
+  },
+  "1410_24": {
+    "titleCN": "火星异种",
+    "titleJP": "TERRAFORMARS（テラフォーマーズ）",
+    "officalSite": "http://www.terraformars.tv/",
+    "weekDayJP": 5,
+    "weekDayCN": 6,
+    "timeJP": "2330",
+    "timeCN": "0030",
+    "onAirSite": [
+      "http://www.tudou.com/albumcover/jGaFpdJqObQ.html",
+      "http://www.youku.com/show_page/id_zff86b776cf5f11e3b8b7.html",
+      "http://www.bilibili.com/sp/火星异种",
+      "http://www.acfun.tv/a/aa1464218",
+      "http://www.iqiyi.com/a_19rrhc139h.html"
+    ],
+    "newBgm": true,
+    "showDate": "2014-09-26"
+  },
+  "1410_25": {
+    "titleCN": "Cross Ange 天使与龙的轮舞",
+    "titleJP": "クロスアンジュ 天使と竜の輪舞",
+    "officalSite": "http://crossange.com/",
+    "weekDayJP": 0,
+    "weekDayCN": 0,
+    "timeJP": "0030",
+    "timeCN": "1700",
+    "onAirSite": [
+      "http://www.iqiyi.com/a_19rrhc0zv1.html",
+      "http://www.tudou.com/albumcover/lHvXdgRhkLc.html",
+      "http://www.youku.com/show_page/id_zbf2687ec1d0c11e4b2ad.html",
+      "http://www.acfun.tv/v/ab1464811",
+      "http://www.bilibili.com/sp/CROSSANGE%20天使与龙的轮舞"
+    ],
+    "newBgm": true,
+    "showDate": "2014-10-05"
+  },
+  "1410_26": {
+    "titleCN": "魔弹之王与战姬",
+    "titleJP": "魔弾の王と戦姫",
+    "officalSite": "http://www.madan-anime.jp/",
+    "weekDayJP": 6,
+    "weekDayCN": 6,
+    "timeJP": "1900",
+    "timeCN": "2230",
+    "onAirSite": [
+      "http://www.iqiyi.com/a_19rrhc0xbh.html",
+      "http://www.bilibili.com/sp/魔弹之王与战姬",
+      "http://www.acfun.tv/a/aa1464820",
+      "http://www.pptv.com/page/268775.html"
+    ],
+    "newBgm": true,
+    "showDate": "2014-10-04"
+  },
+  "1410_27": {
+    "titleCN": "选择感染者 2期",
+    "titleJP": "selector spread WIXOSS",
+    "officalSite": "http://selector-wixoss.com/",
+    "weekDayJP": 6,
+    "weekDayCN": 6,
+    "timeJP": "0005",
+    "timeCN": "0205",
+    "onAirSite": [
+      "http://www.iqiyi.com/a_19rrhc0xpd.html",
+      "http://www.bilibili.com/sp/选择感染者WIXOSS",
+      "http://www.acfun.tv/a/aa1464830"
+    ],
+    "newBgm": true,
+    "showDate": "2014-10-04"
+  },
+  "1410_28": {
+    "titleCN": "晨曦公主",
+    "titleJP": "暁のヨナ",
+    "officalSite": "http://www.marv.jp/special/yona/",
+    "weekDayJP": 2,
+    "weekDayCN": 2,
+    "timeJP": "2200",
+    "timeCN": "2300",
+    "onAirSite": [
+      "http://www.tudou.com/albumcover/3sgyRBy1t1M.html",
+      "http://www.youku.com/show_page/id_zd6c247ae3d6b11e4a080.html",
+      "http://www.bilibili.com/sp/晨曦公主",
+      "http://www.iqiyi.com/a_19rrhc0ytd.html",
+      "http://www.pptv.com/page/296315.html",
+      "http://www.acfun.tv/v/ab1464837"
+    ],
+    "newBgm": true,
+    "showDate": "2014-10-07"
+  },
+  "1410_29": {
+    "titleCN": "巴哈姆特之怒",
+    "titleJP": "神撃のバハムート GENESIS",
+    "officalSite": "http://shingekinobahamut-genesis.jp/",
+    "weekDayJP": 1,
+    "weekDayCN": 2,
+    "timeJP": "2230",
+    "timeCN": "0200",
+    "onAirSite": [
+      "http://www.iqiyi.com/a_19rrhc0z39.html",
+      "http://www.bilibili.com/sp/巴哈姆特之怒",
+      "http://www.acfun.tv/a/aa1464822"
+    ],
+    "newBgm": true,
+    "showDate": "2014-10-06"
+  },
+  "1410_30": {
+    "titleCN": "灰色的果实",
+    "titleJP": "グリザイアの果実",
+    "officalSite": "http://www.grisaia-anime.com/",
+    "showDate": "2014-10-05",
+    "weekDayJP": 0,
+    "weekDayCN": 1,
+    "timeJP": "1930",
+    "timeCN": "0000",
+    "onAirSite": [
+      "http://www.iqiyi.com/a_19rrhc0zfl.html",
+      "http://www.acfun.tv/a/aa1464838",
+      "http://www.bilibili.com/sp/灰色的果实"
+    ],
+    "newBgm": true
+  },
+  "1410_31": {
+    "titleCN": "七大罪",
+    "titleJP": "七つの大罪",
+    "officalSite": "http://www.7-taizai.net/",
+    "weekDayJP": 0,
+    "weekDayCN": 0,
+    "timeJP": "1600",
+    "timeCN": "2100",
+    "onAirSite": [
+      "http://tv.sohu.com/s2014/dhpqyz/",
+      "http://www.iqiyi.com/a_19rrhc0zl5.html",
+      "http://www.bilibili.com/sp/七大罪",
+      "http://www.acfun.tv/v/ab1464817"
+    ],
+    "newBgm": true,
+    "showDate": "2014-10-05"
+  },
+  "1410_32": {
+    "titleCN": "魔术快斗1412",
+    "titleJP": "まじっく快斗1412",
+    "officalSite": "http://www.ytv.co.jp/magickaito/",
+    "weekDayJP": 6,
+    "weekDayCN": 6,
+    "timeJP": "1630",
+    "timeCN": "1900",
+    "onAirSite": [
+      "http://v.qq.com/detail/f/fm95ukbvs36ejzw.html",
+      "http://www.youku.com/show_page/id_zeebadce421c911e4a705.html",
+      "http://www.tudou.com/albumcover/2TdJoRW10F8.html",
+      "http://www.acfun.tv/a/aa1464847",
+      "http://www.iqiyi.com/a_19rrhc0x81.html",
+      "http://tv.sohu.com/s2014/gdjd1412/",
+      "http://www.bilibili.com/sp/魔术快斗"
+    ],
+    "newBgm": true,
+    "showDate": "2014-10-04"
+  },
+  "1410_33": {
+    "titleCN": "tribecoolcrew",
+    "titleJP": "トライブクルクル",
+    "officalSite": "http://www.tribecoolcrew.net/",
+    "weekDayJP": 0,
+    "weekDayCN": 2,
+    "timeJP": "0600",
+    "timeCN": "1435",
+    "onAirSite": [
+      "http://www.acfun.tv/a/aa1464859",
+      "http://www.bilibili.com/sp/TRIBECOOLCREW",
+      "http://www.iqiyi.com/a_19rrhc0yh5.html"
+    ],
+    "newBgm": true,
+    "showDate": "2014-09-28"
+  },
+  "1410_34": {
+    "titleCN": "境界触发者",
+    "titleJP": "ワールドトリガー",
+    "officalSite": "http://www.toei-anim.co.jp/tv/wt/",
+    "weekDayJP": 0,
+    "weekDayCN": 0,
+    "timeJP": "0530",
+    "timeCN": "1100",
+    "onAirSite": [
+      "http://www.iqiyi.com/a_19rrhc0zzx.html",
+      "http://www.acfun.tv/a/aa1464845",
+      "http://www.bilibili.com/sp/境界触发者"
+    ],
+    "newBgm": true,
+    "showDate": "2014-10-05"
+  },
+  "1410_35": {
+    "titleCN": "牙狼〈GARO〉-炎之刻印-",
+    "titleJP": "牙狼〈GARO〉-炎の刻印-",
+    "officalSite": "http://garo-project.jp/ANIME/",
+    "weekDayJP": 6,
+    "weekDayCN": 6,
+    "timeJP": "0023",
+    "timeCN": "0130",
+    "onAirSite": [
+      "http://www.iqiyi.com/a_19rrhc0xnt.html",
+      "http://www.tudou.com/albumcover/gdZUtuYLZdw.html",
+      "http://www.bilibili.com/sp/牙狼%20炎之刻印",
+      "http://www.acfun.tv/a/aa1464805",
+      "http://www.youku.com/show_page/id_z7d04ee48fa7b11e3b8b7.html"
+    ],
+    "newBgm": true,
+    "showDate": "2014-10-04"
+  },
+  "1410_36": {
+    "titleCN": "银仙",
+    "titleJP": "繰繰れ！コックリさん",
+    "officalSite": "http://www.gugukoku.com/",
+    "weekDayJP": 1,
+    "weekDayCN": 1,
+    "timeJP": "0005",
+    "timeCN": "0105",
+    "onAirSite": [
+      "http://www.iqiyi.com/a_19rrhc0zdp.html",
+      "http://www.pptv.com/page/291767.html",
+      "http://www.youku.com/show_page/id_ze31f4ef6c92211e3a705.html",
+      "http://www.tudou.com/albumcover/pPuLbZdMqTY.html",
+      "http://www.acfun.tv/a/aa1464821",
+      "http://www.bilibili.com/sp/银仙"
+    ],
+    "newBgm": true,
+    "showDate": "2014-10-06"
+  },
+  "1410_37": {
+    "titleCN": "飙速宅男 2期",
+    "titleJP": "弱虫ペダル GRANDE ROAD",
+    "officalSite": "http://yowapeda.com/",
+    "weekDayJP": 2,
+    "weekDayCN": 2,
+    "timeJP": "0035",
+    "timeCN": "0135",
+    "onAirSite": [
+      "http://www.tudou.com/albumcover/0-8oH78hMeI.html",
+      "http://www.youku.com/show_page/id_za2826926df3611e3b8b7.html",
+      "http://www.bilibili.com/sp/飙速宅男#S-1337",
+      "http://www.acfun.tv/v/ab1464828"
+    ],
+    "newBgm": true,
+    "showDate": "2014-10-07"
+  },
+  "1410_38": {
+    "titleCN": "PSYCHO-PASS 2期",
+    "titleJP": "PSYCHO-PASS サイコパス 2",
+    "officalSite": "http://www.psycho-pass.com/",
+    "weekDayJP": 4,
+    "weekDayCN": 5,
+    "timeJP": "2350",
+    "timeCN": "0030",
+    "onAirSite": [
+      "http://www.letv.com/comic/10004904.html",
+      "http://www.bilibili.com/sp/PSYCHO-PASS#S-1339"
+    ],
+    "newBgm": true,
+    "showDate": "2014-10-09"
+  },
+  "1410_39": {
+    "titleCN": "记录的地平线 2期",
+    "titleJP": "ログ・ホライズン 第2シリーズ",
+    "officalSite": "http://www9.nhk.or.jp/anime/loghorizon/",
+    "weekDayJP": 6,
+    "weekDayCN": 0,
+    "timeJP": "1630",
+    "timeCN": "0100",
+    "onAirSite": [
+      "http://www.bilibili.com/sp/记录的地平线#S-1327",
+      "http://www.pptv.com/page/297514.html",
+      "http://www.iqiyi.com/a_19rrhc10bp.html",
+      "http://www.acfun.tv/v/ab1464807"
+    ],
+    "newBgm": true,
+    "showDate": "2014-10-04"
+  },
+  "1410_40": {
+    "titleCN": "四月是你的谎言",
+    "titleJP": "四月は君の嘘",
+    "officalSite": "http://www.kimiuso.jp/",
+    "weekDayJP": 5,
+    "weekDayCN": 5,
+    "timeJP": "0020",
+    "timeCN": "0150",
+    "onAirSite": [
+      "http://www.tudou.com/albumcover/vVolwaPqgHI.html",
+      "http://www.youku.com/show_page/id_z75eea0d2b24a11e38b3f.html",
+      "http://www.bilibili.com/sp/四月是你的谎言",
+      "http://www.iqiyi.com/a_19rrhbzeu5.html",
+      "http://www.acfun.tv/v/ab1464808"
+    ],
+    "newBgm": true,
+    "showDate": "2014-10-10"
+  },
+  "1410_41": {
+    "titleCN": "女朋友（仮）",
+    "titleJP": "ガールフレンド（仮）",
+    "officalSite": "http://girlfriend-kari-anime.jp/",
+    "weekDayJP": 1,
+    "weekDayCN": 1,
+    "timeJP": "0035",
+    "timeCN": "0135",
+    "onAirSite": [
+      "http://www.tudou.com/albumcover/fPpEVMRCTFc.html",
+      "http://www.youku.com/show_page/id_z5d9421503e5011e4b2ad.html",
+      "http://www.bilibili.com/sp/临时女友",
+      "http://www.letv.com/comic/10005271.html",
+      "http://www.iqiyi.com/a_19rrhbz5w5.html",
+      "http://www.pptv.com/page/296498.html",
+      "http://www.acfun.tv/a/aa1464823"
+    ],
+    "newBgm": true,
+    "showDate": "2014-10-13"
+  },
+  "1410_42": {
+    "titleCN": "七人魔法使",
+    "titleJP": "トリニティセブン",
+    "officalSite": "http://trinity-7.com/",
+    "weekDayJP": 3,
+    "weekDayCN": 3,
+    "timeJP": "0040",
+    "timeCN": "0140",
+    "onAirSite": [
+      "http://www.bilibili.com/sp/TRINITY%20SEVEN%20七人魔法使",
+      "http://www.acfun.tv/a/aa1464825",
+      "http://www.tudou.com/albumcover/8kRmJfnSOqg.html",
+      "http://www.youku.com/show_page/id_zdb2ab4f4066e11e4a705.html",
+      "http://www.iqiyi.com/a_19rrhc0yyl.html",
+      "http://www.pptv.com/page/292431.html"
+    ],
+    "newBgm": true,
+    "showDate": "2014-10-08"
+  },
+  "1410_43": {
+    "titleCN": "日常系的异能战斗",
+    "titleJP": "異能バトルは日常系のなかで",
+    "officalSite": "http://inou-anime.com/",
+    "weekDayJP": 2,
+    "weekDayCN": 2,
+    "timeJP": "0105",
+    "timeCN": "0205",
+    "onAirSite": [
+      "http://www.tudou.com/albumcover/G_nSPK6V5b0.html",
+      "http://www.youku.com/show_page/id_z358dbc7007e611e4a705.html",
+      "http://www.iqiyi.com/a_19rrhc0yyx.html",
+      "http://www.pptv.com/page/295945.html",
+      "http://www.letv.com/comic/10005151.html",
+      "http://www.bilibili.com/sp/日常系的异能战斗",
+      "http://www.acfun.tv/a/aa1464815"
+    ],
+    "newBgm": true,
+    "showDate": "2014-10-07"
+  },
+  "1410_44": {
+    "titleCN": "怪盗Joker",
+    "titleJP": "怪盗ジョーカー",
+    "officalSite": "http://s.mxtv.jp/joker/",
+    "showDate": "2014-10-06",
+    "weekDayJP": 1,
+    "weekDayCN": 1,
+    "timeJP": "1800",
+    "timeCN": "1830",
+    "onAirSite": [
+      "http://www.bilibili.com/sp/怪盗JOKER",
+      "http://www.iqiyi.com/a_19rrhc0zch.html",
+      "http://www.acfun.tv/a/aa1464855"
+    ],
+    "newBgm": true
+  },
+  "1410_45": {
+    "titleCN": "大图书馆的牧羊人",
+    "titleJP": "大図書館の羊飼い",
+    "officalSite": "http://www.daito-anime.com/",
+    "weekDayJP": 3,
+    "weekDayCN": 4,
+    "timeJP": "2330",
+    "timeCN": "0030",
+    "onAirSite": [
+      "http://www.bilibili.com/sp/大图书馆的牧羊人",
+      "http://www.tudou.com/albumcover/tQz-M8MDLYc.html",
+      "http://www.youku.com/show_page/id_z8ea489d03d8611e4a080.html",
+      "http://v.qq.com/detail/w/w9galx5d4dm0udo.html",
+      "http://www.iqiyi.com/a_19rrhbzby1.html",
+      "http://www.acfun.tv/a/aa1464842"
+    ],
+    "newBgm": true,
+    "showDate": "2014-10-08"
+  },
+  "1410_46": {
+    "titleCN": "爱・天地无用",
+    "titleJP": "愛・天地無用！",
+    "officalSite": "http://www.ai-tenchi.jp/",
+    "weekDayJP": 1,
+    "weekDayCN": 2,
+    "timeJP": "2055",
+    "timeCN": "",
+    "onAirSite": [
+      "http://www.acfun.tv/a/aa1464853",
+      "http://www.bilibili.com/sp/天地无用！#S-1338"
+    ],
+    "newBgm": true,
+    "showDate": "2014-10-06"
+  },
+  "1410_47": {
+    "titleCN": "关于完全听不懂老公在说什么的事",
+    "titleJP": "旦那が何を言っているかわからない件",
+    "officalSite": "http://www.dreamcreation.co.jp/danna/",
+    "weekDayJP": 5,
+    "weekDayCN": 5,
+    "timeJP": "0000",
+    "timeCN": "",
+    "onAirSite": [
+      "http://www.acfun.tv/a/aa1464852",
+      "http://www.bilibili.com/sp/关于完全听不懂老公在说什么的事"
+    ],
+    "newBgm": true,
+    "showDate": "2014-10-03"
+  },
+  "1410_48": {
+    "titleCN": "Sword Art Online Ⅱ",
+    "titleJP": "ソードアート・オンラインⅡ",
+    "officalSite": "http://www.swordart-online.net/",
+    "weekDayJP": 6,
+    "weekDayCN": 6,
+    "timeJP": "2230",
+    "timeCN": "2235",
+    "onAirSite": [
+      "http://www.letv.com/comic/10001115.html",
+      "http://www.bilibili.com/sp/刀剑神域"
+    ],
+    "newBgm": false,
+    "showDate": "2014-07-05"
+  },
+  "1410_49": {
+    "titleCN": "白银的意志 安格弗伦",
+    "titleJP": "白銀の意思 アルジェヴォルン",
+    "officalSite": "http://www.argevollen.com/",
+    "weekDayJP": 4,
+    "weekDayCN": 4,
+    "timeJP": "2200",
+    "timeCN": "2300",
+    "onAirSite": [
+      "http://www.iqiyi.com/a_19rrgif3l1.html",
+      "http://www.acfun.tv/a/aa2649",
+      "http://www.bilibili.com/sp/白银的意志%20ARGEVOLLEN"
+    ],
+    "newBgm": false,
+    "showDate": "2014-07-03"
+  },
+  "1410_50": {
+    "titleCN": "钻石王牌",
+    "titleJP": "ダイヤのA",
+    "officalSite": "http://diaace.com/",
+    "weekDayJP": 0,
+    "weekDayCN": 0,
+    "timeJP": "0730",
+    "timeCN": "1030",
+    "onAirSite": [
+      "http://www.iqiyi.com/a_19rrgjao65.html",
+      "http://www.bilibili.com/sp/钻石王牌",
+      "http://www.acfun.tv/v/ab1465812"
+    ],
+    "newBgm": false,
+    "showDate": "2013-10-06"
+  },
+  "1410_51": {
+    "titleCN": "前进吧！登山少女 2期",
+    "titleJP": "ヤマノススメ セカンドシーズン",
+    "officalSite": "http://www.yamanosusume.com/",
+    "weekDayJP": 3,
+    "weekDayCN": 4,
+    "timeJP": "2100",
+    "timeCN": "0030",
+    "onAirSite": [
+      "http://tv.sohu.com/s2014/qjbdssn2/",
+      "http://www.acfun.tv/a/aa2680",
+      "http://www.bilibili.com/sp/向山进发"
+    ],
+    "newBgm": false,
+    "showDate": "2014-07-09"
+  },
+  "1410_52": {
+    "titleCN": "美少女战士 Crystal",
+    "titleJP": "美少女戦士セーラームーンCrystal",
+    "officalSite": "http://sailormoon-official.com/animation/",
+    "weekDayJP": 6,
+    "weekDayCN": 6,
+    "timeJP": "1800",
+    "timeCN": "2000",
+    "onAirSite": [
+      "http://tv.sohu.com/s2014/msnzsc/",
+      "http://www.bilibili.com/sp/美少女战士",
+      "http://www.acfun.tv/a/aa2659"
+    ],
+    "newBgm": true,
+    "comment": "两周一话",
+    "showDate": "2014-07-05"
+  },
+  "1410_53": {
+    "titleCN": "Happiness Charge Precure",
+    "titleJP": "ハピネスチャージプリキュア！",
+    "officalSite": "http://www.toei-anim.co.jp/tv/happinesscharge_precure/",
+    "weekDayJP": 0,
+    "weekDayCN": 0,
+    "timeJP": "0730",
+    "timeCN": "",
+    "onAirSite": [
+      "http://www.bilibili.com/sp/光之美少女",
+      "http://www.acfun.tv/a/aa254"
+    ],
+    "newBgm": false,
+    "showDate": "2014-02-02"
+  },
+  "1410_54": {
+    "titleCN": "口袋妖怪 XY",
+    "titleJP": "ポケットモンスター XY",
+    "officalSite": "http://www.tv-tokyo.co.jp/anime/pokemon_xy/",
+    "weekDayJP": 4,
+    "weekDayCN": 5,
+    "timeJP": "1800",
+    "timeCN": "",
+    "onAirSite": [
+      "http://www.bilibili.com/sp/宠物小精灵",
+      "http://www.acfun.tv/a/aa109"
+    ],
+    "newBgm": false,
+    "showDate": "2013-10-17"
+  },
+  "1410_55": {
+    "titleCN": "妖怪手表",
+    "titleJP": "妖怪ウォッチ",
+    "officalSite": "http://www.tv-tokyo.co.jp/anime/youkai-watch/",
+    "weekDayJP": 5,
+    "weekDayCN": 6,
+    "timeJP": "1730",
+    "timeCN": "",
+    "onAirSite": [
+      "http://www.bilibili.com/sp/妖怪手表",
+      "http://www.acfun.tv/a/aa220"
+    ],
+    "newBgm": false,
+    "showDate": "2014-01-08"
+  },
+  "1410_56": {
+    "titleCN": "魔神之骨",
+    "titleJP": "マジンボーン",
+    "officalSite": "http://www.toei-anim.co.jp/tv/majinbone/",
+    "weekDayJP": 2,
+    "weekDayCN": 3,
+    "timeJP": "1730",
+    "timeCN": "",
+    "onAirSite": [
+      "http://tv.sohu.com/s2014/majinbone/",
+      "http://www.bilibili.com/sp/魔神之骨",
+      "http://www.acfun.tv/a/aa1175"
+    ],
+    "newBgm": false,
+    "showDate": "2014-04-01"
+  },
+  "1410_57": {
+    "titleCN": "展开骑士",
+    "titleJP": "テンカイナイト",
+    "officalSite": "http://www.tv-tokyo.co.jp/anime/tenkaiknight/",
+    "weekDayJP": 6,
+    "weekDayCN": 0,
+    "timeJP": "0800",
+    "timeCN": "",
+    "onAirSite": [
+      "http://www.bilibili.com/sp/展开骑士"
+    ],
+    "newBgm": false,
+    "showDate": "2014-04-05"
+  },
+  "1410_58": {
+    "titleCN": "PriPara 美妙旋律",
+    "titleJP": "プリパラ",
+    "officalSite": "http://www.tv-tokyo.co.jp/anime/pripara/index2.html",
+    "weekDayJP": 6,
+    "weekDayCN": 6,
+    "timeJP": "0900",
+    "timeCN": "",
+    "onAirSite": [
+      "http://www.acfun.tv/a/aa2658",
+      "http://www.bilibili.com/sp/美妙旋律%20彩虹之梦"
+    ],
+    "newBgm": false,
+    "showDate": "2014-07-05"
+  },
+  "1410_59": {
+    "titleCN": "复仇者联盟：光盘战争",
+    "titleJP": "ディスク・ウォーズ：アベンジャーズ",
+    "officalSite": "http://www.tv-tokyo.co.jp/anime/dw_avengers/",
+    "weekDayJP": 3,
+    "weekDayCN": 3,
+    "timeJP": "1730",
+    "timeCN": "2300",
+    "onAirSite": [
+      "http://www.bilibili.com/sp/复仇者联盟#S-889",
+      "http://www.acfun.tv/a/aa1241",
+      "http://www.iqiyi.com/a_19rrhc2yph.html"
+    ],
+    "newBgm": false,
+    "showDate": "2014-04-02"
+  },
+  "1410_60": {
+    "titleCN": "卡片战斗先导者 双斗盟友篇",
+    "titleJP": "カードファイト!! ヴァンガード　レギオンメイト編",
+    "officalSite": "http://www.tv-tokyo.co.jp/anime/cf-vanguard-lm/",
+    "weekDayJP": 0,
+    "weekDayCN": 0,
+    "timeJP": "0900",
+    "timeCN": "",
+    "onAirSite": [
+      "http://www.bilibili.com/sp/卡片战斗先导者",
+      "http://www.acfun.tv/a/aa2297"
+    ],
+    "newBgm": false,
+    "showDate": "2014-03-09"
+  },
+  "1410_61": {
+    "titleCN": "妖精的尾巴 2期",
+    "titleJP": "FAIRY TAIL 新シリーズ",
+    "officalSite": "http://www.fairytail-tv.com/",
+    "weekDayJP": 6,
+    "weekDayCN": 6,
+    "timeJP": "0930",
+    "timeCN": "1400",
+    "onAirSite": [
+      "http://tv.sohu.com/s2011/yjdwb/",
+      "http://www.bilibili.com/sp/妖精的尾巴",
+      "http://www.acfun.tv/a/aa1214#group=1"
+    ],
+    "newBgm": false,
+    "showDate": "2014-04-05"
+  },
+  "1410_62": {
+    "titleCN": "龙珠改 魔人布欧篇",
+    "titleJP": "ドラゴンボール改（魔人ブウ編）",
+    "officalSite": "http://www.toei-anim.co.jp/tv/dragon_kai/",
+    "weekDayJP": 0,
+    "weekDayCN": 0,
+    "timeJP": "0800",
+    "timeCN": "",
+    "onAirSite": [
+      "http://tv.sohu.com/s2014/lzg2",
+      "http://www.bilibili.com/sp/龙珠#S-867",
+      "http://www.acfun.tv/a/aa1243"
+    ],
+    "newBgm": false,
+    "showDate": "2014-04-06"
+  },
+  "1410_63": {
+    "titleCN": "Lady 宝石宠物",
+    "titleJP": "レディ ジュエルペット",
+    "officalSite": "http://www.tv-tokyo.co.jp/anime/jewelpet6/",
+    "weekDayJP": 6,
+    "weekDayCN": 6,
+    "timeJP": "0730",
+    "timeCN": "",
+    "onAirSite": [
+      "http://www.bilibili.com/sp/宝石宠物#S-894",
+      "http://www.acfun.tv/a/aa1263"
+    ],
+    "newBgm": false,
+    "showDate": "2014-04-05"
+  },
+  "1410_64": {
+    "titleCN": "斩·赤红之瞳",
+    "titleJP": "アカメが斬る！",
+    "officalSite": "http://akame.tv/",
+    "weekDayJP": 0,
+    "weekDayCN": 1,
+    "timeJP": "2300",
+    "timeCN": "0000",
+    "onAirSite": [
+      "http://www.iqiyi.com/a_19rrgif6md.html",
+      "http://tv.sohu.com/s2014/zchzt/",
+      "http://www.bilibili.com/sp/斩·赤红之瞳！",
+      "http://www.acfun.tv/a/aa2667",
+      "http://www.youku.com/show_page/id_ze2cbdefaa75911e38b3f.html",
+      "http://www.tudou.com/albumcover/NBDgX_W2aJk.html"
+    ],
+    "newBgm": false,
+    "showDate": "2014-07-06"
+  },
+  "1410_65": {
+    "titleCN": "Buddy Complex 完结篇",
+    "titleJP": "バディ・コンプレックス 完結編 -あの空に還る未来で-",
+    "officalSite": "http://buddy-complex.jp/",
+    "weekDayJP": 1,
+    "weekDayCN": 3,
+    "timeJP": "2300",
+    "timeCN": "0000",
+    "onAirSite": [
+      "http://www.iqiyi.com/a_19rrhc1759.html",
+      "http://tv.sohu.com/s2014/buddycomplex/",
+      "http://data.movie.kankan.com/movie/75159",
+      "http://www.bilibili.com/sp/BUDDY%20COMPLEX",
+      "http://www.acfun.tv/a/aa1464854"
+    ],
+    "newBgm": true,
+    "comment": "完结篇 共两话<br>前后篇即14-15话",
+    "showDate": "2014-09-29"
+  },
+  "1410_66": {
+    "titleCN": "凭物语",
+    "titleJP": "憑物語",
+    "officalSite": "http://www.monogatari-series.com/tsukimonogatari/",
+    "weekDayJP": 3,
+    "weekDayCN": 4,
+    "timeJP": "2100",
+    "timeCN": "0900",
+    "onAirSite": [
+      "http://tv.sohu.com/s2014/dhppwy/"
+    ],
+    "newBgm": true,
+    "comment": "全四话连续播放",
+    "showDate": "2014-12-31"
+  }
+}

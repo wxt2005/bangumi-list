@@ -1,0 +1,69 @@
+var Dispatcher = require('../dispatcher/Dispatcher');
+
+var Actions = {
+    updateConfig: function(newConfig){
+        Dispatcher.dispatch({
+          actionType: 'CONFIG_UPDATE',
+          newConfig: newConfig
+        });
+    },
+    resetConfig: function(){
+        Dispatcher.dispatch({
+          actionType: 'CONFIG_RESET'
+        });
+    },
+    saveConfig: function(){
+        Dispatcher.dispatch({
+          actionType: 'CONFIG_SAVE'
+        });
+    },
+    toggleAllSites: function(toggleFlag){
+        Dispatcher.dispatch({
+            actionType: 'SITES_TOGGLE_ALL',
+            toggleFlag: toggleFlag
+        });
+    },
+    toggleSite: function(domain, toggleFlag){
+        Dispatcher.dispatch({
+            actionType: 'TOGGLE_SITE',
+            toggleFlag: toggleFlag,
+            domain: domain
+        });
+    },
+    resetSites: function(){
+        Dispatcher.dispatch({
+            actionType: 'SITES_RESET'
+        });
+    },
+    saveSites: function(){
+        Dispatcher.dispatch({
+            actionType: 'SITES_SAVE'
+        });
+    },
+    toggleItem: function(id, toggleFlag){
+        Dispatcher.dispatch({
+            actionType: 'TOGGLE_ITEM',
+            toggleFlag: toggleFlag,
+            id: id
+        });
+    },
+    resetData: function(){
+        Dispatcher.dispatch({
+            actionType: 'DATA_RESET'
+        });
+    },
+    saveData: function(data){
+        Dispatcher.dispatch({
+            actionType: 'DATA_SAVE',
+            data: data
+        });
+    },
+    toggleAllItems: function(toggleFlag){
+        Dispatcher.dispatch({
+            actionType: 'DATA_TOGGLE_ALL',
+            toggleFlag: toggleFlag
+        });
+    }
+};
+
+module.exports = Actions;
