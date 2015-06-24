@@ -447,6 +447,8 @@ header {
 
         .title {
             // text-indent: 16px;
+            box-sizing: border-box;
+            padding-left: 16px;
         }
 
         .sites {
@@ -523,7 +525,8 @@ header {
 
         .data-list {
             box-sizing: border-box;
-            padding: 2% 2% 0 2%;
+            padding: 1%;
+            padding-bottom: 0;
             border-left: 1px solid @border-gray;
             background: #fff;
             // 高度自适应
@@ -539,7 +542,7 @@ header {
             }
 
             & > ul > li {
-                margin-bottom: 2%;
+                margin-bottom: 1%;
             }
 
             li {
@@ -596,7 +599,7 @@ header {
                 }
 
                 & > .title {
-                    // padding-left: 16px;
+                    padding-left: 16px;
 
                     span {
                         cursor: pointer;
@@ -1066,6 +1069,7 @@ header {
             .title {
                 cursor: pointer;
                 width: 48%;
+                padding-left: 4px;
 
                 label {
                     display: inline;
@@ -1240,7 +1244,7 @@ header {
 
                     .title {
                         width: 53%;
-                        padding-left: 10%;
+                        padding-left: 4px;
 
                         span {
                             &:after {
