@@ -728,6 +728,14 @@ header {
                 .item-main:before {
                     &:extend(.flag);
                     background: @main-green;
+
+                    @media (min-width: @min-width){
+                        content: "新";
+                        height: 18px;
+                        width: 55px;
+                        left: -15px;
+                        top: 3px;
+                    }
                 }
             }
 
