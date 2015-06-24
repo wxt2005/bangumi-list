@@ -307,6 +307,26 @@ header {
                 width: 100%;
                 box-sizing: border-box;
                 padding: 0 40px 0 5px;
+                .transition(background-color 0.2s ease-in-out);
+
+                &::-webkit-input-placeholder {
+                    .transition(color 0.2s ease-in-out);
+                }
+
+                &::-moz-placeholder {
+                    .transition(color 0.2s ease-in-out);
+                }
+
+                &:focus {
+                    background: lighten(@board-green, 2%);
+                    &::-webkit-input-placeholder {
+                        color: transparent; 
+                    }
+
+                    &::-moz-placeholder {
+                        color: transparent; 
+                    }
+                }
             }
 
             .search-btn {
