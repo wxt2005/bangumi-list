@@ -35,7 +35,11 @@ var ItemSites = React.createClass({
             }.bind(this)).value();
 
         if(!siteItems.length){
-            siteItems.push(<li key={0}><span className="empty">暂无</span></li>);
+            if(this.props.sites && this.props.sites.length){
+                siteItems.push(<li key={0}><span className="empty">过滤</span></li>);
+            }else{
+                siteItems.push(<li key={0}><span className="empty">暂无</span></li>);
+            }
         }
 
         return (
