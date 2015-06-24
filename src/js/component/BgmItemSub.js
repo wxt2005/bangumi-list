@@ -85,17 +85,17 @@ var BgmItemSub = React.createClass({
                         <span>放送日期：</span>
                         {data.showDate}
                     </p>
-                    <p className="hide-btn-box">
-                        <input
-                            type="checkbox"
-                            checked={this.state.hideCheck}
-                            onChange={this.handleHideClick}
-                            id={'hide_' + data.id}
-                        />
-                        <label htmlFor={'hide_' + data.id}>隐藏</label>
-                    </p>
+                    {comment}
                 </div>
-                {comment}
+                <div className="hide-btn-box">
+                    <input
+                        type="checkbox"
+                        checked={this.state.hideCheck}
+                        onChange={this.handleHideClick}
+                        id={'hide_' + data.id}
+                    />
+                    <label htmlFor={'hide_' + data.id}>隐藏</label>
+                </div>
             </div>
         );
     }
