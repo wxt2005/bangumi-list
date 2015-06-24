@@ -2,6 +2,8 @@ var _     = require('../lib/lodash.custom'),
     React = require('react'),
     Utils = require('../mod/Utils');
 
+var now = new Date();
+
 var TableSelector = React.createClass({
     propTypes: {
         onTabChange: React.PropTypes.func.isRequired,
@@ -44,7 +46,7 @@ var TableSelector = React.createClass({
                             data-tab={tab.key}
                             data-name={tab.name}
                             onClick={_self._handleTabClick}
-                        >{tab.name}</a>
+                        >{now.getDay() === tab.key ? '今天' : tab.name}</a>
                     </li>
                 );
             });
