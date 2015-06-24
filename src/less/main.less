@@ -569,6 +569,7 @@ header {
                 overflow: hidden;
                 background: @board-green;
                 border: 1px solid @border-green;
+                padding: 1% 0;
 
                 .fs(16);
                 .transition(background-color 0.3s ease);
@@ -595,7 +596,7 @@ header {
 
                 & > div {
                     box-sizing: border-box;
-                    padding: 1%;
+                    padding: 0 1%;
                 }
 
                 & > .title {
@@ -867,8 +868,11 @@ header {
                             line-height: 22px;
                             vertical-align: top;
 
-                            &::-webkit-inner-spin-button {
+                            -moz-appearance:textfield;
+                            &::-webkit-inner-spin-button,
+                            &::-webkit-outer-spin-button {
                                 -webkit-appearance: none;
+                                margin: 0;
                             }
                         }
                     }
