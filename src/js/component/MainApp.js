@@ -54,7 +54,7 @@ var App = React.createClass({
                     year={state.yearNow}
                 />
                 <footer>
-                    <p className="inner">©2015&nbsp;&nbsp;番组放送</p>
+                <p className="inner">©2014 - {state.yearNow}&nbsp;&nbsp;番组放送 | <a href="https://github.com/wxt2005/bangumi-list" title="欢迎提出宝贵的意见">Github 项目地址</a></p>
                 </footer>
             </div>
         );
