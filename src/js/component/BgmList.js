@@ -60,6 +60,7 @@ var BgmList = React.createClass({
     },
     render: function(){
         var sortArr = (+this.props.tab === 7 ? ['weekDayJP', 'timeJP'] : ['weekDayCN', 'timeCN']),
+            showCount = 0,
             listItems = _(this.props.items)
             .map(function(item, id){
                 item.id = id;
@@ -76,6 +77,8 @@ var BgmList = React.createClass({
 
                 if(!this._decideShow(item)){
                     className += ' hide';
+                }else{
+                    showCount++;
                 }
 
                 if(item.hide){
@@ -92,6 +95,7 @@ var BgmList = React.createClass({
                     />
                 );
             }.bind(this)).value();
+            listItems.push(<li className={"empty-item" + (showCount <= 6 ? '' : ' hide')} key="empty"></li>);
         return (
             <div className="table-right data-list">
                 <ul>{listItems}</ul>

@@ -87,7 +87,6 @@ body {
 
 .flag {
     display: block;
-    .fs(10);
     color: #fff;
     .transform(rotate(-45deg));
     position: absolute;
@@ -482,7 +481,7 @@ header {
         overflow: hidden;
 
         .table-right {
-            min-height: 445px;
+            // min-height: 445px;
         }
 
         .selector {
@@ -508,7 +507,8 @@ header {
                     right: -1px;
                     float: right;
                     width: 90%;
-                    padding: 4px 0 0 8px;
+                    padding: 6px 0 6px 8px;
+                    line-height: 1;
                     border: 1px solid @bg-gray;
                     border-right: none;
                     .transition(all 0.5s ease);
@@ -552,6 +552,7 @@ header {
             // 高度自适应
             // padding-bottom: 9999px;
             // margin-bottom: -9999px;
+            
 
             .hide {
                 display: none;
@@ -561,8 +562,37 @@ header {
                 // padding-bottom: 1px;
             }
 
-            & > ul > li {
-                margin-bottom: 1%;
+            & > ul {
+                background: #fff;
+                overflow: hidden;
+                min-height: 440px; 
+
+                display: -webkit-box;
+                display: -webkit-flex;
+                display: -ms-flexbox;
+                display: flex;
+
+                -webkit-flex-direction: column;
+                -ms-flex-direction: column;
+                flex-direction: column;
+
+                -webkit-align-items: flex-start;
+                align-items: flex-start;
+
+                & > li {
+                    margin-bottom: 1%;
+                    width: 100%;
+                }
+
+                .empty-item {
+                    -webkit-flex: 1;
+                    -ms-flex: 1;
+                    flex: 1;
+
+                    background: transparent url("../../img/table-bg.png") no-repeat;
+                    background-position: 50% 50%;
+                    background-size: auto 90%;
+                }
             }
 
             li {
@@ -606,14 +636,16 @@ header {
                     cursor: pointer;
                 }
 
-                display: -ms-flexbox;
+                display: -webkit-box;
                 display: -webkit-flex;
+                display: -ms-flexbox;
                 display: flex;
 
                 -ms-flex-align: center;
                 -webkit-align-items: center;
                 -webkit-box-align: center;
 
+                -webkit-align-items: center;
                 align-items: center;
 
                 & > div {
@@ -628,6 +660,7 @@ header {
                         cursor: pointer;
                         position: relative;
                         display: inline-block;
+                        .transition(color 0.3s ease);
 
                         &:after {
                             content: " ";
@@ -737,8 +770,8 @@ header {
                     line-height: 1.8;
                     .fs(14);
 
-                    span {
-                        color: @font-light;
+                    .sub-title {
+                        color: lighten(@font-light, 20%);
                     }
                 }
 
@@ -1157,11 +1190,11 @@ header {
 
         .table-container {
             .table-right {
-                min-height: 655px;
+                // min-height: 655px;
             }
 
             .selector {
-                z-index: 10;
+                z-index: 15;
                 position: absolute;
                 top: 10px;
                 left: 34%;
@@ -1206,7 +1239,7 @@ header {
                         border: none;
                         width: 100%;
                         right: 0;
-                        padding: 0;
+                        padding: 4px 0;
                         float: none;
                         display: block;
                     }
@@ -1245,11 +1278,20 @@ header {
                     max-height: none;
                 }
 
-                & > ul > li {
-                    overflow-x: scroll;
-                    -webkit-overflow-scrolling: touch;
-                    overflow-scrolling: touch;
-                    width: 100%;
+                & > ul {
+                    min-height: 650px;
+
+                    & > li {
+                        overflow-x: scroll;
+                        -webkit-overflow-scrolling: touch;
+                        overflow-scrolling: touch;
+                        width: 100%;
+
+                    }
+
+                    .empty-item {
+                        background-size: auto 50%;
+                    }
                 }
 
                 .item-scroller {
@@ -1257,8 +1299,9 @@ header {
                     overflow: hidden;
                     box-sizing: border-box;
 
-                    display: -ms-flexbox;
+                    display: -webkit-box;
                     display: -webkit-flex;
+                    display: -ms-flexbox;
                     display: flex;
 
                     -ms-flex-align: center;
@@ -1308,6 +1351,11 @@ header {
                         line-height: 1.2;
                     }
 
+                    .time-cn {
+                        clear: right;
+                        margin: 1% 0 2%;
+                    }
+
                     .sites {
                         float: left;
                         width: 100%;
@@ -1333,6 +1381,7 @@ header {
                     max-height: none;
                     border: 1px solid #f4f3f0;
                     border-radius: 0;
+                    height: auto;
 
                     p {
                         .fs(12);
@@ -1350,10 +1399,11 @@ header {
                     .sub-right {
                         padding-left: 0;
                         margin-top: 0;
+                    }
 
-                        .hide-btn-box {
-                            display: none;
-                        }
+                    .hide-btn-box {
+                        line-height: 1.8;
+                        display: none;
                     }
                 }
             }

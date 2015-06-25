@@ -58,7 +58,7 @@ var BgmItemSub = React.createClass({
     },
     render: function(){
         var data = this.props.data,
-            comment = data.comment ? <p><span>备注：</span>{data.comment}</p> : <p></p>,
+            comment = data.comment ? <p><span className="sub-title">备注：</span>{data.comment}</p> : <p></p>,
             bangumi = data.bgmId ? <a href={'http://bangumi.tv/subject/' + data.bgmId} target={this.props.disableNewTab ? '_self' : '_blank'}>Bangumi页面</a> : '',
             downloadSites = this.getDownloadSites(data);
 
@@ -66,7 +66,7 @@ var BgmItemSub = React.createClass({
             <div className="item-sub">
                 <div className="sub-left">
                     <p className="sub-links">
-                        <span>链接：</span>
+                        <span className="sub-title">链接：</span>
                         <a
                             href={data.officalSite}
                             target={this.props.disableNewTab ? '_self' : '_blank'}
@@ -76,13 +76,13 @@ var BgmItemSub = React.createClass({
                         {bangumi}
                     </p>
                     <p className="sub-links">
-                        <span>下载：</span>
+                        <span className="sub-title">下载：</span>
                         {downloadSites}
                     </p>
                 </div>
                 <div className="sub-right">
                     <p>
-                        <span>放送日期：</span>
+                        <span className="sub-title">放送日期：</span>
                         {data.showDate}
                     </p>
                     {comment}
