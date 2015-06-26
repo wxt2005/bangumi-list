@@ -1096,6 +1096,10 @@ header {
     }
 
     @media (max-width: @min-width) {
+        ::-webkit-scrollbar {
+            display: none;
+        }
+
         a:hover {
             color: inherit !important;
         }
@@ -1309,6 +1313,8 @@ header {
                     -webkit-box-align: center;
 
                     align-items: center;
+
+
                 }
 
                 .item-main,
