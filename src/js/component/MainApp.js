@@ -66,7 +66,7 @@ function init(){
 
     React.render(
         <App />,
-        document.body
+        document.getElementById('main')
     );
 }
 
