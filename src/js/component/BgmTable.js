@@ -18,6 +18,7 @@ var BgmTable = React.createClass({
         });
     },
     togglePref: function(e){
+        e.preventDefault();
         this.setState({
             prefShow: !this.state.prefShow
         });

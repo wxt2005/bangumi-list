@@ -183,7 +183,7 @@
             e.preventDefault();
             Actions.saveConfig();
             Actions.saveSites();
-            this.props.toggleHandler();
+            this.props.toggleHandler(e);
         },
         _handleReset: function(e){
             e.preventDefault();

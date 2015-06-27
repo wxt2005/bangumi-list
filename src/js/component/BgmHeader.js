@@ -54,11 +54,13 @@ var ArchiveSelector = React.createClass({
         document.removeEventListener("click", this.hideAll);
     },
     _handleMainClick: function(e){
+        e.preventDefault();
         e.nativeEvent.stopImmediatePropagation();
         this.setState({mainShow: !this.state.mainShow});
     },
     _handleSubClick: function(e){
         var subid = +e.target.getAttribute('data-subid');
+        e.preventDefault();
         e.nativeEvent.stopImmediatePropagation();
         this.setState({subShow: subid});
     },
