@@ -13,7 +13,7 @@ module.exports = {
         ]
     },
     output: {
-        path: './dist/js',
+        path: './build/js',
         filename: process.env.NODE_ENV === 'production' ? 'main.[chunkhash].js': 'main.js',
         sourceMapFilename: '[file].map',
         publicPath: process.env.NODE_ENV === 'production' ? 'dist/js/' : 'http://localhost:8090/assets/'
@@ -43,7 +43,7 @@ module.exports = {
     plugins: [
         new HtmlWebpackPlugin({
             template: 'template.html',
-            inject: 'body',
+            inject: false,
             filename: '../../index.html'
         }),
         new webpack.optimize.CommonsChunkPlugin({

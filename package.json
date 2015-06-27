@@ -8,9 +8,10 @@
   ],
   "scripts": {
     "start": "npm run serve | npm run dev",
-    "deploy": "npm run clean:dist && NODE_ENV=production webpack -p",
+    "deploy": "NODE_ENV=production webpack -p && npm run clean:dist && npm run rename:build",
     "serve": "http-server -p 8080",
     "clean:dist": "rm -rf dist",
+    "rename:build": "mv build/ dist/",
     "dev": "webpack-dev-server --progress --colors --hot --port 8090 --host 0.0.0.0",
     "lodash": "lodash include=isEmpty,size,map,each,chain,sortByAll,sortBy,value,filter,assign,merge,every,forIn exports=node -d -o src/js/lib/lodash.custom.js"
   },

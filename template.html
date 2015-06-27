@@ -9,8 +9,14 @@
     <meta name="keywords" content="番组放送, 新番, 动画, 动漫, 正版">
     <meta name="author" content="@wxt2005">
     <title>番组放送</title>
+    {% for (var css in o.htmlWebpackPlugin.files.css) { %}
+    <link href="{%=o.htmlWebpackPlugin.files.css[css] %}" rel="stylesheet">
+    {% } %}
 </head>
 <body>
     <div id="main"></div>
+    {% for (var chunk in o.htmlWebpackPlugin.files.chunks) { %}
+    <script src="{%=o.htmlWebpackPlugin.files.chunks[chunk].entry %}"></script>
+    {% } %}
 </body>
 </html>
