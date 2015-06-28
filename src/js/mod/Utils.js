@@ -126,7 +126,7 @@ function classList(obj){
  */
 function hasOnair(dateStr, timeStr) {
     var now = new Date(),
-        showDate = new Date(dateStr + ' ' + timeStr.slice(0, 2) + ':' + timeStr.slice(2) + ' GMT+0800 (CST)');
+        showDate = new Date(dateStr.replace(/-/g, '/') + ' ' + timeStr.slice(0, 2) + ':' + timeStr.slice(2) + ' GMT+0800 (CST)');
 
     return now >= showDate;
 }
