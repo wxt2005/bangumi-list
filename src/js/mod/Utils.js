@@ -106,15 +106,15 @@ function getDomain(url){
  */
 function classList(obj){
     var className = '',
-        result = '';
+        result = [];
 
     for(className in obj){
         if(obj[className] === true){
-            result += ' ' + className;
+            result.push(className);
         }
     }
 
-    return result.trim();
+    return result.join(' ');
 }
 
 /**

@@ -10,13 +10,14 @@ var _           = require('../lib/lodash.custom'),
 
 var BgmList = React.createClass({
     mixins: [
-            Mixins.configMixin,
-            Mixins.sitesMixin
-        ],
+        Mixins.configMixin,
+        Mixins.sitesMixin
+    ],
     propTypes: {
         items: React.PropTypes.object,
         keyword: React.PropTypes.string,
-        isHistory: React.PropTypes.bool
+        isHistory: React.PropTypes.bool,
+        tab: React.PropTypes.number
     },
     getInitialState: function(){
         return {
@@ -60,53 +61,45 @@ var BgmList = React.createClass({
         return true;
     },
     render: function(){
-        var sortArr = (+this.props.tab === 7 ? ['weekDayJP', 'timeJP'] : ['weekDayCN', 'timeCN']),
-            showCount = 0,
+        var sortArr = (this.props.tab === 7 ? // 如果tab为全部，则以日本时间排序。否则以大陆时间排序
+                ['weekDayJP', 'timeJP'] : ['weekDayCN', 'timeCN']),
             listItems = _(this.props.items)
-            .map(function(item, id){
-                item.id = id;
-                return item;
-            })
-            .sortByAll(sortArr)
-            .map(function(item, i){
-                var className = '',
-                    tab = this.props.tab;
+                // 过滤掉不显示的番组
+                .filter(function(item, id){
+                    return this._decideShow(item);
+                }.bind(this))
+                // 复制 id，后面要用到，没想到好的办法
+                .map(function(item, id){
+                    item.id = id;
+                    return item;
+                })
+                // 排序
+                .sortByAll(sortArr)
+                // 生成列表
+                .map(function(item, i){
+                    var className = Utils.classList({
+                        'new': item.newBgm, // 新番
+                        'data-hide': item.hide, // 用户隐藏
+                        'data-highlight': item.highlight, // 用户关注
+                        'data-not-onair': !Utils.hasOnair(item.showDate, item.timeJP) // 还未放送
+                    });
 
-                if(item.newBgm){
-                    className += ' new';
-                }
+                    return (
+                        <BgmListItem
+                            className={className}
+                            data={item}
+                            key={item.id}
+                            config={this.state.config}
+                            supportSites={this.state.supportSites}
+                            isHistory={this.props.isHistory}
+                        />
+                    );
+                }.bind(this)).value();
 
-                if(!Utils.hasOnair(item.showDate, item.timeJP)){
-                    className += ' data-not-onair';
-                }
-
-                if(!this._decideShow(item)){
-                    className += ' hide';
-                }else{
-                    showCount++;
-                }
-
-                if(item.hide){
-                    className += ' data-hide';
-                }
-
-                if(item.highlight){
-                    className += ' data-highlight';
-                }
-
-
-                return (
-                    <BgmListItem
-                        className={className}
-                        data={item}
-                        key={item.id}
-                        config={this.state.config}
-                        supportSites={this.state.supportSites}
-                        isHistory={this.props.isHistory}
-                    />
-                );
-            }.bind(this)).value();
-            listItems.push(<li className={"empty-item" + (showCount <= 4 ? '' : ' hide')} key="empty"></li>);
+            // 如果可显示的番组数小于等于4，显示一个图片占位
+            if(listItems.length <= 4){
+                listItems.push(<li className="empty-item" key="empty"></li>);
+            }
         return (
             <div className="table-right data-list">
                 <ul>{listItems}</ul>
