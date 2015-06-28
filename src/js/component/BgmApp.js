@@ -40,8 +40,9 @@ var BgmApp = React.createClass({
                         state = {};
                     data.path = nextProps.currentArchive.path;
                     data.version = nextProps.currentArchive.version;
-                    data.items = response;
-                    // state = {data: data};
+                    data.items = _.forIn(response, function(item, id){
+                        item.id = id;
+                    });
 
                     if(this.initUrl === nextProps.currentArchive.path){
                         state.tab = this.state.config.noAutoSwitch ? 7 : now.getDay();
