@@ -99,7 +99,7 @@ var BgmList = React.createClass({
                     />
                 );
             }.bind(this)).value();
-            listItems.push(<li className={"empty-item" + (showCount <= 6 ? '' : ' hide')} key="empty"></li>);
+            listItems.push(<li className={"empty-item" + (showCount <= 4 ? '' : ' hide')} key="empty"></li>);
         return (
             <div className="table-right data-list">
                 <ul>{listItems}</ul>
