@@ -32,8 +32,11 @@
             "4": {
                 "path": "json/bangumi-1504.json",
                 "version": 2015062403
+            },
+            "7": {
+                "path": "json/bangumi-1507.json",
+                "version": 2015062801
             }
         }
     }
 }
-
