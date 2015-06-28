@@ -64,15 +64,15 @@ var BgmList = React.createClass({
         var sortArr = (this.props.tab === 7 ? // 如果tab为全部，则以日本时间排序。否则以大陆时间排序
                 ['weekDayJP', 'timeJP'] : ['weekDayCN', 'timeCN']),
             listItems = _(this.props.items)
-                // 过滤掉不显示的番组
-                .filter(function(item, id){
-                    return this._decideShow(item);
-                }.bind(this))
                 // 复制 id，后面要用到，没想到好的办法
                 .map(function(item, id){
                     item.id = id;
                     return item;
                 })
+                // 过滤掉不显示的番组
+                .filter(function(item, id){
+                    return this._decideShow(item);
+                }.bind(this))
                 // 排序
                 .sortByAll(sortArr)
                 // 生成列表
