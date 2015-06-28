@@ -16,6 +16,7 @@ var BgmApp = React.createClass({
         return {
             data: dataStore.getData(),
             tab: config.noAutoSwitch ? 7 : now.getDay(),
+            isHistory: false,
             config: config,
             queryText: ''
         };
@@ -46,9 +47,11 @@ var BgmApp = React.createClass({
                         state.tab = this.state.config.noAutoSwitch ? 7 : now.getDay();
                         Actions.saveData(data);
                         state.data = dataStore.getData();
+                        state.isHistory = false;
                     }else{
                         state.tab = 7;
                         state.data = data;
+                        state.isHistory = true;
                     }
 
                     this.setState(state);
@@ -100,6 +103,7 @@ var BgmApp = React.createClass({
                 <BgmTable
                     data={this.state.data.items}
                     tab={this.state.tab}
+                    isHistory={this.state.isHistory}
                     handleTabChange={this.handleTabChange}
                     keyword={this.state.queryText}
                 />

@@ -9,7 +9,8 @@ var BgmItemSub = React.createClass({
         handleHideChange: React.PropTypes.func,
         handleHighlightChange: React.PropTypes.func,
         hide: React.PropTypes.bool,
-        highlight: React.PropTypes.bool
+        highlight: React.PropTypes.bool,
+        isHistory: React.PropTypes.bool
     },
     getInitialState: function(){
         return {
@@ -97,7 +98,7 @@ var BgmItemSub = React.createClass({
                     </p>
                     {comment}
                 </div>
-                <div className="sub-right">
+                <div className={"sub-right" + (this.props.isHistory ? " hide" : "")}>
                     <p>
                         <input
                             type="checkbox"

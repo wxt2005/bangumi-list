@@ -10,6 +10,7 @@ var BgmTable = React.createClass({
         handleTabChange: React.PropTypes.func.isRequired,
         tab: React.PropTypes.number,
         keyword: React.PropTypes.string,
+        isHistory: React.PropTypes.bool
     },
     getInitialState: function(){
         return ({
@@ -68,6 +69,7 @@ var BgmTable = React.createClass({
                             items={props.data}
                             tab={props.tab}
                             keyword={props.keyword}
+                            isHistory={props.isHistory}
                         />
                         <BgmPreferences
                             show={state.prefShow}

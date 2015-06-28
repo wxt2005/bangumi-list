@@ -15,7 +15,8 @@ var BgmList = React.createClass({
         ],
     propTypes: {
         items: React.PropTypes.object,
-        keyword: React.PropTypes.string
+        keyword: React.PropTypes.string,
+        isHistory: React.PropTypes.bool
     },
     getInitialState: function(){
         return {
@@ -101,6 +102,7 @@ var BgmList = React.createClass({
                         key={item.id}
                         config={this.state.config}
                         supportSites={this.state.supportSites}
+                        isHistory={this.props.isHistory}
                     />
                 );
             }.bind(this)).value();
@@ -118,7 +120,8 @@ var BgmListItem = React.createClass({
         className: React.PropTypes.string,
         config: React.PropTypes.object,
         data: React.PropTypes.object.isRequired,
-        supportSites: React.PropTypes.object
+        supportSites: React.PropTypes.object,
+        isHistory: React.PropTypes.bool
     },
     getInitialState: function(){
         return {expanded: false};
@@ -153,6 +156,7 @@ var BgmListItem = React.createClass({
                         disableNewTab={this.props.config.disableNewTab}
                         handleHideChange={this.handleHideChange}
                         handleHighlightChange={this.handleHighlightChange}
+                        isHistory={this.props.isHistory}
                     />
                 </div>
             </li>
