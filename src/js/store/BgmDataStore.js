@@ -69,6 +69,15 @@ var BgmDataStore = _.assign({}, EventEmitter.prototype, {
         });
         this.saveToStorage();
     },
+    highlight: function(id, highlight){
+        if(_.isEmpty(_data)){
+            console.info('data store is empty');
+            return;
+        }
+
+        _data.items[id].highlight = !!highlight;
+        this.saveToStorage();
+    },
     addChangeListener: function(callback){
         this.on('change', callback);
     },
@@ -101,6 +110,12 @@ Dispacher.register(function(action){
             toggleFlag = action.toggleFlag;
             id = action.id;
             BgmDataStore.toggle(id, toggleFlag);
+            BgmDataStore.emitChange();
+            break;
+        case 'HIGHLIGHT_ITEM':
+            toggleFlag = action.toggleFlag;
+            id = action.id;
+            BgmDataStore.highlight(id, toggleFlag);
             BgmDataStore.emitChange();
             break;
         case 'DATA_RESET':

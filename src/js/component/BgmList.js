@@ -85,6 +85,10 @@ var BgmList = React.createClass({
                     className += ' data-hide';
                 }
 
+                if(item.highlight){
+                    className += ' data-highlight';
+                }
+
                 return (
                     <BgmListItem
                         className={className}
@@ -120,6 +124,9 @@ var BgmListItem = React.createClass({
     handleHideChange: function(flag){
         Actions.toggleItem(this.props.data.id, flag);
     },
+    handleHighlightChange: function(flag){
+        Actions.highlightItem(this.props.data.id, flag)
+    },
     render: function(){
         var classObj = {},
             className = '';
@@ -140,6 +147,7 @@ var BgmListItem = React.createClass({
                         data={this.props.data}
                         disableNewTab={this.props.config.disableNewTab}
                         handleHideChange={this.handleHideChange}
+                        handleHighlightChange={this.handleHighlightChange}
                     />
                 </div>
             </li>

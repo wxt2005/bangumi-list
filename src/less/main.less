@@ -323,11 +323,11 @@ header {
                 &:focus {
                     background: lighten(@board-green, 2%);
                     &::-webkit-input-placeholder {
-                        color: transparent; 
+                        color: transparent;
                     }
 
                     &::-moz-placeholder {
-                        color: transparent; 
+                        color: transparent;
                     }
                 }
             }
@@ -556,7 +556,7 @@ header {
             // 高度自适应
             // padding-bottom: 9999px;
             // margin-bottom: -9999px;
-            
+
 
             .hide {
                 display: none;
@@ -569,7 +569,7 @@ header {
             & > ul {
                 background: #fff;
                 overflow: hidden;
-                min-height: 440px; 
+                min-height: 440px;
 
                 display: -webkit-box;
                 display: -webkit-flex;
@@ -626,9 +626,11 @@ header {
                 padding: 1% 0;
                 position: relative;
                 z-index: 10;
+                border-radius: 4px;
 
                 .fs(16);
-                .transition(background-color 0.3s ease);
+
+                transition: background-color 0.3s ease, border-color 0.3s ease;
 
                 /*&:hover {
                     background: darken(@board-green, 5%)
@@ -743,31 +745,25 @@ header {
                 height: 64px;
                 z-index: 5;
 
-                .sub-left {
-                    width: 50%;
-                }
-
-                .sub-right {
-                    width: 50%;
-                    padding-left: 2%;
-                }
-
                 .sub-left,
+                .sub-middle,
                 .sub-right {
                     margin-top: 1%;
                     float: left;
                     box-sizing: border-box;
                 }
 
-                .hide-btn-box {
-                    position: absolute;
-                    right: 10px;
-                    top: 0;
-                    margin-top: 1%;
+                .sub-left {
+                    width: 46%;
+                }
 
-                    label {
-                        .fs(14);
-                    }
+                .sub-middle {
+                    width: 46%;
+                    padding-left: 2%;
+                }
+
+                .sub-right {
+                    width: 8%;
                 }
 
                 p {
@@ -823,6 +819,12 @@ header {
             .data-hide {
                 .item-main {
                     background: #eee;
+                }
+            }
+
+            .data-highlight {
+                .item-main {
+                    border-color: #2ECC71;
                 }
             }
         }
@@ -1400,19 +1402,18 @@ header {
                         text-overflow: ellipsis;
                     }
 
-                    .sub-left, .sub-right {
+                    .sub-left, .sub-middle {
                         width: 100%;
                         float: left;
                         text-align: left;
                     }
 
-                    .sub-right {
+                    .sub-middle {
                         padding-left: 0;
                         margin-top: 0;
                     }
 
-                    .hide-btn-box {
-                        line-height: 1.8;
+                    .sub-right {
                         display: none;
                     }
                 }

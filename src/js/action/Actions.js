@@ -47,6 +47,13 @@ var Actions = {
             id: id
         });
     },
+    highlightItem: function(id, toggleFlag){
+        Dispatcher.dispatch({
+            actionType: 'HIGHLIGHT_ITEM',
+            toggleFlag: toggleFlag,
+            id: id
+        });
+    },
     resetData: function(){
         Dispatcher.dispatch({
             actionType: 'DATA_RESET'

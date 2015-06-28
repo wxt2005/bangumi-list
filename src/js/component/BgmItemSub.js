@@ -6,11 +6,15 @@ var BgmItemSub = React.createClass({
     propTypes: {
         data: React.PropTypes.object.isRequired,
         disableNewTab: React.PropTypes.bool,
-        handleHideChange: React.PropTypes.func
+        handleHideChange: React.PropTypes.func,
+        handleHighlightChange: React.PropTypes.func,
+        hide: React.PropTypes.bool,
+        highlight: React.PropTypes.bool
     },
     getInitialState: function(){
         return {
-            hideCheck: this.props.data.hide
+            hideCheck: this.props.data.hide,
+            highlightCheck: this.props.data.highlight
         };
     },
     handleHideClick: function(e){
@@ -18,6 +22,12 @@ var BgmItemSub = React.createClass({
             hideCheck: e.target.checked
         });
         this.props.handleHideChange(e.target.checked);
+    },
+    handleHighlightClick: function(e){
+        this.setState({
+            highlightCheck: e.target.checked
+        });
+        this.props.handleHighlightChange(e.target.checked);
     },
     getDownloadSites: function(data){
         var downloadSites = {
@@ -80,21 +90,32 @@ var BgmItemSub = React.createClass({
                         {downloadSites}
                     </p>
                 </div>
-                <div className="sub-right">
+                <div className="sub-middle">
                     <p>
                         <span className="sub-title">放送日期：</span>
                         {data.showDate}
                     </p>
                     {comment}
                 </div>
-                <div className="hide-btn-box">
-                    <input
-                        type="checkbox"
-                        checked={this.state.hideCheck}
-                        onChange={this.handleHideClick}
-                        id={'hide_' + data.id}
-                    />
-                    <label htmlFor={'hide_' + data.id}>隐藏</label>
+                <div className="sub-right">
+                    <p>
+                        <input
+                            type="checkbox"
+                            checked={this.state.highlightCheck}
+                            onChange={this.handleHighlightClick}
+                            id={'highlight_' + data.id}
+                        />
+                        <label htmlFor={'highlight_' + data.id}>关注</label>
+                    </p>
+                    <p>
+                        <input
+                            type="checkbox"
+                            checked={this.state.hideCheck}
+                            onChange={this.handleHideClick}
+                            id={'hide_' + data.id}
+                        />
+                        <label htmlFor={'hide_' + data.id}>隐藏</label>
+                    </p>
                 </div>
             </div>
         );
