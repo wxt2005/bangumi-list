@@ -117,6 +117,20 @@ function classList(obj){
     return result.trim();
 }
 
+/**
+ * 判断是否已开播
+ * @method hasOnair
+ * @param {string} dateStr 日期字符串 2004-10-01
+ * @param {string} time 时间字符串 0830
+ * return {boolean} 是否开播
+ */
+function hasOnair(dateStr, timeStr) {
+    var now = new Date(),
+        showDate = new Date(dateStr + ' ' + timeStr.slice(0, 2) + ':' + timeStr.slice(2) + ' GMT+0800 (CST)');
+
+    return now >= showDate;
+}
+
 module.exports = {
     getLinkSite: getLinkSite,
     formatWeekDay: formatWeekDay,
@@ -124,5 +138,6 @@ module.exports = {
     store: store,
     monthToSeason: monthToSeason,
     getDomain: getDomain,
-    classList: classList
+    classList: classList,
+    hasOnair: hasOnair
 };

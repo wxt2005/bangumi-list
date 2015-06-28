@@ -75,6 +75,10 @@ var BgmList = React.createClass({
                     className += ' new';
                 }
 
+                if(!Utils.hasOnair(item.showDate, item.timeJP)){
+                    className += ' data-not-onair';
+                }
+
                 if(!this._decideShow(item)){
                     className += ' hide';
                 }else{
@@ -88,6 +92,7 @@ var BgmList = React.createClass({
                 if(item.highlight){
                     className += ' data-highlight';
                 }
+
 
                 return (
                     <BgmListItem
@@ -125,7 +130,7 @@ var BgmListItem = React.createClass({
         Actions.toggleItem(this.props.data.id, flag);
     },
     handleHighlightChange: function(flag){
-        Actions.highlightItem(this.props.data.id, flag)
+        Actions.highlightItem(this.props.data.id, flag);
     },
     render: function(){
         var classObj = {},
