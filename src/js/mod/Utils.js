@@ -13,7 +13,6 @@ function getLinkSite(domain, sites){
 
 /**
  * 格式化周天
- * @method formatWeekDay
  * @param {number} index 周天序号
  * @optional {string} country 国家代号 'cn' or 'jp'
  * @return {string} 格式化后的周天
@@ -28,7 +27,6 @@ function formatWeekDay(index, country){
 
 /**
  * 格式化时间
- * @method formatTime
  * @param {string} time 时间字符串 '1200'
  * @return {string} 格式化后的时间 '12:00'
  */
@@ -64,7 +62,6 @@ function store(namespace, data){
 
 /**
  * 月份转换为季度
- * @method monthToSeason
  * @param {number} month 月份
  * @return {number} 季度 '1月 4月 7月 10月'
  */
@@ -85,7 +82,6 @@ function monthToSeason(month){
 
 /**
  * 获取链接中的主域名
- * @method getDomain
  * @param {string} url 网址
  * @return {string} 主域名或者空字符串
  * @TODO 正确获取迅雷看看的域名，现在只用movie来代替
@@ -119,16 +115,35 @@ function classList(obj){
 
 /**
  * 判断是否已开播
- * @method hasOnair
  * @param {string} dateStr 日期字符串 2004-10-01
  * @param {string} time 时间字符串 0830
  * return {boolean} 是否开播
  */
-function hasOnair(dateStr, timeStr) {
+function hasOnair(dateStr, timeStr){
     var now = new Date(),
-        showDate = new Date(dateStr.replace(/-/g, '/') + ' ' + timeStr.slice(0, 2) + ':' + timeStr.slice(2) + ' GMT+0800 (CST)');
+        showDate = new Date(dateStr.replace(/-/g, '/') + ' ' +
+            timeStr.slice(0, 2) + ':' +
+            timeStr.slice(2) +
+            ' GMT+0800 (CST)');
 
     return now >= showDate;
+}
+
+/**
+ * 判断是否已结束播放
+ * @param  {string}  dateStr 日期字符串 2004-10-01
+ * @param  {string}  timeStr 时间字符串 0830
+ * @param  {number}  offset  延迟天数
+ * @return {Boolean}         是否已结束放送
+ */
+function hasEnded(dateStr, timeStr, offset){
+    var now = new Date(),
+        endDate = new Date(dateStr.replace(/-/g, '/') + ' ' +
+            timeStr.slice(0, 2) + ':' +
+            (+timeStr.slice(2) + (offset || 0)) +
+            ' GMT+0800 (CST)');
+
+    return now >= endDate;
 }
 
 module.exports = {
@@ -139,5 +154,6 @@ module.exports = {
     monthToSeason: monthToSeason,
     getDomain: getDomain,
     classList: classList,
-    hasOnair: hasOnair
+    hasOnair: hasOnair,
+    hasEnded: hasEnded
 };

@@ -28,36 +28,54 @@ var BgmList = React.createClass({
     _decideShow: function(item){
         var showHour = +item.timeCN.slice(0, 2);
 
+        // 有搜索词且匹配中日文，直接显示
         if(this.props.keyword){
             return (item.titleJP + item.titleCN).toLowerCase().indexOf(this.props.keyword.toLowerCase()) !== -1;
         }
 
+        // 如果有结束日期并且已经结束,则不显示
+        if(typeof item.endDate !== 'undefined' &&
+            Utils.hasEnded(item.endDate, item.timeJP, 0)){
+            return false;
+        }
+
+        // 如为全部tab,显示
         if(this.props.tab === 7){
             return true;
+        // 被设置为隐藏
         }else if(item.hide){
             return false;
+        // 只显示新番设置下不显示旧番
         }else if(this.state.config.newOnly && !item.newBgm){
             return false;
         }
 
+        // 选中周天
         if(item.weekDayCN === this.props.tab){
+            // 日期分割之后的不显示
             if(showHour >= this.state.config.dayDivide){
                 return false;
+            // 其余显示
             }else{
                 return true;
             }
         }
 
+        // 选中的前一天
         if(this.props.tab - item.weekDayCN === 1 || this.props.tab - item.weekDayCN === -6){
+            // 日期分割之前的不显示
             if(showHour < this.state.config.dayDivide){
                 return false;
+            // 其余显示
             }else{
                 return true;
             }
         }else{
+            // 其它周天直接不显示
             return false;
         }
 
+        // 默认显示
         return true;
     },
     render: function(){
@@ -74,6 +92,8 @@ var BgmList = React.createClass({
                 .map(function(item, i){
                     var className = Utils.classList({
                         'new': item.newBgm, // 新番
+                        'end': (typeof item.endDate !== 'undefined' &&
+                            Utils.hasEnded(item.endDate, item.timeJP, 0)), // 已完结
                         'data-hide': item.hide, // 用户隐藏
                         'data-highlight': item.highlight, // 用户关注
                         'data-not-onair': !Utils.hasOnair(item.showDate, item.timeJP) // 还未放送
