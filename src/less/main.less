@@ -1114,6 +1114,8 @@ header {
     @media (max-width: @min-width) {
         ::-webkit-scrollbar {
             display: none;
+            width: 0;
+            height: 0;
         }
 
         a:hover {
@@ -1402,8 +1404,9 @@ header {
                     width: 50%;
                     max-height: none;
                     border: 1px solid #f4f3f0;
-                    border-radius: 0;
+                    border-radius: 4px;
                     height: auto;
+                    top: 0;
 
                     p {
                         .fs(12);
