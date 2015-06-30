@@ -420,14 +420,19 @@
     "bgmId": 107957
   },
   "1507_25": {
-    "titleCN": "混沌之龙",
+    "titleCN": "混沌之龙 赤龙战役",
     "titleJP": "ケイオスドラゴン 赤竜戦役",
     "officalSite": "http://chaosdragon.red/",
     "weekDayJP": 4,
-    "weekDayCN": 5,
+    "weekDayCN": 4,
     "timeJP": "2130",
-    "timeCN": "",
-    "onAirSite": [],
+    "timeCN": "2230",
+    "onAirSite": [
+      "http://www.tudou.com/albumcover/dIoKgU-j9O4.html",
+      "http://www.youku.com/show_page/id_zb3f16e30197511e5b522.html",
+      "http://www.pptv.com/page/321728.html",
+      "http://www.bilibili.com/sp/CHAOS%20DRAGON%20赤龙战役"
+    ],
     "newBgm": true,
     "showDate": "2015-07-02",
     "bgmId": 125917
@@ -440,7 +445,9 @@
     "weekDayCN": 5,
     "timeJP": "2300",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://www.bilibili.com/sp/创圣的大天使#S-1956"
+    ],
     "newBgm": true,
     "showDate": "2015-07-02",
     "bgmId": 126024
@@ -452,8 +459,12 @@
     "weekDayJP": 4,
     "weekDayCN": 5,
     "timeJP": "2355",
-    "timeCN": "",
-    "onAirSite": [],
+    "timeCN": "0130",
+    "onAirSite": [
+      "http://www.tudou.com/albumcover/bONAn7JK874.html",
+      "http://www.youku.com/show_page/id_z8f02e3561a5611e5b5ce.html",
+      "http://www.bilibili.com/sp/乱步奇谭%20Game%20of%20Laplace"
+    ],
     "newBgm": true,
     "showDate": "2015-07-02",
     "bgmId": 118785
@@ -466,7 +477,9 @@
     "weekDayCN": 5,
     "timeJP": "0046",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://www.bilibili.com/sp/青春×机关枪"
+    ],
     "newBgm": true,
     "showDate": "2015-07-03",
     "bgmId": 126779
@@ -492,7 +505,9 @@
     "weekDayCN": 5,
     "timeJP": "1100",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://www.bilibili.com/sp/黑塔利亚#S-1959"
+    ],
     "newBgm": true,
     "showDate": "2015-07-03",
     "bgmId": 120369
@@ -504,8 +519,11 @@
     "weekDayJP": 5,
     "weekDayCN": 6,
     "timeJP": "2130",
-    "timeCN": "",
-    "onAirSite": [],
+    "timeCN": "0100",
+    "onAirSite": [
+      "http://www.tudou.com/albumcover/UW8uUaXCUQg.html",
+      "http://www.youku.com/show_page/id_z58f52458197611e5b432.html"
+    ],
     "newBgm": true,
     "showDate": "2015-07-03",
     "bgmId": 124185
@@ -541,10 +559,12 @@
     "titleJP": "わかば＊ガール",
     "officalSite": "http://wakabagirl.com/",
     "weekDayJP": 5,
-    "weekDayCN": 6,
+    "weekDayCN": 5,
     "timeJP": "2140",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://www.bilibili.com/sp/若叶女孩"
+    ],
     "newBgm": true,
     "showDate": "2015-07-03",
     "bgmId": 128635
@@ -570,13 +590,15 @@
     "weekDayCN": 6,
     "timeJP": "0055",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://www.bilibili.com/sp/Classroom☆Crisis"
+    ],
     "newBgm": true,
     "showDate": "2015-07-04",
     "bgmId": 129087
   },
   "1507_37": {
-    "titleCN": "战姬绝唱SYMPHOGEAR GX",
+    "titleCN": "战姬绝唱 SYMPHOGEAR GX",
     "titleJP": "戦姫絶唱シンフォギアＧＸ (第3期)",
     "officalSite": "http://www.symphogear-gx.com/",
     "weekDayJP": 6,
@@ -593,23 +615,32 @@
     "titleJP": "デュラララ!!×2 転",
     "officalSite": "http://www.durarara.com/",
     "weekDayJP": 6,
-    "weekDayCN": 0,
+    "weekDayCN": 6,
     "timeJP": "2230",
-    "timeCN": "",
-    "onAirSite": [],
+    "timeCN": "2330",
+    "onAirSite": [
+      "http://www.tudou.com/albumcover/Se7oGWDr_GA.html",
+      "http://www.youku.com/show_page/id_z2c9c7552acd811e38b3f.html",
+      "http://www.bilibili.com/sp/创圣的大天使#S-1956"
+    ],
     "newBgm": true,
     "showDate": "2015-07-04",
     "bgmId": 114967
   },
   "1507_39": {
-    "titleCN": "夏洛特",
+    "titleCN": "Charlotte",
     "titleJP": "Charlotte",
     "officalSite": "http://charlotte-anime.jp/",
     "weekDayJP": 6,
     "weekDayCN": 0,
     "timeJP": "2300",
-    "timeCN": "",
-    "onAirSite": [],
+    "timeCN": "0030",
+    "onAirSite": [
+      "http://www.tudou.com/albumcover/tO8jG72LwdY.html",
+      "http://www.youku.com/show_page/id_z074ab022197c11e5b5ce.html",
+      "http://www.pptv.com/page/308880.html",
+      "http://www.bilibili.com/sp/Charlotte"
+    ],
     "newBgm": true,
     "showDate": "2015-07-04",
     "bgmId": 120925
@@ -622,7 +653,9 @@
     "weekDayCN": 0,
     "timeJP": "2330",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://www.bilibili.com/sp/WORKING!!迷糊餐厅#S-1960"
+    ],
     "newBgm": true,
     "showDate": "2015-07-04",
     "bgmId": 110648
@@ -635,7 +668,9 @@
     "weekDayCN": 0,
     "timeJP": "2200",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://www.bilibili.com/sp/OVER%20LORD"
+    ],
     "newBgm": true,
     "showDate": "2015-07-04",
     "bgmId": 115780
@@ -654,14 +689,16 @@
     "bgmId": 137576
   },
   "1507_43": {
-    "titleCN": "科学小飞侠Crowds insight",
+    "titleCN": "科学小飞侠 Crowds insight",
     "titleJP": "ガッチャマンクラウズ インサイト (第2期)",
     "officalSite": "http://www.ntv.co.jp/GC_insight/",
     "weekDayJP": 0,
     "weekDayCN": 0,
     "timeJP": "0055",
-    "timeCN": "",
-    "onAirSite": [],
+    "timeCN": "0430",
+    "onAirSite": [
+      "http://www.tudou.com/albumcover/wk_5UB9cfe4.html"
+    ],
     "newBgm": true,
     "showDate": "2015-07-05",
     "bgmId": 86721
@@ -673,8 +710,12 @@
     "weekDayJP": 0,
     "weekDayCN": 0,
     "timeJP": "0158",
-    "timeCN": "",
-    "onAirSite": [],
+    "timeCN": "0330",
+    "onAirSite": [
+      "http://www.tudou.com/albumcover/8nSAQ0J0quI.html",
+      "http://www.youku.com/show_page/id_ze86a7b88197611e5b5ce.html",
+      "http://www.bilibili.com/sp/六花的勇者"
+    ],
     "newBgm": true,
     "showDate": "2015-07-05",
     "bgmId": 118067
@@ -712,8 +753,12 @@
     "weekDayJP": 0,
     "weekDayCN": 1,
     "timeJP": "2130",
-    "timeCN": "",
-    "onAirSite": [],
+    "timeCN": "2230",
+    "onAirSite": [
+      "http://www.tudou.com/albumcover/n3RSRsUtHhk.html",
+      "http://www.youku.com/show_page/id_z7f52b0ce197c11e5a080.html",
+      "http://www.bilibili.com/sp/噬神者"
+    ],
     "newBgm": true,
     "showDate": "2015-07-05",
     "bgmId": 113629
@@ -738,8 +783,12 @@
     "weekDayJP": 1,
     "weekDayCN": 2,
     "timeJP": "2300",
-    "timeCN": "",
-    "onAirSite": [],
+    "timeCN": "0230",
+    "onAirSite": [
+      "http://www.tudou.com/albumcover/StDyVAcEEkA.html",
+      "http://www.youku.com/show_page/id_z389e1aea197e11e5b5ce.html",
+      "http://www.bilibili.com/sp/赤发白雪姬"
+    ],
     "newBgm": true,
     "showDate": "2015-07-06",
     "bgmId": 126034
@@ -777,8 +826,11 @@
     "weekDayJP": 2,
     "weekDayCN": 2,
     "timeJP": "0035",
-    "timeCN": "",
-    "onAirSite": [],
+    "timeCN": "0130",
+    "onAirSite": [
+      "http://www.tudou.com/albumcover/XJZSLm81Y-8.html",
+      "http://www.youku.com/show_page/id_z961bfe7c197d11e5b5ce.html"
+    ],
     "newBgm": true,
     "showDate": "2015-07-07",
     "bgmId": 123539
@@ -790,8 +842,11 @@
     "weekDayJP": 2,
     "weekDayCN": 2,
     "timeJP": "0105",
-    "timeCN": "",
-    "onAirSite": [],
+    "timeCN": "0205",
+    "onAirSite": [
+      "http://www.tudou.com/albumcover/-3O0GyT_JkQ.html",
+      "http://www.youku.com/show_page/id_z837ad5f2198411e5b432.html"
+    ],
     "newBgm": true,
     "showDate": "2015-07-07",
     "bgmId": 101442
@@ -804,7 +859,9 @@
     "weekDayCN": 2,
     "timeJP": "0011",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://www.bilibili.com/sp/Million%20Doll"
+    ],
     "newBgm": true,
     "showDate": "2015-07-07",
     "bgmId": 124615
@@ -823,14 +880,16 @@
     "bgmId": 133962
   },
   "1507_56": {
-    "titleCN": "OVERLORD",
+    "titleCN": "OVER LORD",
     "titleJP": "オーバーロード",
     "officalSite": "http://overlord-anime.com/",
     "weekDayJP": 2,
-    "weekDayCN": 3,
+    "weekDayCN": 2,
     "timeJP": "2200",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://www.bilibili.com/sp/OVER%20LORD"
+    ],
     "newBgm": true,
     "showDate": "2015-07-07",
     "bgmId": 112146
@@ -840,10 +899,12 @@
     "titleJP": "それが声優！",
     "officalSite": "http://soregaseiyu.com/",
     "weekDayJP": 2,
-    "weekDayCN": 3,
+    "weekDayCN": 2,
     "timeJP": "2200",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://www.bilibili.com/sp/那就是声优！"
+    ],
     "newBgm": true,
     "showDate": "2015-07-07",
     "bgmId": 121377
@@ -882,7 +943,9 @@
     "weekDayCN": 4,
     "timeJP": "2055",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://www.bilibili.com/sp/洲崎西"
+    ],
     "newBgm": true,
     "showDate": "2015-07-08",
     "bgmId": 135202
@@ -895,7 +958,9 @@
     "weekDayCN": 4,
     "timeJP": "2330",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://www.bilibili.com/sp/空战魔导士候补生的教官"
+    ],
     "newBgm": true,
     "showDate": "2015-07-08",
     "bgmId": 108377
@@ -920,8 +985,11 @@
     "weekDayJP": 4,
     "weekDayCN": 4,
     "timeJP": "0114",
-    "timeCN": "",
-    "onAirSite": [],
+    "timeCN": "0314",
+    "onAirSite": [
+      "http://www.tudou.com/albumcover/4IsZAYXiK2M.html",
+      "http://www.bilibili.com/sp/干物妹！小埋"
+    ],
     "newBgm": true,
     "showDate": "2015-07-09",
     "bgmId": 120187
@@ -931,10 +999,12 @@
     "titleJP": "がっこうぐらし！",
     "officalSite": "http://gakkougurashi.com/",
     "weekDayJP": 4,
-    "weekDayCN": 5,
+    "weekDayCN": 4,
     "timeJP": "2030",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://www.bilibili.com/sp/学园孤岛"
+    ],
     "newBgm": true,
     "showDate": "2015-07-09",
     "bgmId": 106693
@@ -999,7 +1069,9 @@
     "weekDayCN": 6,
     "timeJP": "2300",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://www.bilibili.com/sp/偶像大师%20灰姑娘女孩"
+    ],
     "newBgm": true,
     "showDate": "2015-07-17",
     "bgmId": 130231
@@ -1012,7 +1084,9 @@
     "weekDayCN": 6,
     "timeJP": "0040",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://www.bilibili.com/sp/魔法少女☆伊莉雅#S-1955"
+    ],
     "newBgm": true,
     "showDate": "2015-07-25",
     "bgmId": 113134
