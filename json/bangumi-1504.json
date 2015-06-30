@@ -298,7 +298,8 @@
     ],
     "newBgm": false,
     "bgmId": 60901,
-    "showDate": "2015-01-09"
+    "showDate": "2015-01-09",
+    "endDate": "2015-04-02"
   },
   "1504_17": {
     "titleCN": "境界触发者",
@@ -1085,7 +1086,8 @@
     "timeJP": "2350",
     "timeCN": "0125",
     "onAirSite": [
-      "http://www.tucao.cc/index.php?m=search&c=index&a=init2&q=punch+line"
+      "http://www.tucao.cc/index.php?m=search&c=index&a=init2&q=punch+line",
+      "http://www.bilibili.com/sp/Punch%20Line"
     ],
     "newBgm": true,
     "bgmId": 118782,
