@@ -383,11 +383,12 @@
     "titleJP": "ニンジャスレイヤー フロムアニメイシヨン",
     "officalSite": "http://www.ninjaslayer-animation.com/",
     "weekDayJP": 4,
-    "weekDayCN": 4,
+    "weekDayCN": 5,
     "timeJP": "2200",
-    "timeCN": "2200",
+    "timeCN": "",
     "onAirSite": [
-      "http://www.tucao.cc/index.php?m=search&c=index&a=init2&q=忍者杀手"
+      "http://www.tucao.cc/index.php?m=search&c=index&a=init2&q=忍者杀手",
+      "http://www.acfun.tv/v/ab1470264_0"
     ],
     "newBgm": false,
     "bgmId": 101437,
