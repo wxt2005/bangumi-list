@@ -9,7 +9,8 @@
     "timeCN": "",
     "onAirSite": [
       "http://www.acfun.tv/a/aa127_0",
-      "http://www.iqiyi.com/dongman/mztkngyb.html"
+      "http://www.iqiyi.com/dongman/mztkngyb.html",
+      "http://v.qq.com/detail/h/hzgtnf6tbvfekfv.html"
     ],
     "newBgm": false,
     "bgmId": 899,
@@ -440,7 +441,9 @@
       "http://www.tudou.com/albumcover/dIoKgU-j9O4.html",
       "http://www.youku.com/show_page/id_zb3f16e30197511e5b522.html",
       "http://www.pptv.com/page/321728.html",
-      "http://www.bilibili.com/sp/CHAOS%20DRAGON%20赤龙战役"
+      "http://www.bilibili.com/sp/CHAOS%20DRAGON%20赤龙战役",
+      "http://www.letv.com/comic/10010403.html",
+      "http://v.qq.com/detail/s/s8q3rwmi1vcyhuu.html"
     ],
     "newBgm": true,
     "showDate": "2015-07-02",
@@ -453,9 +456,12 @@
     "weekDayJP": 4,
     "weekDayCN": 5,
     "timeJP": "2300",
-    "timeCN": "",
+    "timeCN": "0030",
     "onAirSite": [
-      "http://www.bilibili.com/sp/创圣的大天使#S-1956"
+      "http://www.bilibili.com/sp/创圣的大天使#S-1956",
+      "http://www.letv.com/comic/10010420.html",
+      "http://v.qq.com/detail/9/90ono2pk2blgqwd.html",
+      "http://www.pptv.com/page/323242.html"
     ],
     "newBgm": true,
     "showDate": "2015-07-02",
@@ -472,7 +478,9 @@
     "onAirSite": [
       "http://www.tudou.com/albumcover/bONAn7JK874.html",
       "http://www.youku.com/show_page/id_z8f02e3561a5611e5b5ce.html",
-      "http://www.bilibili.com/sp/乱步奇谭%20Game%20of%20Laplace"
+      "http://www.bilibili.com/sp/乱步奇谭%20Game%20of%20Laplace",
+      "http://www.letv.com/comic/10010419.html",
+      "http://v.qq.com/detail/a/a3xvy009de4vael.html"
     ],
     "newBgm": true,
     "showDate": "2015-07-02",
@@ -485,9 +493,11 @@
     "weekDayJP": 5,
     "weekDayCN": 5,
     "timeJP": "0046",
-    "timeCN": "",
+    "timeCN": "2100",
     "onAirSite": [
-      "http://www.bilibili.com/sp/青春×机关枪"
+      "http://www.bilibili.com/sp/青春×机关枪",
+      "http://www.iqiyi.com/a_19rrhb5qax.html",
+      "http://v.qq.com/detail/1/1f1gzzkyhi264mg.html"
     ],
     "newBgm": true,
     "showDate": "2015-07-03",
@@ -500,8 +510,10 @@
     "weekDayJP": 5,
     "weekDayCN": 5,
     "timeJP": "0116",
-    "timeCN": "",
-    "onAirSite": [],
+    "timeCN": "0800",
+    "onAirSite": [
+      "http://www.pptv.com/page/323240.html"
+    ],
     "newBgm": true,
     "showDate": "2015-07-03",
     "bgmId": 117556
@@ -630,7 +642,8 @@
     "onAirSite": [
       "http://www.tudou.com/albumcover/Se7oGWDr_GA.html",
       "http://www.youku.com/show_page/id_z2c9c7552acd811e38b3f.html",
-      "http://www.bilibili.com/sp/创圣的大天使#S-1956"
+      "http://www.bilibili.com/sp/创圣的大天使#S-1956",
+      "http://v.qq.com/detail/4/4gmobofw9fltve9.html"
     ],
     "newBgm": true,
     "showDate": "2015-07-04",
@@ -648,7 +661,10 @@
       "http://www.tudou.com/albumcover/tO8jG72LwdY.html",
       "http://www.youku.com/show_page/id_z074ab022197c11e5b5ce.html",
       "http://www.pptv.com/page/308880.html",
-      "http://www.bilibili.com/sp/Charlotte"
+      "http://www.bilibili.com/sp/Charlotte",
+      "http://www.letv.com/comic/10010346.html",
+      "http://www.iqiyi.com/a_19rrhb5qhd.html",
+      "http://v.qq.com/detail/k/keh8jx4nea7e5w0.html"
     ],
     "newBgm": true,
     "showDate": "2015-07-04",
@@ -723,7 +739,9 @@
     "onAirSite": [
       "http://www.tudou.com/albumcover/8nSAQ0J0quI.html",
       "http://www.youku.com/show_page/id_ze86a7b88197611e5b5ce.html",
-      "http://www.bilibili.com/sp/六花的勇者"
+      "http://www.bilibili.com/sp/六花的勇者",
+      "http://www.letv.com/comic/10010414.html",
+      "http://www.pptv.com/page/323039.html"
     ],
     "newBgm": true,
     "showDate": "2015-07-05",
@@ -766,7 +784,9 @@
     "onAirSite": [
       "http://www.tudou.com/albumcover/n3RSRsUtHhk.html",
       "http://www.youku.com/show_page/id_z7f52b0ce197c11e5a080.html",
-      "http://www.bilibili.com/sp/噬神者"
+      "http://www.bilibili.com/sp/噬神者",
+      "http://www.letv.com/comic/10010338.html",
+      "http://v.qq.com/detail/w/wdp6c3tyxfha0l8.html"
     ],
     "newBgm": true,
     "showDate": "2015-07-05",
@@ -796,7 +816,9 @@
     "onAirSite": [
       "http://www.tudou.com/albumcover/StDyVAcEEkA.html",
       "http://www.youku.com/show_page/id_z389e1aea197e11e5b5ce.html",
-      "http://www.bilibili.com/sp/赤发白雪姬"
+      "http://www.bilibili.com/sp/赤发白雪姬",
+      "http://www.iqiyi.com/a_19rrhb5pv5.html",
+      "http://v.qq.com/detail/2/2hndczgdvkpzff5.html"
     ],
     "newBgm": true,
     "showDate": "2015-07-06",
@@ -925,8 +947,10 @@
     "weekDayJP": 2,
     "weekDayCN": 3,
     "timeJP": "2330",
-    "timeCN": "",
-    "onAirSite": [],
+    "timeCN": "0030",
+    "onAirSite": [
+      "http://v.qq.com/detail/8/8yjy00f3wg1tz63.html"
+    ],
     "newBgm": true,
     "showDate": "2015-07-07",
     "bgmId": 127979
@@ -966,9 +990,10 @@
     "weekDayJP": 3,
     "weekDayCN": 4,
     "timeJP": "2330",
-    "timeCN": "",
+    "timeCN": "0100",
     "onAirSite": [
-      "http://www.bilibili.com/sp/空战魔导士候补生的教官"
+      "http://www.bilibili.com/sp/空战魔导士候补生的教官",
+      "http://v.qq.com/detail/a/aan1um3pt3nue20.html"
     ],
     "newBgm": true,
     "showDate": "2015-07-08",
@@ -981,8 +1006,10 @@
     "weekDayJP": 4,
     "weekDayCN": 4,
     "timeJP": "0005",
-    "timeCN": "",
-    "onAirSite": [],
+    "timeCN": "0135",
+    "onAirSite": [
+      "http://v.qq.com/detail/q/q9zzprtw17v6r01.html"
+    ],
     "newBgm": true,
     "showDate": "2015-07-09",
     "bgmId": 109541
@@ -998,7 +1025,9 @@
     "onAirSite": [
       "http://www.tudou.com/albumcover/4IsZAYXiK2M.html",
       "http://www.youku.com/show_page/id_zc4d8c0401afb11e5b5ce.html",
-      "http://www.bilibili.com/sp/干物妹！小埋"
+      "http://www.bilibili.com/sp/干物妹！小埋",
+      "http://www.letv.com/comic/10010414.html",
+      "http://v.qq.com/detail/3/3lriily11h16j01.html"
     ],
     "newBgm": true,
     "showDate": "2015-07-09",
@@ -1009,11 +1038,12 @@
     "titleJP": "がっこうぐらし！",
     "officalSite": "http://gakkougurashi.com/",
     "weekDayJP": 4,
-    "weekDayCN": 4,
+    "weekDayCN": 5,
     "timeJP": "2030",
-    "timeCN": "",
+    "timeCN": "0200",
     "onAirSite": [
-      "http://www.bilibili.com/sp/学园孤岛"
+      "http://www.bilibili.com/sp/学园孤岛",
+      "http://v.qq.com/detail/f/f6za0go0jf6fzrm.html"
     ],
     "newBgm": true,
     "showDate": "2015-07-09",
@@ -1039,8 +1069,10 @@
     "weekDayJP": 6,
     "weekDayCN": 6,
     "timeJP": "0005",
-    "timeCN": "",
-    "onAirSite": [],
+    "timeCN": "0105",
+    "onAirSite": [
+      "http://v.qq.com/detail/o/ouwrkn72batk58k.html"
+    ],
     "newBgm": true,
     "showDate": "2015-07-11",
     "bgmId": 110048
@@ -1064,9 +1096,11 @@
     "officalSite": "http://makuranodanshi.com/",
     "weekDayJP": 2,
     "weekDayCN": 2,
-    "timeJP": "0016",
-    "timeCN": "",
-    "onAirSite": [],
+    "timeJP": "0015",
+    "timeCN": "0015",
+    "onAirSite": [
+      "http://v.qq.com/cover/v/vxk0pmz40gf0hz0.html"
+    ],
     "newBgm": true,
     "showDate": "2015-07-14",
     "bgmId": 132829
@@ -1078,9 +1112,11 @@
     "weekDayJP": 5,
     "weekDayCN": 6,
     "timeJP": "2300",
-    "timeCN": "",
+    "timeCN": "0030",
     "onAirSite": [
-      "http://www.bilibili.com/sp/偶像大师%20灰姑娘女孩"
+      "http://www.bilibili.com/sp/偶像大师%20灰姑娘女孩",
+      "http://www.tudou.com/albumcover/qgdKuHlPg9g.html",
+      "http://www.youku.com/show_page/id_z1e13314abec311e38b3f.html"
     ],
     "newBgm": true,
     "showDate": "2015-07-17",
@@ -1100,5 +1136,49 @@
     "newBgm": true,
     "showDate": "2015-07-25",
     "bgmId": 113134
+  },
+  "1507_71": {
+    "titleCN": "小长门有希的消失",
+    "titleJP": "長門有希ちゃんの消失",
+    "officalSite": "http://www.yukichan-anime.com/",
+    "weekDayJP": 6,
+    "weekDayCN": 6,
+    "timeJP": "0040",
+    "timeCN": "0210",
+    "onAirSite": [
+      "http://www.tudou.com/albumcover/ElqA9e3gel0.html",
+      "http://www.youku.com/show_page/id_z3eebb5a2d1f711e4abda.html",
+      "http://v.qq.com/detail/l/l2h6j510vy2r11e.html",
+      "http://www.letv.com/comic/10008624.html",
+      "http://www.bilibili.com/sp/小长门有希的消失",
+      "http://www.acfun.tv/v/ab1470229_0",
+      "http://www.tucao.cc/index.php?m=search&c=index&a=init2&q=小长门有希的消失"
+    ],
+    "newBgm": false,
+    "bgmId": 90815,
+    "showDate": "2015-04-04",
+    "endDate": "2015-07-17"
+  },
+  "1504_41": {
+    "titleCN": "血界战线",
+    "titleJP": "血界戦線",
+    "officalSite": "http://kekkaisensen.com/",
+    "weekDayJP": 0,
+    "weekDayCN": 0,
+    "timeJP": "0128",
+    "timeCN": "0230",
+    "onAirSite": [
+      "http://www.tudou.com/albumcover/a0ZSHooKbdg.html",
+      "http://www.youku.com/show_page/id_z3f3c69e0d37b11e4b692.html",
+      "http://www.letv.com/comic/10008625.html",
+      "http://www.pptv.com/page/309013.html",
+      "http://www.iqiyi.com/a_19rrhay9bt.html",
+      "http://www.bilibili.com/sp/KEKKAI%20SENSEN",
+      "http://www.acfun.tv/v/ab1470243_0",
+      "http://www.tucao.cc/index.php?m=search&c=index&a=init2&q=血界战线"
+    ],
+    "newBgm": false,
+    "bgmId": 105075,
+    "showDate": "2015-04-05"
   }
 }
