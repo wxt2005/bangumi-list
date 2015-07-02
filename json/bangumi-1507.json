@@ -402,7 +402,11 @@
     "weekDayCN": 4,
     "timeJP": "2330",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://www.bilibili.com/sp/我老婆是学生会长！",
+      "http://www.acfun.tv/v/ab1470292_0",
+      "http://www.tucao.cc/index.php?m=search&c=index&a=init2&catid=24&q=我老婆是学生会长"
+    ],
     "newBgm": true,
     "showDate": "2015-07-01",
     "bgmId": 119889
@@ -415,7 +419,11 @@
     "weekDayCN": 4,
     "timeJP": "0144",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://www.bilibili.com/sp/GANGSTA.",
+      "http://www.acfun.tv/v/ab1470326_0",
+      "http://www.tucao.cc/index.php?m=search&c=index&a=init2&catid=24&q=GANGSTA"
+    ],
     "newBgm": true,
     "showDate": "2015-07-02",
     "bgmId": 107957
