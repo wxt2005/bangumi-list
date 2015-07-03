@@ -196,7 +196,7 @@
     "onAirSite": [
       "http://www.bilibili.com/sp/食戟之灵",
       "http://www.iqiyi.com/a_19rrhay9y1.html",
-      "http://www.acfun.tv/v/ab1470231_0",
+      "http://www.acfun.tv/v/ab1470280_0",
       "http://www.tucao.cc/index.php?m=search&c=index&a=init2&q=食戟之灵"
     ],
     "newBgm": false,
@@ -502,7 +502,8 @@
     "onAirSite": [
       "http://www.bilibili.com/sp/青春×机关枪",
       "http://www.iqiyi.com/a_19rrhb5qax.html",
-      "http://v.qq.com/detail/1/1f1gzzkyhi264mg.html"
+      "http://v.qq.com/detail/1/1f1gzzkyhi264mg.html",
+      "http://www.acfun.tv/v/ab1470322_0"
     ],
     "newBgm": true,
     "showDate": "2015-07-03",
@@ -517,7 +518,9 @@
     "timeJP": "0116",
     "timeCN": "0800",
     "onAirSite": [
-      "http://www.pptv.com/page/323240.html"
+      "http://www.pptv.com/page/323240.html",
+      "http://www.bilibili.com/sp/城下町的蒲公英",
+      "http://www.tucao.cc/index.php?m=search&c=index&a=init2&catid=24&q=城下町的蒲公英"
     ],
     "newBgm": true,
     "showDate": "2015-07-03",
@@ -572,10 +575,12 @@
     "titleJP": "うーさーのその日暮らし 夢幻編 (第3期)",
     "officalSite": "http://wooser.tv/",
     "weekDayJP": 5,
-    "weekDayCN": 6,
+    "weekDayCN": 5,
     "timeJP": "2209",
-    "timeCN": "",
-    "onAirSite": [],
+    "timeCN": "2220",
+    "onAirSite": [
+      "http://www.bilibili.com/sp/乌瑟的穷困生活#S-1952"
+    ],
     "newBgm": true,
     "showDate": "2015-07-03",
     "bgmId": 121003
@@ -587,7 +592,7 @@
     "weekDayJP": 5,
     "weekDayCN": 5,
     "timeJP": "2140",
-    "timeCN": "",
+    "timeCN": "2225",
     "onAirSite": [
       "http://www.bilibili.com/sp/若叶女孩"
     ],
