@@ -34,3 +34,5 @@ npm run lodash
 
 参考 [lodash 文档](https://lodash.com/custom-builds)
 
+## special thanks to
+感谢 [@parameciumzhe](https://twitter.com/parameciumzhe) 提供的设计建议和优化方案
