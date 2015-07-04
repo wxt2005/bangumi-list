@@ -551,7 +551,8 @@
     "timeCN": "0100",
     "onAirSite": [
       "http://www.tudou.com/albumcover/UW8uUaXCUQg.html",
-      "http://www.youku.com/show_page/id_z58f52458197611e5b432.html"
+      "http://www.youku.com/show_page/id_z58f52458197611e5b432.html",
+      "http://www.acfun.tv/v/ab1470298_0"
     ],
     "newBgm": true,
     "showDate": "2015-07-03",
@@ -565,7 +566,10 @@
     "weekDayCN": 6,
     "timeJP": "2130",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://www.bilibili.com/sp/黑白小姐#S-1954",
+      "http://www.acfun.tv/v/ab1470299_0"
+    ],
     "newBgm": true,
     "showDate": "2015-07-03",
     "bgmId": 129105
@@ -594,7 +598,8 @@
     "timeJP": "2140",
     "timeCN": "2225",
     "onAirSite": [
-      "http://www.bilibili.com/sp/若叶女孩"
+      "http://www.bilibili.com/sp/若叶女孩",
+      "http://www.tucao.cc/index.php?m=search&c=index&a=init2&catid=24&q=若叶女孩"
     ],
     "newBgm": true,
     "showDate": "2015-07-03",
@@ -608,7 +613,11 @@
     "weekDayCN": 6,
     "timeJP": "2330",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://www.tucao.cc/index.php?m=search&c=index&a=init2&catid=24&q=GATE奇幻自卫队",
+      "http://www.acfun.tv/v/ab1470300_0",
+      "http://www.bilibili.com/sp/GATE%20奇幻自卫队"
+    ],
     "newBgm": true,
     "showDate": "2015-07-03",
     "bgmId": 120445
@@ -622,7 +631,8 @@
     "timeJP": "0055",
     "timeCN": "0225",
     "onAirSite": [
-      "http://www.bilibili.com/sp/Classroom☆Crisis"
+      "http://www.bilibili.com/sp/Classroom☆Crisis",
+      "http://www.tucao.cc/index.php?m=search&c=index&a=init2&catid=24&q=Classroom☆Crisis"
     ],
     "newBgm": true,
     "showDate": "2015-07-04",
@@ -636,7 +646,10 @@
     "weekDayCN": 6,
     "timeJP": "0210",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://www.bilibili.com/sp/战姬绝唱SYMPHOGEAR#S-1957",
+      "http://www.tucao.cc/index.php?m=search&c=index&a=init2&catid=24&q=战姬绝唱Symphogear%20GX"
+    ],
     "newBgm": true,
     "showDate": "2015-07-04",
     "bgmId": 90512
@@ -652,7 +665,7 @@
     "onAirSite": [
       "http://www.tudou.com/albumcover/Se7oGWDr_GA.html",
       "http://www.youku.com/show_page/id_z2c9c7552acd811e38b3f.html",
-      "http://www.bilibili.com/sp/创圣的大天使#S-1956",
+      "http://www.bilibili.com/sp/无头骑士异闻录#S-1995",
       "http://v.qq.com/detail/4/4gmobofw9fltve9.html"
     ],
     "newBgm": true,
