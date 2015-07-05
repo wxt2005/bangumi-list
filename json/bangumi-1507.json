@@ -357,7 +357,8 @@
     "timeCN": "0900",
     "onAirSite": [
       "http://www.acfun.tv/v/ab1470265_0",
-      "http://www.iqiyi.com/a_19rrhaz605.html"
+      "http://www.iqiyi.com/a_19rrhaz605.html",
+      "http://www.tucao.cc/index.php?m=search&c=index&a=init2&catid=24&q=圣斗士星矢+黄金魂"
     ],
     "newBgm": false,
     "bgmId": 116716,
@@ -552,7 +553,8 @@
     "onAirSite": [
       "http://www.tudou.com/albumcover/UW8uUaXCUQg.html",
       "http://www.youku.com/show_page/id_z58f52458197611e5b432.html",
-      "http://www.acfun.tv/v/ab1470298_0"
+      "http://www.acfun.tv/v/ab1470298_0",
+      "http://www.tucao.cc/index.php?m=search&c=index&a=init2&catid=24&q=潮与虎"
     ],
     "newBgm": true,
     "showDate": "2015-07-03",
@@ -568,7 +570,8 @@
     "timeCN": "",
     "onAirSite": [
       "http://www.bilibili.com/sp/黑白小姐#S-1954",
-      "http://www.acfun.tv/v/ab1470299_0"
+      "http://www.acfun.tv/v/ab1470299_0",
+      "http://www.tucao.cc/index.php?m=search&c=index&a=init2&catid=24&q=黑白小姐%20第二季"
     ],
     "newBgm": true,
     "showDate": "2015-07-03",
@@ -583,7 +586,8 @@
     "timeJP": "2209",
     "timeCN": "2220",
     "onAirSite": [
-      "http://www.bilibili.com/sp/乌瑟的穷困生活#S-1952"
+      "http://www.bilibili.com/sp/乌瑟的穷困生活#S-1952",
+      "http://www.tucao.cc/index.php?m=search&c=index&a=init2&catid=24&q=T宝的悲惨日常%20梦幻篇"
     ],
     "newBgm": true,
     "showDate": "2015-07-03",
@@ -648,7 +652,8 @@
     "timeCN": "",
     "onAirSite": [
       "http://www.bilibili.com/sp/战姬绝唱SYMPHOGEAR#S-1957",
-      "http://www.tucao.cc/index.php?m=search&c=index&a=init2&catid=24&q=战姬绝唱Symphogear%20GX"
+      "http://www.tucao.cc/index.php?m=search&c=index&a=init2&catid=24&q=战姬绝唱Symphogear%20GX",
+      "http://www.acfun.tv/v/ab1470332_0"
     ],
     "newBgm": true,
     "showDate": "2015-07-04",
@@ -687,7 +692,9 @@
       "http://www.bilibili.com/sp/Charlotte",
       "http://www.letv.com/comic/10010346.html",
       "http://www.iqiyi.com/a_19rrhb5qhd.html",
-      "http://v.qq.com/detail/k/keh8jx4nea7e5w0.html"
+      "http://v.qq.com/detail/k/keh8jx4nea7e5w0.html",
+      "http://www.acfun.tv/v/ab1470328_0",
+      "http://www.tucao.cc/index.php?m=search&c=index&a=init2&catid=24&q=Charlotte"
     ],
     "newBgm": true,
     "showDate": "2015-07-04",
@@ -700,7 +707,7 @@
     "weekDayJP": 6,
     "weekDayCN": 0,
     "timeJP": "2330",
-    "timeCN": "",
+    "timeCN": "0100",
     "onAirSite": [
       "http://www.bilibili.com/sp/WORKING!!迷糊餐厅#S-1960"
     ],
@@ -715,9 +722,9 @@
     "weekDayJP": 6,
     "weekDayCN": 0,
     "timeJP": "2200",
-    "timeCN": "",
+    "timeCN": "0200",
     "onAirSite": [
-      "http://www.bilibili.com/sp/OVER%20LORD"
+      "http://www.bilibili.com/sp/没有黄段子的无聊世界"
     ],
     "newBgm": true,
     "showDate": "2015-07-04",
@@ -745,7 +752,9 @@
     "timeJP": "0055",
     "timeCN": "0430",
     "onAirSite": [
-      "http://www.tudou.com/albumcover/wk_5UB9cfe4.html"
+      "http://www.tudou.com/albumcover/wk_5UB9cfe4.html",
+      "http://www.youku.com/show_page/id_z1ed08068197d11e5a080.html",
+      "http://www.acfun.tv/v/ab1470304_0"
     ],
     "newBgm": true,
     "showDate": "2015-07-05",
@@ -764,7 +773,9 @@
       "http://www.youku.com/show_page/id_ze86a7b88197611e5b5ce.html",
       "http://www.bilibili.com/sp/六花的勇者",
       "http://www.letv.com/comic/10010414.html",
-      "http://www.pptv.com/page/323039.html"
+      "http://www.pptv.com/page/323039.html",
+      "http://www.iqiyi.com/a_19rrhb5knt.html",
+      "http://www.acfun.tv/v/ab1470327_0"
     ],
     "newBgm": true,
     "showDate": "2015-07-05",
