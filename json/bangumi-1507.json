@@ -301,8 +301,10 @@
     "weekDayJP": 1,
     "weekDayCN": 1,
     "timeJP": "1700",
-    "timeCN": "",
-    "onAirSite": [],
+    "timeCN": "2200",
+    "onAirSite": [
+      "http://www.iqiyi.com/a_19rrhb2w2t.html"
+    ],
     "newBgm": false,
     "bgmId": 129844,
     "showDate": "2015-04-06"
@@ -671,7 +673,10 @@
       "http://www.tudou.com/albumcover/Se7oGWDr_GA.html",
       "http://www.youku.com/show_page/id_z2c9c7552acd811e38b3f.html",
       "http://www.bilibili.com/sp/无头骑士异闻录#S-1995",
-      "http://v.qq.com/detail/4/4gmobofw9fltve9.html"
+      "http://v.qq.com/detail/4/4gmobofw9fltve9.html",
+      "http://www.iqiyi.com/a_19rrhay53x.html",
+      "http://www.acfun.tv/v/ab1470302_0",
+      "http://www.tucao.cc/index.php?m=search&c=index&a=init2&catid=24&q=无头骑士异闻录×2%20转"
     ],
     "newBgm": true,
     "showDate": "2015-07-04",
@@ -709,14 +714,15 @@
     "timeJP": "2330",
     "timeCN": "0100",
     "onAirSite": [
-      "http://www.bilibili.com/sp/WORKING!!迷糊餐厅#S-1960"
+      "http://www.bilibili.com/sp/WORKING!!迷糊餐厅#S-1960",
+      "http://www.tucao.cc/index.php?m=search&c=index&a=init2&catid=24&q=WORKING!!!迷糊餐厅%20第三季"
     ],
     "newBgm": true,
     "showDate": "2015-07-04",
     "bgmId": 110648
   },
   "1507_41": {
-    "titleCN": "没有下流概念的无聊世界",
+    "titleCN": "下流梗不存在的灰暗世界",
     "titleJP": "下ネタという概念が存在しない退屈な世界",
     "officalSite": "http://www.shimoseka.com/",
     "weekDayJP": 6,
@@ -724,7 +730,8 @@
     "timeJP": "2200",
     "timeCN": "0200",
     "onAirSite": [
-      "http://www.bilibili.com/sp/没有黄段子的无聊世界"
+      "http://www.bilibili.com/sp/没有黄段子的无聊世界",
+      "http://www.tucao.cc/index.php?m=search&c=index&a=init2&catid=24&q=下流梗不存在的灰暗世界"
     ],
     "newBgm": true,
     "showDate": "2015-07-04",
@@ -754,7 +761,8 @@
     "onAirSite": [
       "http://www.tudou.com/albumcover/wk_5UB9cfe4.html",
       "http://www.youku.com/show_page/id_z1ed08068197d11e5a080.html",
-      "http://www.acfun.tv/v/ab1470304_0"
+      "http://www.acfun.tv/v/ab1470304_0",
+      "http://www.tucao.cc/index.php?m=search&c=index&a=init2&catid=24&q=科学小飞侠+CROWDS+insight"
     ],
     "newBgm": true,
     "showDate": "2015-07-05",
@@ -775,7 +783,8 @@
       "http://www.letv.com/comic/10010414.html",
       "http://www.pptv.com/page/323039.html",
       "http://www.iqiyi.com/a_19rrhb5knt.html",
-      "http://www.acfun.tv/v/ab1470327_0"
+      "http://www.acfun.tv/v/ab1470327_0",
+      "http://www.tucao.cc/index.php?m=search&c=index&a=init2&catid=24&q=六花的勇者"
     ],
     "newBgm": true,
     "showDate": "2015-07-05",
@@ -788,8 +797,11 @@
     "weekDayJP": 0,
     "weekDayCN": 0,
     "timeJP": "0800",
-    "timeCN": "",
-    "onAirSite": [],
+    "timeCN": "1100",
+    "onAirSite": [
+      "http://www.iqiyi.com/a_19rrhb5shh.html",
+      "http://www.tucao.cc/index.php?m=search&c=index&a=init2&catid=24&q=龙珠%20超"
+    ],
     "newBgm": true,
     "showDate": "2015-07-05",
     "bgmId": 132220
@@ -802,7 +814,10 @@
     "weekDayCN": 1,
     "timeJP": "2127",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://www.acfun.tv/v/ab1470306_0",
+      "http://www.tucao.cc/index.php?m=search&c=index&a=init2&catid=24&q=和歌子酒"
+    ],
     "newBgm": true,
     "showDate": "2015-07-05",
     "bgmId": 129384
@@ -812,7 +827,7 @@
     "titleJP": "GOD EATER -ゴッドイーター-",
     "officalSite": "http://www.godeater.jp/anime/",
     "weekDayJP": 0,
-    "weekDayCN": 1,
+    "weekDayCN": 0,
     "timeJP": "2130",
     "timeCN": "2230",
     "onAirSite": [
@@ -820,7 +835,10 @@
       "http://www.youku.com/show_page/id_z7f52b0ce197c11e5a080.html",
       "http://www.bilibili.com/sp/噬神者",
       "http://www.letv.com/comic/10010338.html",
-      "http://v.qq.com/detail/w/wdp6c3tyxfha0l8.html"
+      "http://v.qq.com/detail/w/wdp6c3tyxfha0l8.html",
+      "http://www.iqiyi.com/a_19rrhb5by1.html",
+      "http://www.acfun.tv/v/ab1470289_0",
+      "http://www.tucao.cc/index.php?m=search&c=index&a=init2&catid=24&q=噬神者"
     ],
     "newBgm": true,
     "showDate": "2015-07-05",
