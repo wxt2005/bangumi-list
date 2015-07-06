@@ -816,7 +816,8 @@
     "timeCN": "",
     "onAirSite": [
       "http://www.acfun.tv/v/ab1470306_0",
-      "http://www.tucao.cc/index.php?m=search&c=index&a=init2&catid=24&q=和歌子酒"
+      "http://www.tucao.cc/index.php?m=search&c=index&a=init2&catid=24&q=和歌子酒",
+      "http://www.bilibili.com/sp/和歌子酒%20动画"
     ],
     "newBgm": true,
     "showDate": "2015-07-05",
@@ -1231,6 +1232,26 @@
     ],
     "newBgm": false,
     "bgmId": 105075,
+    "showDate": "2015-04-05"
+  },
+  "1504_44": {
+    "titleCN": "网球优等生 2期",
+    "titleJP": "ベイビーステップ 第2シリーズ",
+    "officalSite": "http://www3.nhk.or.jp/anime/babysteps/2nd/index.html",
+    "weekDayJP": 0,
+    "weekDayCN": 1,
+    "timeJP": "1630",
+    "timeCN": "0100",
+    "onAirSite": [
+      "http://www.tudou.com/albumcover/5EughhrPa3A.html",
+      "http://www.youku.com/show_page/id_z460a9d2cd29611e4a080.html",
+      "http://www.iqiyi.com/a_19rrhaybvd.html",
+      "http://www.bilibili.com/sp/BABY%20STEPS%20网球优等生#S-1808",
+      "http://www.acfun.tv/v/ab1470246_0",
+      "http://www.tucao.cc/index.php?m=search&c=index&a=init2&q=网球优等生%20第二季"
+    ],
+    "newBgm": false,
+    "bgmId": 113906,
     "showDate": "2015-04-05"
   }
 }
