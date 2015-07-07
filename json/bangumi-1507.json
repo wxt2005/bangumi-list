@@ -873,14 +873,15 @@
       "http://www.iqiyi.com/a_19rrhb5pv5.html",
       "http://v.qq.com/detail/2/2hndczgdvkpzff5.html",
       "http://www.acfun.tv/v/ab1470308_0",
-      "http://www.tucao.cc/index.php?m=search&c=index&a=init2&catid=24&q=赤发白雪姬"
+      "http://www.tucao.cc/index.php?m=search&c=index&a=init2&catid=24&q=赤发白雪姬",
+      "http://www.pptv.com/page/322977.html"
     ],
     "newBgm": true,
     "showDate": "2015-07-06",
     "bgmId": 126034
   },
   "1507_50": {
-    "titleCN": "出包王女Darkness 2nd",
+    "titleCN": "出包王女 Darkness 2nd",
     "titleJP": "To LOVEる-とらぶる-ダークネス 2nd",
     "officalSite": "http://www.j-toloveru.com/",
     "weekDayJP": 1,
@@ -918,7 +919,8 @@
     "onAirSite": [
       "http://www.tudou.com/albumcover/XJZSLm81Y-8.html",
       "http://www.youku.com/show_page/id_z961bfe7c197d11e5b5ce.html",
-      "http://www.acfun.tv/v/ab1470291_0"
+      "http://www.acfun.tv/v/ab1470291_0",
+      "http://www.tucao.cc/index.php?m=search&c=index&a=init2&catid=24&q=其实我是"
     ],
     "newBgm": true,
     "showDate": "2015-07-07",
@@ -977,7 +979,7 @@
     "weekDayJP": 2,
     "weekDayCN": 2,
     "timeJP": "2200",
-    "timeCN": "",
+    "timeCN": "2300",
     "onAirSite": [
       "http://www.bilibili.com/sp/OVER%20LORD"
     ],
@@ -990,9 +992,9 @@
     "titleJP": "それが声優！",
     "officalSite": "http://soregaseiyu.com/",
     "weekDayJP": 2,
-    "weekDayCN": 2,
+    "weekDayCN": 3,
     "timeJP": "2200",
-    "timeCN": "",
+    "timeCN": "0430",
     "onAirSite": [
       "http://www.bilibili.com/sp/那就是声优！"
     ],
@@ -1009,7 +1011,8 @@
     "timeJP": "2330",
     "timeCN": "0030",
     "onAirSite": [
-      "http://v.qq.com/detail/8/8yjy00f3wg1tz63.html"
+      "http://v.qq.com/detail/8/8yjy00f3wg1tz63.html",
+      "http://www.tucao.cc/index.php?m=search&c=index&a=init2&catid=24&q=魔物娘的相伴日常"
     ],
     "newBgm": true,
     "showDate": "2015-07-07",
