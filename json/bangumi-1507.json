@@ -872,7 +872,8 @@
       "http://www.bilibili.com/sp/赤发白雪姬",
       "http://www.iqiyi.com/a_19rrhb5pv5.html",
       "http://v.qq.com/detail/2/2hndczgdvkpzff5.html",
-      "http://www.acfun.tv/v/ab1470308_0"
+      "http://www.acfun.tv/v/ab1470308_0",
+      "http://www.tucao.cc/index.php?m=search&c=index&a=init2&catid=24&q=赤发白雪姬"
     ],
     "newBgm": true,
     "showDate": "2015-07-06",
@@ -886,7 +887,9 @@
     "weekDayCN": 2,
     "timeJP": "2300",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://www.tucao.cc/index.php?m=search&c=index&a=init2&catid=24&q=To%20Love%20RU%20Darkness%202nd"
+    ],
     "newBgm": true,
     "showDate": "2015-07-06",
     "bgmId": 120763
@@ -932,7 +935,8 @@
     "onAirSite": [
       "http://www.tudou.com/albumcover/-3O0GyT_JkQ.html",
       "http://www.youku.com/show_page/id_z837ad5f2198411e5b432.html",
-      "http://www.acfun.tv/v/ab1470310_0"
+      "http://www.acfun.tv/v/ab1470310_0",
+      "http://www.tucao.cc/index.php?m=search&c=index&a=init2&catid=24&q=悠哉日常大王%20Repeat"
     ],
     "newBgm": true,
     "showDate": "2015-07-07",
