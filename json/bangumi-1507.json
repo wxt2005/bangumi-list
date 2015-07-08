@@ -376,7 +376,8 @@
     "timeJP": "2340",
     "timeCN": "",
     "onAirSite": [
-      "http://www.bilibili.com/sp/英国一家%20吃在日本"
+      "http://www.bilibili.com/sp/英国一家%20吃在日本",
+      "http://www.acfun.tv/v/ab1470282_0"
     ],
     "newBgm": false,
     "bgmId": 125624,
@@ -534,9 +535,9 @@
     "titleJP": "ヘタリア The World Twinkle",
     "officalSite": "http://hetalia.com/twt/",
     "weekDayJP": 5,
-    "weekDayCN": 5,
+    "weekDayCN": 4,
     "timeJP": "1100",
-    "timeCN": "",
+    "timeCN": "1200",
     "onAirSite": [
       "http://www.bilibili.com/sp/黑塔利亚#S-1959"
     ],
@@ -981,7 +982,8 @@
     "timeJP": "2200",
     "timeCN": "2300",
     "onAirSite": [
-      "http://www.bilibili.com/sp/OVER%20LORD"
+      "http://www.bilibili.com/sp/OVER%20LORD",
+      "http://www.tucao.cc/index.php?m=search&c=index&a=init2&catid=24&q=Overlord"
     ],
     "newBgm": true,
     "showDate": "2015-07-07",
@@ -996,7 +998,8 @@
     "timeJP": "2200",
     "timeCN": "0430",
     "onAirSite": [
-      "http://www.bilibili.com/sp/那就是声优！"
+      "http://www.bilibili.com/sp/那就是声优！",
+      "http://www.tucao.cc/index.php?m=search&c=index&a=init2&catid=24&q=那就是声优"
     ],
     "newBgm": true,
     "showDate": "2015-07-07",
@@ -1027,7 +1030,8 @@
     "timeJP": "0035",
     "timeCN": "",
     "onAirSite": [
-      "http://www.acfun.tv/v/ab1470313_0"
+      "http://www.acfun.tv/v/ab1470313_0",
+      "http://www.tucao.cc/index.php?m=search&c=index&a=init2&catid=24&q=比基尼勇士"
     ],
     "newBgm": true,
     "showDate": "2015-07-08",
@@ -1042,7 +1046,8 @@
     "timeJP": "2055",
     "timeCN": "2055",
     "onAirSite": [
-      "http://www.bilibili.com/sp/洲崎西"
+      "http://www.bilibili.com/sp/洲崎西",
+      "http://www.tucao.cc/index.php?m=search&c=index&a=init2&catid=24&q=洲崎西"
     ],
     "newBgm": true,
     "showDate": "2015-07-08",
@@ -1092,7 +1097,9 @@
       "http://www.youku.com/show_page/id_zc4d8c0401afb11e5b5ce.html",
       "http://www.bilibili.com/sp/干物妹！小埋",
       "http://www.letv.com/comic/10010414.html",
-      "http://v.qq.com/detail/3/3lriily11h16j01.html"
+      "http://v.qq.com/detail/3/3lriily11h16j01.html",
+      "http://www.iqiyi.com/a_19rrhb5bo5.html",
+      "http://www.acfun.tv/v/ab1470315_0"
     ],
     "newBgm": true,
     "showDate": "2015-07-09",
