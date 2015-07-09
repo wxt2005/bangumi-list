@@ -539,7 +539,8 @@
     "timeJP": "1100",
     "timeCN": "1200",
     "onAirSite": [
-      "http://www.bilibili.com/sp/黑塔利亚#S-1959"
+      "http://www.bilibili.com/sp/黑塔利亚#S-1959",
+      "http://www.tucao.cc/index.php?m=search&c=index&a=init2&catid=24&q=黑塔利亚%20The%20World%20Twinkle"
     ],
     "newBgm": true,
     "showDate": "2015-07-03",
@@ -1063,7 +1064,8 @@
     "timeCN": "0100",
     "onAirSite": [
       "http://www.bilibili.com/sp/空战魔导士候补生的教官",
-      "http://v.qq.com/detail/a/aan1um3pt3nue20.html"
+      "http://v.qq.com/detail/a/aan1um3pt3nue20.html",
+      "http://www.tucao.cc/index.php?m=search&c=index&a=init2&catid=24&q=空战魔导士候补生的教官"
     ],
     "newBgm": true,
     "showDate": "2015-07-08",
@@ -1128,8 +1130,11 @@
     "weekDayJP": 5,
     "weekDayCN": 5,
     "timeJP": "0000",
-    "timeCN": "",
-    "onAirSite": [],
+    "timeCN": "0015",
+    "onAirSite": [
+      "http://www.bilibili.com/sp/群居姐妹",
+      "http://www.tucao.cc/index.php?m=search&c=index&a=init2&catid=24&q=群居姐妹"
+    ],
     "newBgm": true,
     "showDate": "2015-07-10",
     "bgmId": 125896
