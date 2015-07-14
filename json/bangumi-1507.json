@@ -910,7 +910,9 @@
     "weekDayCN": 2,
     "timeJP": "0005",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://www.acfun.tv/v/ab1470290_0"
+    ],
     "newBgm": true,
     "showDate": "2015-07-07",
     "bgmId": 130452
@@ -960,7 +962,8 @@
     "timeJP": "0011",
     "timeCN": "0020",
     "onAirSite": [
-      "http://www.bilibili.com/sp/Million%20Doll"
+      "http://www.bilibili.com/sp/Million%20Doll",
+      "http://www.tucao.cc/index.php?m=search&c=index&a=init2&catid=24&q=Million%20Doll"
     ],
     "newBgm": true,
     "showDate": "2015-07-07",
@@ -974,7 +977,9 @@
     "weekDayCN": 3,
     "timeJP": "2055",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://www.tucao.cc/index.php?m=search&c=index&a=init2&catid=24&q=怪兽酒场干杯！"
+    ],
     "newBgm": true,
     "showDate": "2015-07-07",
     "bgmId": 133962
@@ -1184,7 +1189,8 @@
     "timeJP": "0015",
     "timeCN": "0015",
     "onAirSite": [
-      "http://v.qq.com/cover/v/vxk0pmz40gf0hz0.html"
+      "http://v.qq.com/cover/v/vxk0pmz40gf0hz0.html",
+      "http://www.bilibili.com/sp/枕男子"
     ],
     "newBgm": true,
     "showDate": "2015-07-14",
