@@ -2,6 +2,7 @@
   "1507_0": {
     "titleCN": "名侦探柯南",
     "titleJP": "名探偵コナン",
+    "titleEN": "Detective Conan",
     "officalSite": "http://www.ytv.co.jp/conan/",
     "weekDayJP": 6,
     "weekDayCN": 0,
@@ -19,6 +20,7 @@
   "1507_1": {
     "titleCN": "海贼王",
     "titleJP": "ONE PIECE",
+    "titleEN": "ONE PIECE",
     "officalSite": "http://www.toei-anim.co.jp/tv/onep/",
     "weekDayJP": 0,
     "weekDayCN": 0,
@@ -37,6 +39,7 @@
   "1507_2": {
     "titleCN": "火影忍者 疾风传",
     "titleJP": "NARUTO -ナルト- 疾風伝",
+    "titleEN": "Naruto Shippuuden",
     "officalSite": "http://www.tv-tokyo.co.jp/anime/naruto/index2.html",
     "weekDayJP": 4,
     "weekDayCN": 4,
@@ -55,6 +58,7 @@
   "1507_3": {
     "titleCN": "偶像活动 3期",
     "titleJP": "アイカツ!アイドルカツドウ!",
+    "titleEN": "Aikatsu",
     "officalSite": "http://www.aikatsu.net",
     "weekDayJP": 4,
     "weekDayCN": 4,
@@ -71,7 +75,8 @@
   },
   "1507_4": {
     "titleCN": "游戏王ARC-V",
-    "titleJP": "遊☆戯☆王ARC-V ",
+    "titleJP": "遊☆戯☆王ARC-V",
+    "titleEN": "Yu-Gi-Oh Arc-V",
     "officalSite": "http://www.tv-tokyo.co.jp/anime/yugioh-arcv/",
     "weekDayJP": 0,
     "weekDayCN": 1,
@@ -87,6 +92,7 @@
   "1507_5": {
     "titleCN": "口袋妖怪 XY",
     "titleJP": "ポケットモンスター XY",
+    "titleEN": "Pokemon XY",
     "officalSite": "http://www.tv-tokyo.co.jp/anime/pokemon_xy/",
     "weekDayJP": 4,
     "weekDayCN": 5,
@@ -104,6 +110,7 @@
   "1507_6": {
     "titleCN": "GO! Princess Precure",
     "titleJP": "Ｇｏ！プリンセスプリキュア",
+    "titleEN": "Go! Princess Precure",
     "officalSite": "http://www.toei-anim.co.jp/tv/princess_precure/",
     "weekDayJP": 0,
     "weekDayCN": 0,
@@ -120,6 +127,7 @@
   "1507_7": {
     "titleCN": "妖精的尾巴 2期",
     "titleJP": "FAIRY TAIL 新シリーズ",
+    "titleEN": "FAIRY TAIL",
     "officalSite": "http://www.fairytail-tv.com/",
     "weekDayJP": 6,
     "weekDayCN": 6,
@@ -138,6 +146,7 @@
   "1507_8": {
     "titleCN": "美少女战士 Crystal 2期",
     "titleJP": "美少女戦士セーラームーン Crystal ブラック・ムーン編 (第2期)",
+    "titleEN": "Sailor Moon Crystal",
     "officalSite": "http://sailormoon-official.com/animation/",
     "weekDayJP": 6,
     "weekDayCN": 6,
@@ -155,6 +164,7 @@
   "1507_9": {
     "titleCN": "境界触发者",
     "titleJP": "ワールドトリガー",
+    "titleEN": "World Trigger",
     "officalSite": "http://www.toei-anim.co.jp/tv/wt/",
     "weekDayJP": 0,
     "weekDayCN": 0,
@@ -173,6 +183,7 @@
   "1507_10": {
     "titleCN": "战斗之魂 烈火魂",
     "titleJP": "バトルスピリッツ烈火魂-バーニングソウル-",
+    "titleEN": "Battle Spirits Burning Soul",
     "officalSite": "http://www.sunrise-inc.co.jp/battlespirits7/",
     "weekDayJP": 3,
     "weekDayCN": 4,
@@ -188,6 +199,7 @@
   "1507_11": {
     "titleCN": "食戟之灵",
     "titleJP": "食戟のソーマ",
+    "titleEN": "Shokugeki no Soma",
     "officalSite": "http://shokugekinosoma.com/",
     "weekDayJP": 6,
     "weekDayCN": 6,
@@ -206,6 +218,7 @@
   "1507_12": {
     "titleCN": "宝石宠物 魔法变身",
     "titleJP": "ジュエルペット マジカルチェンジ (第7期)",
+    "titleEN": "Jewelpet Magical Change",
     "officalSite": "http://www.tv-tokyo.co.jp/anime/jewelpet7/",
     "weekDayJP": 5,
     "weekDayCN": 5,
@@ -221,6 +234,7 @@
   "1507_13": {
     "titleCN": "Pripara 6期",
     "titleJP": "プリパラ 新シーズン (第6期)",
+    "titleEN": "Pripara",
     "officalSite": "http://www.tv-tokyo.co.jp/anime/pripara/",
     "weekDayJP": 6,
     "weekDayCN": 6,
@@ -234,6 +248,7 @@
   "1507_14": {
     "titleCN": "电波教师",
     "titleJP": "電波教師",
+    "titleEN": "Denpa Kyoushi",
     "officalSite": "http://www.ytv.co.jp/denpa/",
     "weekDayJP": 6,
     "weekDayCN": 6,
@@ -256,6 +271,7 @@
   "1507_15": {
     "titleCN": "境界之轮回",
     "titleJP": "境界のRINNE",
+    "titleEN": "Kyoukai no Rinne",
     "officalSite": "http://anime-rinne.com/",
     "weekDayJP": 6,
     "weekDayCN": 2,
@@ -274,6 +290,7 @@
   "1507_16": {
     "titleCN": "亚尔斯兰战记",
     "titleJP": "アルスラーン戦記",
+    "titleEN": "Arslan Senki",
     "officalSite": "http://www.arslan.jp/",
     "weekDayJP": 0,
     "weekDayCN": 0,
@@ -297,6 +314,7 @@
   "1507_17": {
     "titleCN": "钻石王牌 新系列",
     "titleJP": "ダイヤのA 新シリーズ",
+    "titleEN": "Dia no Ace - Second Season",
     "officalSite": "http://diaace.com/",
     "weekDayJP": 1,
     "weekDayCN": 1,
@@ -312,6 +330,7 @@
   "1507_18": {
     "titleCN": "银魂 新系列",
     "titleJP": "銀魂° (新シリーズ)",
+    "titleEN": "Gintama",
     "officalSite": "http://www.tv-tokyo.co.jp/anime/gintama/index2.html",
     "weekDayJP": 3,
     "weekDayCN": 3,
@@ -325,8 +344,7 @@
     ],
     "downloadKeyword": {
       "dmhy": "銀魂%7CGintama",
-      "popgo": "银魂",
-      "nyaa": "銀魂"
+      "popgo": "银魂"
     },
     "newBgm": false,
     "bgmId": 120791,
@@ -335,6 +353,7 @@
   "1507_19": {
     "titleCN": "俺物语",
     "titleJP": "俺物語!!",
+    "titleEN": "Ore monogatari",
     "officalSite": "http://www.anime-ore.jp/",
     "weekDayJP": 4,
     "weekDayCN": 4,
@@ -352,6 +371,7 @@
   "1507_20": {
     "titleCN": "圣斗士星矢 黄金魂",
     "titleJP": "聖闘士星矢 -黄金魂 soul of gold-",
+    "titleEN": "Saint Seiya Soul of Gold",
     "officalSite": "http://saintseiya-gold.com/",
     "weekDayJP": 5,
     "weekDayCN": 6,
@@ -370,6 +390,7 @@
   "1507_21": {
     "titleCN": "英国一家，吃在日本",
     "titleJP": "英国一家、日本を食べる",
+    "titleEN": "Eikoku Ikka, Nihon o Taberu",
     "officalSite": "http://www9.nhk.or.jp/anime/sushi/",
     "weekDayJP": 3,
     "weekDayCN": 4,
@@ -386,6 +407,7 @@
   "1507_22": {
     "titleCN": "忍者杀手",
     "titleJP": "ニンジャスレイヤー フロムアニメイシヨン",
+    "titleEN": "Ninja Slayer",
     "officalSite": "http://www.ninjaslayer-animation.com/",
     "weekDayJP": 4,
     "weekDayCN": 5,
@@ -402,6 +424,7 @@
   "1507_23": {
     "titleCN": "我老婆是学生会长",
     "titleJP": "おくさまが生徒会長！",
+    "titleEN": "Okusama ga Seito Kaichou",
     "officalSite": "http://www.dreamcreation.co.jp/okusama/index.html",
     "weekDayJP": 3,
     "weekDayCN": 4,
@@ -419,6 +442,7 @@
   "1507_24": {
     "titleCN": "GANGSTA",
     "titleJP": "GANGSTA.",
+    "titleEN": "GANGSTA",
     "officalSite": "http://gangsta-project.com/",
     "weekDayJP": 4,
     "weekDayCN": 4,
@@ -436,6 +460,7 @@
   "1507_25": {
     "titleCN": "混沌之龙 赤龙战役",
     "titleJP": "ケイオスドラゴン 赤竜戦役",
+    "titleEN": "Chaos Dragon: Sekiryuu Seneki",
     "officalSite": "http://chaosdragon.red/",
     "weekDayJP": 4,
     "weekDayCN": 4,
@@ -459,6 +484,7 @@
   "1507_26": {
     "titleCN": "创圣的大天使 LOGOS",
     "titleJP": "アクエリオンロゴス",
+    "titleEN": "Aquarion Logos",
     "officalSite": "http://aqlogos.com/",
     "weekDayJP": 4,
     "weekDayCN": 5,
@@ -478,6 +504,7 @@
   "1507_27": {
     "titleCN": "乱步奇谭",
     "titleJP": "乱歩奇譚 Game of Laplace",
+    "titleEN": "Ranpo Kitan",
     "officalSite": "http://www.rampokitan.com/",
     "weekDayJP": 4,
     "weekDayCN": 5,
@@ -499,6 +526,7 @@
   "1507_28": {
     "titleCN": "青春×机关枪",
     "titleJP": "青春×機関銃",
+    "titleEN": "Aoharu x Kikanjuu",
     "officalSite": "http://www.tbs.co.jp/anime/aoharu/",
     "weekDayJP": 5,
     "weekDayCN": 5,
@@ -518,6 +546,7 @@
   "1507_29": {
     "titleCN": "城下町的蒲公英",
     "titleJP": "城下町のダンデライオン",
+    "titleEN": "Joukamachi no Dandelion",
     "officalSite": "http://www.tbs.co.jp/anime/dande/",
     "weekDayJP": 5,
     "weekDayCN": 5,
@@ -535,6 +564,7 @@
   "1507_30": {
     "titleCN": "黑塔利亚 第6期",
     "titleJP": "ヘタリア The World Twinkle",
+    "titleEN": "Hetalia: The World Twinkle",
     "officalSite": "http://hetalia.com/twt/",
     "weekDayJP": 5,
     "weekDayCN": 4,
@@ -551,6 +581,7 @@
   "1507_31": {
     "titleCN": "潮与虎",
     "titleJP": "うしおととら",
+    "titleEN": "Ushio to Tora",
     "officalSite": "http://ushitora.tv/",
     "weekDayJP": 5,
     "weekDayCN": 6,
@@ -569,6 +600,7 @@
   "1507_32": {
     "titleCN": "黑白小姐 第2期",
     "titleJP": "ミス・モノクローム 第2期",
+    "titleEN": "Miss Monochrome",
     "officalSite": "http://www.starchild.co.jp/special/miss_monochrome_anime_2/",
     "weekDayJP": 5,
     "weekDayCN": 6,
@@ -586,6 +618,7 @@
   "1507_33": {
     "titleCN": "兔宝的悲惨日常 梦幻篇",
     "titleJP": "うーさーのその日暮らし 夢幻編 (第3期)",
+    "titleEN": "Wooser no Sono Higurashi Mugen hen",
     "officalSite": "http://wooser.tv/",
     "weekDayJP": 5,
     "weekDayCN": 5,
@@ -602,6 +635,7 @@
   "1507_34": {
     "titleCN": "若叶少女",
     "titleJP": "わかば＊ガール",
+    "titleEN": "Wakaba Girl",
     "officalSite": "http://wakabagirl.com/",
     "weekDayJP": 5,
     "weekDayCN": 5,
@@ -618,6 +652,7 @@
   "1507_35": {
     "titleCN": "GATE 奇幻自卫队",
     "titleJP": "GATE -自衛隊 彼の地にて、斯く戦えり- ",
+    "titleEN": "GATE",
     "officalSite": "http://gate-anime.com/",
     "weekDayJP": 5,
     "weekDayCN": 6,
@@ -635,6 +670,7 @@
   "1507_36": {
     "titleCN": "教室☆危机",
     "titleJP": "Classroom☆Crisis",
+    "titleEN": "Classroom Crisis",
     "officalSite": "http://www.classroom-crisis.com/",
     "weekDayJP": 6,
     "weekDayCN": 6,
@@ -651,6 +687,7 @@
   "1507_37": {
     "titleCN": "战姬绝唱 SYMPHOGEAR GX",
     "titleJP": "戦姫絶唱シンフォギアＧＸ (第3期)",
+    "titleEN": "Senki Zesshou Symphogear GX",
     "officalSite": "http://www.symphogear-gx.com/",
     "weekDayJP": 6,
     "weekDayCN": 6,
@@ -669,6 +706,7 @@
   "1507_38": {
     "titleCN": "无头骑士异闻录×2 转",
     "titleJP": "デュラララ!!×2 転",
+    "titleEN": "Durarara!!x2 Ten",
     "officalSite": "http://www.durarara.com/",
     "weekDayJP": 6,
     "weekDayCN": 6,
@@ -690,6 +728,7 @@
   "1507_39": {
     "titleCN": "Charlotte",
     "titleJP": "Charlotte",
+    "titleEN": "Charlotte",
     "officalSite": "http://charlotte-anime.jp/",
     "weekDayJP": 6,
     "weekDayCN": 0,
@@ -713,6 +752,7 @@
   "1507_40": {
     "titleCN": "迷糊餐厅 第3期",
     "titleJP": "WORKING!!! (第3期)",
+    "titleEN": "Working!!!",
     "officalSite": "http://www.wagnaria.com/",
     "weekDayJP": 6,
     "weekDayCN": 0,
@@ -729,6 +769,7 @@
   "1507_41": {
     "titleCN": "下流梗不存在的灰暗世界",
     "titleJP": "下ネタという概念が存在しない退屈な世界",
+    "titleEN": "Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai",
     "officalSite": "http://www.shimoseka.com/",
     "weekDayJP": 6,
     "weekDayCN": 0,
@@ -745,6 +786,7 @@
   "1507_42": {
     "titleCN": "暗闇三太",
     "titleJP": "暗闇三太",
+    "titleEN": "Kurayami Santa",
     "officalSite": "http://www.kbc.co.jp/santa/",
     "weekDayJP": 0,
     "weekDayCN": 0,
@@ -760,6 +802,7 @@
   "1507_43": {
     "titleCN": "科学小飞侠 Crowds insight",
     "titleJP": "ガッチャマンクラウズ インサイト (第2期)",
+    "titleEN": "Gatchaman Crowds insight",
     "officalSite": "http://www.ntv.co.jp/GC_insight/",
     "weekDayJP": 0,
     "weekDayCN": 0,
@@ -778,6 +821,7 @@
   "1507_44": {
     "titleCN": "六花的勇者",
     "titleJP": "六花の勇者",
+    "titleEN": "Rokka no Yuusha",
     "officalSite": "http://rokka-anime.jp/",
     "weekDayJP": 0,
     "weekDayCN": 0,
@@ -800,6 +844,7 @@
   "1507_45": {
     "titleCN": "龙珠超",
     "titleJP": "ドラゴンボール超(スーパー)",
+    "titleEN": "DragonBall Super",
     "officalSite": "http://www.toei-anim.co.jp/tv/dragon_s/",
     "weekDayJP": 0,
     "weekDayCN": 0,
@@ -816,6 +861,7 @@
   "1507_46": {
     "titleCN": "和歌子酒",
     "titleJP": "ワカコ酒",
+    "titleEN": "Wakako-zake",
     "officalSite": "http://www.wakakozake.jp/",
     "weekDayJP": 0,
     "weekDayCN": 1,
@@ -833,6 +879,7 @@
   "1507_47": {
     "titleCN": "噬神者",
     "titleJP": "GOD EATER -ゴッドイーター-",
+    "titleEN": "God Eater",
     "officalSite": "http://www.godeater.jp/anime/",
     "weekDayJP": 0,
     "weekDayCN": 0,
@@ -855,6 +902,7 @@
   "1507_48": {
     "titleCN": "Q版变形金刚 归来的擎天柱之谜 第2期",
     "titleJP": "キュートトランスフォーマー帰ってきたコンボイの謎 第2期",
+    "titleEN": "Q Transformers: Kaette Kita Convoy no Nazo transformer",
     "officalSite": "http://www.qtransformers.com/",
     "weekDayJP": 1,
     "weekDayCN": 1,
@@ -868,6 +916,7 @@
   "1507_49": {
     "titleCN": "赤发白雪姬",
     "titleJP": "赤髪の白雪姫",
+    "titleEN": "Raw Anime Q Transformers: Kaette Kita Convoy no Nazo",
     "officalSite": "http://clarines-kingdom.com/",
     "weekDayJP": 1,
     "weekDayCN": 2,
@@ -890,6 +939,7 @@
   "1507_50": {
     "titleCN": "出包王女 Darkness 2nd",
     "titleJP": "To LOVEる-とらぶる-ダークネス 2nd",
+    "titleEN": "To Love-ru Darkness 2nd",
     "officalSite": "http://www.j-toloveru.com/",
     "weekDayJP": 1,
     "weekDayCN": 2,
@@ -905,6 +955,7 @@
   "1507_51": {
     "titleCN": "网球少女 第5期",
     "titleJP": "てーきゅう 第5期",
+    "titleEN": "Teekyuu 5",
     "officalSite": "http://te-kyu.com/",
     "weekDayJP": 2,
     "weekDayCN": 2,
@@ -920,6 +971,7 @@
   "1507_52": {
     "titleCN": "其实我是",
     "titleJP": "実は私は",
+    "titleEN": "Jitsu wa Watashi",
     "officalSite": "http://jitsuwata.tv/",
     "weekDayJP": 2,
     "weekDayCN": 2,
@@ -938,6 +990,7 @@
   "1507_53": {
     "titleCN": "悠哉日常大王 Repeat",
     "titleJP": "のんのんびより りぴーと (第2期)",
+    "titleEN": "Non Non Biyori Repeat",
     "officalSite": "http://www.nonnontv.com/",
     "weekDayJP": 2,
     "weekDayCN": 2,
@@ -956,6 +1009,7 @@
   "1507_54": {
     "titleCN": "百万偶像",
     "titleJP": "ミリオンドール",
+    "titleEN": "Million Doll",
     "officalSite": "http://milliondoll.com/",
     "weekDayJP": 2,
     "weekDayCN": 2,
@@ -972,6 +1026,7 @@
   "1507_55": {
     "titleCN": "怪兽酒场",
     "titleJP": "怪獣酒場 カンパーイ！",
+    "titleEN": "Kaijuu Sakaba Cheers",
     "officalSite": "http://www.kaijusakabakanpai.com/",
     "weekDayJP": 2,
     "weekDayCN": 3,
@@ -985,8 +1040,9 @@
     "bgmId": 133962
   },
   "1507_56": {
-    "titleCN": "OVER LORD",
+    "titleCN": "OVERLORD",
     "titleJP": "オーバーロード",
+    "titleEN": "OVERLORD",
     "officalSite": "http://overlord-anime.com/",
     "weekDayJP": 2,
     "weekDayCN": 2,
@@ -1003,6 +1059,7 @@
   "1507_57": {
     "titleCN": "那就是声优",
     "titleJP": "それが声優！",
+    "titleEN": "Sore ga Seiyuu",
     "officalSite": "http://soregaseiyu.com/",
     "weekDayJP": 2,
     "weekDayCN": 3,
@@ -1019,6 +1076,7 @@
   "1507_58": {
     "titleCN": "魔物娘相伴的日常",
     "titleJP": "モンスター娘のいる日常",
+    "titleEN": "Monster Musume no Iru Nichijou",
     "officalSite": "http://monmusu.tv/",
     "weekDayJP": 2,
     "weekDayCN": 3,
@@ -1035,6 +1093,7 @@
   "1507_59": {
     "titleCN": "比基尼勇士",
     "titleJP": "ビキニ・ウォリアーズ",
+    "titleEN": "Bikini Warriors",
     "officalSite": "http://bikini-warriors.com/anime/",
     "weekDayJP": 3,
     "weekDayCN": 3,
@@ -1051,6 +1110,7 @@
   "1507_60": {
     "titleCN": "洲崎西",
     "titleJP": "洲崎西",
+    "titleEN": "Suzakinishi The Animation",
     "officalSite": "http://suzakinishi.tv/",
     "weekDayJP": 3,
     "weekDayCN": 3,
@@ -1067,6 +1127,7 @@
   "1507_61": {
     "titleCN": "空战魔导士候补生的教官",
     "titleJP": "空戦魔導士候補生の教官",
+    "titleEN": "Kuusen Madoushi Kouhosei no Kyoukan",
     "officalSite": "http://ku-sen.jp/",
     "weekDayJP": 3,
     "weekDayCN": 4,
@@ -1084,6 +1145,7 @@
   "1507_62": {
     "titleCN": "纯情罗曼史3",
     "titleJP": "純情ロマンチカ3",
+    "titleEN": "Junjou Romantica 3",
     "officalSite": "http://www.suzukisan.info/",
     "weekDayJP": 4,
     "weekDayCN": 4,
@@ -1099,6 +1161,7 @@
   "1507_63": {
     "titleCN": "干物妹小埋",
     "titleJP": "干物妹！うまるちゃん",
+    "titleEN": "Himouto! Umaru-chan",
     "officalSite": "http://umaru-ani.me/",
     "weekDayJP": 4,
     "weekDayCN": 4,
@@ -1121,6 +1184,7 @@
   "1507_64": {
     "titleCN": "学园孤岛",
     "titleJP": "がっこうぐらし！",
+    "titleEN": "Gakkou Gurashi",
     "officalSite": "http://gakkougurashi.com/",
     "weekDayJP": 4,
     "weekDayCN": 5,
@@ -1138,6 +1202,7 @@
   "1507_65": {
     "titleCN": "群居姐妹",
     "titleJP": "だんちがい",
+    "titleEN": "Danchigai",
     "officalSite": "http://www.dreamcreation.co.jp/danchigai/",
     "weekDayJP": 5,
     "weekDayCN": 5,
@@ -1154,6 +1219,7 @@
   "1507_66": {
     "titleCN": "监狱学园",
     "titleJP": "監獄学園 -プリズンスクール-",
+    "titleEN": "Prison Schoo",
     "officalSite": "http://prison-anime.com/",
     "weekDayJP": 6,
     "weekDayCN": 6,
@@ -1170,6 +1236,7 @@
   "1507_67": {
     "titleCN": "VENUS PROJECT -CLIMAX-",
     "titleJP": "VENUS PROJECT -CLIMAX-",
+    "titleEN": "VENUS PROJECT -CLIMAX-",
     "officalSite": "http://vproject.jp/",
     "weekDayJP": 0,
     "weekDayCN": 1,
@@ -1183,6 +1250,7 @@
   "1507_68": {
     "titleCN": "枕男子",
     "titleJP": "枕男子",
+    "titleEN": "Makura no Danshi",
     "officalSite": "http://makuranodanshi.com/",
     "weekDayJP": 2,
     "weekDayCN": 2,
@@ -1199,6 +1267,7 @@
   "1507_69": {
     "titleCN": "偶像大师 灰姑娘女孩 第2期",
     "titleJP": "アイドルマスター シンデレラガールズ2nd SEASON",
+    "titleEN": "THE iDOLM@STER CINDERELLA GIRLS",
     "officalSite": "http://imas-cinderella.com/",
     "weekDayJP": 5,
     "weekDayCN": 6,
@@ -1216,6 +1285,7 @@
   "1507_70": {
     "titleCN": "魔法少女☆伊莉雅 第二季续篇",
     "titleJP": "プリズマ☆イリヤ ツヴァイ ヘルツ！ (第3期)",
+    "titleEN": "Fate Kaleid Liner Prisma Illya",
     "officalSite": "http://anime.prisma-illya.jp/",
     "weekDayJP": 6,
     "weekDayCN": 6,
@@ -1231,6 +1301,7 @@
   "1507_71": {
     "titleCN": "小长门有希的消失",
     "titleJP": "長門有希ちゃんの消失",
+    "titleEN": "Nagato Yuki-chan no Shoushitsu",
     "officalSite": "http://www.yukichan-anime.com/",
     "weekDayJP": 6,
     "weekDayCN": 6,
@@ -1253,6 +1324,7 @@
   "1504_41": {
     "titleCN": "血界战线",
     "titleJP": "血界戦線",
+    "titleEN": "Kekkai Sensen",
     "officalSite": "http://kekkaisensen.com/",
     "weekDayJP": 0,
     "weekDayCN": 0,
@@ -1275,6 +1347,7 @@
   "1504_44": {
     "titleCN": "网球优等生 2期",
     "titleJP": "ベイビーステップ 第2シリーズ",
+    "titleEN": "Baby Steps 2",
     "officalSite": "http://www3.nhk.or.jp/anime/babysteps/2nd/index.html",
     "weekDayJP": 0,
     "weekDayCN": 1,
