@@ -33,9 +33,9 @@ var BgmList = React.createClass({
             return (item.titleJP + item.titleCN).toLowerCase().indexOf(this.props.keyword.toLowerCase()) !== -1;
         }
 
-        // 如果有结束日期并且已经结束,则不显示
+        // 如果有结束日期并且已经结束一周,则不显示
         if(typeof item.endDate !== 'undefined' &&
-            Utils.hasEnded(item.endDate, item.timeJP, 0)){
+            Utils.hasEnded(item.endDate, item.timeJP, 7)){
             return false;
         }
 
