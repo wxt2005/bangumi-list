@@ -45,15 +45,34 @@ var BgmItemSub = React.createClass({
             'nyaa': {
                 name: 'Nyaa',
                 prefix: 'http://www.nyaa.se/?page=search&term=',
-                default: 'JP'
+                default: ['EN', 'JP']
             }
         };
 
         return _.map(downloadSites, function(conf, domain){
-            var keyword = data['title' + conf.default];
+            var keyword = '';
 
+            // 如果在数据中有覆盖选项，则直接使用
             if(data.downloadKeyword && data.downloadKeyword[domain]){
                 keyword = data.downloadKeyword[domain];
+            }else{
+                if(typeof conf.default === 'string' && conf.default){
+                    // 如果为字符串，则直接获取
+                    keyword = data['title' + conf.default];
+                }else if(_.isArray(conf.default)){
+                    // 如为数组，则依优先级获取
+                    _.each(conf.default, function(value, i){
+                        if(data['title' + value]){
+                            keyword = data['title' + value];
+                            return false;
+                        }
+                    });
+                }
+
+                // 如果仍然没有值，则取中文标题
+                if(!keyword){
+                    keyword = data.titleCN;
+                }
             }
 
             return (
