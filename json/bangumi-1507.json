@@ -5,12 +5,12 @@
     "titleEN": "Detective Conan",
     "officalSite": "http://www.ytv.co.jp/conan/",
     "weekDayJP": 6,
-    "weekDayCN": 0,
+    "weekDayCN": 6,
     "timeJP": "1800",
-    "timeCN": "",
+    "timeCN": "1930",
     "onAirSite": [
       "http://www.acfun.tv/a/aa127_0",
-      "http://www.iqiyi.com/dongman/mztkngyb.html",
+      "http://www.iqiyi.com/a_19rrhc0gyd.html",
       "http://v.qq.com/detail/h/hzgtnf6tbvfekfv.html"
     ],
     "newBgm": false,
@@ -590,9 +590,9 @@
     "onAirSite": [
       "http://www.tudou.com/albumcover/UW8uUaXCUQg.html",
       "http://www.youku.com/show_page/id_z58f52458197611e5b432.html",
-      "http://www.acfun.tv/v/ab1470298_0",
       "http://www.tucao.cc/index.php?m=search&c=index&a=init2&catid=24&q=潮与虎"
     ],
+    "comment": "优酷土豆为收费观看",
     "newBgm": true,
     "showDate": "2015-07-03",
     "bgmId": 124185
@@ -962,7 +962,9 @@
     "timeJP": "0005",
     "timeCN": "",
     "onAirSite": [
-      "http://www.acfun.tv/v/ab1470290_0"
+      "http://www.acfun.tv/v/ab1470290_0",
+      "http://www.bilibili.com/bangumi/网球并不可笑嘛%20第五季/",
+      "http://www.tucao.cc/index.php?m=search&c=index&a=init2&catid=24&q=网球并不可笑嘛Ⅴ"
     ],
     "newBgm": true,
     "showDate": "2015-07-07",
@@ -1033,7 +1035,9 @@
     "timeJP": "2055",
     "timeCN": "",
     "onAirSite": [
-      "http://www.tucao.cc/index.php?m=search&c=index&a=init2&catid=24&q=怪兽酒场干杯！"
+      "http://www.tucao.cc/index.php?m=search&c=index&a=init2&catid=24&q=怪兽酒场干杯！",
+      "http://www.acfun.tv/v/ab1470311_0",
+      "http://www.bilibili.com/bangumi/怪兽酒场干杯！/"
     ],
     "newBgm": true,
     "showDate": "2015-07-07",
@@ -1084,7 +1088,8 @@
     "timeCN": "0030",
     "onAirSite": [
       "http://v.qq.com/detail/8/8yjy00f3wg1tz63.html",
-      "http://www.tucao.cc/index.php?m=search&c=index&a=init2&catid=24&q=魔物娘的相伴日常"
+      "http://www.tucao.cc/index.php?m=search&c=index&a=init2&catid=24&q=魔物娘的相伴日常",
+      "http://www.bilibili.com/bangumi/魔物娘的相伴日常/"
     ],
     "newBgm": true,
     "showDate": "2015-07-07",
@@ -1101,7 +1106,8 @@
     "timeCN": "",
     "onAirSite": [
       "http://www.acfun.tv/v/ab1470313_0",
-      "http://www.tucao.cc/index.php?m=search&c=index&a=init2&catid=24&q=比基尼勇士"
+      "http://www.tucao.cc/index.php?m=search&c=index&a=init2&catid=24&q=比基尼勇士",
+      "http://www.bilibili.com/bangumi/比基尼勇士/"
     ],
     "newBgm": true,
     "showDate": "2015-07-08",
@@ -1242,7 +1248,11 @@
     "weekDayCN": 1,
     "timeJP": "2100",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://www.acfun.tv/v/ab1470305_0",
+      "http://www.bilibili.com/bangumi/VENUS%20PROJECT%20-CLIMAX-/",
+      "http://www.tucao.cc/index.php?m=search&c=index&a=init2&catid=24&q=VENUS%20PROJECT"
+    ],
     "newBgm": true,
     "showDate": "2015-07-5",
     "bgmId": 127294
@@ -1258,7 +1268,8 @@
     "timeCN": "0015",
     "onAirSite": [
       "http://v.qq.com/cover/v/vxk0pmz40gf0hz0.html",
-      "http://www.bilibili.com/sp/枕男子"
+      "http://www.bilibili.com/sp/枕男子",
+      "http://www.tucao.cc/index.php?m=search&c=index&a=init2&catid=24&q=枕男子"
     ],
     "newBgm": true,
     "showDate": "2015-07-14",
@@ -1276,7 +1287,10 @@
     "onAirSite": [
       "http://www.bilibili.com/sp/偶像大师%20灰姑娘女孩",
       "http://www.tudou.com/albumcover/qgdKuHlPg9g.html",
-      "http://www.youku.com/show_page/id_z1e13314abec311e38b3f.html"
+      "http://www.youku.com/show_page/id_z1e13314abec311e38b3f.html",
+      "http://www.acfun.tv/v/ab1470343_0",
+      "http://www.iqiyi.com/a_19rrhay5rp.html",
+      "http://www.tucao.cc/index.php?m=search&c=index&a=init2&catid=24&q=偶像大师灰姑娘"
     ],
     "newBgm": true,
     "showDate": "2015-07-17",
@@ -1290,9 +1304,12 @@
     "weekDayJP": 6,
     "weekDayCN": 6,
     "timeJP": "0040",
-    "timeCN": "",
+    "timeCN": "0210",
     "onAirSite": [
-      "http://www.bilibili.com/sp/魔法少女☆伊莉雅#S-1955"
+      "http://www.bilibili.com/sp/魔法少女☆伊莉雅#S-1955",
+      "http://www.acfun.tv/v/ab1470318_0",
+      "http://www.iqiyi.com/a_19rrhb5qkt.html",
+      "http://www.tucao.cc/index.php?m=search&c=index&a=init2&catid=24&q=魔法少女☆伊莉雅%202wei%20Herz!"
     ],
     "newBgm": true,
     "showDate": "2015-07-25",
@@ -1340,6 +1357,7 @@
       "http://www.acfun.tv/v/ab1470243_0",
       "http://www.tucao.cc/index.php?m=search&c=index&a=init2&q=血界战线"
     ],
+    "comment": "最终话延期中",
     "newBgm": false,
     "bgmId": 105075,
     "showDate": "2015-04-05"
