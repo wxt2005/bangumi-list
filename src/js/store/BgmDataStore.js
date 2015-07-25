@@ -35,7 +35,13 @@ var BgmDataStore = _.assign({}, EventEmitter.prototype, {
 
         if(data.version !== 0 && _data.path === data.path){
             console.info('data maerged');
-            _data = _.merge(_data, data);
+            _data = _.merge(_data, data, function(objectValue, sourceValue, key, source, value){
+                if(key === 'onAirSite'){
+                    return sourceValue;
+                }else{
+                    return undefined;
+                }
+            });
         }else{
             console.info('data replaced');
             _data = data;
