@@ -12,6 +12,7 @@
       "http://www.iqiyi.com/dongman/mztkngyb.html"
     ],
     "newBgm": false,
+    "bgmId": 899,
     "showDate": "1996-01-08"
   },
   "1407_1": {
@@ -28,6 +29,7 @@
       "http://tv.sohu.com/s2013/onepiece/"
     ],
     "newBgm": false,
+    "bgmId": 975,
     "showDate": "1999-10-20"
   },
   "1407_2": {
@@ -43,6 +45,7 @@
       "http://www.bilibili.com/sp/火影忍者"
     ],
     "newBgm": false,
+    "bgmId": 2782,
     "showDate": "2007-02-15"
   },
   "1407_3": {
@@ -57,6 +60,7 @@
       "http://www.bilibili.com/sp/偶像活动"
     ],
     "newBgm": false,
+    "bgmId": 139317,
     "showDate": "2013-10-03"
   },
   "1407_4": {
@@ -72,6 +76,7 @@
       "http://www.acfun.tv/a/aa1259367"
     ],
     "newBgm": false,
+    "bgmId": 92161,
     "showDate": "2014-04-06"
   },
   "1407_5": {
@@ -88,6 +93,7 @@
       "http://www.acfun.tv/a/aa2664"
     ],
     "newBgm": true,
+    "bgmId": 83868,
     "showDate": "2014-07-06"
   },
   "1407_6": {
@@ -108,6 +114,7 @@
       "http://www.tudou.com/albumcover/YiWcAL0mKck.html"
     ],
     "newBgm": true,
+    "bgmId": 99962,
     "showDate": "2014-07-06"
   },
   "1407_7": {
@@ -124,6 +131,7 @@
       "http://www.acfun.tv/a/aa2650"
     ],
     "newBgm": true,
+    "bgmId": 99505,
     "showDate": "2014-07-03"
   },
   "1407_8": {
@@ -140,6 +148,7 @@
       "http://www.acfun.tv/a/aa3374#group=4"
     ],
     "newBgm": true,
+    "bgmId": 100526,
     "showDate": "2014-07-11"
   },
   "1407_9": {
@@ -156,6 +165,7 @@
       "http://www.acfun.tv/a/aa2652"
     ],
     "newBgm": true,
+    "bgmId": 91420,
     "showDate": "2014-07-04"
   },
   "1407_10": {
@@ -172,6 +182,7 @@
       "http://www.acfun.tv/a/aa2686"
     ],
     "newBgm": true,
+    "bgmId": 103304,
     "showDate": "2014-07-11"
   },
   "1407_11": {
@@ -188,6 +199,7 @@
       "http://www.acfun.tv/a/aa2653"
     ],
     "newBgm": true,
+    "bgmId": 94236,
     "showDate": "2014-07-04"
   },
   "1407_12": {
@@ -204,6 +216,7 @@
       "http://www.acfun.tv/a/aa2666"
     ],
     "newBgm": true,
+    "bgmId": 100501,
     "showDate": "2014-07-06"
   },
   "1407_13": {
@@ -219,6 +232,7 @@
       "http://www.acfun.tv/a/aa219"
     ],
     "newBgm": false,
+    "bgmId": 85558,
     "showDate": "2014-01-04"
   },
   "1407_14": {
@@ -234,6 +248,7 @@
       "http://www.acfun.tv/a/aa109"
     ],
     "newBgm": false,
+    "bgmId": 78799,
     "showDate": "2013-10-17"
   },
   "1407_15": {
@@ -249,6 +264,7 @@
       "http://www.acfun.tv/a/aa220"
     ],
     "newBgm": false,
+    "bgmId": 83124,
     "showDate": "2014-01-08"
   },
   "1407_16": {
@@ -264,6 +280,7 @@
       "http://www.acfun.tv/a/aa2297"
     ],
     "newBgm": false,
+    "bgmId": 90632,
     "showDate": "2014-03-09"
   },
   "1407_17": {
@@ -278,6 +295,7 @@
       "http://www.bilibili.com/sp/圣灵破碎者"
     ],
     "newBgm": false,
+    "bgmId": 79873,
     "showDate": "2013-10-02"
   },
   "1407_18": {
@@ -292,6 +310,7 @@
       "http://www.bilibili.com/sp/英雄银行"
     ],
     "newBgm": false,
+    "bgmId": 92936,
     "showDate": "2014-04-07"
   },
   "1407_19": {
@@ -308,6 +327,7 @@
       "http://www.acfun.tv/a/aa1175"
     ],
     "newBgm": false,
+    "bgmId": 91135,
     "showDate": "2014-04-01"
   },
   "1407_20": {
@@ -322,6 +342,7 @@
       "http://www.bilibili.com/sp/展开骑士"
     ],
     "newBgm": false,
+    "bgmId": 80736,
     "showDate": "2014-04-05"
   },
   "1407_21": {
@@ -337,6 +358,7 @@
       "http://www.bilibili.com/sp/美妙旋律%20彩虹之梦"
     ],
     "newBgm": true,
+    "bgmId": 99748,
     "showDate": "2014-07-05"
   },
   "1407_22": {
@@ -353,6 +375,7 @@
       "http://www.iqiyi.com/a_19rrhbvwad.html"
     ],
     "newBgm": true,
+    "bgmId": 97927,
     "showDate": "2014-07-07"
   },
   "1407_23": {
@@ -368,6 +391,7 @@
       "http://www.bilibili.com/sp/刀剑神域"
     ],
     "newBgm": true,
+    "bgmId": 92382,
     "showDate": "2014-07-05"
   },
   "1407_24": {
@@ -383,6 +407,7 @@
       "http://www.acfun.tv/a/aa1058"
     ],
     "newBgm": false,
+    "bgmId": 84872,
     "showDate": "2014-04-05"
   },
   "1407_25": {
@@ -398,6 +423,7 @@
       "http://www.acfun.tv/a/aa954"
     ],
     "newBgm": false,
+    "bgmId": 85631,
     "showDate": "2014-04-04"
   },
   "1407_26": {
@@ -414,6 +440,7 @@
       "http://www.acfun.tv/a/aa1282"
     ],
     "newBgm": false,
+    "bgmId": 89211,
     "showDate": "2014-04-08"
   },
   "1407_27": {
@@ -428,6 +455,7 @@
       "http://www.bilibili.com/sp/吃豆人世界"
     ],
     "newBgm": false,
+    "bgmId": 99145,
     "showDate": "2014-04-05"
   },
   "1407_28": {
@@ -442,6 +470,7 @@
       "http://www.acfun.tv/a/aa2669"
     ],
     "newBgm": true,
+    "bgmId": 106834,
     "showDate": "2014-07-06"
   },
   "1407_29": {
@@ -458,6 +487,7 @@
       "http://www.bilibili.com/sp/魔法少女☆伊莉雅"
     ],
     "newBgm": true,
+    "bgmId": 83402,
     "showDate": "2014-07-10"
   },
   "1407_30": {
@@ -474,6 +504,7 @@
       "http://www.bilibili.com/sp/LOVE%20STAGE%21%21"
     ],
     "newBgm": true,
+    "bgmId": 74755,
     "showDate": "2014-07-10"
   },
   "1407_31": {
@@ -491,6 +522,7 @@
       "http://www.tudou.com/albumcover/DTTu59W1Lyc.html"
     ],
     "newBgm": true,
+    "bgmId": 99806,
     "showDate": "2014-07-05"
   },
   "1407_32": {
@@ -507,6 +539,7 @@
       "http://www.bilibili.com/sp/东京ESP"
     ],
     "newBgm": true,
+    "bgmId": 88676,
     "showDate": "2014-07-12"
   },
   "1407_33": {
@@ -522,6 +555,7 @@
       "http://www.bilibili.com/sp/ALDNOAH.ZERO"
     ],
     "newBgm": true,
+    "bgmId": 96918,
     "showDate": "2014-07-05"
   },
   "1407_34": {
@@ -538,6 +572,7 @@
       "http://www.bilibili.com/sp/人生"
     ],
     "newBgm": true,
+    "bgmId": 92430,
     "showDate": "2014-07-06"
   },
   "1407_35": {
@@ -554,6 +589,7 @@
       "http://www.bilibili.com/sp/白银的意志%20ARGEVOLLEN"
     ],
     "newBgm": true,
+    "bgmId": 100498,
     "showDate": "2014-07-03"
   },
   "1407_36": {
@@ -571,6 +607,7 @@
       "http://www.tudou.com/albumplay/m91s0qR6DIo/WLJl3ZiazII.html"
     ],
     "newBgm": true,
+    "bgmId": 95010,
     "showDate": "2014-07-02"
   },
   "1407_37": {
@@ -587,6 +624,7 @@
       "http://www.acfun.tv/a/aa1131"
     ],
     "newBgm": false,
+    "bgmId": 83079,
     "showDate": "2014-04-06"
   },
   "1407_38": {
@@ -603,6 +641,7 @@
       "http://www.acfun.tv/a/aa2694"
     ],
     "newBgm": true,
+    "bgmId": 79226,
     "showDate": "2014-07-14"
   },
   "1407_39": {
@@ -624,6 +663,7 @@
       "http://data.movie.kankan.com/movie/84931"
     ],
     "newBgm": true,
+    "bgmId": 99116,
     "showDate": "2014-07-02"
   },
   "1407_40": {
@@ -640,6 +680,7 @@
       "http://www.acfun.tv/a/aa2681"
     ],
     "newBgm": true,
+    "bgmId": 102694,
     "showDate": "2014-07-09"
   },
   "1407_41": {
@@ -657,6 +698,7 @@
       "http://www.youku.com/show_page/id_z54123fd8c54011e3a705.html"
     ],
     "newBgm": true,
+    "bgmId": 93865,
     "showDate": "2014-07-08"
   },
   "1407_42": {
@@ -673,6 +715,7 @@
       "http://www.bilibili.com/sp/向山进发"
     ],
     "newBgm": true,
+    "bgmId": 86670,
     "showDate": "2014-07-09"
   },
   "1407_43": {
@@ -688,6 +731,7 @@
       "http://www.bilibili.com/sp/青春之旅"
     ],
     "newBgm": true,
+    "bgmId": 92836,
     "showDate": "2014-07-07"
   },
   "1407_44": {
@@ -707,6 +751,7 @@
       "http://www.tudou.com/albumcover/NBDgX_W2aJk.html"
     ],
     "newBgm": true,
+    "bgmId": 94244,
     "showDate": "2014-07-06"
   },
   "1407_45": {
@@ -723,6 +768,7 @@
       "http://tv.sohu.com/s2014/scyxs/"
     ],
     "newBgm": true,
+    "bgmId": 82193,
     "showDate": "2014-07-06"
   },
   "1407_46": {
@@ -739,6 +785,7 @@
       "http://www.bilibili.com/sp/三坪房间的侵略者"
     ],
     "newBgm": true,
+    "bgmId": 98286,
     "showDate": "2014-07-12"
   },
   "1407_47": {
@@ -755,6 +802,7 @@
     ],
     "newBgm": true,
     "comment": "五话连续放送",
+    "bgmId": 82322,
     "showDate": "2014-08-16"
   },
   "1407_48": {
@@ -770,6 +818,7 @@
       "http://www.acfun.tv/a/aa1241"
     ],
     "newBgm": false,
+    "bgmId": 86414,
     "showDate": "2014-04-02"
   },
   "1407_49": {
@@ -788,6 +837,7 @@
       "http://v.qq.com/detail/d/dxxmvywtpp8nz70.html"
     ],
     "newBgm": true,
+    "bgmId": 93714,
     "showDate": "2014-07-03"
   },
   "1407_50": {
@@ -805,6 +855,7 @@
       "http://www.tudou.com/albumplay/pCqPwSDgy7o/seKx9H_UFBA.html"
     ],
     "newBgm": false,
+    "bgmId": 84171,
     "showDate": "2014-04-06"
   },
   "1407_51": {
@@ -820,6 +871,7 @@
       "http://www.bilibili.com/sp/STRANGE+#S-1022"
     ],
     "newBgm": true,
+    "bgmId": 100986,
     "showDate": "2014-07-11"
   },
   "1407_52": {
@@ -836,6 +888,7 @@
       "http://www.acfun.tv/a/aa1140"
     ],
     "newBgm": false,
+    "bgmId": 96861,
     "showDate": "2014-04-05"
   },
   "1407_53": {
@@ -852,6 +905,7 @@
       "http://www.acfun.tv/a/aa129"
     ],
     "newBgm": false,
+    "bgmId": 10356,
     "showDate": "2011-10-03"
   },
   "1407_54": {
@@ -868,6 +922,7 @@
       "http://tv.sohu.com/s2014/xplsstl/"
     ],
     "newBgm": false,
+    "bgmId": 97945,
     "showDate": "2014-04-06"
   },
   "1407_55": {
@@ -892,6 +947,7 @@
     "timeCN": "",
     "onAirSite": [],
     "newBgm": false,
+    "bgmId": 106113,
     "showDate": "2014-04-07"
   },
   "1407_57": {
@@ -912,6 +968,7 @@
       "http://www.tudou.com/albumcover/0BK5sqbKQm4.html"
     ],
     "newBgm": true,
+    "bgmId": 100449,
     "showDate": "2014-07-07"
   },
   "1407_58": {
@@ -928,6 +985,7 @@
       "http://www.acfun.tv/a/aa1214#group=1"
     ],
     "newBgm": false,
+    "bgmId": 91946,
     "showDate": "2014-04-05"
   },
   "1407_59": {
@@ -944,6 +1002,7 @@
       "http://www.acfun.tv/sp/diamondace/"
     ],
     "newBgm": false,
+    "bgmId": 73083,
     "showDate": "2013-10-06"
   },
   "1407_60": {
@@ -964,6 +1023,7 @@
       "http://data.movie.kankan.com/movie/75987"
     ],
     "newBgm": false,
+    "bgmId": 99740,
     "showDate": "2014-04-22"
   },
   "1407_61": {
@@ -976,6 +1036,7 @@
     "timeCN": "",
     "onAirSite": [],
     "newBgm": true,
+    "bgmId": 92415,
     "showDate": "2014-07-07"
   },
   "1407_62": {
@@ -992,6 +1053,7 @@
       "http://www.acfun.tv/a/aa1243"
     ],
     "newBgm": false,
+    "bgmId": 97045,
     "showDate": "2014-04-06"
   },
   "1407_63": {
@@ -1007,6 +1069,7 @@
       "http://www.bilibili.com/sp/恐怖残响"
     ],
     "newBgm": true,
+    "bgmId": 100443,
     "showDate": "2014-07-10"
   },
   "1407_64": {
@@ -1022,6 +1085,7 @@
       "http://www.bilibili.com/sp/信长协奏曲"
     ],
     "newBgm": true,
+    "bgmId": 103671,
     "showDate": "2014-07-12"
   },
   "1407_65": {
@@ -1041,6 +1105,7 @@
       "http://data.movie.kankan.com/movie/75930"
     ],
     "newBgm": false,
+    "bgmId": 87717,
     "showDate": "2014-04-06"
   },
   "1407_66": {
@@ -1056,6 +1121,7 @@
       "http://www.bilibili.com/sp/PSYCHO-PASS#S-1150"
     ],
     "newBgm": true,
+    "bgmId": 103906,
     "showDate": "2014-07-11"
   },
   "1407_67": {
@@ -1071,6 +1137,7 @@
       "http://www.youku.com/show_page/id_z367017a6f68d11e3b8b7.html"
     ],
     "newBgm": true,
+    "bgmId": 95824,
     "showDate": "2014-07-07"
   },
   "1407_68": {
@@ -1091,6 +1158,7 @@
       "http://www.tudou.com/albumcover/JxD1VwA1MKE.html"
     ],
     "newBgm": true,
+    "bgmId": 100557,
     "showDate": "2014-07-07"
   },
   "1407_69": {
@@ -1108,6 +1176,7 @@
       "http://www.tudou.com/albumcover/nAQOM1PVFNQ.html"
     ],
     "newBgm": true,
+    "bgmId": 101322,
     "showDate": "2014-07-08"
   },
   "1407_70": {
@@ -1125,6 +1194,7 @@
       "http://www.youku.com/show_page/id_zc4dde3c0f69111e3b2ad.html"
     ],
     "newBgm": true,
+    "bgmId": 91222,
     "showDate": "2014-07-08"
   },
   "1407_71": {
@@ -1137,6 +1207,7 @@
     "timeCN": "",
     "onAirSite": [],
     "newBgm": true,
+    "bgmId": 101107,
     "showDate": "2014-07-14"
   },
   "1407_72": {
@@ -1152,6 +1223,7 @@
       "http://www.acfun.tv/a/aa2687"
     ],
     "newBgm": true,
+    "bgmId": 101195,
     "showDate": "2014-07-01"
   },
   "1407_73": {
@@ -1169,6 +1241,7 @@
     ],
     "newBgm": true,
     "comment": "两周一话",
+    "bgmId": 43523,
     "showDate": "2014-07-05"
   },
   "1407_74": {
@@ -1184,6 +1257,7 @@
       "http://www.acfun.tv/a/aa1263"
     ],
     "newBgm": false,
+    "bgmId": 96775,
     "showDate": "2014-04-05"
   },
   "1407_75": {
@@ -1199,6 +1273,7 @@
       "http://www.acfun.tv/a/aa254"
     ],
     "newBgm": false,
+    "bgmId": 88348,
     "showDate": "2014-02-02"
   },
   "1407_76": {
@@ -1213,6 +1288,7 @@
       "http://www.bilibili.com/sp/抓狂一族"
     ],
     "newBgm": true,
+    "bgmId": 95679,
     "showDate": "2014-07-06"
   },
   "1407_77": {
@@ -1247,6 +1323,7 @@
       "http://www.acfun.tv/a/aa1464218"
     ],
     "newBgm": true,
+    "bgmId": 96787,
     "showDate": "2014-09-26"
   },
   "1407_79": {
@@ -1262,6 +1339,7 @@
     ],
     "newBgm": true,
     "comment": "全四话",
+    "bgmId": 103810,
     "showDate": "2014-08-05"
   }
 }
