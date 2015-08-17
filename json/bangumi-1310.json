@@ -12,6 +12,7 @@
       "http://www.iqiyi.com/dongman/mztkngyb.html"
     ],
     "newBgm": false,
+    "bgmId": 899,
     "showDate": "1996-01-08"
   },
   "1310_1": {
@@ -28,6 +29,7 @@
       "http://tv.sohu.com/s2013/onepiece/"
     ],
     "newBgm": false,
+    "bgmId": 975,
     "showDate": "1999-10-20"
   },
   "1310_2": {
@@ -43,6 +45,7 @@
       "http://www.bilibili.com/sp/火影忍者"
     ],
     "newBgm": false,
+    "bgmId": 2782,
     "showDate": "2007-02-15"
   },
   "1310_3": {
@@ -57,6 +60,7 @@
       "http://www.bilibili.com/sp/偶像活动"
     ],
     "newBgm": true,
+    "bgmId": 139317,
     "showDate": "2013-10-03"
   },
   "1310_4": {
@@ -72,6 +76,7 @@
       "http://www.acfun.tv/a/aa112"
     ],
     "newBgm": false,
+    "bgmId": 62281,
     "showDate": "2013-06-08"
   },
   "1310_5": {
@@ -87,6 +92,7 @@
       "http://www.acfun.tv/a/aa67"
     ],
     "newBgm": true,
+    "bgmId": 73825,
     "showDate": "2013-10-09"
   },
   "1310_6": {
@@ -102,6 +108,7 @@
       "http://www.acfun.tv/a/aa75"
     ],
     "newBgm": true,
+    "bgmId": 74663,
     "showDate": "2013-10-08"
   },
   "1310_7": {
@@ -118,6 +125,7 @@
       "http://www.acfun.tv/a/aa2453"
     ],
     "newBgm": true,
+    "bgmId": 70131,
     "showDate": "2013-10-11"
   },
   "1310_8": {
@@ -134,6 +142,7 @@
       "http://www.acfun.tv/a/aa81"
     ],
     "newBgm": true,
+    "bgmId": 78406,
     "showDate": "2013-10-04"
   },
   "1310_9": {
@@ -150,6 +159,7 @@
       "http://www.acfun.tv/a/aa98"
     ],
     "newBgm": true,
+    "bgmId": 72941,
     "showDate": "2013-10-04"
   },
   "1310_10": {
@@ -166,6 +176,7 @@
       "http://www.acfun.tv/a/aa80"
     ],
     "newBgm": true,
+    "bgmId": 68022,
     "showDate": "2013-10-04"
   },
   "1310_11": {
@@ -181,6 +192,7 @@
       "http://www.acfun.tv/a/aa79"
     ],
     "newBgm": true,
+    "bgmId": 14749,
     "showDate": "2013-10-03"
   },
   "1310_12": {
@@ -195,6 +207,7 @@
       "http://www.bilibili.com/sp/卡片战斗先导者"
     ],
     "newBgm": false,
+    "bgmId": 55783,
     "showDate": "2013-01-13"
   },
   "1310_13": {
@@ -209,6 +222,7 @@
       "http://www.bilibili.com/sp/圣灵破碎者"
     ],
     "newBgm": true,
+    "bgmId": 79873,
     "showDate": "2013-10-02"
   },
   "1310_14": {
@@ -223,6 +237,7 @@
       "http://www.bilibili.com/sp/探险DRILAND"
     ],
     "newBgm": false,
+    "bgmId": 66409,
     "showDate": "2013-04-06"
   },
   "1310_15": {
@@ -237,6 +252,7 @@
       "http://www.bilibili.com/sp/美妙旋律%20彩虹之梦#S-267"
     ],
     "newBgm": false,
+    "bgmId": 62285,
     "showDate": "2013-04-06"
   },
   "1310_16": {
@@ -253,6 +269,7 @@
       "http://www.acfun.tv/a/aa94"
     ],
     "newBgm": true,
+    "bgmId": 10463,
     "showDate": "2013-10-02"
   },
   "1310_17": {
@@ -269,6 +286,7 @@
       "http://www.acfun.tv/a/aa90"
     ],
     "newBgm": true,
+    "bgmId": 77171,
     "showDate": "2013-10-07"
   },
   "1310_18": {
@@ -285,6 +303,7 @@
       "http://www.acfun.tv/a/aa118"
     ],
     "newBgm": false,
+    "bgmId": 68812,
     "showDate": "2013-07-06"
   },
   "1310_19": {
@@ -301,6 +320,7 @@
       "http://www.acfun.tv/a/aa101"
     ],
     "newBgm": true,
+    "bgmId": 68031,
     "showDate": "2013-10-04"
   },
   "1310_20": {
@@ -317,6 +337,7 @@
       "http://www.acfun.tv/a/aa96"
     ],
     "newBgm": true,
+    "bgmId": 77570,
     "showDate": "2013-10-10"
   },
   "1310_21": {
@@ -333,6 +354,7 @@
       "http://www.acfun.tv/a/aa102"
     ],
     "newBgm": true,
+    "bgmId": 73440,
     "showDate": "2013-10-05"
   },
   "1310_22": {
@@ -349,6 +371,7 @@
       "http://www.acfun.tv/a/aa92"
     ],
     "newBgm": true,
+    "bgmId": 78542,
     "showDate": "2013-10-08"
   },
   "1310_23": {
@@ -364,6 +387,7 @@
       "http://www.acfun.tv/a/aa60"
     ],
     "newBgm": true,
+    "bgmId": 67826,
     "showDate": "2013-10-04"
   },
   "1310_24": {
@@ -380,6 +404,7 @@
       "http://www.acfun.tv/a/aa104"
     ],
     "newBgm": true,
+    "bgmId": 69496,
     "showDate": "2013-10-06"
   },
   "1310_25": {
@@ -395,6 +420,7 @@
       "http://www.acfun.tv/a/aa71"
     ],
     "newBgm": true,
+    "bgmId": 78404,
     "showDate": "2013-10-05"
   },
   "1310_26": {
@@ -411,6 +437,7 @@
       "http://www.acfun.tv/a/aa69"
     ],
     "newBgm": true,
+    "bgmId": 69484,
     "showDate": "2013-10-05"
   },
   "1310_27": {
@@ -427,6 +454,7 @@
       "http://www.acfun.tv/a/aa89"
     ],
     "newBgm": true,
+    "bgmId": 61962,
     "showDate": "2013-10-07"
   },
   "1310_28": {
@@ -443,6 +471,7 @@
       "http://www.acfun.tv/a/aa78"
     ],
     "newBgm": true,
+    "bgmId": 49278,
     "showDate": "2013-10-02"
   },
   "1310_29": {
@@ -458,6 +487,7 @@
       "http://www.acfun.tv/a/aa72"
     ],
     "newBgm": true,
+    "bgmId": 71955,
     "showDate": "2013-10-06"
   },
   "1310_30": {
@@ -473,6 +503,7 @@
       "http://www.acfun.tv/a/aa105"
     ],
     "newBgm": true,
+    "bgmId": 77706,
     "showDate": "2013-10-06"
   },
   "1310_31": {
@@ -489,6 +520,7 @@
       "http://www.acfun.tv/a/aa91"
     ],
     "newBgm": true,
+    "bgmId": 77479,
     "showDate": "2013-10-06"
   },
   "1310_32": {
@@ -505,6 +537,7 @@
       "http://www.acfun.tv/a/aa107"
     ],
     "newBgm": true,
+    "bgmId": 77646,
     "showDate": "2013-10-06"
   },
   "1310_33": {
@@ -520,6 +553,7 @@
       "http://www.acfun.tv/a/aa130"
     ],
     "newBgm": false,
+    "bgmId": 28533,
     "showDate": "2012-04-01"
   },
   "1310_34": {
@@ -535,6 +569,7 @@
       "http://www.acfun.tv/a/aa129"
     ],
     "newBgm": false,
+    "bgmId": 10356,
     "showDate": "2011-10-03"
   },
   "1310_35": {
@@ -550,6 +585,7 @@
       "http://www.acfun.tv/a/aa134"
     ],
     "newBgm": false,
+    "bgmId": 33446,
     "showDate": "2012-04-01"
   },
   "1310_36": {
@@ -565,6 +601,7 @@
       "http://www.acfun.tv/a/aa109"
     ],
     "newBgm": true,
+    "bgmId": 78799,
     "showDate": "2013-10-17"
   },
   "1310_37": {
@@ -580,6 +617,7 @@
       "http://www.bilibili.com/sp/飙速宅男"
     ],
     "newBgm": true,
+    "bgmId": 59583,
     "showDate": "2013-10-08"
   },
   "1310_38": {
@@ -596,6 +634,7 @@
       "http://www.acfun.tv/sp/diamondace/"
     ],
     "newBgm": true,
+    "bgmId": 73083,
     "showDate": "2013-10-06"
   },
   "1310_39": {
@@ -612,6 +651,7 @@
       "http://www.acfun.tv/a/aa100"
     ],
     "newBgm": true,
+    "bgmId": 77473,
     "showDate": "2013-10-11"
   },
   "1310_40": {
@@ -628,6 +668,7 @@
       "http://www.acfun.tv/a/aa99"
     ],
     "newBgm": true,
+    "bgmId": 77471,
     "showDate": "2013-10-10"
   },
   "1310_41": {
@@ -643,6 +684,7 @@
       "http://www.acfun.tv/a/aa74"
     ],
     "newBgm": true,
+    "bgmId": 49693,
     "showDate": "2013-10-06"
   },
   "1310_42": {
@@ -658,6 +700,7 @@
       "http://www.acfun.tv/a/aa70"
     ],
     "newBgm": true,
+    "bgmId": 64140,
     "showDate": "2013-10-05"
   },
   "1310_43": {
@@ -673,6 +716,7 @@
       "http://www.acfun.tv/a/aa61"
     ],
     "newBgm": true,
+    "bgmId": 79467,
     "showDate": "2013-10-06"
   },
   "1310_44": {
@@ -688,6 +732,7 @@
       "http://www.acfun.tv/a/aa68"
     ],
     "newBgm": true,
+    "bgmId": 78798,
     "showDate": "2013-10-06"
   },
   "1310_45": {
@@ -703,6 +748,7 @@
       "http://www.acfun.tv/a/aa63"
     ],
     "newBgm": true,
+    "bgmId": 80442,
     "showDate": "2013-10-06"
   },
   "1310_46": {
@@ -715,6 +761,7 @@
     "timeCN": "",
     "onAirSite": [],
     "newBgm": true,
+    "bgmId": 80778,
     "showDate": "2013-10-02"
   },
   "1310_47": {
@@ -730,6 +777,7 @@
       "http://www.acfun.tv/a/aa167"
     ],
     "newBgm": true,
+    "bgmId": 88441,
     "showDate": "2013-12-21"
   },
   "1310_48": {
@@ -745,6 +793,7 @@
       "http://www.acfun.tv/a/aa59"
     ],
     "newBgm": false,
+    "bgmId": 79701,
     "showDate": "2013-09-14"
   },
   "1310_49": {
@@ -761,6 +810,7 @@
       "http://www.acfun.tv/a/aa137"
     ],
     "newBgm": true,
+    "bgmId": 78405,
     "showDate": "2013-10-08"
   },
   "1310_50": {
@@ -776,6 +826,7 @@
       "http://www.bilibili.com/sp/银狐"
     ],
     "newBgm": true,
+    "bgmId": 70960,
     "showDate": "2013-10-07"
   },
   "1310_51": {
@@ -792,6 +843,7 @@
       "http://www.acfun.tv/a/aa106"
     ],
     "newBgm": true,
+    "bgmId": 76210,
     "showDate": "2013-10-06"
   },
   "1310_52": {
@@ -808,6 +860,7 @@
       "http://www.acfun.tv/a/aa95"
     ],
     "newBgm": true,
+    "bgmId": 47889,
     "showDate": "2013-10-03"
   },
   "1310_53": {
@@ -822,6 +875,7 @@
       "http://www.bilibili.com/sp/黏黏糊糊！！角质君"
     ],
     "newBgm": false,
+    "bgmId": 77551,
     "showDate": "2013-07-09"
   },
   "1310_54": {
@@ -838,6 +892,7 @@
       "http://www.acfun.tv/a/aa73"
     ],
     "newBgm": true,
+    "bgmId": 78408,
     "showDate": "2013-10-06"
   },
   "1310_55": {
@@ -853,6 +908,7 @@
       "http://www.acfun.tv/a/aa110"
     ],
     "newBgm": true,
+    "bgmId": 82079,
     "showDate": "2013-10-06"
   },
   "1310_56": {
@@ -868,6 +924,7 @@
       "http://www.acfun.tv/a/aa62"
     ],
     "newBgm": true,
+    "bgmId": 78398,
     "showDate": "2013-10-11"
   },
   "1310_57": {
@@ -884,6 +941,7 @@
       "http://www.acfun.tv/a/aa93"
     ],
     "newBgm": false,
+    "bgmId": 64993,
     "showDate": "2013-09-22"
   }
 }

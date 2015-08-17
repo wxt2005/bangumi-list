@@ -12,6 +12,7 @@
       "http://www.iqiyi.com/dongman/mztkngyb.html"
     ],
     "newBgm": false,
+    "bgmId": 899,
     "showDate": "1996-01-08"
   },
   "1401_1": {
@@ -28,6 +29,7 @@
       "http://tv.sohu.com/s2013/onepiece/"
     ],
     "newBgm": false,
+    "bgmId": 975,
     "showDate": "1999-10-20"
   },
   "1401_2": {
@@ -43,6 +45,7 @@
       "http://www.bilibili.com/sp/火影忍者"
     ],
     "newBgm": false,
+    "bgmId": 2782,
     "showDate": "2007-02-15"
   },
   "1401_3": {
@@ -57,6 +60,7 @@
       "http://www.bilibili.com/sp/偶像活动"
     ],
     "newBgm": false,
+    "bgmId": 139317,
     "showDate": "2013-10-03"
   },
   "1401_4": {
@@ -72,6 +76,7 @@
       "http://www.acfun.tv/a/aa112"
     ],
     "newBgm": false,
+    "bgmId": 62281,
     "showDate": "2013-06-08"
   },
   "1401_5": {
@@ -88,6 +93,7 @@
       "http://www.acfun.tv/a/aa192"
     ],
     "newBgm": true,
+    "bgmId": 73828,
     "showDate": "2014-01-06"
   },
   "1401_6": {
@@ -104,6 +110,7 @@
       "http://www.acfun.tv/a/aa209"
     ],
     "newBgm": true,
+    "bgmId": 79228,
     "showDate": "2014-01-10"
   },
   "1401_7": {
@@ -120,6 +127,7 @@
       "http://www.acfun.tv/a/aa98"
     ],
     "newBgm": false,
+    "bgmId": 72941,
     "showDate": "2013-10-04"
   },
   "1401_8": {
@@ -136,6 +144,7 @@
       "http://www.acfun.tv/a/aa208"
     ],
     "newBgm": true,
+    "bgmId": 77188,
     "showDate": "2014-01-10"
   },
   "1401_9": {
@@ -152,6 +161,7 @@
       "http://www.acfun.tv/a/aa214"
     ],
     "newBgm": true,
+    "bgmId": 80838,
     "showDate": "2014-01-10"
   },
   "1401_10": {
@@ -168,6 +178,7 @@
       "http://www.acfun.tv/a/aa185"
     ],
     "newBgm": true,
+    "bgmId": 80864,
     "showDate": "2014-01-05"
   },
   "1401_11": {
@@ -182,6 +193,7 @@
       "http://www.bilibili.com/sp/卡片战斗先导者"
     ],
     "newBgm": false,
+    "bgmId": 55783,
     "showDate": "2013-01-13"
   },
   "1401_12": {
@@ -196,6 +208,7 @@
       "http://www.bilibili.com/sp/卡片战斗先导者"
     ],
     "newBgm": true,
+    "bgmId": 90632,
     "showDate": "2014-03-09"
   },
   "1401_13": {
@@ -211,6 +224,7 @@
       "http://www.acfun.tv/a/aa220"
     ],
     "newBgm": true,
+    "bgmId": 83124,
     "showDate": "2014-01-08"
   },
   "1401_14": {
@@ -226,6 +240,7 @@
       "http://www.acfun.tv/a/aa219"
     ],
     "newBgm": true,
+    "bgmId": 85558,
     "showDate": "2014-01-04"
   },
   "1401_15": {
@@ -240,6 +255,7 @@
       "http://www.bilibili.com/sp/圣灵破碎者"
     ],
     "newBgm": false,
+    "bgmId": 79873,
     "showDate": "2013-10-02"
   },
   "1401_16": {
@@ -254,6 +270,7 @@
       "http://www.bilibili.com/sp/美妙旋律%20彩虹之梦#S-267"
     ],
     "newBgm": false,
+    "bgmId": 62285,
     "showDate": "2013-04-06"
   },
   "1401_17": {
@@ -270,6 +287,7 @@
       "http://www.acfun.tv/a/aa90"
     ],
     "newBgm": false,
+    "bgmId": 77171,
     "showDate": "2013-10-07"
   },
   "1401_18": {
@@ -286,6 +304,7 @@
       "http://www.acfun.tv/a/aa221"
     ],
     "newBgm": true,
+    "bgmId": 74628,
     "showDate": "2014-01-11"
   },
   "1401_19": {
@@ -302,6 +321,7 @@
       "http://www.acfun.tv/a/aa101"
     ],
     "newBgm": false,
+    "bgmId": 68031,
     "showDate": "2013-10-04"
   },
   "1401_20": {
@@ -318,6 +338,7 @@
       "http://www.acfun.tv/a/aa227"
     ],
     "newBgm": true,
+    "bgmId": 72946,
     "showDate": "2014-01-16"
   },
   "1401_21": {
@@ -334,6 +355,7 @@
       "http://www.acfun.tv/a/aa182"
     ],
     "newBgm": true,
+    "bgmId": 85204,
     "showDate": "2014-01-05"
   },
   "1401_22": {
@@ -350,6 +372,7 @@
       "http://www.acfun.tv/a/aa226"
     ],
     "newBgm": true,
+    "bgmId": 56116,
     "showDate": "2014-01-16"
   },
   "1401_23": {
@@ -366,6 +389,7 @@
       "http://www.acfun.tv/a/aa92"
     ],
     "newBgm": false,
+    "bgmId": 78542,
     "showDate": "2013-10-08"
   },
   "1401_24": {
@@ -382,6 +406,7 @@
       "http://www.acfun.tv/a/aa222"
     ],
     "newBgm": true,
+    "bgmId": 86072,
     "showDate": "2014-01-11"
   },
   "1401_25": {
@@ -399,6 +424,7 @@
       "http://www.acfun.tv/a/aa188"
     ],
     "newBgm": true,
+    "bgmId": 79802,
     "showDate": "2014-01-05"
   },
   "1401_26": {
@@ -414,6 +440,7 @@
       "http://www.acfun.tv/a/aa60"
     ],
     "newBgm": false,
+    "bgmId": 67826,
     "showDate": "2013-10-04"
   },
   "1401_27": {
@@ -429,6 +456,7 @@
       "http://www.acfun.tv/a/aa199"
     ],
     "newBgm": true,
+    "bgmId": 89511,
     "showDate": "2014-01-05"
   },
   "1401_28": {
@@ -444,6 +472,7 @@
       "http://www.acfun.tv/a/aa176"
     ],
     "newBgm": true,
+    "bgmId": 87113,
     "showDate": "2014-01-05"
   },
   "1401_29": {
@@ -460,6 +489,7 @@
       "http://www.acfun.tv/a/aa186"
     ],
     "newBgm": true,
+    "bgmId": 82572,
     "showDate": "2014-01-05"
   },
   "1401_30": {
@@ -476,6 +506,7 @@
       "http://www.acfun.tv/a/aa224"
     ],
     "newBgm": true,
+    "bgmId": 80787,
     "showDate": "2014-01-12"
   },
   "1401_31": {
@@ -492,6 +523,7 @@
       "http://www.acfun.tv/a/aa193"
     ],
     "newBgm": true,
+    "bgmId": 84081,
     "showDate": "2014-01-06"
   },
   "1401_32": {
@@ -507,6 +539,7 @@
       "http://www.acfun.tv/a/aa217"
     ],
     "newBgm": true,
+    "bgmId": 68756,
     "showDate": "2014-01-11"
   },
   "1401_33": {
@@ -523,6 +556,7 @@
       "http://www.acfun.tv/a/aa202#group=4"
     ],
     "newBgm": true,
+    "bgmId": 72942,
     "showDate": "2014-01-08"
   },
   "1401_34": {
@@ -538,6 +572,7 @@
       "http://www.acfun.tv/a/aa105"
     ],
     "newBgm": false,
+    "bgmId": 77706,
     "showDate": "2013-10-06"
   },
   "1401_35": {
@@ -554,6 +589,7 @@
       "http://www.acfun.tv/a/aa206"
     ],
     "newBgm": true,
+    "bgmId": 83869,
     "showDate": "2014-01-09"
   },
   "1401_36": {
@@ -570,6 +606,7 @@
       "http://www.acfun.tv/a/aa183"
     ],
     "newBgm": true,
+    "bgmId": 55703,
     "showDate": "2014-01-05"
   },
   "1401_37": {
@@ -586,6 +623,7 @@
       "http://www.acfun.tv/a/aa107"
     ],
     "newBgm": false,
+    "bgmId": 77646,
     "showDate": "2013-10-06"
   },
   "1401_38": {
@@ -601,6 +639,7 @@
       "http://www.bilibili.com/sp/STRANGE%2B"
     ],
     "newBgm": true,
+    "bgmId": 86804,
     "showDate": "2014-01-10"
   },
   "1401_39": {
@@ -616,6 +655,7 @@
       "http://www.acfun.tv/a/aa130"
     ],
     "newBgm": false,
+    "bgmId": 28533,
     "showDate": "2012-04-01"
   },
   "1401_40": {
@@ -631,6 +671,7 @@
       "http://www.acfun.tv/a/aa129"
     ],
     "newBgm": false,
+    "bgmId": 10356,
     "showDate": "2011-10-03"
   },
   "1401_41": {
@@ -646,6 +687,7 @@
       "http://www.acfun.tv/a/aa134"
     ],
     "newBgm": false,
+    "bgmId": 33446,
     "showDate": "2012-04-01"
   },
   "1401_42": {
@@ -661,6 +703,7 @@
       "http://www.acfun.tv/a/aa109"
     ],
     "newBgm": false,
+    "bgmId": 78799,
     "showDate": "2013-10-17"
   },
   "1401_43": {
@@ -675,6 +718,7 @@
       "http://www.bilibili.com/sp/探险DRILAND"
     ],
     "newBgm": false,
+    "bgmId": 66409,
     "showDate": "2013-04-06"
   },
   "1401_44": {
@@ -691,6 +735,7 @@
       "http://www.acfun.tv/a/aa218"
     ],
     "newBgm": true,
+    "bgmId": 59035,
     "showDate": "2014-01-10"
   },
   "1401_45": {
@@ -706,6 +751,7 @@
       "http://www.acfun.tv/a/aa191"
     ],
     "newBgm": true,
+    "bgmId": 87625,
     "showDate": "2014-01-06"
   },
   "1401_46": {
@@ -722,6 +768,7 @@
       "http://www.acfun.tv/a/aa190"
     ],
     "newBgm": true,
+    "bgmId": 52606,
     "showDate": "2014-01-06"
   },
   "1401_47": {
@@ -737,6 +784,7 @@
       "http://www.bilibili.com/sp/飙速宅男"
     ],
     "newBgm": false,
+    "bgmId": 59583,
     "showDate": "2013-10-08"
   },
   "1401_48": {
@@ -753,6 +801,7 @@
       "http://www.acfun.tv/sp/diamondace/"
     ],
     "newBgm": false,
+    "bgmId": 73083,
     "showDate": "2013-10-06"
   },
   "1401_49": {
@@ -769,6 +818,7 @@
       "http://www.acfun.tv/a/aa207"
     ],
     "newBgm": true,
+    "bgmId": 77480,
     "showDate": "2014-01-09"
   },
   "1401_50": {
@@ -785,6 +835,7 @@
       "http://www.acfun.tv/a/aa100"
     ],
     "newBgm": false,
+    "bgmId": 77473,
     "showDate": "2013-10-11"
   },
   "1401_51": {
@@ -801,6 +852,7 @@
       "http://www.acfun.tv/a/aa215"
     ],
     "newBgm": true,
+    "bgmId": 48880,
     "showDate": "2014-01-11"
   },
   "1401_52": {
@@ -816,6 +868,7 @@
       "http://www.acfun.tv/a/aa74"
     ],
     "newBgm": false,
+    "bgmId": 49693,
     "showDate": "2013-10-06"
   },
   "1401_53": {
@@ -831,6 +884,7 @@
       "http://www.acfun.tv/a/aa70"
     ],
     "newBgm": false,
+    "bgmId": 64140,
     "showDate": "2013-10-05"
   },
   "1401_54": {
@@ -846,6 +900,7 @@
       "http://www.acfun.tv/a/aa68"
     ],
     "newBgm": false,
+    "bgmId": 78798,
     "showDate": "2013-10-06"
   },
   "1401_55": {
@@ -858,6 +913,7 @@
     "timeCN": "",
     "onAirSite": [],
     "newBgm": true,
+    "bgmId": 90899,
     "showDate": "2014-01-12"
   },
   "1401_56": {
@@ -873,6 +929,7 @@
       "http://www.acfun.tv/a/aa223"
     ],
     "newBgm": true,
+    "bgmId": 91987,
     "showDate": "2014-01-12"
   },
   "1401_57": {
@@ -889,6 +946,7 @@
       "http://www.acfun.tv/a/aa189"
     ],
     "newBgm": true,
+    "bgmId": 69103,
     "showDate": "2014-01-06"
   },
   "1401_58": {
@@ -904,6 +962,7 @@
       "http://www.acfun.tv/a/aa167"
     ],
     "newBgm": false,
+    "bgmId": 88441,
     "showDate": "2013-12-21"
   },
   "1401_59": {
@@ -920,6 +979,7 @@
       "http://www.acfun.tv/a/aa198"
     ],
     "newBgm": true,
+    "bgmId": 80548,
     "showDate": "2014-01-07"
   },
   "1401_60": {
@@ -936,6 +996,7 @@
       "http://www.acfun.tv/a/aa203"
     ],
     "newBgm": true,
+    "bgmId": 87718,
     "showDate": "2014-01-08"
   },
   "1401_61": {
@@ -950,6 +1011,7 @@
       "http://www.bilibili.com/sp/攻壳机动队"
     ],
     "newBgm": true,
+    "bgmId": 92423,
     "showDate": "2014-01-07"
   },
   "1401_62": {
@@ -965,6 +1027,7 @@
       "http://www.acfun.tv/a/aa210"
     ],
     "newBgm": true,
+    "bgmId": 88039,
     "showDate": "2014-02-07"
   },
   "1401_63": {
@@ -981,6 +1044,7 @@
       "http://www.acfun.tv/a/aa95"
     ],
     "newBgm": false,
+    "bgmId": 47889,
     "showDate": "2013-10-03"
   },
   "1401_64": {
@@ -1011,6 +1075,7 @@
       "http://www.acfun.tv/a/aa211"
     ],
     "newBgm": true,
+    "bgmId": 77170,
     "showDate": "2014-01-10"
   }
 }
