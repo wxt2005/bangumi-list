@@ -11,7 +11,10 @@
     "onAirSite": [
       "http://www.acfun.tv/a/aa127_0",
       "http://www.iqiyi.com/a_19rrhc0gyd.html",
-      "http://v.qq.com/detail/h/hzgtnf6tbvfekfv.html"
+      "http://v.qq.com/detail/h/hzgtnf6tbvfekfv.html",
+      "http://tv.sohu.com/s2012/mztkn/",
+      "http://www.letv.com/comic/5938.html",
+      "http://www.pptv.com/page/2815.html"
     ],
     "newBgm": false,
     "bgmId": 899,
@@ -30,6 +33,7 @@
       "http://www.bilibili.com/sp/海贼王",
       "http://www.acfun.tv/a/aa126_0",
       "http://tv.sohu.com/s2013/onepiece/",
+      "http://www.iqiyi.com/a_19rrhb3xvl.html",
       "http://www.tucao.cc/index.php?m=search&c=index&a=init2&q=海贼王"
     ],
     "newBgm": false,
@@ -83,6 +87,10 @@
     "timeJP": "1630",
     "timeCN": "",
     "onAirSite": [
+      "http://www.letv.com/comic/10000913.html",
+      "http://www.pptv.com/page/286416.html",
+      "http://www.youku.com/show_page/id_z40c8abaa99e511e3b8b7.html",
+      "http://www.tudou.com/albumcover/j6bLOojGi-I.html",
       "http://www.tucao.cc/index.php?m=search&c=index&a=init2&q=游戏王ARC-V"
     ],
     "newBgm": false,
@@ -99,6 +107,10 @@
     "timeJP": "1800",
     "timeCN": "",
     "onAirSite": [
+      "http://v.qq.com/detail/o/o6ftuwm1j0xfa62.html",
+      "http://www.tudou.com/albumcover/CIK0mT03n_M.html",
+      "http://www.youku.com/show_page/id_zca5b9dc41c3f11e3b8b7.html",
+      "http://www.letv.com/comic/93548.html",
       "http://www.bilibili.com/sp/宠物小精灵",
       "http://www.acfun.tv/a/aa109_0",
       "http://www.tucao.cc/index.php?m=search&c=index&a=init2&q=宠物小精灵XY"
@@ -135,6 +147,8 @@
     "timeCN": "1400",
     "onAirSite": [
       "http://tv.sohu.com/s2011/yjdwb/",
+      "http://www.tudou.com/albumcover/g0G6rCHUncs.html",
+      "http://www.youku.com/show_page/id_z41d50c16923111e3b8b7.html",
       "http://www.bilibili.com/sp/妖精的尾巴",
       "http://www.acfun.tv/a/aa1214#group=1_0",
       "http://www.tucao.cc/index.php?m=search&c=index&a=init2&q=妖精的尾巴"
@@ -154,6 +168,7 @@
     "timeCN": "2000",
     "onAirSite": [
       "http://tv.sohu.com/s2014/msnzsc/",
+      "http://www.iqiyi.com/a_19rrhb12nd.html",
       "http://www.bilibili.com/sp/美少女战士",
       "http://www.acfun.tv/a/aa2659_0"
     ],
@@ -190,6 +205,7 @@
     "timeJP": "1730",
     "timeCN": "",
     "onAirSite": [
+      "http://www.pptv.com/page/311533.html",
       "http://www.tucao.cc/index.php?m=search&c=index&a=init2&q=战魂王：烈火斗魂"
     ],
     "newBgm": false,
@@ -208,6 +224,10 @@
     "onAirSite": [
       "http://www.bilibili.com/sp/食戟之灵",
       "http://www.iqiyi.com/a_19rrhay9y1.html",
+      "http://www.letv.com/comic/10008945.html",
+      "http://www.pptv.com/page/302468.html",
+      "http://www.tudou.com/albumcover/l_3zXzMJxbc.html",
+      "http://www.youku.com/show_page/id_z860799bad1f211e4a080.html",
       "http://www.acfun.tv/v/ab1470280_0",
       "http://www.tucao.cc/index.php?m=search&c=index&a=init2&q=食戟之灵"
     ],
@@ -225,11 +245,15 @@
     "timeJP": "0600",
     "timeCN": "",
     "onAirSite": [
+      "http://www.youku.com/show_page/id_z12db35ccd50e11e4b522.html",
+      "http://www.letv.com/comic/10008950.html",
+      "http://www.tudou.com/albumcover/4f9dl2adFPg.html",
+      "http://www.pptv.com/page/319657.html",
       "http://www.bilibili.com/sp/宝石宠物#S-1811"
     ],
     "newBgm": false,
     "bgmId": 129823,
-    "showDate": "2014-04-04"
+    "showDate": "2015-04-04"
   },
   "1507_13": {
     "titleCN": "Pripara 6期",
@@ -397,6 +421,7 @@
     "timeJP": "2340",
     "timeCN": "",
     "onAirSite": [
+      "http://www.pptv.com/page/319656.html",
       "http://www.bilibili.com/sp/英国一家%20吃在日本",
       "http://www.acfun.tv/v/ab1470282_0"
     ],
@@ -449,6 +474,7 @@
     "timeJP": "0144",
     "timeCN": "",
     "onAirSite": [
+      "http://www.pptv.com/page/322253.html",
       "http://www.bilibili.com/sp/GANGSTA.",
       "http://www.acfun.tv/v/ab1470326_0",
       "http://www.tucao.cc/index.php?m=search&c=index&a=init2&catid=24&q=GANGSTA"
@@ -495,6 +521,8 @@
       "http://www.letv.com/comic/10010420.html",
       "http://v.qq.com/detail/9/90ono2pk2blgqwd.html",
       "http://www.pptv.com/page/323242.html",
+      "http://www.youku.com/show_page/id_zff83eed81aea11e5b2ad.html",
+      "http://www.tudou.com/albumcover/Nd659aHmzbc.html",
       "http://www.tucao.cc/index.php?m=search&c=index&a=init2&catid=24&q=创圣%20LOGOS"
     ],
     "newBgm": true,
@@ -536,6 +564,8 @@
       "http://www.bilibili.com/sp/青春×机关枪",
       "http://www.iqiyi.com/a_19rrhb5qax.html",
       "http://v.qq.com/detail/1/1f1gzzkyhi264mg.html",
+      "http://www.tudou.com/albumcover/3z2CdeVaST8.html",
+      "http://www.pptv.com/page/324183.html",
       "http://www.acfun.tv/v/ab1470322_0",
       "http://www.tucao.cc/index.php?m=search&c=index&a=init2&catid=24&q=青春X机关枪"
     ],
@@ -554,6 +584,8 @@
     "timeCN": "0800",
     "onAirSite": [
       "http://www.pptv.com/page/323240.html",
+      "http://www.tudou.com/albumcover/OJg0wZ-E11A.html",
+      "http://www.youku.com/show_page/id_z5d031b5a198911e5b2ad.html",
       "http://www.bilibili.com/sp/城下町的蒲公英",
       "http://www.tucao.cc/index.php?m=search&c=index&a=init2&catid=24&q=城下町的蒲公英"
     ],
@@ -572,6 +604,8 @@
     "timeCN": "1200",
     "onAirSite": [
       "http://www.bilibili.com/sp/黑塔利亚#S-1959",
+      "http://www.youku.com/show_page/id_zccc269fe1a5711e59e2a.html",
+      "http://www.tudou.com/albumcover/VV4mMWDU6nA.html",
       "http://www.tucao.cc/index.php?m=search&c=index&a=init2&catid=24&q=黑塔利亚%20The%20World%20Twinkle"
     ],
     "newBgm": true,
@@ -608,6 +642,7 @@
     "timeCN": "",
     "onAirSite": [
       "http://www.bilibili.com/sp/黑白小姐#S-1954",
+      "http://www.youku.com/show_page/id_z7c16449c198c11e59e2a.html",
       "http://www.acfun.tv/v/ab1470299_0",
       "http://www.tucao.cc/index.php?m=search&c=index&a=init2&catid=24&q=黑白小姐%20第二季"
     ],
@@ -643,6 +678,8 @@
     "timeCN": "2225",
     "onAirSite": [
       "http://www.bilibili.com/sp/若叶女孩",
+      "http://www.tudou.com/albumcover/2xZbLVJzdxk.html",
+      "http://www.youku.com/show_page/id_z5a5b31301a5111e5abda.html",
       "http://www.tucao.cc/index.php?m=search&c=index&a=init2&catid=24&q=若叶女孩"
     ],
     "newBgm": true,
@@ -659,6 +696,9 @@
     "timeJP": "2330",
     "timeCN": "",
     "onAirSite": [
+      "http://www.youku.com/show_page/id_z20ee3d961af811e5b5ce.html",
+      "http://www.tudou.com/albumcover/5VmCpjgOBFw.html",
+      "http://www.pptv.com/page/308881.html",
       "http://www.tucao.cc/index.php?m=search&c=index&a=init2&catid=24&q=GATE奇幻自卫队",
       "http://www.acfun.tv/v/ab1470300_0",
       "http://www.bilibili.com/sp/GATE%20奇幻自卫队"
@@ -678,6 +718,8 @@
     "timeCN": "0225",
     "onAirSite": [
       "http://www.bilibili.com/sp/Classroom☆Crisis",
+      "http://www.youku.com/show_page/id_z698d6ccc1aec11e5b692.html",
+      "http://www.tudou.com/albumcover/WQW4z5dDdEo.html",
       "http://www.tucao.cc/index.php?m=search&c=index&a=init2&catid=24&q=Classroom☆Crisis"
     ],
     "newBgm": true,
@@ -697,7 +739,9 @@
       "http://www.bilibili.com/sp/战姬绝唱SYMPHOGEAR#S-1957",
       "http://www.tucao.cc/index.php?m=search&c=index&a=init2&catid=24&q=战姬绝唱Symphogear%20GX",
       "http://www.acfun.tv/v/ab1470332_0",
-      "http://www.letv.com/comic/10010494.html"
+      "http://www.letv.com/comic/10010494.html",
+      "http://www.youku.com/show_page/id_z37d43f201af711e5b522.html",
+      "http://www.tudou.com/albumcover/hMxCr_0EXZc.html"
     ],
     "newBgm": true,
     "showDate": "2015-07-04",
@@ -760,6 +804,8 @@
     "timeCN": "0100",
     "onAirSite": [
       "http://www.bilibili.com/sp/WORKING!!迷糊餐厅#S-1960",
+      "http://www.youku.com/show_page/id_z21b943001af911e5b2ad.html",
+      "http://www.tudou.com/albumcover/OWrP8KCU_84.html",
       "http://www.tucao.cc/index.php?m=search&c=index&a=init2&catid=24&q=WORKING!!!迷糊餐厅%20第三季"
     ],
     "newBgm": true,
@@ -776,7 +822,7 @@
     "timeJP": "2200",
     "timeCN": "0200",
     "onAirSite": [
-      "http://www.bilibili.com/sp/没有黄段子的无聊世界",
+      "http://www.bilibili.com/bangumi/没有黄段子存在的无聊世界/",
       "http://www.tucao.cc/index.php?m=search&c=index&a=init2&catid=24&q=下流梗不存在的灰暗世界"
     ],
     "newBgm": true,
@@ -793,7 +839,9 @@
     "timeJP": "0042",
     "timeCN": "",
     "onAirSite": [
-        "http://www.acfun.tv/v/ab1470339_0"
+      "http://www.acfun.tv/v/ab1470339_0",
+      "http://www.youku.com/show_page/id_zc36ad75a1afd11e5a080.html",
+      "http://www.tudou.com/albumcover/E8YUOmQkfmw.html"
     ],
     "newBgm": true,
     "showDate": "2015-07-05",
@@ -870,7 +918,9 @@
     "onAirSite": [
       "http://www.acfun.tv/v/ab1470306_0",
       "http://www.tucao.cc/index.php?m=search&c=index&a=init2&catid=24&q=和歌子酒",
-      "http://www.bilibili.com/sp/和歌子酒%20动画"
+      "http://www.bilibili.com/sp/和歌子酒%20动画",
+      "http://www.youku.com/show_page/id_zcbe6bddc1afc11e5b2ad.html",
+      "http://www.tudou.com/albumcover/hAbiy9lIw6k.html"
     ],
     "newBgm": true,
     "showDate": "2015-07-05",
@@ -908,7 +958,9 @@
     "weekDayCN": 1,
     "timeJP": "1755",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://www.letv.com/comic/10007850.html"
+    ],
     "newBgm": true,
     "showDate": "2015-07-06",
     "bgmId": 135992
@@ -1019,6 +1071,8 @@
     "timeCN": "0020",
     "onAirSite": [
       "http://www.bilibili.com/sp/Million%20Doll",
+      "http://www.youku.com/show_page/id_z6627edf21afe11e5b5ce.html",
+      "http://www.tudou.com/albumcover/ZTzQXgNfUcg.html",
       "http://www.tucao.cc/index.php?m=search&c=index&a=init2&catid=24&q=Million%20Doll"
     ],
     "newBgm": true,
@@ -1037,7 +1091,10 @@
     "onAirSite": [
       "http://www.tucao.cc/index.php?m=search&c=index&a=init2&catid=24&q=怪兽酒场干杯！",
       "http://www.acfun.tv/v/ab1470311_0",
-      "http://www.bilibili.com/bangumi/怪兽酒场干杯！/"
+      "http://www.bilibili.com/bangumi/怪兽酒场干杯！/",
+      "http://www.youku.com/show_page/id_z14019f301b1411e5b522.html",
+      "http://www.tudou.com/albumcover/-ScJYfqsTf4.html",
+      "http://www.pptv.com/page/324423.html"
     ],
     "newBgm": true,
     "showDate": "2015-07-07",
@@ -1054,6 +1111,8 @@
     "timeCN": "2300",
     "onAirSite": [
       "http://www.bilibili.com/sp/OVER%20LORD",
+      "http://www.youku.com/show_page/id_z64aa68201afd11e5b432.html",
+      "http://www.tudou.com/albumcover/q-oIiGcAaiI.html",
       "http://www.tucao.cc/index.php?m=search&c=index&a=init2&catid=24&q=Overlord"
     ],
     "newBgm": true,
@@ -1071,6 +1130,8 @@
     "timeCN": "0430",
     "onAirSite": [
       "http://www.bilibili.com/sp/那就是声优！",
+      "http://www.youku.com/show_page/id_zfe0c3a541b1411e5b692.html",
+      "http://www.tudou.com/albumcover/muSo-21H4qo.html",
       "http://www.tucao.cc/index.php?m=search&c=index&a=init2&catid=24&q=那就是声优"
     ],
     "newBgm": true,
@@ -1105,6 +1166,7 @@
     "timeJP": "0035",
     "timeCN": "",
     "onAirSite": [
+      "http://www.letv.com/comic/10010613.html",
       "http://www.acfun.tv/v/ab1470313_0",
       "http://www.tucao.cc/index.php?m=search&c=index&a=init2&catid=24&q=比基尼勇士",
       "http://www.bilibili.com/bangumi/比基尼勇士/"
@@ -1124,6 +1186,8 @@
     "timeCN": "2055",
     "onAirSite": [
       "http://www.bilibili.com/sp/洲崎西",
+      "http://www.youku.com/show_page/id_ze09e684a1ae511e5a080.html",
+      "http://www.tudou.com/albumcover/dJ1sytgsCa4.html",
       "http://www.tucao.cc/index.php?m=search&c=index&a=init2&catid=24&q=洲崎西"
     ],
     "newBgm": true,
@@ -1142,6 +1206,8 @@
     "onAirSite": [
       "http://www.bilibili.com/sp/空战魔导士候补生的教官",
       "http://v.qq.com/detail/a/aan1um3pt3nue20.html",
+      "http://www.youku.com/show_page/id_z1675c8261afc11e5b5ce.html",
+      "http://www.tudou.com/albumcover/5Uc8Zc-opHo.html",
       "http://www.tucao.cc/index.php?m=search&c=index&a=init2&catid=24&q=空战魔导士候补生的教官"
     ],
     "newBgm": true,
@@ -1199,6 +1265,8 @@
     "onAirSite": [
       "http://www.bilibili.com/sp/学园孤岛",
       "http://v.qq.com/detail/f/f6za0go0jf6fzrm.html",
+      "http://www.youku.com/show_page/id_z9e7a96501af911e5b432.html",
+      "http://www.tudou.com/albumcover/VS6KqsiOduc.html",
       "http://www.tucao.cc/index.php?m=search&c=index&a=init2&catid=24&q=学园孤岛"
     ],
     "newBgm": true,
@@ -1216,6 +1284,8 @@
     "timeCN": "0015",
     "onAirSite": [
       "http://www.bilibili.com/sp/群居姐妹",
+      "http://www.youku.com/show_page/id_zff6613541af911e5b5ce.html",
+      "http://www.tudou.com/albumcover/jMT-3fMlm9I.html",
       "http://www.tucao.cc/index.php?m=search&c=index&a=init2&catid=24&q=群居姐妹"
     ],
     "newBgm": true,
@@ -1251,6 +1321,7 @@
     "onAirSite": [
       "http://www.acfun.tv/v/ab1470305_0",
       "http://www.bilibili.com/bangumi/VENUS%20PROJECT%20-CLIMAX-/",
+      "http://www.pptv.com/page/324993.html",
       "http://www.tucao.cc/index.php?m=search&c=index&a=init2&catid=24&q=VENUS%20PROJECT"
     ],
     "newBgm": true,
@@ -1267,7 +1338,7 @@
     "timeJP": "0015",
     "timeCN": "0015",
     "onAirSite": [
-      "http://v.qq.com/cover/v/vxk0pmz40gf0hz0.html",
+      "http://v.qq.com/detail/v/vxk0pmz40gf0hz0.html",
       "http://www.bilibili.com/sp/枕男子",
       "http://www.tucao.cc/index.php?m=search&c=index&a=init2&catid=24&q=枕男子"
     ],
@@ -1290,6 +1361,10 @@
       "http://www.youku.com/show_page/id_z1e13314abec311e38b3f.html",
       "http://www.acfun.tv/v/ab1470343_0",
       "http://www.iqiyi.com/a_19rrhay5rp.html",
+      "http://www.letv.com/comic/10007495.html",
+      "http://www.pptv.com/page/295755.html",
+      "http://data.movie.kankan.com/movie/87458",
+      "http://v.qq.com/detail/w/wgzklo5zkrgalda.html",
       "http://www.tucao.cc/index.php?m=search&c=index&a=init2&catid=24&q=偶像大师灰姑娘"
     ],
     "newBgm": true,

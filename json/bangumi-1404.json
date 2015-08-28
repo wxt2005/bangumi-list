@@ -8,8 +8,12 @@
     "timeJP": "1800",
     "timeCN": "",
     "onAirSite": [
-      "http://www.acfun.tv/a/aa127",
-      "http://www.iqiyi.com/dongman/mztkngyb.html"
+      "http://www.acfun.tv/a/aa127_0",
+      "http://www.iqiyi.com/a_19rrhc0gyd.html",
+      "http://v.qq.com/detail/h/hzgtnf6tbvfekfv.html",
+      "http://tv.sohu.com/s2012/mztkn/",
+      "http://www.letv.com/comic/5938.html",
+      "http://www.pptv.com/page/2815.html"
     ],
     "newBgm": false,
     "bgmId": 899,
@@ -25,8 +29,10 @@
     "timeCN": "",
     "onAirSite": [
       "http://www.bilibili.com/sp/海贼王",
-      "http://www.acfun.tv/a/aa126",
-      "http://tv.sohu.com/s2013/onepiece/"
+      "http://www.acfun.tv/a/aa126_0",
+      "http://tv.sohu.com/s2013/onepiece/",
+      "http://www.iqiyi.com/a_19rrhb3xvl.html",
+      "http://www.tucao.cc/index.php?m=search&c=index&a=init2&q=海贼王"
     ],
     "newBgm": false,
     "bgmId": 975,
@@ -42,7 +48,9 @@
     "timeCN": "1900",
     "onAirSite": [
       "http://www.tudou.com/albumcover/Lqfme5hSolM.html",
-      "http://www.bilibili.com/sp/火影忍者"
+      "http://www.bilibili.com/sp/火影忍者",
+      "http://www.youku.com/show_page/id_zcc001f06962411de83b1.html",
+      "http://www.tucao.cc/index.php?m=search&c=index&a=init2&q=火影忍者"
     ],
     "newBgm": false,
     "bgmId": 2782,
@@ -57,7 +65,10 @@
     "timeJP": "1800",
     "timeCN": "",
     "onAirSite": [
-      "http://www.bilibili.com/sp/偶像活动"
+      "http://www.bilibili.com/sp/偶像活动",
+      "http://www.youku.com/show_page/id_z12b8f2e01c4211e3a705.html",
+      "http://www.tudou.com/albumcover/B9DlhZTCGd0.html",
+      "http://www.iqiyi.com/a_19rrhayx3d.html"
     ],
     "newBgm": false,
     "bgmId": 139317,
@@ -72,8 +83,11 @@
     "timeJP": "1630",
     "timeCN": "",
     "onAirSite": [
-      "http://www.bilibili.com/sp/游☆戏☆王",
-      "http://www.acfun.tv/a/aa1259367"
+      "http://www.letv.com/comic/10000913.html",
+      "http://www.pptv.com/page/286416.html",
+      "http://www.youku.com/show_page/id_z40c8abaa99e511e3b8b7.html",
+      "http://www.tudou.com/albumcover/j6bLOojGi-I.html",
+      "http://www.tucao.cc/index.php?m=search&c=index&a=init2&q=游戏王ARC-V"
     ],
     "newBgm": true,
     "bgmId": 92161,
@@ -89,6 +103,7 @@
     "timeCN": "0515",
     "onAirSite": [
       "http://www.youku.com/show_page/id_zb302b478144711e38b3f.html",
+      "http://www.tudou.com/albumcover/V48zjBLR5PA.html",
       "http://www.bilibili.com/sp/上课小动作",
       "http://www.acfun.tv/a/aa189"
     ],
@@ -122,6 +137,10 @@
     "timeJP": "0730",
     "timeCN": "",
     "onAirSite": [
+      "http://www.tudou.com/albumcover/95FqH0R7tO8.html",
+      "http://www.youku.com/show_page/id_z61658ec6aa6311e3a705.html",
+      "http://www.letv.com/comic/10000910.html",
+      "http://www.pptv.com/page/286936.html",
       "http://www.bilibili.com/sp/宝石宠物#S-894",
       "http://www.acfun.tv/a/aa1263"
     ],
@@ -138,6 +157,9 @@
     "timeJP": "0730",
     "timeCN": "",
     "onAirSite": [
+      "http://www.youku.com/show_page/id_z3b437b226dd211e38b3f.html",
+      "http://www.tudou.com/albumcover/ypBszW6A2jk.html",
+      "http://www.letv.com/comic/95301.html",
       "http://www.bilibili.com/sp/光之美少女",
       "http://www.acfun.tv/a/aa254"
     ],
@@ -155,6 +177,8 @@
     "timeCN": "0420",
     "onAirSite": [
       "http://www.iqiyi.com/a_19rrgi8ugt.html",
+      "http://www.youku.com/show_page/id_zcc004620962411de83b1.html",
+      "http://www.tudou.com/albumcover/wF6vbd-qwD8.html",
       "http://www.bilibili.com/sp/金色琴弦",
       "http://www.acfun.tv/a/aa1226"
     ],
@@ -171,6 +195,8 @@
     "timeJP": "2100",
     "timeCN": "",
     "onAirSite": [
+      "http://www.youku.com/show_page/id_z97785dac9c5011e38b3f.html",
+      "http://www.tudou.com/albumcover/AfhZfbr4YAs.html",
       "http://www.bilibili.com/sp/爱丝卡与罗吉的工作室%20黄昏之空的炼金术士",
       "http://www.acfun.tv/a/aa1135"
     ],
@@ -238,6 +264,10 @@
     "timeJP": "0116",
     "timeCN": "",
     "onAirSite": [
+      "http://www.letv.com/comic/10000889.html",
+      "http://v.qq.com/detail/9/9lmz99xuczth7ry.html",
+      "http://www.youku.com/show_page/id_zbea97028909811e3a705.html",
+      "http://www.tudou.com/albumcover/ufo-aT912FA.html",
       "http://www.bilibili.com/sp/我们大家的河合庄",
       "http://www.acfun.tv/a/aa1110"
     ],
@@ -255,6 +285,9 @@
     "timeCN": "",
     "onAirSite": [
       "http://www.bilibili.com/sp/未来卡%20搭档对战",
+      "http://www.youku.com/show_page/id_z0a14b8a862d411e3a705.html",
+      "http://www.tudou.com/albumcover/0yYeCeFSZDo.html",
+      "http://v.qq.com/detail/g/gkvdkxuaepreo2m.html",
       "http://www.acfun.tv/a/aa219"
     ],
     "newBgm": false,
@@ -270,8 +303,13 @@
     "timeJP": "1800",
     "timeCN": "",
     "onAirSite": [
+      "http://v.qq.com/detail/o/o6ftuwm1j0xfa62.html",
+      "http://www.tudou.com/albumcover/CIK0mT03n_M.html",
+      "http://www.youku.com/show_page/id_zca5b9dc41c3f11e3b8b7.html",
+      "http://www.letv.com/comic/93548.html",
       "http://www.bilibili.com/sp/宠物小精灵",
-      "http://www.acfun.tv/a/aa109"
+      "http://www.acfun.tv/a/aa109_0",
+      "http://www.tucao.cc/index.php?m=search&c=index&a=init2&q=宠物小精灵XY"
     ],
     "newBgm": false,
     "bgmId": 78799,
@@ -286,8 +324,11 @@
     "timeJP": "1730",
     "timeCN": "",
     "onAirSite": [
+      "http://www.tudou.com/albumcover/vAUyu0OTz-M.html",
+      "http://www.youku.com/show_page/id_zab2d79f86dd011e3b8b7.html",
+      "http://v.qq.com/detail/h/hbccdwvo9t21w4i.html",
       "http://www.bilibili.com/sp/妖怪手表",
-      "http://www.acfun.tv/a/aa220"
+      "http://www.acfun.tv/a/aa220_0"
     ],
     "newBgm": false,
     "bgmId": 83124,
@@ -302,7 +343,10 @@
     "timeJP": "0900",
     "timeCN": "",
     "onAirSite": [
-      "http://www.bilibili.com/sp/卡片战斗先导者"
+      "http://www.bilibili.com/sp/卡片战斗先导者",
+      "http://www.youku.com/show_page/id_zdecc9d30adb711e38b3f.html",
+      "http://www.tudou.com/albumcover/idxgUQ7qnCA.html",
+      "http://www.acfun.tv/a/aa2297"
     ],
     "newBgm": false,
     "bgmId": 90632,
@@ -316,7 +360,12 @@
     "weekDayCN": 4,
     "timeJP": "1700",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://www.bilibili.com/sp/圣灵破碎者",
+      "http://www.youku.com/show_page/id_z5af840e4fe6811e2a705.html",
+      "http://www.tudou.com/albumcover/F1cq966NDcY.html",
+      "http://www.letv.com/comic/93669.html"
+    ],
     "newBgm": false,
     "bgmId": 79873,
     "showDate": "2013-10-02"
@@ -345,6 +394,8 @@
     "timeJP": "0900",
     "timeCN": "",
     "onAirSite": [
+      "http://www.youku.com/show_page/id_z183e29b8a8c111e3a705.html",
+      "http://www.tudou.com/albumcover/MGNsN2ZJhWc.html",
       "http://www.bilibili.com/sp/美妙旋律%20彩虹之梦",
       "http://www.acfun.tv/a/aa1262"
     ],
@@ -378,7 +429,8 @@
     "timeJP": "0800",
     "timeCN": "",
     "onAirSite": [
-      "http://www.bilibili.com/sp/展开骑士"
+      "http://www.bilibili.com/sp/展开骑士",
+      "http://www.iqiyi.com/a_19rrhbz3g5.html"
     ],
     "newBgm": true,
     "bgmId": 80736,
@@ -444,6 +496,7 @@
     "timeCN": "",
     "onAirSite": [
       "http://www.bilibili.com/sp/JOJO的奇妙冒险",
+      "http://www.iqiyi.com/a_19rrhb4yxl.html",
       "http://www.acfun.tv/a/aa954"
     ],
     "newBgm": true,
@@ -560,6 +613,8 @@
     "timeCN": "2305",
     "onAirSite": [
       "http://comic.letv.com/zt/yangyan/index.shtml",
+      "http://www.youku.com/show_page/id_zd4d711de711c11e3a705.html",
+      "http://www.tudou.com/albumcover/DNhSIN_Z3UY.html",
       "http://www.bilibili.com/sp/目隐都市的演绎者",
       "http://www.acfun.tv/a/aa1342"
     ],
@@ -577,6 +632,8 @@
     "timeCN": "0400",
     "onAirSite": [
       "http://tv.sohu.com/s2014/csxz/",
+      "http://www.tudou.com/albumcover/gzcFORsqmzM.html",
+      "http://www.youku.com/show_page/id_z3b94454c75d511e3a705.html",
       "http://www.bilibili.com/sp/虫师",
       "http://www.acfun.tv/a/aa184"
     ],
@@ -678,6 +735,10 @@
     "timeJP": "0000",
     "timeCN": "",
     "onAirSite": [
+      "http://www.tudou.com/albumcover/6bsD1DRIhK0.html",
+      "http://www.youku.com/show_page/id_za8216ff2734e11e3b8b7.html",
+      "http://v.qq.com/detail/5/5ok7kcoif1avn8c.html",
+      "http://www.letv.com/comic/10000909.html",
       "http://www.bilibili.com/sp/众神的恶作剧",
       "http://www.acfun.tv/a/aa1124"
     ],
@@ -695,6 +756,7 @@
     "timeCN": "2230",
     "onAirSite": [
       "http://www.youku.com/show_page/id_z4dd5df8e6b7d11e3b8b7.html",
+      "http://www.tudou.com/albumcover/Nk7t-NLMlJw.html",
       "http://www.bilibili.com/sp/星刻的龙骑士",
       "http://www.acfun.tv/a/aa1112"
     ],
@@ -746,6 +808,8 @@
     "timeCN": "0000",
     "onAirSite": [
       "http://www.pptv.com/page/268822.html",
+      "http://www.youku.com/show_page/id_z604f2b5a70f211e38b3f.html",
+      ""
       "http://www.bilibili.com/sp/NO%20GAME%20NO%20LIFE%20游戏人生",
       "http://www.acfun.tv/a/aa1121"
     ],
@@ -815,7 +879,8 @@
     "onAirSite": [
       "http://www.youku.com/show_page/id_z0a90146c4c1811e38b3f.html",
       "http://www.bilibili.com/sp/排球！！",
-      "http://www.acfun.tv/a/aa1249"
+      "http://www.acfun.tv/a/aa1249",
+      "http://www.tudou.com/albumplay/pCqPwSDgy7o/seKx9H_UFBA.html"
     ],
     "newBgm": true,
     "bgmId": 84171,
@@ -864,6 +929,7 @@
     "timeJP": "0530",
     "timeCN": "",
     "onAirSite": [
+      "http://www.iqiyi.com/a_19rrhb274p.html",
       "http://www.bilibili.com/sp/相扑力士松太郎",
       "http://www.acfun.tv/a/aa1254",
       "http://tv.sohu.com/s2014/xplsstl/"
@@ -881,6 +947,9 @@
     "timeJP": "1730",
     "timeCN": "",
     "onAirSite": [
+      "http://www.iqiyi.com/a_19rrhc2yph.html",
+      "http://www.youku.com/show_page/id_zdaf240e092e911e38b3f.html",
+      "http://www.tudou.com/albumcover/8O6LrFIHhfc.html",
       "http://www.bilibili.com/sp/复仇者联盟#S-889",
       "http://www.acfun.tv/a/aa1241"
     ],
@@ -901,14 +970,18 @@
     "showDate": "2014-04-04"
   },
   "1404_55": {
-    "titleCN": "Oreca Battle",
+    "titleCN": "激战奥雷卡",
     "titleJP": "オレカバトル",
     "officalSite": "http://www.oreca-anime.com/",
     "weekDayJP": 1,
     "weekDayCN": 2,
     "timeJP": "1700",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://www.iqiyi.com/a_19rrgi8f8t.html",
+      "http://www.letv.com/comic/10002883.html",
+      "http://www.pptv.com/page/286875.html"
+    ],
     "newBgm": true,
     "bgmId": 106113,
     "showDate": "2014-04-07"
@@ -923,6 +996,7 @@
     "timeCN": "0035",
     "onAirSite": [
       "http://www.youku.com/show_page/id_z8581ce084a9811e3b8b7.html",
+      "http://www.tudou.com/albumcover/zw8cGAwSDJM.html",
       "http://www.bilibili.com/sp/信长%20THE%20FOOL",
       "http://www.acfun.tv/a/aa191"
     ],
@@ -957,6 +1031,7 @@
     "timeCN": "0105",
     "onAirSite": [
       "http://www.youku.com/show_page/id_z88da380a055711e3b8b7.html",
+      "http://www.tudou.com/albumcover/iXeFPRjW9ZM.html",
       "http://www.bilibili.com/sp/飙速宅男"
     ],
     "newBgm": false,
@@ -989,6 +1064,10 @@
     "timeJP": "0105",
     "timeCN": "",
     "onAirSite": [
+      "http://www.tudou.com/albumcover/K0hA1H3g-uM.html",
+      "http://www.youku.com/show_page/id_zcdde049cb01311e3b8b7.html",
+      "http://v.qq.com/detail/4/4239zjr5qfeimdv.html",
+      "http://www.letv.com/comic/10000898.html",
       "http://www.bilibili.com/sp/监督不行届",
       "http://www.acfun.tv/a/aa1200"
     ],
@@ -1009,7 +1088,9 @@
       "http://tv.sohu.com/s2014/m3hg/",
       "http://www.youku.com/show_page/id_z53e64c72ae7811e3a705.html",
       "http://www.bilibili.com/sp/M3黑色之钢",
-      "http://www.acfun.tv/a/aa1129"
+      "http://www.acfun.tv/a/aa1129",
+      "http://www.tudou.com/albumcover/bnjoDHGXv1c.html",
+      "http://data.movie.kankan.com/movie/75987"
     ],
     "newBgm": true,
     "bgmId": 99740,
@@ -1041,6 +1122,7 @@
     "timeCN": "",
     "onAirSite": [
       "http://tv.sohu.com/s2014/lzg2",
+      "http://www.iqiyi.com/a_19rrhb1cr1.html",
       "http://www.bilibili.com/sp/龙珠#S-867",
       "http://www.acfun.tv/a/aa1243"
     ],
@@ -1074,6 +1156,9 @@
     "timeJP": "0530",
     "timeCN": "",
     "onAirSite": [
+      "http://www.letv.com/comic/88433.html",
+      "http://www.tudou.com/albumcover/8pqD3-i9Be4.html",
+      "http://www.youku.com/show_page/id_z7df70b7a692611e29013.html",
       "http://www.bilibili.com/sp/卡片战斗先导者"
     ],
     "newBgm": false,
@@ -1091,7 +1176,11 @@
     "onAirSite": [
       "http://www.iqiyi.com/a_19rrgi8tcp.html",
       "http://www.bilibili.com/sp/BABY%20STEPS%20网球优等生",
-      "http://www.acfun.tv/a/aa1235"
+      "http://www.acfun.tv/a/aa1235",
+      "http://www.tudou.com/albumcover/Aa0hDsuTPws.html",
+      "http://www.youku.com/show_page/id_z3b9a1d22800d11e3b8b7.html",
+      "http://www.letv.com/comic/10000911.html",
+      "http://data.movie.kankan.com/movie/75930"
     ],
     "newBgm": true,
     "bgmId": 87717,
@@ -1120,7 +1209,10 @@
     "weekDayCN": 1,
     "timeJP": "2125",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://www.youku.com/show_page/id_z38a5e746bc9811e38b3f.html",
+      "http://www.tudou.com/albumcover/XtBb0twFu-Q.html"
+    ],
     "newBgm": true,
     "bgmId": 99809,
     "showDate": "2014-04-06"
@@ -1134,6 +1226,10 @@
     "timeJP": "0000",
     "timeCN": "",
     "onAirSite": [
+      "http://www.letv.com/comic/10000884.html",
+      "http://v.qq.com/detail/j/jscsr92k16z03ta.html",
+      "http://www.tudou.com/albumcover/yxL8H61FFdc.html",
+      "http://www.youku.com/show_page/id_z88a13c1aa51311e3a705.html",
       "http://www.bilibili.com/sp/犬神同学和猫山同学",
       "http://www.acfun.tv/a/aa1108"
     ],
@@ -1150,6 +1246,8 @@
     "timeJP": "2330",
     "timeCN": "",
     "onAirSite": [
+      "http://www.tudou.com/albumcover/2yXUwWBdBe0.html",
+      "http://www.youku.com/show_page/id_z0e6da6b4ae5411e3a705.html",
       "http://www.bilibili.com/sp/迷你偶像",
       "http://www.acfun.tv/a/aa1106"
     ],
