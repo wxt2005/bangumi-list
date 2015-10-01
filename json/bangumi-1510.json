@@ -398,8 +398,12 @@
     "weekDayJP": 5,
     "weekDayCN": 5,
     "timeJP": "0046",
-    "timeCN": "",
-    "onAirSite": [],
+    "timeCN": "0146",
+    "onAirSite": [
+      "http://www.bilibili.com/bangumi/i/2719/",
+      "http://www.tudou.com/albumcover/qofDlUmBoxk.html",
+      "http://www.youku.com/show_page/id_z1f9945d2d29f11e38b3f.html"
+    ],
     "newBgm": true,
     "showDate": "2015-10-02",
     "bgmId": 103023
@@ -413,7 +417,9 @@
     "weekDayCN": 5,
     "timeJP": "0116",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://www.bilibili.com/bangumi/i/2720/"
+    ],
     "newBgm": true,
     "showDate": "2015-10-02",
     "bgmId": 133192
@@ -433,21 +439,25 @@
     "bgmId": 145735
   },
   "1510_12": {
-    "titleCN": "骇客玩偶",
+    "titleCN": "骇客娃娃",
     "titleJP": "ハッカドール",
     "titleEN": "",
     "officalSite": "http://hackadoll-anime.com/",
     "weekDayJP": 5,
     "weekDayCN": 6,
     "timeJP": "2200",
-    "timeCN": "",
-    "onAirSite": [],
+    "timeCN": "2330",
+    "onAirSite": [
+      "http://www.bilibili.com/bangumi/i/2721/",
+      "http://www.tudou.com/albumcover/BX_pvExjOAQ.html",
+      "http://www.youku.com/show_page/id_z413610aa569f11e59e2a.html"
+    ],
     "newBgm": true,
     "showDate": "2015-10-02",
     "bgmId": 132754
   },
   "1510_13": {
-    "titleCN": "黑白小姐 第三期",
+    "titleCN": "黑白小姐 第3期",
     "titleJP": "ミス・モノクローム -The Animation- 3 (第3期)",
     "titleEN": "",
     "officalSite": "http://www.starchild.co.jp/special/miss_monochrome_anime_2/",
@@ -455,7 +465,9 @@
     "weekDayCN": 6,
     "timeJP": "2200",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://www.bilibili.com/bangumi/i/2791/"
+    ],
     "newBgm": true,
     "showDate": "2015-10-02",
     "bgmId": 145775
@@ -469,7 +481,9 @@
     "weekDayCN": 6,
     "timeJP": "2330",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://www.bilibili.com/bangumi/i/2740/"
+    ],
     "newBgm": true,
     "showDate": "2015-10-02",
     "bgmId": 115008
@@ -483,7 +497,9 @@
     "weekDayCN": 6,
     "timeJP": "0005",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://www.bilibili.com/bangumi/i/2732/"
+    ],
     "newBgm": true,
     "showDate": "2015-10-03",
     "bgmId": 129988
@@ -497,7 +513,9 @@
     "weekDayCN": 6,
     "timeJP": "0055",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://www.bilibili.com/bangumi/i/2725/"
+    ],
     "newBgm": true,
     "showDate": "2015-10-03",
     "bgmId": 115917
@@ -539,7 +557,9 @@
     "weekDayCN": 0,
     "timeJP": "0000",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://www.bilibili.com/bangumi/i/2761/"
+    ],
     "newBgm": true,
     "showDate": "2015-10-04",
     "bgmId": 136336
@@ -581,7 +601,9 @@
     "weekDayCN": 0,
     "timeJP": "1930",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://www.bilibili.com/bangumi/i/2722/"
+    ],
     "newBgm": true,
     "showDate": "2015-10-03",
     "bgmId": 130250
@@ -595,7 +617,11 @@
     "weekDayCN": 0,
     "timeJP": "2200",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://www.bilibili.com/bangumi/i/2743/",
+      "http://www.tudou.com/albumcover/LOyw2nHROqI.html",
+      "http://www.youku.com/show_page/id_z28181c0256a511e5b5ce.html"
+    ],
     "newBgm": true,
     "showDate": "2015-10-03",
     "bgmId": 127724
@@ -609,7 +635,9 @@
     "weekDayCN": 0,
     "timeJP": "2300",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://www.bilibili.com/bangumi/i/2747/"
+    ],
     "newBgm": true,
     "showDate": "2015-10-03",
     "bgmId": 138829
@@ -636,8 +664,11 @@
     "weekDayJP": 0,
     "weekDayCN": 0,
     "timeJP": "0058",
-    "timeCN": "",
-    "onAirSite": [],
+    "timeCN": "0430",
+    "onAirSite": [
+      "http://www.tudou.com/albumcover/I1vUTf9SSUg.html",
+      "http://www.youku.com/show_page/id_za29bac3c575e11e5b432.html"
+    ],
     "newBgm": true,
     "showDate": "2015-10-04",
     "bgmId": 141781
@@ -650,8 +681,11 @@
     "weekDayJP": 0,
     "weekDayCN": 0,
     "timeJP": "0158",
-    "timeCN": "",
-    "onAirSite": [],
+    "timeCN": "0230",
+    "onAirSite": [
+      "http://www.tudou.com/albumcover/AlsHvzonFNY.html",
+      "http://www.youku.com/show_page/id_z8cc9553c560d11e5b432.html"
+    ],
     "newBgm": true,
     "showDate": "2015-10-04",
     "bgmId": 120236
@@ -662,9 +696,9 @@
     "titleEN": "Kekkai Sensen",
     "officalSite": "http://kekkaisensen.com/",
     "weekDayJP": 0,
-    "weekDayCN": 0,
+    "weekDayCN": 1,
     "timeJP": "0258",
-    "timeCN": "",
+    "timeCN": "1800",
     "onAirSite": [
       "http://www.tudou.com/albumcover/a0ZSHooKbdg.html",
       "http://www.youku.com/show_page/id_z3f3c69e0d37b11e4b692.html",
@@ -677,7 +711,7 @@
     ],
     "newBgm": true,
     "showDate": "2015-10-04",
-    "endDate": "2015-10-04",
+    "endDate": "2015-10-05",
     "bgmId": 105075
   },
   "1510_33": {
@@ -688,8 +722,11 @@
     "weekDayJP": 0,
     "weekDayCN": 0,
     "timeJP": "1600",
-    "timeCN": "",
-    "onAirSite": [],
+    "timeCN": "1830",
+    "onAirSite": [
+      "http://www.tudou.com/albumcover/0cpgYEhhh8Y.html",
+      "http://www.youku.com/show_page/id_z2c1e303055f011e5a080.html"
+    ],
     "newBgm": true,
     "showDate": "2015-10-04",
     "bgmId": 139324
@@ -703,7 +740,9 @@
     "weekDayCN": 1,
     "timeJP": "1955",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://www.bilibili.com/bangumi/i/2729/"
+    ],
     "newBgm": true,
     "showDate": "2015-10-04",
     "bgmId": 138960
@@ -717,7 +756,9 @@
     "weekDayCN": 1,
     "timeJP": "2115",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://www.bilibili.com/bangumi/i/2763/"
+    ],
     "newBgm": true,
     "showDate": "2015-10-04",
     "bgmId": 138834
@@ -731,7 +772,9 @@
     "weekDayCN": 1,
     "timeJP": "2127",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://www.bilibili.com/bangumi/i/2744/"
+    ],
     "newBgm": true,
     "showDate": "2015-10-04",
     "bgmId": 138205
@@ -744,8 +787,12 @@
     "weekDayJP": 0,
     "weekDayCN": 1,
     "timeJP": "2130",
-    "timeCN": "",
-    "onAirSite": [],
+    "timeCN": "2230",
+    "onAirSite": [
+      "http://www.bilibili.com/bangumi/i/2745/",
+      "http://www.tudou.com/albumcover/HjdquAXsNdI.html",
+      "http://www.youku.com/show_page/id_za19a996458ef11e5b692.html"
+    ],
     "newBgm": true,
     "showDate": "2015-10-04",
     "bgmId": 141225
@@ -758,8 +805,12 @@
     "weekDayJP": 0,
     "weekDayCN": 1,
     "timeJP": "2200",
-    "timeCN": "",
-    "onAirSite": [],
+    "timeCN": "2230",
+    "onAirSite": [
+      "http://www.bilibili.com/bangumi/i/2741/",
+      "http://www.tudou.com/albumcover/_qQRLVfjQsE.html",
+      "http://www.youku.com/show_page/id_z189c428856bb11e5b432.html"
+    ],
     "newBgm": true,
     "showDate": "2015-10-04",
     "bgmId": 139022
@@ -772,8 +823,11 @@
     "weekDayJP": 1,
     "weekDayCN": 1,
     "timeJP": "0005",
-    "timeCN": "",
-    "onAirSite": [],
+    "timeCN": "0200",
+    "onAirSite": [
+      "http://www.tudou.com/albumcover/0ooe9ORrppg.html",
+      "http://www.youku.com/show_page/id_z0b39c5b6569311e5b2ad.html"
+    ],
     "newBgm": true,
     "showDate": "2015-10-05",
     "bgmId": 127563
@@ -787,7 +841,9 @@
     "weekDayCN": 2,
     "timeJP": "0000",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://www.bilibili.com/bangumi/i/2767/"
+    ],
     "newBgm": true,
     "showDate": "2015-10-06",
     "bgmId": 146162
@@ -801,7 +857,9 @@
     "weekDayCN": 2,
     "timeJP": "0005",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://www.bilibili.com/bangumi/i/2792/"
+    ],
     "newBgm": true,
     "showDate": "2015-10-06",
     "bgmId": 143751
@@ -814,8 +872,11 @@
     "weekDayJP": 2,
     "weekDayCN": 2,
     "timeJP": "0035",
-    "timeCN": "",
-    "onAirSite": [],
+    "timeCN": "0135",
+    "onAirSite": [
+      "http://www.tudou.com/albumcover/WXDaOez0dhE.html",
+      "http://www.youku.com/show_page/id_zbd38b4fa58f711e5b5ce.html"
+    ],
     "newBgm": true,
     "showDate": "2015-10-06",
     "bgmId": 139408
@@ -828,8 +889,11 @@
     "weekDayJP": 2,
     "weekDayCN": 2,
     "timeJP": "0105",
-    "timeCN": "",
-    "onAirSite": [],
+    "timeCN": "0205",
+    "onAirSite": [
+      "http://www.tudou.com/albumcover/FhdeAF2OAAg.html",
+      "http://www.youku.com/show_page/id_z3d7c3ba456a111e5b522.html"
+    ],
     "newBgm": true,
     "showDate": "2015-10-06",
     "bgmId": 127573
@@ -843,10 +907,31 @@
     "weekDayCN": 2,
     "timeJP": "2300",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://www.bilibili.com/bangumi/i/2735/",
+      "http://www.tudou.com/albumcover/W1KtYayxj5s.html"
+    ],
     "newBgm": true,
     "showDate": "2015-10-05",
     "bgmId": 129007
+  },
+  "1510_46": {
+    "titleCN": "我们这一家 新篇",
+    "titleJP": "新あたしンち",
+    "titleEN": "",
+    "officalSite": "http://www.animax.co.jp/special/atashinchi/",
+    "weekDayJP": 2,
+    "weekDayCN": 2,
+    "timeJP": "1800",
+    "timeCN": "1930",
+    "onAirSite": [
+      "http://www.bilibili.com/bangumi/i/2771/",
+      "http://www.tudou.com/albumcover/GPrAs2nnGug.html",
+      "http://www.youku.com/show_page/id_za68531045c1f11e5b522.html"
+    ],
+    "newBgm": true,
+    "showDate": "2015-10-06",
+    "bgmId": 131717
   },
   "1510_47": {
     "titleCN": "绯弹的亚里亚AA",
@@ -857,7 +942,9 @@
     "weekDayCN": 3,
     "timeJP": "2200",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://www.bilibili.com/bangumi/i/2764/"
+    ],
     "newBgm": true,
     "showDate": "2015-10-06",
     "bgmId": 120224
@@ -870,8 +957,10 @@
     "weekDayJP": 3,
     "weekDayCN": 3,
     "timeJP": "0035",
-    "timeCN": "",
-    "onAirSite": [],
+    "timeCN": "0135",
+    "onAirSite": [
+      "http://www.tudou.com/albumcover/oGBfX_OIyx8.html"
+    ],
     "newBgm": true,
     "showDate": "2015-10-07",
     "bgmId": 144414
@@ -884,8 +973,12 @@
     "weekDayJP": 3,
     "weekDayCN": 4,
     "timeJP": "2230",
-    "timeCN": "",
-    "onAirSite": [],
+    "timeCN": "2330",
+    "onAirSite": [
+      "http://www.bilibili.com/bangumi/i/2730/",
+      "http://www.tudou.com/albumcover/9rxB7Ov1uZw.html",
+      "http://www.youku.com/show_page/id_zc95ea86255fe11e5b522.html"
+    ],
     "newBgm": true,
     "showDate": "2015-10-07",
     "bgmId": 107671
@@ -898,8 +991,12 @@
     "weekDayJP": 3,
     "weekDayCN": 4,
     "timeJP": "2230",
-    "timeCN": "",
-    "onAirSite": [],
+    "timeCN": "0200",
+    "onAirSite": [
+      "http://www.bilibili.com/bangumi/i/2746/",
+      "http://www.tudou.com/albumcover/mPxo5ld_aMA.html",
+      "http://www.youku.com/show_page/id_z55a1743056d611e5b5ce.html"
+    ],
     "newBgm": true,
     "showDate": "2015-10-07",
     "bgmId": 125049
@@ -912,8 +1009,12 @@
     "weekDayJP": 3,
     "weekDayCN": 4,
     "timeJP": "2330",
-    "timeCN": "",
-    "onAirSite": [],
+    "timeCN": "0100",
+    "onAirSite": [
+      "http://www.bilibili.com/bangumi/i/2742/",
+      "http://www.tudou.com/albumcover/GJXVfDKvkC8.html",
+      "http://www.youku.com/show_page/id_zf4ee6f02560411e5b2ad.html"
+    ],
     "newBgm": true,
     "showDate": "2015-10-07",
     "bgmId": 126461
@@ -927,7 +1028,11 @@
     "weekDayCN": 4,
     "timeJP": "0005",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://www.bilibili.com/bangumi/i/2724/",
+      "http://www.tudou.com/albumcover/wU9iDDItFRI.html",
+      "http://www.youku.com/show_page/id_z701b312855fc11e5b5ce.html"
+    ],
     "newBgm": true,
     "showDate": "2015-10-08",
     "bgmId": 102140
@@ -941,7 +1046,9 @@
     "weekDayCN": 5,
     "timeJP": "2255",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://www.bilibili.com/bangumi/i/2733/"
+    ],
     "newBgm": true,
     "showDate": "2015-10-08",
     "bgmId": 130093
@@ -954,8 +1061,12 @@
     "weekDayJP": 4,
     "weekDayCN": 5,
     "timeJP": "2355",
-    "timeCN": "",
-    "onAirSite": [],
+    "timeCN": "0130",
+    "onAirSite": [
+      "http://www.bilibili.com/bangumi/i/2726/",
+      "http://www.tudou.com/albumcover/IaSMVxGAj8k.html",
+      "http://www.youku.com/show_page/id_z7d187dc855fb11e5b522.html"
+    ],
     "newBgm": true,
     "showDate": "2015-10-08",
     "bgmId": 118783
@@ -968,8 +1079,12 @@
     "weekDayJP": 6,
     "weekDayCN": 6,
     "timeJP": "0023",
-    "timeCN": "",
-    "onAirSite": [],
+    "timeCN": "0130",
+    "onAirSite": [
+      "http://www.bilibili.com/bangumi/i/2774/",
+      "http://www.tudou.com/albumcover/lMHQ6VRSQx4.html",
+      "http://www.youku.com/show_page/id_z0ba98662579c11e5a080.html"
+    ],
     "newBgm": true,
     "showDate": "2015-10-10",
     "bgmId": 141078
@@ -997,7 +1112,9 @@
     "weekDayCN": 0,
     "timeJP": "2030",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://www.bilibili.com/bangumi/i/2762/"
+    ],
     "newBgm": true,
     "showDate": "2015-10-10",
     "bgmId": 123568
@@ -1010,8 +1127,12 @@
     "weekDayJP": 6,
     "weekDayCN": 0,
     "timeJP": "2100",
-    "timeCN": "",
-    "onAirSite": [],
+    "timeCN": "0200",
+    "onAirSite": [
+      "http://www.bilibili.com/bangumi/i/2760/",
+      "http://www.tudou.com/albumcover/oGlXUbsk0Hw.html",
+      "http://www.youku.com/show_page/id_zc0bed556569411e5a080.html"
+    ],
     "newBgm": true,
     "showDate": "2015-10-10",
     "bgmId": 120705
@@ -1025,7 +1146,9 @@
     "weekDayCN": 0,
     "timeJP": "2230",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://www.bilibili.com/bangumi/i/2734/"
+    ],
     "newBgm": true,
     "showDate": "2015-10-10",
     "bgmId": 129091
@@ -1039,7 +1162,11 @@
     "weekDayCN": 0,
     "timeJP": "",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://www.bilibili.com/bangumi/i/2775/",
+      "http://www.tudou.com/albumcover/_YQwYxIgG6k.html",
+      "http://www.youku.com/show_page/id_zef37dd98560211e5b2ad.html"
+    ],
     "newBgm": true,
     "showDate": "2015-10-10",
     "bgmId": 133608
@@ -1101,7 +1228,7 @@
     "bgmId": 145667
   },
   "1510_67": {
-    "titleCN": "哥哥锻炼 EX",
+    "titleCN": "动画锻炼 EX",
     "titleJP": "あにトレ！EX",
     "titleEN": "",
     "officalSite": "http://anime-training.com/",
@@ -1109,7 +1236,9 @@
     "weekDayCN": 2,
     "timeJP": "0011",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://www.bilibili.com/bangumi/i/2765/"
+    ],
     "newBgm": true,
     "showDate": "2015-10-13",
     "bgmId": 145129
