@@ -442,7 +442,7 @@
     "weekDayJP": 5,
     "weekDayCN": 5,
     "timeJP": "0116",
-    "timeCN": "",
+    "timeCN": "1524",
     "onAirSite": [
       "http://www.bilibili.com/bangumi/i/2720/"
     ],
@@ -506,7 +506,7 @@
     "weekDayJP": 5,
     "weekDayCN": 6,
     "timeJP": "2330",
-    "timeCN": "",
+    "timeCN": "0300",
     "onAirSite": [
       "http://www.bilibili.com/bangumi/i/2740/"
     ],
@@ -522,7 +522,7 @@
     "weekDayJP": 6,
     "weekDayCN": 6,
     "timeJP": "0005",
-    "timeCN": "",
+    "timeCN": "0105",
     "onAirSite": [
       "http://www.bilibili.com/bangumi/i/2732/"
     ],
@@ -538,7 +538,7 @@
     "weekDayJP": 6,
     "weekDayCN": 6,
     "timeJP": "0055",
-    "timeCN": "",
+    "timeCN": "0240",
     "onAirSite": [
       "http://www.bilibili.com/bangumi/i/2725/"
     ],
@@ -554,8 +554,10 @@
     "weekDayJP": 6,
     "weekDayCN": 6,
     "timeJP": "0125",
-    "timeCN": "",
-    "onAirSite": [],
+    "timeCN": "0310",
+    "onAirSite": [
+      "http://www.iqiyi.com/a_19rrhax0et.html"
+    ],
     "newBgm": true,
     "showDate": "2015-10-03",
     "bgmId": 130230
