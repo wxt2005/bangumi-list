@@ -267,6 +267,28 @@
     "showDate": "2015-04-16",
     "endDate": "2015-10-08"
   },
+  "1507_26": {
+    "titleCN": "创圣的大天使 LOGOS",
+    "titleJP": "アクエリオンロゴス",
+    "titleEN": "Aquarion Logos",
+    "officalSite": "http://aqlogos.com/",
+    "weekDayJP": 4,
+    "weekDayCN": 5,
+    "timeJP": "2300",
+    "timeCN": "0030",
+    "onAirSite": [
+      "http://www.bilibili.com/bangumi/i/2579/",
+      "http://www.letv.com/comic/10010420.html",
+      "http://v.qq.com/detail/9/90ono2pk2blgqwd.html",
+      "http://www.pptv.com/page/323242.html",
+      "http://www.youku.com/show_page/id_zff83eed81aea11e5b2ad.html",
+      "http://www.tudou.com/albumcover/Nd659aHmzbc.html",
+      "http://www.tucao.cc/index.php?m=search&c=index&a=init2&catid=24&q=创圣%20LOGOS"
+    ],
+    "newBgm": false,
+    "showDate": "2015-07-02",
+    "bgmId": 126024
+  },
   "1507_30": {
     "titleCN": "黑塔利亚 第6期",
     "titleJP": "ヘタリア The World Twinkle",
@@ -391,18 +413,22 @@
     "bgmId": 115661
   },
   "1510_8": {
-    "titleCN": "枪的假面舞会",
+    "titleCN": "枪与假面舞会",
     "titleJP": "Lance N’Masques(ランス・アンド・マスクス)",
     "titleEN": "",
     "officalSite": "http://www.tbs.co.jp/anime/lance/",
     "weekDayJP": 5,
     "weekDayCN": 5,
     "timeJP": "0046",
-    "timeCN": "0146",
+    "timeCN": "1200",
     "onAirSite": [
       "http://www.bilibili.com/bangumi/i/2719/",
       "http://www.tudou.com/albumcover/qofDlUmBoxk.html",
-      "http://www.youku.com/show_page/id_z1f9945d2d29f11e38b3f.html"
+      "http://www.youku.com/show_page/id_z1f9945d2d29f11e38b3f.html",
+      "http://www.letv.com/comic/10014178.html",
+      "http://www.iqiyi.com/a_19rrhbb445.html",
+      "http://www.pptv.com/page/326533.html",
+      "http://www.acfun.tv/v/ab1470361_0"
     ],
     "newBgm": true,
     "showDate": "2015-10-02",
