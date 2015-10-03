@@ -571,7 +571,9 @@
     "weekDayCN": 6,
     "timeJP": "1630",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://www.iqiyi.com/a_19rrhb2729.html"
+    ],
     "newBgm": true,
     "showDate": "2015-10-03",
     "bgmId": 139950
@@ -626,9 +628,9 @@
     "titleEN": "",
     "officalSite": "http://asterisk-war.com/",
     "weekDayJP": 6,
-    "weekDayCN": 0,
+    "weekDayCN": 6,
     "timeJP": "1930",
-    "timeCN": "",
+    "timeCN": "2100",
     "onAirSite": [
       "http://www.bilibili.com/bangumi/i/2722/"
     ],
@@ -642,9 +644,9 @@
     "titleEN": "",
     "officalSite": "http://www.ittoshura.com/",
     "weekDayJP": 6,
-    "weekDayCN": 0,
+    "weekDayCN": 6,
     "timeJP": "2200",
-    "timeCN": "",
+    "timeCN": "2300",
     "onAirSite": [
       "http://www.bilibili.com/bangumi/i/2743/",
       "http://www.tudou.com/albumcover/LOyw2nHROqI.html",
