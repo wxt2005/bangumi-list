@@ -376,10 +376,12 @@
     "titleEN": "",
     "officalSite": "http://anime-dialover.com/dlmb/",
     "weekDayJP": 3,
-    "weekDayCN": 4,
+    "weekDayCN": 1,
     "timeJP": "2330",
-    "timeCN": "",
-    "onAirSite": [],
+    "timeCN": "0030",
+    "onAirSite": [
+      "http://v.qq.com/detail/p/p5yfnziow4uwunf.html"
+    ],
     "newBgm": true,
     "showDate": "2015-09-23",
     "bgmId": 124778
@@ -459,7 +461,9 @@
     "weekDayCN": 6,
     "timeJP": "2200",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://www.acfun.tv/v/ab1470364_0"
+    ],
     "newBgm": true,
     "showDate": "2015-10-02",
     "bgmId": 145735
@@ -476,7 +480,8 @@
     "onAirSite": [
       "http://www.bilibili.com/bangumi/i/2721/",
       "http://www.tudou.com/albumcover/BX_pvExjOAQ.html",
-      "http://www.youku.com/show_page/id_z413610aa569f11e59e2a.html"
+      "http://www.youku.com/show_page/id_z413610aa569f11e59e2a.html",
+      "http://www.acfun.tv/v/ab1470362_0"
     ],
     "newBgm": true,
     "showDate": "2015-10-02",
@@ -586,7 +591,7 @@
     "weekDayJP": 0,
     "weekDayCN": 0,
     "timeJP": "0000",
-    "timeCN": "",
+    "timeCN": "0130",
     "onAirSite": [
       "http://www.bilibili.com/bangumi/i/2761/"
     ],
@@ -650,7 +655,9 @@
     "onAirSite": [
       "http://www.bilibili.com/bangumi/i/2743/",
       "http://www.tudou.com/albumcover/LOyw2nHROqI.html",
-      "http://www.youku.com/show_page/id_z28181c0256a511e5b5ce.html"
+      "http://www.youku.com/show_page/id_z28181c0256a511e5b5ce.html",
+      "http://www.pptv.com/page/326398.html",
+      "http://www.acfun.tv/v/ab1470365_0"
     ],
     "newBgm": true,
     "showDate": "2015-10-03",
@@ -680,8 +687,10 @@
     "weekDayJP": 0,
     "weekDayCN": 0,
     "timeJP": "0042",
-    "timeCN": "",
-    "onAirSite": [],
+    "timeCN": "0050",
+    "onAirSite": [
+      "http://www.bilibili.com/bangumi/i/2795/"
+    ],
     "newBgm": true,
     "showDate": "2015-10-04",
     "bgmId": 136764
@@ -694,10 +703,12 @@
     "weekDayJP": 0,
     "weekDayCN": 0,
     "timeJP": "0058",
-    "timeCN": "0430",
+    "timeCN": "0530",
     "onAirSite": [
       "http://www.tudou.com/albumcover/I1vUTf9SSUg.html",
-      "http://www.youku.com/show_page/id_za29bac3c575e11e5b432.html"
+      "http://www.youku.com/show_page/id_za29bac3c575e11e5b432.html",
+      "http://www.pptv.com/page/328569.html",
+      "http://www.acfun.tv/v/ab1470366_0"
     ],
     "newBgm": true,
     "showDate": "2015-10-04",
