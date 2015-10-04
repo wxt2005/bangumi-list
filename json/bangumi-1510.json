@@ -773,14 +773,14 @@
     "bgmId": 139324
   },
   "1510_34": {
-    "titleCN": "温泉幼精箱根酱",
+    "titleCN": "温泉幼精小箱根",
     "titleJP": "温泉幼精ハコネちゃん",
     "titleEN": "",
     "officalSite": "http://www.hakone-chan.jp/",
     "weekDayJP": 0,
     "weekDayCN": 1,
     "timeJP": "1955",
-    "timeCN": "",
+    "timeCN": "0005",
     "onAirSite": [
       "http://www.bilibili.com/bangumi/i/2729/"
     ],
@@ -794,9 +794,9 @@
     "titleEN": "",
     "officalSite": "http://rainycocoa.jp/anime/index.html",
     "weekDayJP": 0,
-    "weekDayCN": 1,
+    "weekDayCN": 0,
     "timeJP": "2115",
-    "timeCN": "",
+    "timeCN": "2315",
     "onAirSite": [
       "http://www.bilibili.com/bangumi/i/2763/"
     ],
@@ -810,9 +810,9 @@
     "titleEN": "",
     "officalSite": "http://komori-anime.com/",
     "weekDayJP": 0,
-    "weekDayCN": 1,
+    "weekDayCN": 0,
     "timeJP": "2127",
-    "timeCN": "",
+    "timeCN": "2200",
     "onAirSite": [
       "http://www.bilibili.com/bangumi/i/2744/"
     ],
