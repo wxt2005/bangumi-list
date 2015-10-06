@@ -874,7 +874,8 @@
     ],
     "newBgm": true,
     "showDate": "2015-10-05",
-    "bgmId": 127563
+    "bgmId": 127563,
+    "comment": "优酷土豆为收费观看"
   },
   "1510_40": {
     "titleCN": "女高给你做饭",
@@ -950,10 +951,11 @@
     "weekDayJP": 1,
     "weekDayCN": 2,
     "timeJP": "2300",
-    "timeCN": "",
+    "timeCN": "0000",
     "onAirSite": [
       "http://www.bilibili.com/bangumi/i/2735/",
-      "http://www.tudou.com/albumcover/W1KtYayxj5s.html"
+      "http://www.tudou.com/albumcover/W1KtYayxj5s.html",
+      "http://www.youku.com/show_page/id_z5f9e34d6569111e5b5ce.html"
     ],
     "newBgm": true,
     "showDate": "2015-10-05",
