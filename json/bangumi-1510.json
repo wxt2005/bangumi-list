@@ -920,7 +920,8 @@
     "timeCN": "0135",
     "onAirSite": [
       "http://www.tudou.com/albumcover/WXDaOez0dhE.html",
-      "http://www.youku.com/show_page/id_zbd38b4fa58f711e5b5ce.html"
+      "http://www.youku.com/show_page/id_zbd38b4fa58f711e5b5ce.html",
+      "http://www.acfun.tv/v/ab1470375_0"
     ],
     "newBgm": true,
     "showDate": "2015-10-06",
@@ -937,7 +938,8 @@
     "timeCN": "0205",
     "onAirSite": [
       "http://www.tudou.com/albumcover/FhdeAF2OAAg.html",
-      "http://www.youku.com/show_page/id_z3d7c3ba456a111e5b522.html"
+      "http://www.youku.com/show_page/id_z3d7c3ba456a111e5b522.html",
+      "http://www.acfun.tv/v/ab1470376_0"
     ],
     "newBgm": true,
     "showDate": "2015-10-06",
@@ -955,7 +957,8 @@
     "onAirSite": [
       "http://www.bilibili.com/bangumi/i/2735/",
       "http://www.tudou.com/albumcover/W1KtYayxj5s.html",
-      "http://www.youku.com/show_page/id_z5f9e34d6569111e5b5ce.html"
+      "http://www.youku.com/show_page/id_z5f9e34d6569111e5b5ce.html",
+      "http://www.acfun.tv/v/ab1470374_0"
     ],
     "newBgm": true,
     "showDate": "2015-10-05",
@@ -973,7 +976,9 @@
     "onAirSite": [
       "http://www.bilibili.com/bangumi/i/2771/",
       "http://www.tudou.com/albumcover/GPrAs2nnGug.html",
-      "http://www.youku.com/show_page/id_za68531045c1f11e5b522.html"
+      "http://www.youku.com/show_page/id_za68531045c1f11e5b522.html",
+      "http://www.letv.com/comic/10014256.html",
+      "http://www.acfun.tv/v/ab1470377_0"
     ],
     "newBgm": true,
     "showDate": "2015-10-06",
@@ -985,9 +990,9 @@
     "titleEN": "",
     "officalSite": "http://ariaaa.tv/",
     "weekDayJP": 2,
-    "weekDayCN": 3,
+    "weekDayCN": 2,
     "timeJP": "2200",
-    "timeCN": "",
+    "timeCN": "2230",
     "onAirSite": [
       "http://www.bilibili.com/bangumi/i/2764/"
     ],
@@ -1005,7 +1010,9 @@
     "timeJP": "0035",
     "timeCN": "0135",
     "onAirSite": [
-      "http://www.tudou.com/albumcover/oGBfX_OIyx8.html"
+      "http://www.tudou.com/albumcover/oGBfX_OIyx8.html",
+      "http://www.youku.com/show_page/id_zf45e2814669111e59e2a.html",
+      "http://www.acfun.tv/v/ab1470378_0"
     ],
     "newBgm": true,
     "showDate": "2015-10-07",
