@@ -13,7 +13,7 @@
             },
             "4": {
                 "path": "json/bangumi-1404.json",
-                "version": 2015090701
+                "version": 2015100904
             },
             "7": {
                 "path": "json/bangumi-1407.json",
@@ -21,7 +21,7 @@
             },
             "10": {
                 "path": "json/bangumi-1410.json",
-                "version": 2015090701
+                "version": 2015100904
             }
         },
         "2015": {
@@ -35,11 +35,11 @@
             },
             "7": {
                 "path": "json/bangumi-1507.json",
-                "version": 2015090701
+                "version": 2015100904
             },
             "10": {
                 "path": "json/bangumi-1510.json",
-                "version": 2015100903
+                "version": 2015100904
             }
         }
     }
