@@ -573,9 +573,9 @@
     "titleEN": "",
     "officalSite": "http://www.ytv.co.jp/kindaichi_r/",
     "weekDayJP": 6,
-    "weekDayCN": 6,
+    "weekDayCN": 0,
     "timeJP": "1630",
-    "timeCN": "",
+    "timeCN": "0800",
     "onAirSite": [
       "http://www.iqiyi.com/a_19rrhb2729.html"
     ],
@@ -783,7 +783,8 @@
     "timeJP": "1955",
     "timeCN": "0005",
     "onAirSite": [
-      "http://www.bilibili.com/bangumi/i/2729/"
+      "http://www.bilibili.com/bangumi/i/2729/",
+      "http://www.iqiyi.com/a_19rrhbax91.html"
     ],
     "newBgm": true,
     "showDate": "2015-10-04",
@@ -1018,6 +1019,22 @@
     "showDate": "2015-10-07",
     "bgmId": 144414
   },
+  "1510_50": {
+    "titleCN": "侦探小队KZ事件簿",
+    "titleJP": "探偵チームＫＺ(カッズ)事件ノート",
+    "titleEN": "",
+    "officalSite": "h#",
+    "weekDayJP": 3,
+    "weekDayCN": 3,
+    "timeJP": "1745",
+    "timeCN": "2105",
+    "onAirSite": [
+      "http://www.bilibili.com/bangumi/i/2738/"
+    ],
+    "newBgm": true,
+    "showDate": "2015-10-07",
+    "bgmId": 139800
+  },
   "1510_51": {
     "titleCN": "关于我被绑架到贵族女校当“庶民样本”的事",
     "titleJP": "俺がお嬢様学校に「庶民サンプル」としてゲッツされた件",
@@ -1030,7 +1047,10 @@
     "onAirSite": [
       "http://www.bilibili.com/bangumi/i/2730/",
       "http://www.tudou.com/albumcover/9rxB7Ov1uZw.html",
-      "http://www.youku.com/show_page/id_zc95ea86255fe11e5b522.html"
+      "http://www.youku.com/show_page/id_zc95ea86255fe11e5b522.html",
+      "http://www.acfun.tv/v/ab1470379_0",
+      "http://www.iqiyi.com/a_19rrhbb0ht.html",
+      "http://www.pptv.com/page/326545.html"
     ],
     "newBgm": true,
     "showDate": "2015-10-07",
@@ -1048,7 +1068,9 @@
     "onAirSite": [
       "http://www.bilibili.com/bangumi/i/2746/",
       "http://www.tudou.com/albumcover/mPxo5ld_aMA.html",
-      "http://www.youku.com/show_page/id_z55a1743056d611e5b5ce.html"
+      "http://www.youku.com/show_page/id_z55a1743056d611e5b5ce.html",
+      "http://www.acfun.tv/v/ab1470389_0",
+      "http://www.pptv.com/page/326543.html"
     ],
     "newBgm": true,
     "showDate": "2015-10-07",
@@ -1066,7 +1088,8 @@
     "onAirSite": [
       "http://www.bilibili.com/bangumi/i/2742/",
       "http://www.tudou.com/albumcover/GJXVfDKvkC8.html",
-      "http://www.youku.com/show_page/id_zf4ee6f02560411e5b2ad.html"
+      "http://www.youku.com/show_page/id_zf4ee6f02560411e5b2ad.html",
+      "http://www.acfun.tv/v/ab1470387_0"
     ],
     "newBgm": true,
     "showDate": "2015-10-07",
@@ -1084,7 +1107,9 @@
     "onAirSite": [
       "http://www.bilibili.com/bangumi/i/2724/",
       "http://www.tudou.com/albumcover/wU9iDDItFRI.html",
-      "http://www.youku.com/show_page/id_z701b312855fc11e5b5ce.html"
+      "http://www.youku.com/show_page/id_z701b312855fc11e5b5ce.html",
+      "http://www.acfun.tv/v/ab1470388_0",
+      "http://www.pptv.com/page/326396.html"
     ],
     "newBgm": true,
     "showDate": "2015-10-08",
@@ -1118,7 +1143,8 @@
     "onAirSite": [
       "http://www.bilibili.com/bangumi/i/2726/",
       "http://www.tudou.com/albumcover/IaSMVxGAj8k.html",
-      "http://www.youku.com/show_page/id_z7d187dc855fb11e5b522.html"
+      "http://www.youku.com/show_page/id_z7d187dc855fb11e5b522.html",
+      "http://www.acfun.tv/v/ab1470360_0"
     ],
     "newBgm": true,
     "showDate": "2015-10-08",
