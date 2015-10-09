@@ -462,7 +462,8 @@
     "timeJP": "2200",
     "timeCN": "",
     "onAirSite": [
-      "http://www.acfun.tv/v/ab1470364_0"
+      "http://www.acfun.tv/v/ab1470364_0",
+      "http://www.pptv.com/page/328570.html"
     ],
     "newBgm": true,
     "showDate": "2015-10-02",
@@ -481,6 +482,7 @@
       "http://www.bilibili.com/bangumi/i/2721/",
       "http://www.tudou.com/albumcover/BX_pvExjOAQ.html",
       "http://www.youku.com/show_page/id_z413610aa569f11e59e2a.html",
+      "http://www.letv.com/comic/10014189.html",
       "http://www.acfun.tv/v/ab1470362_0"
     ],
     "newBgm": true,
@@ -622,7 +624,9 @@
     "weekDayCN": 6,
     "timeJP": "0814",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://www.bilibili.com/bangumi/i/2794/"
+    ],
     "newBgm": true,
     "showDate": "2015-10-03",
     "bgmId": 131803
@@ -767,6 +771,7 @@
     "onAirSite": [
       "http://www.tudou.com/albumcover/0cpgYEhhh8Y.html",
       "http://www.youku.com/show_page/id_z2c1e303055f011e5a080.html",
+      "http://www.bilibili.com/bangumi/i/2723/",
       "http://www.acfun.tv/v/ab1470371_0"
     ],
     "newBgm": true,
@@ -783,7 +788,8 @@
     "timeJP": "1955",
     "timeCN": "0005",
     "onAirSite": [
-      "http://www.bilibili.com/bangumi/i/2729/"
+      "http://www.bilibili.com/bangumi/i/2729/",
+      "http://www.iqiyi.com/a_19rrhbax91.html"
     ],
     "newBgm": true,
     "showDate": "2015-10-04",
@@ -870,7 +876,8 @@
     "timeCN": "0200",
     "onAirSite": [
       "http://www.tudou.com/albumcover/0ooe9ORrppg.html",
-      "http://www.youku.com/show_page/id_z0b39c5b6569311e5b2ad.html"
+      "http://www.youku.com/show_page/id_z0b39c5b6569311e5b2ad.html",
+      "http://www.bilibili.com/bangumi/i/2739/"
     ],
     "newBgm": true,
     "showDate": "2015-10-05",
@@ -921,6 +928,7 @@
     "onAirSite": [
       "http://www.tudou.com/albumcover/WXDaOez0dhE.html",
       "http://www.youku.com/show_page/id_zbd38b4fa58f711e5b5ce.html",
+      "http://www.bilibili.com/bangumi/i/2766/",
       "http://www.acfun.tv/v/ab1470375_0"
     ],
     "newBgm": true,
@@ -939,6 +947,7 @@
     "onAirSite": [
       "http://www.tudou.com/albumcover/FhdeAF2OAAg.html",
       "http://www.youku.com/show_page/id_z3d7c3ba456a111e5b522.html",
+      "http://www.bilibili.com/bangumi/i/2758/",
       "http://www.acfun.tv/v/ab1470376_0"
     ],
     "newBgm": true,
@@ -1048,7 +1057,8 @@
     "onAirSite": [
       "http://www.bilibili.com/bangumi/i/2746/",
       "http://www.tudou.com/albumcover/mPxo5ld_aMA.html",
-      "http://www.youku.com/show_page/id_z55a1743056d611e5b5ce.html"
+      "http://www.youku.com/show_page/id_z55a1743056d611e5b5ce.html",
+      "http://www.pptv.com/page/326543.html"
     ],
     "newBgm": true,
     "showDate": "2015-10-07",
@@ -1066,7 +1076,8 @@
     "onAirSite": [
       "http://www.bilibili.com/bangumi/i/2742/",
       "http://www.tudou.com/albumcover/GJXVfDKvkC8.html",
-      "http://www.youku.com/show_page/id_zf4ee6f02560411e5b2ad.html"
+      "http://www.youku.com/show_page/id_zf4ee6f02560411e5b2ad.html",
+      "http://www.letv.com/comic/10014274.html"
     ],
     "newBgm": true,
     "showDate": "2015-10-07",
@@ -1084,7 +1095,9 @@
     "onAirSite": [
       "http://www.bilibili.com/bangumi/i/2724/",
       "http://www.tudou.com/albumcover/wU9iDDItFRI.html",
-      "http://www.youku.com/show_page/id_z701b312855fc11e5b5ce.html"
+      "http://www.youku.com/show_page/id_z701b312855fc11e5b5ce.html",
+      "http://www.letv.com/comic/10014273.html",
+      "http://www.pptv.com/page/326396.html"
     ],
     "newBgm": true,
     "showDate": "2015-10-08",
@@ -1182,9 +1195,7 @@
     "timeJP": "2100",
     "timeCN": "0200",
     "onAirSite": [
-      "http://www.bilibili.com/bangumi/i/2760/",
-      "http://www.tudou.com/albumcover/oGlXUbsk0Hw.html",
-      "http://www.youku.com/show_page/id_zc0bed556569411e5a080.html"
+      "http://www.bilibili.com/bangumi/i/2760/"
     ],
     "newBgm": true,
     "showDate": "2015-10-10",
