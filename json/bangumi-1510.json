@@ -365,7 +365,7 @@
       "http://v.qq.com/detail/w/wgzklo5zkrgalda.html",
       "http://www.tucao.cc/index.php?m=search&c=index&a=init2&catid=24&q=偶像大师灰姑娘"
     ],
-    "newBgm": true,
+    "newBgm": false,
     "showDate": "2015-07-17",
     "endDate": "2015-10-16",
     "bgmId": 130231
@@ -621,9 +621,9 @@
     "titleEN": "",
     "officalSite": "http://www.anime-muco.com/",
     "weekDayJP": 6,
-    "weekDayCN": 6,
+    "weekDayCN": 0,
     "timeJP": "0814",
-    "timeCN": "",
+    "timeCN": "0005",
     "onAirSite": [
       "http://www.bilibili.com/bangumi/i/2794/"
     ],
@@ -1172,7 +1172,8 @@
     "onAirSite": [
       "http://www.bilibili.com/bangumi/i/2774/",
       "http://www.tudou.com/albumcover/lMHQ6VRSQx4.html",
-      "http://www.youku.com/show_page/id_z0ba98662579c11e5a080.html"
+      "http://www.youku.com/show_page/id_z0ba98662579c11e5a080.html",
+      "http://www.acfun.tv/v/ab1470395_0"
     ],
     "newBgm": true,
     "showDate": "2015-10-10",
