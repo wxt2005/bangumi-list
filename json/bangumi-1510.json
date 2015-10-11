@@ -1201,7 +1201,7 @@
     "weekDayJP": 6,
     "weekDayCN": 0,
     "timeJP": "2030",
-    "timeCN": "",
+    "timeCN": "0100",
     "onAirSite": [
       "http://www.bilibili.com/bangumi/i/2762/"
     ],
@@ -1281,8 +1281,10 @@
     "weekDayJP": 0,
     "weekDayCN": 0,
     "timeJP": "0820",
-    "timeCN": "",
-    "onAirSite": [],
+    "timeCN": "0825",
+    "onAirSite": [
+      "http://www.acfun.tv/v/ab1470396_0"
+    ],
     "newBgm": true,
     "showDate": "2015-10-11",
     "bgmId": 145912
