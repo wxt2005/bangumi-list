@@ -232,6 +232,11 @@
                                             changeHandler={this._handleConfigChange}
                                             value={this.state.config.jpTitle}
                                         >显示日文标题</PanelSwitch>
+                                        <PanelSwitch
+                                            configName="highlightOnly"
+                                            changeHandler={this._handleConfigChange}
+                                            value={this.state.config.highlightOnly}
+                                        >只显示关注</PanelSwitch>
                                         <NumberSelector
                                             configName="dayDivide"
                                             changeHandler={this._handleConfigChange}

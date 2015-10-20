@@ -39,6 +39,12 @@ var BgmList = React.createClass({
             return false;
         }
 
+        // 如果设定只显示关注项目则隐藏其他所以项目
+        if(this.state.config.highlightOnly && !item.highlight){
+            return false;
+        }
+
+
         // 如为全部tab,显示
         if(this.props.tab === 7){
             return true;
