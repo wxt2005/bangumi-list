@@ -11,6 +11,7 @@ var STORAGE_NAMESAPCE = 'bgmlist_configs';
 
 var DEFAULT = {
     newOnly: false,
+    highlightOnly: false,
     noAutoSwitch: false,
     disableNewTab: false,
     jpTitle: false,

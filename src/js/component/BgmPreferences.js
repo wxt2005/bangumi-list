@@ -187,10 +187,22 @@
         },
         _handleReset: function(e){
             e.preventDefault();
-            Actions.resetConfig();
-            Actions.resetSites();
-            Actions.resetData();
-            location.reload(true);
+            Actions.showDialog(
+                'warning',
+                '重置不仅会清除您的设置，还会清除您对作品的关注/隐藏记录，请问您确定要重置吗？',
+                [{
+                    text: '确定',
+                    callback: () => {
+                        Actions.resetConfig();
+                        Actions.resetSites();
+                        Actions.resetData();
+                        location.reload(true);
+                    }
+                },{
+                    text: '取消',
+                    callback: () => {}
+                }]
+            );
         },
         render: function(){
             var SiteToggles = _.map(this.state.supportSites, function(info, domain){
