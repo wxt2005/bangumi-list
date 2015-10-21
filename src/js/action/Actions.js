@@ -70,6 +70,16 @@ var Actions = {
             actionType: 'DATA_TOGGLE_ALL',
             toggleFlag: toggleFlag
         });
+    },
+    showDialog: function(type, content, buttons){
+        Dispatcher.dispatch({
+            actionType: 'SHOW_DIALOG',
+            option: {
+                type: type,
+                content: content,
+                buttons: buttons || ''
+            }
+        });
     }
 };
 

@@ -187,10 +187,23 @@
         },
         _handleReset: function(e){
             e.preventDefault();
-            Actions.resetConfig();
-            Actions.resetSites();
-            Actions.resetData();
-            location.reload(true);
+            Actions.showDialog(
+                'warning',
+                '重置不仅会清除您的设置，还会清除您对作品的关注/隐藏记录，请问您确定要重置吗？',
+                [{
+                    text: '确定',
+                    callback: () => {
+                        Actions.resetConfig();
+                        Actions.resetSites();
+                        Actions.resetData();
+                        location.reload(true);
+                    }
+                },{
+                    text: '取消',
+                    callback: () => {}
+                }]
+            );
+            return;
         },
         render: function(){
             var SiteToggles = _.map(this.state.supportSites, function(info, domain){
@@ -232,6 +245,11 @@
                                             changeHandler={this._handleConfigChange}
                                             value={this.state.config.jpTitle}
                                         >显示日文标题</PanelSwitch>
+                                        <PanelSwitch
+                                            configName="highlightOnly"
+                                            changeHandler={this._handleConfigChange}
+                                            value={this.state.config.highlightOnly}
+                                        >只显示关注</PanelSwitch>
                                         <NumberSelector
                                             configName="dayDivide"
                                             changeHandler={this._handleConfigChange}

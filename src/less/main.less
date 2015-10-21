@@ -1443,6 +1443,83 @@ footer {
     }
 }
 
+.dialog-mask {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: 100;
+    top: 0;
+    left: 0;
+    display: none;
+    text-align: center;
+    &.show{
+        display: block;
+    }
+    >.dialog{
+        position: absolute;
+        width: 80%;
+        max-width: 420px;
+        background: white;
+        border-radius: 6px;
+        left: 50%;
+        top: 50%;
+        .transform(translate(-50%, -50%));
+        overflow: hidden;
+        >.title{
+            .fs(22);
+            font-weight: bold;
+            color: white;
+            line-height: 40px;
+            text-align: center;
+        }
+        &.info >.title{
+            background-color: @dark-green;
+        }
+        &.warning >.title{
+            background-color: @notify-red;
+        }
+        &.error >.title{
+            background-color: @notify-red;
+        }
+        >.content{
+            min-height: 120px;
+            padding: 25px;
+            .fs(18);
+            text-align: left;
+        }
+        >.footer{
+            position: relative;
+            padding: 10px 20px;
+            text-align: right;
+            &:before{
+                content: "";
+                display: block;
+                position: absolute;
+                border-width: 0;
+                border-top: 1px solid rgba(0,0,0,0.2);
+                left: 15px;
+                right: 15px;
+                top: 0;
+            }
+            >.button{
+                display: inline-block;
+                background: @dark-green;
+                color: #fff;
+                .fs(14);
+                padding: 5px 15px;
+                margin: 0 5px;
+                border-radius: 4px;
+                .transition(background-color 0.5s ease);
+
+                &:hover {
+                    background-color: darken(@dark-green, 5%);
+                }
+            }
+        }
+    }
+}
+
 /*.mask {
     position: fixed;
     width: 100%;
@@ -1452,3 +1529,5 @@ footer {
     top: 0;
     left: 0;
 }*/
+
+// vim: set expandtab ts=4 sw=4:
