@@ -22,7 +22,7 @@ module.exports = {
         loaders: [
             {
                 test: /\.js$/,
-                loader: 'react-hot!jsx',
+                loader: 'react-hot!babel!jsx',
                 include: path.join(__dirname, 'src')
             },
             {
