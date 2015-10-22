@@ -398,6 +398,7 @@
     "timeJP": "1700",
     "timeCN": "",
     "onAirSite": [
+      "http://www.pptv.com/page/326296.html",
       "http://www.tucao.tv/index.php?m=search&c=index&a=init2&q=见习神明%20秘密的COCOTAMA"
     ],
     "newBgm": true,
@@ -414,6 +415,7 @@
     "timeJP": "0115",
     "timeCN": "",
     "onAirSite": [
+      "http://www.pptv.com/page/326596.html",
       "http://www.tucao.tv/index.php?m=search&c=index&a=init2&q=鲁邦三世新系列"
     ],
     "newBgm": true,
@@ -472,6 +474,9 @@
     "onAirSite": [
       "http://www.acfun.tv/v/ab1470364_0",
       "http://www.pptv.com/page/328570.html",
+      "http://www.tudou.com/albumcover/uxRIDh_CxPw.html",
+      "http://www.youku.com/show_page/id_z02007bfe55ec11e5b2ad.html",
+      "http://www.letv.com/comic/10014195.html",
       "http://www.tucao.tv/index.php?m=search&c=index&a=init2&q=影鳄"
     ],
     "newBgm": true,
@@ -821,6 +826,8 @@
     "onAirSite": [
       "http://www.bilibili.com/bangumi/i/2729/",
       "http://www.iqiyi.com/a_19rrhbax91.html",
+      "http://www.youku.com/show_page/id_z26ba1dc456b911e5b432.html",
+      "http://www.tudou.com/albumcover/F7WYyzcLqp8.html",
       "http://www.tucao.tv/index.php?m=search&c=index&a=init2&q=温泉幼精小箱根"
     ],
     "newBgm": true,
@@ -1079,6 +1086,7 @@
     "timeCN": "2105",
     "onAirSite": [
       "http://www.bilibili.com/bangumi/i/2738/",
+      "http://v.qq.com/detail/g/gmtenlj7zwylo7k.html",
       "http://www.tucao.tv/index.php?m=search&c=index&a=init2&q=侦探小队KZ事件簿"
     ],
     "newBgm": true,
@@ -1221,6 +1229,7 @@
       "http://www.bilibili.com/bangumi/i/2774/",
       "http://www.tudou.com/albumcover/lMHQ6VRSQx4.html",
       "http://www.youku.com/show_page/id_z0ba98662579c11e5a080.html",
+      "http://www.iqiyi.com/a_19rrhbb219.html",
       "http://www.acfun.tv/v/ab1470395_0",
       "http://www.tucao.tv/index.php?m=search&c=index&a=init2&q=牙狼%20红莲之月"
     ],
@@ -1272,7 +1281,11 @@
     "timeCN": "0200",
     "onAirSite": [
       "http://www.bilibili.com/bangumi/i/2760/",
-      "http://v.qq.com/detail/i/izsh50sm4ysz5j5.html",
+      "http://v.qq.com/detail/u/ux693onqc07q98h.html",
+      "http://www.pptv.com/page/328446.html",
+      "http://www.letv.com/comic/10008808.html",
+      "http://www.tudou.com/albumcover/oGlXUbsk0Hw.html",
+      "http://www.youku.com/show_page/id_z7b76708ad29111e49e2a.html",
       "http://www.tucao.tv/index.php?m=search&c=index&a=init2&q=终结的炽天使"
     ],
     "newBgm": true,
@@ -1386,6 +1399,7 @@
     "timeCN": "0300",
     "onAirSite": [
       "http://www.bilibili.com/bangumi/i/2765/",
+      "http://www.letv.com/comic/10014451.html",
       "http://www.tucao.tv/index.php?m=search&c=index&a=init2&q=动画锻炼！EX"
     ],
     "newBgm": true,
@@ -1406,7 +1420,7 @@
     "showDate": "2015-10-29",
     "endDate": "2015-10-29",
     "comment": "13&14话",
-    "bgmId": 0
+    "bgmId": 120763
   },
   "1510_70": {
     "titleCN": "口袋妖怪 XY & Z",
