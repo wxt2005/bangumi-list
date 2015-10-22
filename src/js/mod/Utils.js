@@ -139,8 +139,7 @@ function hasOnair(dateStr, timeStr){
 function hasEnded(dateStr, timeStr, offset){
     var now = new Date(),
         endDate = new Date(dateStr.replace(/-/g, '/') + ' ' +
-            timeStr.slice(0, 2) + ':' +
-            (+timeStr.slice(2)) +
+            timeStr.slice(0, 2) + ':' + timeStr.slice(2) +
             ' GMT+0800 (CST)');
     endDate.setDate(endDate.getDate() + (offset || 0))
     return now >= endDate;
