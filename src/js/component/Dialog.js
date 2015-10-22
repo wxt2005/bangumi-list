@@ -38,7 +38,7 @@ var Dialog = React.createClass({
                       <p>{this.props.content}</p>
                     </div>
                     <div className="footer">
-                    {this.state.buttons.map((button,index) => <a href="#" className="button" onClick={this._buttonClick.bind(this, index)}>{button.text}</a>)}
+                    {this.state.buttons.map((button,index) => <a href="#" key={index} className="button" onClick={this._buttonClick.bind(this, index)}>{button.text}</a>)}
                     </div>
                 </div>
             </div>
