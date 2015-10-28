@@ -384,6 +384,10 @@
       "http://v.qq.com/detail/n/ndd165x9imhawbd.html",
       "http://www.tucao.tv/index.php?m=search&c=index&a=init2&q=DIABOLIK%20LOVERS%20MORE,BLOOD"
     ],
+    "downloadKeyword": {
+      "dmhy": "魔鬼恋人",
+      "popgo": "魔鬼恋人"
+    },
     "newBgm": true,
     "showDate": "2015-09-23",
     "bgmId": 124778
@@ -517,6 +521,10 @@
       "http://www.bilibili.com/bangumi/i/2791/",
       "http://www.tucao.tv/index.php?m=search&c=index&a=init2&q=黑白小姐%20第三季"
     ],
+    "downloadKeyword": {
+      "dmhy": "黑白小姐",
+      "popgo": "黑白小姐"
+    },
     "newBgm": true,
     "showDate": "2015-10-02",
     "bgmId": 145775
@@ -584,6 +592,10 @@
     "onAirSite": [
       "http://www.iqiyi.com/a_19rrhax0et.html"
     ],
+    "downloadKeyword": {
+      "dmhy": "苍穹之法芙娜 EXODUS",
+      "popgo": "苍穹之法芙娜 EXODUS"
+    },
     "newBgm": true,
     "showDate": "2015-10-03",
     "bgmId": 130230
@@ -668,6 +680,10 @@
       "http://www.bilibili.com/bangumi/i/2722/",
       "http://www.tucao.tv/index.php?m=search&c=index&a=init2&q=学战都市Asterisk"
     ],
+    "downloadKeyword": {
+      "dmhy": "学战都市",
+      "popgo": "学战都市"
+    },
     "newBgm": true,
     "showDate": "2015-10-03",
     "bgmId": 130250
@@ -810,6 +826,10 @@
       "http://www.acfun.tv/v/ab1470371_0",
       "http://www.tucao.tv/index.php?m=search&c=index&a=init2&q=机动战士高达：铁血的奥尔芬斯"
     ],
+    "downloadKeyword": {
+      "dmhy": "高达 铁血",
+      "popgo": "高达 铁血"
+    },
     "newBgm": true,
     "showDate": "2015-10-04",
     "bgmId": 139324
@@ -957,6 +977,10 @@
       "http://www.bilibili.com/bangumi/i/2792/",
       "http://www.tucao.tv/index.php?m=search&c=index&a=init2&q=网球并不可笑嘛%20第六季"
     ],
+    "downloadKeyword": {
+      "dmhy": "球并",
+      "popgo": "网球并不可笑"
+    },
     "newBgm": true,
     "showDate": "2015-10-06",
     "bgmId": 143751
@@ -995,6 +1019,10 @@
       "http://www.acfun.tv/v/ab1470376_0",
       "http://www.tucao.tv/index.php?m=search&c=index&a=init2&q=摇曳百合3☆hi!"
     ],
+    "downloadKeyword": {
+      "dmhy": "搖曳百合 3",
+      "popgo": "搖曳百合 3"
+    },
     "newBgm": true,
     "showDate": "2015-10-06",
     "bgmId": 127573
@@ -1036,6 +1064,10 @@
       "http://www.acfun.tv/v/ab1470377_0",
       "http://www.tucao.tv/index.php?m=search&c=index&a=init2&q=新我们这一家"
     ],
+    "downloadKeyword": {
+      "dmhy": "我们这一家",
+      "popgo": "我们这一家"
+    },
     "newBgm": true,
     "showDate": "2015-10-06",
     "bgmId": 131717
@@ -1096,7 +1128,7 @@
   "1510_51": {
     "titleCN": "关于我被绑架到贵族女校当“庶民样本”的事",
     "titleJP": "俺がお嬢様学校に「庶民サンプル」としてゲッツされた件",
-    "titleEN": "[BakedFish] Ore ga Ojousama Gakkou ni 'Shomin Sample' Toshite Gets Sareta Ken",
+    "titleEN": "Ore ga Ojousama Gakkou ni 'Shomin Sample' Toshite Gets Sareta Ken",
     "officalSite": "http://syominsample-anime.jp/",
     "weekDayJP": 3,
     "weekDayCN": 3,
@@ -1111,6 +1143,10 @@
       "http://www.pptv.com/page/326545.html",
       "http://www.tucao.tv/index.php?m=search&c=index&a=init2&q=我被绑架到贵族学校当“庶民样本”"
     ],
+    "downloadKeyword": {
+      "dmhy": "庶民样本",
+      "popgo": "庶民样本"
+    },
     "newBgm": true,
     "showDate": "2015-10-07",
     "bgmId": 107671
@@ -1266,6 +1302,10 @@
       "http://www.bilibili.com/bangumi/i/2762/",
       "http://www.tucao.tv/index.php?m=search&c=index&a=init2&q=请问要来点兔子吗？？"
     ],
+    "downloadKeyword": {
+      "dmhy": "请问您今天要来点兔子吗",
+      "popgo": "请问您今天要来点兔子吗"
+    },
     "newBgm": true,
     "showDate": "2015-10-10",
     "bgmId": 123568
@@ -1384,6 +1424,10 @@
       "http://www.tucao.tv/index.php?m=search&c=index&a=init2&q=血型君%20第三季",
       "http://www.letv.com/comic/10014386.html"
     ],
+    "downloadKeyword": {
+      "dmhy": "血型君",
+      "popgo": "血型君"
+    },
     "newBgm": true,
     "showDate": "2015-10-13",
     "bgmId": 145667
