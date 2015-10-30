@@ -26,7 +26,7 @@ var ItemSites = React.createClass({
                 return (
                     <li key={i}>
                         <a
-                            href={url}
+                            href={encodeURI(url)}
                             onClick={this._handleClick}
                             target={this.props.disableNewTab ? '_self' : '_blank'}
                         >{siteName}</a>
