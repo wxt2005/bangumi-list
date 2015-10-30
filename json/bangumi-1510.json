@@ -476,7 +476,6 @@
     "timeJP": "2200",
     "timeCN": "",
     "onAirSite": [
-      "http://www.acfun.tv/v/ab1470364_0",
       "http://www.pptv.com/page/328570.html",
       "http://www.tudou.com/albumcover/uxRIDh_CxPw.html",
       "http://www.youku.com/show_page/id_z02007bfe55ec11e5b2ad.html",
@@ -576,6 +575,10 @@
       "http://www.bilibili.com/bangumi/i/2725/",
       "http://www.tucao.tv/index.php?m=search&c=index&a=init2&q=K%20Return%20of%20Kings"
     ],
+    "downloadKeyword": {
+      "dmhy": "return of kings",
+      "popgo": "return of kings"
+    },
     "newBgm": true,
     "showDate": "2015-10-03",
     "bgmId": 115917
