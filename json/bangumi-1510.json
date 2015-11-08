@@ -208,6 +208,10 @@
     "onAirSite": [],
     "newBgm": false,
     "bgmId": 120186,
+    "downloadKeyword": {
+      "dmhy": "Pripara",
+      "popgo": "Pripara"
+    },
     "showDate": "2015-04-04"
   },
   "1507_17": {
@@ -617,6 +621,10 @@
       "http://www.tucao.tv/index.php?m=search&c=index&a=init2&q=金田一少年事件簿R%20第二季"
     ],
     "newBgm": true,
+    "downloadKeyword": {
+      "dmhy": "金田一少年事件簿R",
+      "popgo": "金田一少年事件簿R"
+    },
     "showDate": "2015-10-03",
     "bgmId": 139950
   },
@@ -1382,6 +1390,10 @@
     "onAirSite": [],
     "newBgm": true,
     "showDate": "2015-10-11",
+    "downloadKeyword": {
+      "dmhy": "Brave Beats",
+      "popgo": "Brave Beats"
+    },
     "bgmId": 146402
   },
   "1510_64": {
