@@ -3,20 +3,22 @@ var HtmlWebpackPlugin = require('html-webpack-plugin');
 var ExtractTextPlugin = require("extract-text-webpack-plugin");
 var path = require('path');
 
+var isProduction = process.env.NODE_ENV === 'production';
+
 module.exports = {
     entry: {
         vendor: ['react', 'flux', 'qwest'],
-        app: process.env.NODE_ENV === 'production' ? './src/js/main.js' : [
-            'webpack-dev-server/client?http://localhost:8090', 
+        app: isProduction ? './src/js/main.js' : [
+            'webpack-dev-server/client?http://localhost:8090',
             'webpack/hot/dev-server',
             './src/js/main.js'
         ]
     },
     output: {
         path: './build/js',
-        filename: process.env.NODE_ENV === 'production' ? 'main.[chunkhash].js': 'main.js',
+        filename: isProduction ? 'main.[chunkhash].js': 'main.js',
         sourceMapFilename: '[file].map',
-        publicPath: process.env.NODE_ENV === 'production' ? 'dist/js/' : 'http://localhost:8090/assets/'
+        publicPath: isProduction ? 'dist/js/' : 'http://localhost:8090/assets/'
     },
     module: {
         loaders: [
@@ -40,17 +42,39 @@ module.exports = {
         extensions: ['', '.js', '.less']
     },
     devtool: 'source-map',
-    plugins: [
-        new HtmlWebpackPlugin({
-            template: 'template.html',
-            inject: false,
-            filename: '../../index.html'
-        }),
-        new webpack.optimize.CommonsChunkPlugin({
-            name: 'vendor',
-            filename: process.env.NODE_ENV === 'production' ? 'vendor.[chunkhash].js' : 'vendor.js'
-        }),
-        new ExtractTextPlugin(process.env.NODE_ENV === 'production' ? '../css/styles.[chunkhash].css' : 'styles.css'),
-        new webpack.NoErrorsPlugin()
-    ]
+    plugins: (function(){
+        return isProduction ? [
+            new webpack.DefinePlugin({
+                'process.env': {
+                    'NODE_ENV': '"production"'
+                }
+            }),
+            new HtmlWebpackPlugin({
+                template: 'template.html',
+                inject: false,
+                filename: '../../index.html'
+            }),
+            new webpack.optimize.CommonsChunkPlugin({
+                name: 'vendor',
+                filename: 'vendor.[chunkhash].js'
+            }),
+            new webpack.optimize.UglifyJsPlugin({
+                compress: {
+                    warnings: false
+                },
+                output: {
+                    comments: false
+                }
+            }),
+            new ExtractTextPlugin('../css/styles.[chunkhash].css'),
+            new webpack.NoErrorsPlugin(),
+            new webpack.optimize.OccurenceOrderPlugin()
+        ] : [
+            new webpack.optimize.CommonsChunkPlugin({
+                name: 'vendor',
+                filename: 'vendor.js'
+            }),
+            new ExtractTextPlugin('styles.css')
+        ];
+    })()
 };
