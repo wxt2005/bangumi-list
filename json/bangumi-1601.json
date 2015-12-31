@@ -237,8 +237,9 @@
     "weekDayJP": 5,
     "weekDayCN": 5,
     "timeJP": "0115",
-    "timeCN": "",
+    "timeCN": "0100",
     "onAirSite": [
+      "http://www.tudou.com/albumcover/YLc8ApVAqoY.html",
       "http://www.pptv.com/page/326596.html",
       "http://www.acfun.tv/v/ab1470397_0",
       "http://www.tucao.tv/index.php?m=search&c=index&a=init2&q=鲁邦三世新系列"
@@ -405,7 +406,7 @@
     "weekDayJP": 2,
     "weekDayCN": 2,
     "timeJP": "1800",
-    "timeCN": "1930",
+    "timeCN": "1830",
     "onAirSite": [
       "http://www.bilibili.com/bangumi/i/2771/",
       "http://www.tudou.com/albumcover/GPrAs2nnGug.html",
@@ -467,11 +468,10 @@
     "titleEN": "Monster Strike",
     "officalSite": "http://anime.monster-strike.com/",
     "weekDayJP": 6,
-    "weekDayCN": 0,
-    "timeJP": "",
-    "timeCN": "",
+    "weekDayCN": 2,
+    "timeJP": "1800",
+    "timeCN": "2000",
     "onAirSite": [
-      "http://www.bilibili.com/bangumi/i/2775/",
       "http://www.tudou.com/albumcover/_YQwYxIgG6k.html",
       "http://www.youku.com/show_page/id_zef37dd98560211e5b2ad.html",
       "http://www.acfun.tv/v/ab1470402_0",
@@ -524,8 +524,10 @@
     "weekDayJP": 2,
     "weekDayCN": 2,
     "timeJP": "2200",
-    "timeCN": "",
-    "onAirSite": [],
+    "timeCN": "0000",
+    "onAirSite": [
+      "http://www.tudou.com/albumcover/lSWn_fylZ2I.html"
+    ],
     "newBgm": true,
     "showDate": "2016-01-05",
     "bgmId": 145781
@@ -554,8 +556,10 @@
     "weekDayJP": 3,
     "weekDayCN": 3,
     "timeJP": "2300",
-    "timeCN": "",
-    "onAirSite": [],
+    "timeCN": "2330",
+    "onAirSite": [
+      "http://www.tudou.com/albumcover/Qss__Gky9ts.html"
+    ],
     "newBgm": true,
     "showDate": "2016-01-06",
     "bgmId": 94040
@@ -568,8 +572,11 @@
     "weekDayJP": 4,
     "weekDayCN": 4,
     "timeJP": "0035",
-    "timeCN": "",
-    "onAirSite": [],
+    "timeCN": "0205",
+    "onAirSite": [
+      "http://www.tudou.com/albumcover/CkSvtickrys.html",
+      "http://www.youku.com/show_page/id_z3c4dc504a85411e59e2a.html"
+    ],
     "newBgm": true,
     "showDate": "2016-01-07",
     "bgmId": 136213
@@ -582,8 +589,11 @@
     "weekDayJP": 4,
     "weekDayCN": 4,
     "timeJP": "2100",
-    "timeCN": "",
-    "onAirSite": [],
+    "timeCN": "2130",
+    "onAirSite": [
+      "http://www.tudou.com/albumcover/gzuf2x7EDOk.html",
+      "http://www.youku.com/show_page/id_z503b58c0a88a11e5a080.html"
+    ],
     "newBgm": true,
     "showDate": "2016-01-07",
     "bgmId": 148233
@@ -624,10 +634,12 @@
     "titleEN": "",
     "officalSite": "http://bokumachi-anime.com/",
     "weekDayJP": 4,
-    "weekDayCN": 4,
+    "weekDayCN": 5,
     "timeJP": "2355",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://www.tudou.com/albumcover/a6j9-qsLInI.html"
+    ],
     "newBgm": true,
     "showDate": "2016-01-07",
     "bgmId": 137722
@@ -776,10 +788,13 @@
     "titleEN": "",
     "officalSite": "http://reikenzan.net/",
     "weekDayJP": 5,
-    "weekDayCN": 5,
+    "weekDayCN": 6,
     "timeJP": "2300",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://www.tudou.com/albumcover/64zs6hiwahE.html",
+      "http://www.youku.com/show_page/id_zb38198c8a87f11e5a080.html"
+    ],
     "newBgm": true,
     "showDate": "2016-01-08",
     "bgmId": 146861
@@ -792,8 +807,11 @@
     "weekDayJP": 6,
     "weekDayCN": 6,
     "timeJP": "0005",
-    "timeCN": "",
-    "onAirSite": [],
+    "timeCN": "0105",
+    "onAirSite": [
+      "http://www.tudou.com/albumcover/feg_0TypFDg.html",
+      "http://www.youku.com/show_page/id_z50360a00a88a11e5b432.html"
+    ],
     "newBgm": true,
     "showDate": "2016-01-09",
     "bgmId": 147036
@@ -806,8 +824,11 @@
     "weekDayJP": 6,
     "weekDayCN": 6,
     "timeJP": "0055",
-    "timeCN": "",
-    "onAirSite": [],
+    "timeCN": "0310",
+    "onAirSite": [
+      "http://www.tudou.com/albumcover/ChlRP0IRP1s.htm",
+      "http://www.youku.com/show_page/id_zfaedb5a4a86911e5be16.html"
+    ],
     "newBgm": true,
     "showDate": "2016-01-09",
     "bgmId": 119394
@@ -822,22 +843,27 @@
     "timeJP": "2100",
     "timeCN": "",
     "onAirSite": [
-      "http://www.bilibili.com/bangumi/i/3128/"
+      "http://www.bilibili.com/bangumi/i/3128/",
+      "http://www.tudou.com/albumcover/pi4ipKnd2pw.html",
+      "http://www.youku.com/show_page/id_zae8ad3aea87d11e5be16.html"
     ],
     "newBgm": true,
     "showDate": "2016-01-09",
     "bgmId": 153214
   },
   "1601_26": {
-    "titleCN": "幸运逻辑",
+    "titleCN": "Luck & Logic",
     "titleJP": "ラクエンロジック",
     "titleEN": "",
     "officalSite": "http://luckandlogic-animation.com/",
     "weekDayJP": 6,
-    "weekDayCN": 6,
+    "weekDayCN": 0,
     "timeJP": "2130",
-    "timeCN": "",
-    "onAirSite": [],
+    "timeCN": "0100",
+    "onAirSite": [
+      "http://www.tudou.com/albumcover/ix8tVAT43vY.html",
+      "http://www.youku.com/show_page/id_z41103584a9f011e5b432.html"
+    ],
     "newBgm": true,
     "showDate": "2016-01-09",
     "bgmId": 155281
@@ -848,11 +874,13 @@
     "titleEN": "",
     "officalSite": "http://www.durarara.com/",
     "weekDayJP": 6,
-    "weekDayCN": 0,
+    "weekDayCN": 6,
     "timeJP": "2230",
     "timeCN": "",
     "onAirSite": [
-      "http://www.bilibili.com/bangumi/i/3101/"
+      "http://www.bilibili.com/bangumi/i/3101/",
+      "http://www.tudou.com/albumcover/Se7oGWDr_GA.html",
+      "http://www.youku.com/show_page/id_z2c9c7552acd811e38b3f.html"
     ],
     "newBgm": true,
     "showDate": "2016-01-09",
@@ -866,9 +894,11 @@
     "weekDayJP": 0,
     "weekDayCN": 0,
     "timeJP": "0125",
-    "timeCN": "",
+    "timeCN": "0455",
     "onAirSite": [
-      "http://www.bilibili.com/bangumi/i/3102/"
+      "http://www.bilibili.com/bangumi/i/3102/",
+      "http://www.tudou.com/albumcover/_pbs2Od9T8c.html",
+      "http://www.youku.com/show_page/id_z130a2680a85711e5b2ad.html"
     ],
     "newBgm": true,
     "showDate": "2016-01-10",
@@ -895,10 +925,13 @@
     "titleEN": "",
     "officalSite": "http://rainbow-days.tv/",
     "weekDayJP": 0,
-    "weekDayCN": 0,
+    "weekDayCN": 1,
     "timeJP": "2100",
-    "timeCN": "",
-    "onAirSite": [],
+    "timeCN": "0015",
+    "onAirSite": [
+      "http://www.tudou.com/albumcover/QwwPp1afn80.html",
+      "http://www.youku.com/show_page/id_zd14f951ca84d11e5b2ad.html"
+    ],
     "newBgm": true,
     "showDate": "2016-01-10",
     "bgmId": 142990
@@ -927,8 +960,11 @@
     "weekDayJP": 0,
     "weekDayCN": 0,
     "timeJP": "2130",
-    "timeCN": "",
-    "onAirSite": [],
+    "timeCN": "2200",
+    "onAirSite": [
+      "http://www.tudou.com/albumcover/0UrcKHBl2HY.html",
+      "http://www.youku.com/show_page/id_zeb430c68a87211e5b432.html"
+    ],
     "newBgm": true,
     "showDate": "2016-01-10",
     "bgmId": 139221
@@ -956,7 +992,10 @@
     "weekDayCN": 1,
     "timeJP": "0135",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://www.tudou.com/albumcover/WfOtiYJt8c4.html",
+      "http://www.youku.com/show_page/id_zfb2fd7eaa86911e59e2a.html"
+    ],
     "newBgm": true,
     "showDate": "2016-01-11",
     "bgmId": 152567
@@ -984,7 +1023,10 @@
     "weekDayCN": 1,
     "timeJP": "0005",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://www.tudou.com/albumcover/NSndTtRMro4.html",
+      "http://www.youku.com/show_page/id_z70512f7aa88711e5b2ad.html"
+    ],
     "newBgm": true,
     "showDate": "2016-01-11",
     "bgmId": 134390
@@ -999,7 +1041,9 @@
     "timeJP": "2300",
     "timeCN": "",
     "onAirSite": [
-      "http://www.bilibili.com/bangumi/i/3107/"
+      "http://www.bilibili.com/bangumi/i/3107/",
+      "http://www.tudou.com/albumcover/StDyVAcEEkA.html",
+      "http://www.youku.com/show_page/id_z389e1aea197e11e5b5ce.html"
     ],
     "newBgm": true,
     "showDate": "2016-01-11",
@@ -1075,8 +1119,11 @@
     "weekDayJP": 4,
     "weekDayCN": 4,
     "timeJP": "0005",
-    "timeCN": "",
-    "onAirSite": [],
+    "timeCN": "0135",
+    "onAirSite": [
+      "http://www.tudou.com/albumcover/VHKPUrStCkk.html",
+      "http://www.youku.com/show_page/id_z2040dc8aa86c11e59e2a.html"
+    ],
     "newBgm": true,
     "showDate": "2016-01-14",
     "bgmId": 135275
