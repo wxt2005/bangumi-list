@@ -1169,5 +1169,29 @@
     "newBgm": true,
     "showDate": "2016-02-06",
     "bgmId": 162663
-  }
+  },
+  "1601_48": {
+     "titleCN": "噬神者",
+     "titleJP": "GOD EATER -ゴッドイーター-",
+     "titleEN": "God Eater",
+     "officalSite": "http://www.godeater.jp/anime/",
+     "weekDayJP": 6,
+     "weekDayCN": 6,
+     "timeJP": "1730",
+     "timeCN": "",
+     "onAirSite": [
+       "http://www.tudou.com/albumcover/n3RSRsUtHhk.html",
+       "http://www.youku.com/show_page/id_z7f52b0ce197c11e5a080.html",
+       "http://www.bilibili.com/bangumi/i/2591/",
+       "http://www.letv.com/comic/10010338.html",
+       "http://v.qq.com/detail/w/wdp6c3tyxfha0l8.html",
+       "http://www.iqiyi.com/a_19rrhb5by1.html",
+       "http://www.acfun.tv/v/ab1470289_0",
+       "http://www.tucao.cc/index.php?m=search&c=index&a=init2&catid=24&q=噬神者"
+     ],
+     "comment": "10-13话",
+     "newBgm": false,
+     "showDate": "2016-03-05",
+     "bgmId": 113629
+   }
 }
