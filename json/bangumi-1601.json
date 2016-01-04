@@ -522,11 +522,12 @@
     "titleEN": "",
     "officalSite": "http://pos-a.jp/",
     "weekDayJP": 2,
-    "weekDayCN": 2,
+    "weekDayCN": 3,
     "timeJP": "2200",
     "timeCN": "0000",
     "onAirSite": [
-      "http://www.tudou.com/albumcover/lSWn_fylZ2I.html"
+      "http://www.tudou.com/albumcover/lSWn_fylZ2I.html",
+      "http://www.youku.com/show_page/id_z3f75af0ea88011e5b692.html"
     ],
     "newBgm": true,
     "showDate": "2016-01-05",
@@ -558,7 +559,8 @@
     "timeJP": "2300",
     "timeCN": "2330",
     "onAirSite": [
-      "http://www.tudou.com/albumcover/Qss__Gky9ts.html"
+      "http://www.tudou.com/albumcover/Qss__Gky9ts.html",
+      "http://www.youku.com/show_page/id_zb75123f6a85211e5be16.html"
     ],
     "newBgm": true,
     "showDate": "2016-01-06",
@@ -636,9 +638,10 @@
     "weekDayJP": 4,
     "weekDayCN": 5,
     "timeJP": "2355",
-    "timeCN": "",
+    "timeCN": "0145",
     "onAirSite": [
-      "http://www.tudou.com/albumcover/a6j9-qsLInI.html"
+      "http://www.tudou.com/albumcover/a6j9-qsLInI.html",
+      "http://www.youku.com/show_page/id_z17a6b178a85111e5be16.html"
     ],
     "newBgm": true,
     "showDate": "2016-01-07",
@@ -839,9 +842,9 @@
     "titleEN": "",
     "officalSite": "http://bbkbrnk.com/",
     "weekDayJP": 6,
-    "weekDayCN": 0,
+    "weekDayCN": 6,
     "timeJP": "2100",
-    "timeCN": "",
+    "timeCN": "2230",
     "onAirSite": [
       "http://www.bilibili.com/bangumi/i/3128/",
       "http://www.tudou.com/albumcover/pi4ipKnd2pw.html",
@@ -876,7 +879,7 @@
     "weekDayJP": 6,
     "weekDayCN": 6,
     "timeJP": "2230",
-    "timeCN": "",
+    "timeCN": "2330",
     "onAirSite": [
       "http://www.bilibili.com/bangumi/i/3101/",
       "http://www.tudou.com/albumcover/Se7oGWDr_GA.html",
@@ -991,7 +994,7 @@
     "weekDayJP": 1,
     "weekDayCN": 1,
     "timeJP": "0135",
-    "timeCN": "",
+    "timeCN": "0305",
     "onAirSite": [
       "http://www.tudou.com/albumcover/WfOtiYJt8c4.html",
       "http://www.youku.com/show_page/id_zfb2fd7eaa86911e59e2a.html"
@@ -1022,7 +1025,7 @@
     "weekDayJP": 1,
     "weekDayCN": 1,
     "timeJP": "0005",
-    "timeCN": "",
+    "timeCN": "0105",
     "onAirSite": [
       "http://www.tudou.com/albumcover/NSndTtRMro4.html",
       "http://www.youku.com/show_page/id_z70512f7aa88711e5b2ad.html"
@@ -1039,7 +1042,7 @@
     "weekDayJP": 1,
     "weekDayCN": 2,
     "timeJP": "2300",
-    "timeCN": "",
+    "timeCN": "0230",
     "onAirSite": [
       "http://www.bilibili.com/bangumi/i/3107/",
       "http://www.tudou.com/albumcover/StDyVAcEEkA.html",
