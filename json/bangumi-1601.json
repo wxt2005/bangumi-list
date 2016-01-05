@@ -624,8 +624,10 @@
     "weekDayJP": 4,
     "weekDayCN": 4,
     "timeJP": "2030",
-    "timeCN": "",
-    "onAirSite": [],
+    "timeCN": "2200",
+    "onAirSite": [
+        "http://www.pptv.com/page/331211.html"
+    ],
     "newBgm": true,
     "showDate": "2016-01-07",
     "bgmId": 98638
@@ -763,8 +765,10 @@
     "weekDayJP": 5,
     "weekDayCN": 5,
     "timeJP": "2130",
-    "timeCN": "",
-    "onAirSite": [],
+    "timeCN": "2230",
+    "onAirSite": [
+        "http://www.pptv.com/page/331212.html"
+    ],
     "newBgm": true,
     "showDate": "2016-01-08",
     "bgmId": 135816
@@ -791,12 +795,14 @@
     "titleEN": "",
     "officalSite": "http://reikenzan.net/",
     "weekDayJP": 5,
-    "weekDayCN": 6,
+    "weekDayCN": 5,
     "timeJP": "2300",
-    "timeCN": "",
+    "timeCN": "1000",
     "onAirSite": [
       "http://www.tudou.com/albumcover/64zs6hiwahE.html",
-      "http://www.youku.com/show_page/id_zb38198c8a87f11e5a080.html"
+      "http://www.youku.com/show_page/id_zb38198c8a87f11e5a080.html",
+      "http://www.pptv.com/page/330713.html",
+      "http://www.iqiyi.com/a_19rrhab1el.html"
     ],
     "newBgm": true,
     "showDate": "2016-01-08",
@@ -813,7 +819,8 @@
     "timeCN": "0105",
     "onAirSite": [
       "http://www.tudou.com/albumcover/feg_0TypFDg.html",
-      "http://www.youku.com/show_page/id_z50360a00a88a11e5b432.html"
+      "http://www.youku.com/show_page/id_z50360a00a88a11e5b432.html",
+      "http://www.pptv.com/page/332783.html"
     ],
     "newBgm": true,
     "showDate": "2016-01-09",
@@ -978,10 +985,12 @@
     "titleEN": "",
     "officalSite": "http://grimgar.com/",
     "weekDayJP": 0,
-    "weekDayCN": 0,
+    "weekDayCN": 1,
     "timeJP": "2330",
-    "timeCN": "",
-    "onAirSite": [],
+    "timeCN": "0100",
+    "onAirSite": [
+        "http://www.pptv.com/page/331213.html"
+    ],
     "newBgm": true,
     "showDate": "2016-01-10",
     "bgmId": 148726
@@ -1011,8 +1020,10 @@
     "weekDayJP": 1,
     "weekDayCN": 1,
     "timeJP": "2130",
-    "timeCN": "",
-    "onAirSite": [],
+    "timeCN": "2300",
+    "onAirSite": [
+        "http://www.pptv.com/page/322448.html"
+    ],
     "newBgm": true,
     "showDate": "2016-01-11",
     "bgmId": 133387
@@ -1046,7 +1057,12 @@
     "onAirSite": [
       "http://www.bilibili.com/bangumi/i/3107/",
       "http://www.tudou.com/albumcover/StDyVAcEEkA.html",
-      "http://www.youku.com/show_page/id_z389e1aea197e11e5b5ce.html"
+      "http://www.youku.com/show_page/id_z389e1aea197e11e5b5ce.html",
+      "http://www.iqiyi.com/a_19rrhb5pv5.html",
+      "http://v.qq.com/detail/2/2hndczgdvkpzff5.html",
+      "http://www.acfun.tv/v/ab1470308_0",
+      "http://www.tucao.cc/index.php?m=search&c=index&a=init2&catid=24&q=赤发白雪姬",
+      "http://www.pptv.com/page/322977.html"
     ],
     "newBgm": true,
     "showDate": "2016-01-11",
