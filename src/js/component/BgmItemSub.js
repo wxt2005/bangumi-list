@@ -78,7 +78,7 @@ var BgmItemSub = React.createClass({
             return (
                 <a
                     key={domain}
-                    href={encodeURI(decodeURI(conf.prefix + keyword))}
+                    href={conf.prefix + encodeURIComponent(keyword)}
                     target={this.props.disableNewTab ? '_self' : '_blank'}
                 >
                     {conf.name}
