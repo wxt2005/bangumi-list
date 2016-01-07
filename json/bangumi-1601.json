@@ -541,7 +541,7 @@
     "weekDayJP": 4,
     "weekDayCN": 4,
     "timeJP": "0000",
-    "timeCN": "",
+    "timeCN": "0000",
     "onAirSite": [
       "http://www.bilibili.com/bangumi/i/3235/"
     ],
@@ -703,13 +703,15 @@
     "titleJP": "暗殺教室 第2期",
     "titleEN": "",
     "officalSite": "http://www.ansatsu-anime.com/",
-    "weekDayJP": 4,
+    "weekDayJP": 5,
     "weekDayCN": 5,
-    "timeJP": "",
-    "timeCN": "",
-    "onAirSite": [],
+    "timeJP": "0025",
+    "timeCN": "0450",
+    "onAirSite": [
+        "http://www.bilibili.com/bangumi/i/3271/"
+    ],
     "newBgm": true,
-    "showDate": "2016-01-07",
+    "showDate": "2016-01-08",
     "bgmId": 131891
   },
   "1601_16": {
