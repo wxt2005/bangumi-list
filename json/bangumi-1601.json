@@ -739,8 +739,10 @@
     "weekDayJP": 5,
     "weekDayCN": 5,
     "timeJP": "2130",
-    "timeCN": "",
-    "onAirSite": [],
+    "timeCN": "2300",
+    "onAirSite": [
+      "http://www.acfun.tv/v/ab1470429_0"
+    ],
     "newBgm": true,
     "showDate": "2016-01-08",
     "bgmId": 153140
