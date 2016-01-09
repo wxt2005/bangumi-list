@@ -753,9 +753,9 @@
     "titleEN": "",
     "officalSite": "http://sekkoboys.com/",
     "weekDayJP": 5,
-    "weekDayCN": 6,
+    "weekDayCN": 5,
     "timeJP": "2200",
-    "timeCN": "",
+    "timeCN": "2330",
     "onAirSite": [
       "http://www.bilibili.com/bangumi/i/3100/"
     ],
@@ -787,7 +787,7 @@
     "weekDayJP": 5,
     "weekDayCN": 6,
     "timeJP": "2200",
-    "timeCN": "",
+    "timeCN": "0040",
     "onAirSite": [
       "http://www.bilibili.com/bangumi/i/3114/"
     ],
