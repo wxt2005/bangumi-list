@@ -1502,5 +1502,22 @@
     "newBgm": true,
     "showDate": "2015-10-29",
     "bgmId": 146408
+  },
+  "1510_71": {
+    "titleCN": "偶像活动 4期",
+    "titleJP": "アイカツ!4thシーズン",
+    "titleEN": "Aikatsu",
+    "officalSite": "http://www.aikatsu.net",
+    "weekDayJP": 4,
+    "weekDayCN": 4,
+    "timeJP": "1730",
+    "timeCN": "1930",
+    "onAirSite": [
+      "http://www.iqiyi.com/a_19rrhbb1o9.html",
+      "http://www.tucao.tv/index.php?m=search&c=index&a=init2&q=偶像活动"
+    ],
+    "newBgm": true,
+    "bgmId": 141616,
+    "showDate": "2015-10-01"
   }
 }

@@ -500,6 +500,23 @@
     "showDate": "2015-10-29",
     "bgmId": 146408
   },
+  "1510_71": {
+    "titleCN": "偶像活动 4期",
+    "titleJP": "アイカツ!4thシーズン",
+    "titleEN": "Aikatsu",
+    "officalSite": "http://www.aikatsu.net",
+    "weekDayJP": 4,
+    "weekDayCN": 4,
+    "timeJP": "1730",
+    "timeCN": "1930",
+    "onAirSite": [
+      "http://www.iqiyi.com/a_19rrhbb1o9.html",
+      "http://www.tucao.tv/index.php?m=search&c=index&a=init2&q=偶像活动"
+    ],
+    "newBgm": false,
+    "bgmId": 141616,
+    "showDate": "2015-10-01"
+  },
   "1601_1": {
     "titleCN": "英国一家，吃在正月",
     "titleJP": "英国一家、日本を食べる-正月スペシャル「英国一家、正月を食べる」-",
@@ -809,7 +826,8 @@
       "http://www.youku.com/show_page/id_zb38198c8a87f11e5a080.html",
       "http://www.pptv.com/page/330713.html",
       "http://www.iqiyi.com/a_19rrhab1el.html",
-      "http://www.letv.com/comic/10015978.html"
+      "http://www.letv.com/comic/10015978.html",
+      "http://v.qq.com/detail/6/6x0u5d1a30t9jw9.html"
     ],
     "newBgm": true,
     "showDate": "2016-01-08",
@@ -883,6 +901,7 @@
       "http://www.youku.com/show_page/id_z41103584a9f011e5b432.html"
     ],
     "newBgm": true,
+    "comment": "优酷土豆为收费观看",
     "showDate": "2016-01-09",
     "bgmId": 155281
   },
@@ -898,7 +917,8 @@
     "onAirSite": [
       "http://www.bilibili.com/bangumi/i/3101/",
       "http://www.tudou.com/albumcover/Se7oGWDr_GA.html",
-      "http://www.youku.com/show_page/id_z2c9c7552acd811e38b3f.html"
+      "http://www.youku.com/show_page/id_z2c9c7552acd811e38b3f.html",
+      "http://www.iqiyi.com/a_19rrhab9ch.html"
     ],
     "newBgm": true,
     "showDate": "2016-01-09",
@@ -916,7 +936,8 @@
     "onAirSite": [
       "http://www.bilibili.com/bangumi/i/3102/",
       "http://www.tudou.com/albumcover/_pbs2Od9T8c.html",
-      "http://www.youku.com/show_page/id_z130a2680a85711e5b2ad.html"
+      "http://www.youku.com/show_page/id_z130a2680a85711e5b2ad.html",
+      "http://www.letv.com/comic/10017692.html"
     ],
     "newBgm": true,
     "showDate": "2016-01-10",
