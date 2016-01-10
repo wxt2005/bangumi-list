@@ -983,7 +983,7 @@
     "weekDayJP": 0,
     "weekDayCN": 0,
     "timeJP": "2127",
-    "timeCN": "",
+    "timeCN": "2200",
     "onAirSite": [
       "http://www.bilibili.com/bangumi/i/3116/"
     ],
@@ -1058,7 +1058,7 @@
     "bgmId": 133387
   },
   "1601_36": {
-    "titleCN": "死亡黑标",
+    "titleCN": "黑之宣告",
     "titleJP": "シュヴァルツェス マーケン",
     "titleEN": "",
     "officalSite": "http://schwarzesmarken-anime.jp/",
@@ -1068,7 +1068,9 @@
     "timeCN": "0105",
     "onAirSite": [
       "http://www.tudou.com/albumcover/NSndTtRMro4.html",
-      "http://www.youku.com/show_page/id_z70512f7aa88711e5b2ad.html"
+      "http://www.youku.com/show_page/id_z70512f7aa88711e5b2ad.html",
+      "http://www.bilibili.com/bangumi/i/3115/",
+      "http://www.letv.com/comic/10017698.html"
     ],
     "newBgm": true,
     "showDate": "2016-01-11",
