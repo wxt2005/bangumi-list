@@ -845,7 +845,8 @@
     "onAirSite": [
       "http://www.tudou.com/albumcover/feg_0TypFDg.html",
       "http://www.youku.com/show_page/id_z50360a00a88a11e5b432.html",
-      "http://www.pptv.com/page/332783.html"
+      "http://www.pptv.com/page/332783.html",
+      "http://www.letv.com/comic/10017684.html"
     ],
     "newBgm": true,
     "showDate": "2016-01-09",
@@ -918,7 +919,8 @@
       "http://www.bilibili.com/bangumi/i/3101/",
       "http://www.tudou.com/albumcover/Se7oGWDr_GA.html",
       "http://www.youku.com/show_page/id_z2c9c7552acd811e38b3f.html",
-      "http://www.iqiyi.com/a_19rrhab9ch.html"
+      "http://www.iqiyi.com/a_19rrhab9ch.html",
+      "http://v.qq.com/detail/4/4gmobofw9fltve9.html"
     ],
     "newBgm": true,
     "showDate": "2016-01-09",
@@ -1107,7 +1109,7 @@
     "weekDayJP": 2,
     "weekDayCN": 2,
     "timeJP": "0005",
-    "timeCN": "",
+    "timeCN": "0015",
     "onAirSite": [
       "http://www.bilibili.com/bangumi/i/3234/"
     ],
@@ -1123,8 +1125,10 @@
     "weekDayJP": 2,
     "weekDayCN": 2,
     "timeJP": "0008",
-    "timeCN": "",
-    "onAirSite": [],
+    "timeCN": "0108",
+    "onAirSite": [
+      "http://www.letv.com/comic/10017725.html"
+    ],
     "newBgm": true,
     "showDate": "2016-01-12",
     "bgmId": 159892
@@ -1137,7 +1141,7 @@
     "weekDayJP": 2,
     "weekDayCN": 2,
     "timeJP": "0011",
-    "timeCN": "",
+    "timeCN": "0011",
     "onAirSite": [
       "http://www.bilibili.com/bangumi/i/3126/"
     ],
@@ -1153,7 +1157,7 @@
     "weekDayJP": 2,
     "weekDayCN": 2,
     "timeJP": "0105",
-    "timeCN": "",
+    "timeCN": "0335",
     "onAirSite": [
       "http://www.bilibili.com/bangumi/i/3106/"
     ],
