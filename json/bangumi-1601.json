@@ -1204,7 +1204,9 @@
     "weekDayCN": 6,
     "timeJP": "0055",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://www.bilibili.com/bangumi/i/3105/"
+    ],
     "newBgm": true,
     "showDate": "2016-01-16",
     "bgmId": 146093
