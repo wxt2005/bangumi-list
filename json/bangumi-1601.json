@@ -51,7 +51,7 @@
     "timeCN": "1900",
     "onAirSite": [
       "http://www.tudou.com/albumcover/Lqfme5hSolM.html",
-      "http://www.bilibili.com/sp/火影忍者",
+      "http://www.bilibili.com/bangumi/i/3287/",
       "http://www.youku.com/show_page/id_zcc001f06962411de83b1.html",
       "http://www.tucao.tv/index.php?m=search&c=index&a=init2&q=火影忍者"
     ],
@@ -963,7 +963,9 @@
     "weekDayCN": 0,
     "timeJP": "0000",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://www.bilibili.com/bangumi/i/3297/"
+    ],
     "newBgm": true,
     "showDate": "2016-01-09",
     "comment": "App 放送",
