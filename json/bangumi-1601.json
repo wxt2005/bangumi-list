@@ -1264,5 +1264,21 @@
      "newBgm": false,
      "showDate": "2016-03-05",
      "bgmId": 113629
-   }
+   },
+   "1601_49": {
+    "titleCN": "魔法使光之美少女！",
+    "titleJP": "魔法つかいプリキュア！",
+    "titleEN": "Maho Girls PreCure!",
+    "officalSite": "http://www.toei-anim.co.jp/tv/mahotsukai_precure/",
+    "weekDayJP": 0,
+    "weekDayCN": 0,
+    "timeJP": "0730",
+    "timeCN": "1230",
+    "onAirSite": [
+      "http://www.iqiyi.com/a_19rrhadt7x.html"
+    ],
+    "newBgm": true,
+    "bgmId": 159826,
+    "showDate": "2016-02-07"
+  }
 }
