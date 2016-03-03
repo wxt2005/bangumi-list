@@ -2,7 +2,8 @@ var React          = require('react'),
     configStore    = require('../store/BgmConfigStore'),
     TableSelector  = require('./TableSelector'),
     BgmList        = require('./BgmList'),
-    BgmPreferences = require('./BgmPreferences');
+    BgmPreferences = require('./BgmPreferences'),
+    Utils          = require('../mod/Utils');
 
 var BgmTable = React.createClass({
     propTypes: {
@@ -15,7 +16,7 @@ var BgmTable = React.createClass({
     getInitialState: function(){
         return ({
             prefShow: false,
-            tabName: '周天'
+            tabName: Utils.formatWeekDay((new Date()).getDay())
         });
     },
     togglePref: function(e){
