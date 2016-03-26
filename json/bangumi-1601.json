@@ -1303,5 +1303,21 @@
     "newBgm": true,
     "bgmId": 159826,
     "showDate": "2016-02-07"
+  },
+  "1601_50": {
+    "titleCN": "她和她的猫 -Everything Flows-",
+    "titleJP": "彼女と彼女の猫 -Everything Flows-",
+    "titleEN": "",
+    "officalSite": "http://kanoneko.com/",
+    "weekDayJP": 5,
+    "weekDayCN": 5,
+    "timeJP": "2200",
+    "timeCN": "2330",
+    "onAirSite": [
+      "http://www.bilibili.com/bangumi/i/3375/"
+    ],
+    "newBgm": true,
+    "showDate": "2016-03-04",
+    "bgmId": 164649
   }
 }
