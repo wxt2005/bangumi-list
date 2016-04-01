@@ -99,29 +99,6 @@
     "showDate": "2014-10-05",
     "endDate": "2015-10-04"
   },
-  "1507_18": {
-    "titleCN": "银魂 新系列",
-    "titleJP": "銀魂° (新シリーズ)",
-    "titleEN": "Gintama",
-    "officalSite": "http://www.tv-tokyo.co.jp/anime/gintama/index2.html",
-    "weekDayJP": 3,
-    "weekDayCN": 3,
-    "timeJP": "1700",
-    "timeCN": "1800",
-    "onAirSite": [
-      "http://www.tudou.com/albumcover/92J2xqpSxWY.html",
-      "http://www.youku.com/show_page/id_zcc0026e0962411de83b1.html",
-      "http://www.acfun.tv/v/ab1470255_0",
-      "http://www.bilibili.com/sp/银魂#S-1794"
-    ],
-    "downloadKeyword": {
-      "dmhy": "銀魂%7CGintama",
-      "popgo": "银魂"
-    },
-    "newBgm": false,
-    "bgmId": 120791,
-    "showDate": "2015-04-08"
-  },
   "1507_45": {
     "titleCN": "龙珠超",
     "titleJP": "ドラゴンボール超(スーパー)",
@@ -275,6 +252,7 @@
       "http://www.youku.com/show_page/id_z58f52458197611e5b432.html",
       "http://www.tucao.cc/index.php?m=search&c=index&a=init2&catid=24&q=潮与虎"
     ],
+    "comment": "优酷土豆为收费观看",
     "newBgm": true,
     "showDate": "2016-04-01",
     "bgmId": 143740
@@ -517,7 +495,7 @@
     "weekDayJP": 0,
     "weekDayCN": 0,
     "timeJP": "2200",
-    "timeCN": "",
+    "timeCN": "2230",
     "onAirSite": [
       "http://www.bilibili.com/bangumi/i/3465/",
       "http://www.tudou.com/albumcover/_qQRLVfjQsE.html",
@@ -556,7 +534,8 @@
     "timeCN": "0105",
     "onAirSite": [
       "http://www.bilibili.com/bangumi/i/3461/",
-      "http://www.tudou.com/albumcover/iF2R9jBUhso.html"
+      "http://www.tudou.com/albumcover/iF2R9jBUhso.html",
+      "http://www.iqiyi.com/a_19rrhaer39.html"
     ],
     "newBgm": true,
     "showDate": "2016-04-04",
@@ -612,10 +591,12 @@
     "titleEN": "",
     "officalSite": "http://sailormoon-official.com/animation/",
     "weekDayJP": 1,
-    "weekDayCN": 1,
+    "weekDayCN": 2,
     "timeJP": "2200",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://www.iqiyi.com/a_19rrhaj2vd.html"
+    ],
     "newBgm": true,
     "showDate": "2016-04-04",
     "bgmId": 147683
@@ -661,7 +642,8 @@
     "timeCN": "0205",
     "onAirSite": [
       "http://www.bilibili.com/bangumi/i/3463/",
-      "http://www.tudou.com/albumcover/_s4Rzz-KIEw.html"
+      "http://www.tudou.com/albumcover/_s4Rzz-KIEw.html",
+      "http://www.iqiyi.com/a_19rrhafm1h.html"
     ],
     "newBgm": true,
     "showDate": "2016-04-05",
@@ -673,11 +655,12 @@
     "titleEN": "",
     "officalSite": "http://www.tv-tokyo.co.jp/anime/pripara/",
     "weekDayJP": 2,
-    "weekDayCN": 1,
+    "weekDayCN": 2,
     "timeJP": "1655",
-    "timeCN": "1830",
+    "timeCN": "1755",
     "onAirSite": [
-      "http://www.tudou.com/albumcover/hpupBLJCbtk.html"
+      "http://www.tudou.com/albumcover/hpupBLJCbtk.html",
+      "http://www.iqiyi.com/a_19rrhaj3bp.html"
     ],
     "newBgm": true,
     "showDate": "2016-04-05",
@@ -696,6 +679,22 @@
     "newBgm": true,
     "showDate": "2016-04-05",
     "bgmId": 0
+  },
+  "1604_48": {
+    "titleCN": "少年阿瑞GO!GO!小海豹",
+    "titleJP": "少年アシベ GO！GO！ゴマちゃん",
+    "titleEN": "",
+    "officalSite": "",
+    "weekDayJP": 2,
+    "weekDayCN": 2,
+    "timeJP": "1745",
+    "timeCN": "1900",
+    "onAirSite": [
+      "http://www.tudou.com/albumcover/qiBO_bk7hZY.html"
+    ],
+    "newBgm": true,
+    "showDate": "2016-04-05",
+    "bgmId": 168467
   },
   "1604_49": {
     "titleCN": "薄樱鬼～御伽草子～",
@@ -752,7 +751,8 @@
     "timeCN": "1825",
     "onAirSite": [
       "http://www.bilibili.com/bangumi/i/3462/",
-      "http://www.tudou.com/albumcover/6YUIGawleII.html"
+      "http://www.tudou.com/albumcover/6YUIGawleII.html",
+      "http://www.iqiyi.com/a_19rrhaeqtd.html"
     ],
     "newBgm": true,
     "showDate": "2016-04-06",
@@ -784,7 +784,8 @@
     "timeJP": "2200",
     "timeCN": "0205",
     "onAirSite": [
-      "http://www.tudou.com/albumcover/0At_ddWfzlY.html"
+      "http://www.tudou.com/albumcover/0At_ddWfzlY.html",
+      "http://v.qq.com/detail/9/9ecz5xa7658m72d.html"
     ],
     "newBgm": true,
     "showDate": "2016-04-06",
@@ -890,7 +891,8 @@
     "timeCN": "0100",
     "onAirSite": [
       "http://www.bilibili.com/bangumi/i/3495/",
-      "http://www.tudou.com/albumcover/eJcUnm1hNF8.html"
+      "http://www.tudou.com/albumcover/eJcUnm1hNF8.html",
+      "http://v.qq.com/detail/3/3llbhhwzykl7in7.html"
     ],
     "newBgm": true,
     "showDate": "2016-04-07",
