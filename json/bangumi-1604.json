@@ -244,9 +244,9 @@
     "titleEN": "",
     "officalSite": "http://ushitora.tv/",
     "weekDayJP": 5,
-    "weekDayCN": 6,
+    "weekDayCN": 5,
     "timeJP": "2130",
-    "timeCN": "0100",
+    "timeCN": "2300",
     "onAirSite": [
       "http://www.tudou.com/albumcover/UW8uUaXCUQg.html",
       "http://www.youku.com/show_page/id_z58f52458197611e5b432.html",
@@ -313,7 +313,7 @@
     "weekDayJP": 5,
     "weekDayCN": 6,
     "timeJP": "2330",
-    "timeCN": "0300",
+    "timeCN": "0100",
     "onAirSite": [
       "http://www.tudou.com/albumcover/920pL7eTryw.html"
     ],
@@ -357,8 +357,10 @@
     "weekDayJP": 6,
     "weekDayCN": 6,
     "timeJP": "1630",
-    "timeCN": "",
-    "onAirSite": [],
+    "timeCN": "1900",
+    "onAirSite": [
+      "http://www.tudou.com/albumcover/rEbbsqzQVVU.html"
+    ],
     "newBgm": true,
     "showDate": "2016-04-02",
     "bgmId":146737
@@ -547,10 +549,12 @@
     "titleEN": "",
     "officalSite": "http://www.tv-tokyo.co.jp/anime/beyblade/",
     "weekDayJP": 1,
-    "weekDayCN": 1,
+    "weekDayCN": 2,
     "timeJP": "1655",
-    "timeCN": "",
-    "onAirSite": [],
+    "timeCN": "0030",
+    "onAirSite": [
+      "http://www.tudou.com/albumcover/9OzlvAD4rqw.html"
+    ],
     "newBgm": true,
     "showDate": "2016-04-04",
     "bgmId": 137693
@@ -563,8 +567,10 @@
     "weekDayJP": 1,
     "weekDayCN": 1,
     "timeJP": "1800",
-    "timeCN": "",
-    "onAirSite": [],
+    "timeCN": "1900",
+    "onAirSite": [
+      "http://www.tudou.com/albumcover/QhVq9_HDEl4.html"
+    ],
     "newBgm": true,
     "showDate": "2016-04-04",
     "bgmId": 147085
