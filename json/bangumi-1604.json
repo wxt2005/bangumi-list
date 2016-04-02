@@ -335,6 +335,7 @@
       "http://www.tudou.com/albumcover/920pL7eTryw.html",
       "http://www.youku.com/show_page/id_z1730efb4f4c911e5b522.html"
     ],
+    "comment": "优酷土豆为收费观看",
     "newBgm": true,
     "showDate": "2016-04-01",
     "bgmId": 150490
@@ -380,7 +381,9 @@
       "http://www.tudou.com/albumcover/rEbbsqzQVVU.html",
       "http://www.youku.com/show_page/id_zc306dcc2e59711e5a080.html",
       "http://v.pptv.com/page/cLibZF3iclVZP2dNw.html",
-      "http://www.bilibili.com/bangumi/i/3527/"
+      "http://www.bilibili.com/bangumi/i/3527/",
+      "http://www.letv.com/comic/10020524.html",
+      "http://www.iqiyi.com/a_19rrhaix5t.html"
     ],
     "newBgm": true,
     "showDate": "2016-04-02",
@@ -392,9 +395,9 @@
     "titleEN": "",
     "officalSite": "http://asterisk-war.com/",
     "weekDayJP": 6,
-    "weekDayCN": 0,
+    "weekDayCN": 6,
     "timeJP": "2130",
-    "timeCN": "",
+    "timeCN": "2300",
     "onAirSite": [
       "http://www.bilibili.com/bangumi/i/3464/"
     ],
@@ -431,6 +434,7 @@
       "http://www.tudou.com/albumcover/j7O8sSBa7Co.html",
       "http://www.youku.com/show_page/id_z70bdb166e36711e5b2ad.html"
     ],
+    "comment": "优酷土豆为收费观看",
     "newBgm": true,
     "showDate": "2016-04-03",
     "bgmId": 0
@@ -545,6 +549,7 @@
       "http://www.tudou.com/albumcover/krKFWeKKSvY.html",
       "http://www.youku.com/show_page/id_z994a2206e4eb11e5a2a2.html"
     ],
+    "comment": "优酷土豆为收费观看",
     "newBgm": true,
     "showDate": "2016-04-03",
     "bgmId": 148361
@@ -562,7 +567,8 @@
       "http://www.bilibili.com/bangumi/i/3461/",
       "http://www.tudou.com/albumcover/iF2R9jBUhso.html",
       "http://www.iqiyi.com/a_19rrhaer39.html",
-      "http://www.youku.com/show_page/id_z1b7c90e0e4df11e59e2a.html"
+      "http://www.youku.com/show_page/id_z1b7c90e0e4df11e59e2a.html",
+      "http://www.letv.com/comic/10020322.html"
     ],
     "newBgm": true,
     "showDate": "2016-04-04",
@@ -596,7 +602,8 @@
     "timeCN": "1900",
     "onAirSite": [
       "http://www.tudou.com/albumcover/QhVq9_HDEl4.html",
-      "http://www.youku.com/show_page/id_z587b825ce59e11e5b432.html"
+      "http://www.youku.com/show_page/id_z587b825ce59e11e5b432.html",
+      "http://v.pptv.com/page/atmzMZnicb60QjvY.html"
     ],
     "newBgm": true,
     "showDate": "2016-04-04",
@@ -646,6 +653,7 @@
     "onAirSite": [
       "http://www.tudou.com/albumcover/MTTFlTZ-PqE.html"
     ],
+    "comment": "优酷土豆为收费观看",
     "newBgm": true,
     "showDate": "2016-04-04",
     "bgmId": 134204
@@ -789,7 +797,8 @@
       "http://www.bilibili.com/bangumi/i/3462/",
       "http://www.tudou.com/albumcover/6YUIGawleII.html",
       "http://www.iqiyi.com/a_19rrhaeqtd.html",
-      "http://www.youku.com/show_page/id_z31c53954e34c11e5a2a2.html"
+      "http://www.youku.com/show_page/id_z31c53954e34c11e5a2a2.html",
+      "http://www.letv.com/comic/10020446.html"
     ],
     "newBgm": true,
     "showDate": "2016-04-06",
@@ -823,7 +832,9 @@
     "onAirSite": [
       "http://www.tudou.com/albumcover/0At_ddWfzlY.html",
       "http://v.qq.com/detail/9/9ecz5xa7658m72d.html",
-      "http://www.youku.com/show_page/id_z037cd3e6e66611e5b2ad.html"
+      "http://www.youku.com/show_page/id_z037cd3e6e66611e5b2ad.html",
+      "http://www.letv.com/comic/10020432.html",
+      "http://v.pptv.com/page/NwTwbtY8rOpNyzM.html"
     ],
     "newBgm": true,
     "showDate": "2016-04-06",
@@ -853,8 +864,10 @@
     "weekDayJP": 4,
     "weekDayCN": 4,
     "timeJP": "0005",
-    "timeCN": "",
-    "onAirSite": [],
+    "timeCN": "0135",
+    "onAirSite": [
+      "http://v.pptv.com/page/Fjchnwdt3RtibicGQ.html"
+    ],
     "newBgm": true,
     "showDate": "2016-04-07",
     "bgmId": 144357
@@ -899,7 +912,8 @@
     "onAirSite": [
       "http://www.bilibili.com/bangumi/i/3498/",
       "http://www.tudou.com/albumcover/pbj-DtjHwtk.html",
-      "http://www.youku.com/show_page/id_z40d31318e43611e5b32f.html"
+      "http://www.youku.com/show_page/id_z40d31318e43611e5b32f.html",
+      "http://v.pptv.com/show/9EIurBR66iaiaLCXE.html"
     ],
     "newBgm": true,
     "showDate": "2016-04-07",
@@ -932,7 +946,8 @@
       "http://www.bilibili.com/bangumi/i/3495/",
       "http://www.tudou.com/albumcover/eJcUnm1hNF8.html",
       "http://v.qq.com/detail/3/3llbhhwzykl7in7.html",
-      "http://www.youku.com/show_page/id_z450caa42e66711e5b432.html"
+      "http://www.youku.com/show_page/id_z450caa42e66711e5b432.html",
+      "http://v.pptv.com/page/XerGRKwSgsAjoQk.html"
     ],
     "newBgm": true,
     "showDate": "2016-04-07",
@@ -950,7 +965,8 @@
     "onAirSite": [
       "http://www.bilibili.com/bangumi/i/3494/",
       "http://www.tudou.com/albumcover/IoB0NkjQPOc.html",
-      "http://www.youku.com/show_page/id_zf726f2b8e4e711e5b432.html"
+      "http://www.youku.com/show_page/id_zf726f2b8e4e711e5b432.html",
+      "http://v.pptv.com/page/icFE7uSGH9zWYFn4.html"
     ],
     "newBgm": true,
     "showDate": "2016-04-07",
@@ -1058,7 +1074,9 @@
     "weekDayCN": 6,
     "timeJP": "2100",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://v.pptv.com/page/6lg0shqA8C6RD3c.html"
+    ],
     "newBgm": true,
     "showDate": "2016-04-09",
     "bgmId": 155704
@@ -1109,6 +1127,7 @@
       "http://www.tudou.com/albumcover/x2MhV5ieFWE.html",
       "http://www.youku.com/show_page/id_z7a70fd3ee66a11e5b522.html"
     ],
+    "comment": "优酷土豆为收费观看",
     "newBgm": true,
     "showDate": "2016-04-10",
     "bgmId": 141799
@@ -1140,6 +1159,7 @@
       "http://www.tudou.com/albumcover/t3Y7sM8bNh0.html",
       "http://www.youku.com/show_page/id_zb21f9e66e4ee11e5a2a2.html"
     ],
+    "comment": "优酷土豆为收费观看",
     "newBgm": true,
     "showDate": "2016-04-10",
     "bgmId": 141806
@@ -1201,7 +1221,9 @@
     "weekDayCN": 6,
     "timeJP": "0040",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://v.pptv.com/page/0HlT0TmfD02wLpY.html"
+    ],
     "newBgm": true,
     "showDate": "2016-04-16",
     "bgmId": 149959
@@ -1218,7 +1240,8 @@
     "onAirSite": [
       "http://www.bilibili.com/bangumi/i/3466/",
       "http://www.tudou.com/albumcover/27etU3pqjNs.html",
-      "http://www.youku.com/show_page/id_z24da262ce4dd11e5b432.html"
+      "http://www.youku.com/show_page/id_z24da262ce4dd11e5b432.html",
+      "http://v.pptv.com/page/7Vs1sxuB8SibSEHg.html"
     ],
     "newBgm": true,
     "showDate": "2016-04-16",
