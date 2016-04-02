@@ -222,16 +222,16 @@
     "titleEN": "Monster Strike",
     "officalSite": "http://anime.monster-strike.com/",
     "weekDayJP": 6,
-    "weekDayCN": 2,
+    "weekDayCN": 6,
     "timeJP": "1800",
-    "timeCN": "2000",
+    "timeCN": "1800",
     "onAirSite": [
-      "http://www.tudou.com/albumcover/_YQwYxIgG6k.html",
-      "http://www.youku.com/show_page/id_zef37dd98560211e5b2ad.html",
+      "http://www.tudou.com/albumcover/rK0nYZTowwE.html",
+      "http://www.youku.com/show_page/id_z40654fa2f09511e59e2a.html",
       "http://www.acfun.tv/v/ab1470402_0",
-      "http://tv.sohu.com/s2015/dhpgwdz/",
+      "http://tv.sohu.com/item/MTIwNTI0OA==.html",
       "http://www.letv.com/comic/10014412.html",
-      "http://v.pptv.com/page/6EQwrhZ87CqNC3M.html",
+      "http://v.pptv.com/page/xnVf3UWrG1m8OqI.html",
       "http://www.tucao.tv/index.php?m=search&c=index&a=init2&q=怪物弹珠"
     ],
     "newBgm": true,
@@ -362,7 +362,8 @@
     "onAirSite": [
       "http://www.tudou.com/albumcover/rEbbsqzQVVU.html",
       "http://www.youku.com/show_page/id_zc306dcc2e59711e5a080.html",
-      "http://v.pptv.com/page/cLibZF3iclVZP2dNw.html"
+      "http://v.pptv.com/page/cLibZF3iclVZP2dNw.html",
+      "http://www.bilibili.com/bangumi/i/3527/"
     ],
     "newBgm": true,
     "showDate": "2016-04-02",
