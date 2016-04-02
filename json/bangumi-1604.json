@@ -281,7 +281,7 @@
     "weekDayJP": 5,
     "weekDayCN": 6,
     "timeJP": "2130",
-    "timeCN": "",
+    "timeCN": "0930",
     "onAirSite": [
       "http://www.bilibili.com/bangumi/i/3451/"
     ],
@@ -361,7 +361,8 @@
     "timeCN": "1900",
     "onAirSite": [
       "http://www.tudou.com/albumcover/rEbbsqzQVVU.html",
-      "http://www.youku.com/show_page/id_zc306dcc2e59711e5a080.html"
+      "http://www.youku.com/show_page/id_zc306dcc2e59711e5a080.html",
+      "http://v.pptv.com/page/cLibZF3iclVZP2dNw.html"
     ],
     "newBgm": true,
     "showDate": "2016-04-02",
