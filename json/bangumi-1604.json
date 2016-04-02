@@ -167,6 +167,23 @@
     "showDate": "2016-01-10",
     "bgmId": 142990
   },
+  "1601_43": {
+    "titleCN": "亚人",
+    "titleJP": "亜人",
+    "titleEN": "",
+    "officalSite": "http://www.ajin.net/",
+    "weekDayJP": 6,
+    "weekDayCN": 6,
+    "timeJP": "0055",
+    "timeCN": "",
+    "onAirSite": [
+      "http://www.bilibili.com/bangumi/i/3105/",
+      "http://www.tucao.tv/index.php?m=search&c=index&a=init2&catid=24&q=亚人"
+    ],
+    "newBgm": false,
+    "showDate": "2016-01-16",
+    "bgmId": 146093
+  },
   "1601_47": {
     "titleCN": "莉露莉露妖精莉露～妖精之门～",
     "titleJP": "リルリルフェアリル～妖精のドア～",
