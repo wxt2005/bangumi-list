@@ -487,14 +487,14 @@
     "bgmId": 150955
   },
   "1604_30": {
-    "titleCN": "面包日常",
+    "titleCN": "面包带来和平",
     "titleJP": "パンでPeace！",
     "titleEN": "",
     "officalSite": "http://pandepeace.com/",
     "weekDayJP": 0,
-    "weekDayCN": 1,
+    "weekDayCN": 0,
     "timeJP": "1955",
-    "timeCN": "",
+    "timeCN": "1955",
     "onAirSite": [
       "http://www.bilibili.com/bangumi/i/3460/"
     ],
