@@ -333,7 +333,8 @@
     "timeCN": "0100",
     "onAirSite": [
       "http://www.tudou.com/albumcover/920pL7eTryw.html",
-      "http://www.youku.com/show_page/id_z1730efb4f4c911e5b522.html"
+      "http://www.youku.com/show_page/id_z1730efb4f4c911e5b522.html",
+      "http://www.acfun.tv/v/ab1470445"
     ],
     "comment": "优酷土豆为收费观看",
     "newBgm": true,
@@ -346,10 +347,13 @@
     "titleEN": "",
     "officalSite": "http://terraformars.tv/",
     "weekDayJP": 6,
-    "weekDayCN": 6,
+    "weekDayCN": 1,
     "timeJP": "0005",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://www.bilibili.com/bangumi/i/3529/",
+      "http://www.acfun.tv/v/ab1470450"
+    ],
     "newBgm": true,
     "showDate": "2016-04-02",
     "bgmId": 143558
@@ -383,7 +387,8 @@
       "http://v.pptv.com/page/cLibZF3iclVZP2dNw.html",
       "http://www.bilibili.com/bangumi/i/3527/",
       "http://www.letv.com/comic/10020524.html",
-      "http://www.iqiyi.com/a_19rrhaix5t.html"
+      "http://www.iqiyi.com/a_19rrhaix5t.html",
+      "http://www.acfun.tv/v/ab1470446"
     ],
     "newBgm": true,
     "showDate": "2016-04-02",
@@ -480,7 +485,8 @@
     "timeCN": "1730",
     "onAirSite": [
       "http://www.tudou.com/albumcover/pEFBZGfERLo.html",
-      "http://www.youku.com/show_page/id_zaf361582e59c11e5b32f.html"
+      "http://www.youku.com/show_page/id_zaf361582e59c11e5b32f.html",
+      "http://www.acfun.tv/v/ab1470447"
     ],
     "newBgm": true,
     "showDate": "2016-04-03",
@@ -508,10 +514,13 @@
     "titleEN": "",
     "officalSite": "http://macross.jp/",
     "weekDayJP": 0,
-    "weekDayCN": 0,
+    "weekDayCN": 1,
     "timeJP": "2130",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://www.bilibili.com/bangumi/i/3530/",
+      "http://www.acfun.tv/v/ab1470448"
+    ],
     "newBgm": true,
     "showDate": "2016-04-03",
     "bgmId": 100858
@@ -568,7 +577,8 @@
       "http://www.tudou.com/albumcover/iF2R9jBUhso.html",
       "http://www.iqiyi.com/a_19rrhaer39.html",
       "http://www.youku.com/show_page/id_z1b7c90e0e4df11e59e2a.html",
-      "http://www.letv.com/comic/10020322.html"
+      "http://www.letv.com/comic/10020322.html",
+      "http://www.acfun.tv/v/ab1470449"
     ],
     "newBgm": true,
     "showDate": "2016-04-04",
@@ -585,7 +595,8 @@
     "timeCN": "0030",
     "onAirSite": [
       "http://www.tudou.com/albumcover/9OzlvAD4rqw.html",
-      "http://www.youku.com/show_page/id_z1f114782e66f11e5b432.html"
+      "http://www.youku.com/show_page/id_z1f114782e66f11e5b432.html",
+      "http://v.pptv.com/page/x3Rg3kasHFq9O6M.html"
     ],
     "newBgm": true,
     "showDate": "2016-04-04",
@@ -603,7 +614,9 @@
     "onAirSite": [
       "http://www.tudou.com/albumcover/QhVq9_HDEl4.html",
       "http://www.youku.com/show_page/id_z587b825ce59e11e5b432.html",
-      "http://v.pptv.com/page/atmzMZnicb60QjvY.html"
+      "http://v.pptv.com/page/atmzMZnicb60QjvY.html",
+      "http://www.letv.com/comic/10018937.html",
+      "http://www.bilibili.com/bangumi/i/3528/"
     ],
     "newBgm": true,
     "showDate": "2016-04-04",
@@ -617,7 +630,7 @@
     "weekDayJP": 1,
     "weekDayCN": 1,
     "timeJP": "1830",
-    "timeCN": "",
+    "timeCN": "1830",
     "onAirSite": [
       "http://www.bilibili.com/bangumi/i/3493/"
     ],
@@ -651,7 +664,8 @@
     "timeJP": "2300",
     "timeCN": "2330",
     "onAirSite": [
-      "http://www.tudou.com/albumcover/MTTFlTZ-PqE.html"
+      "http://www.tudou.com/albumcover/MTTFlTZ-PqE.html",
+      "http://www.youku.com/show_page/id_z1b821afce4de11e5b2ad.html"
     ],
     "comment": "优酷土豆为收费观看",
     "newBgm": true,
