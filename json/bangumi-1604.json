@@ -596,7 +596,8 @@
     "onAirSite": [
       "http://www.tudou.com/albumcover/9OzlvAD4rqw.html",
       "http://www.youku.com/show_page/id_z1f114782e66f11e5b432.html",
-      "http://v.pptv.com/page/x3Rg3kasHFq9O6M.html"
+      "http://v.pptv.com/page/x3Rg3kasHFq9O6M.html",
+      "http://www.acfun.tv/v/ab1470452"
     ],
     "newBgm": true,
     "showDate": "2016-04-04",
@@ -616,7 +617,8 @@
       "http://www.youku.com/show_page/id_z587b825ce59e11e5b432.html",
       "http://v.pptv.com/page/atmzMZnicb60QjvY.html",
       "http://www.letv.com/comic/10018937.html",
-      "http://www.bilibili.com/bangumi/i/3528/"
+      "http://www.bilibili.com/bangumi/i/3528/",
+      "http://www.acfun.tv/v/ab1470453"
     ],
     "newBgm": true,
     "showDate": "2016-04-04",
@@ -681,7 +683,9 @@
     "weekDayCN": 2,
     "timeJP": "0035",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://www.iqiyi.com/a_19rrhaffbt.html"
+    ],
     "newBgm": true,
     "showDate": "2016-04-05",
     "bgmId": 167028
@@ -699,7 +703,9 @@
       "http://www.bilibili.com/bangumi/i/3463/",
       "http://www.tudou.com/albumcover/_s4Rzz-KIEw.html",
       "http://www.iqiyi.com/a_19rrhafm1h.html",
-      "http://www.youku.com/show_page/id_z8b841e46e4d811e5b432.html"
+      "http://www.youku.com/show_page/id_z8b841e46e4d811e5b432.html",
+      "http://www.letv.com/comic/10020554.html",
+      "http://www.acfun.tv/v/ab1470451"
     ],
     "newBgm": true,
     "showDate": "2016-04-05",
@@ -717,7 +723,9 @@
     "onAirSite": [
       "http://www.tudou.com/albumcover/hpupBLJCbtk.html",
       "http://www.iqiyi.com/a_19rrhaj3bp.html",
-      "http://www.youku.com/show_page/id_z2cc2fb60e4ed11e59e2a.html"
+      "http://www.bilibili.com/bangumi/i/3532/",
+      "http://www.youku.com/show_page/id_z2cc2fb60e4ed11e59e2a.html",
+      "http://www.letv.com/comic/10020453.html"
     ],
     "newBgm": true,
     "showDate": "2016-04-05",
@@ -762,7 +770,7 @@
     "weekDayJP": 2,
     "weekDayCN": 2,
     "timeJP": "2055",
-    "timeCN": "",
+    "timeCN": "2055",
     "onAirSite": [
       "http://www.bilibili.com/bangumi/i/3377/"
     ],
