@@ -784,10 +784,12 @@
     "titleEN": "",
     "officalSite": "http://jokergame.jp/",
     "weekDayJP": 2,
-    "weekDayCN": 2,
+    "weekDayCN": 3,
     "timeJP": "2200",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://www.bilibili.com/bangumi/i/3537/"
+    ],
     "newBgm": true,
     "showDate": "2016-04-05",
     "bgmId": 142812
@@ -820,7 +822,8 @@
       "http://www.tudou.com/albumcover/6YUIGawleII.html",
       "http://www.iqiyi.com/a_19rrhaeqtd.html",
       "http://www.youku.com/show_page/id_z31c53954e34c11e5a2a2.html",
-      "http://www.letv.com/comic/10020446.html"
+      "http://www.letv.com/comic/10020446.html",
+      "http://www.acfun.tv/v/ab1470457"
     ],
     "newBgm": true,
     "showDate": "2016-04-06",
