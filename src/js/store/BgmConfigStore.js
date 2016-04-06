@@ -17,7 +17,7 @@ var DEFAULT = {
     jpTitle: false,
     dayDivide: 24,
     dayDivideMax: 24,
-    dayDivideMin: 20
+    dayDivideMin: 5
 };
 
 var BgmConfigStore = _.assign({}, EventEmitter.prototype, {
