@@ -26,7 +26,8 @@ var BgmList = React.createClass({
         };
     },
     _decideShow: function(item){
-        var showHour = +item.timeCN.slice(0, 2);
+        var useCNTime = item.timeCN || item.weekDayCN !== item.weekDayJP;
+        var showHour = +(useCNTime ? item.timeCN : item.timeJP).slice(0, 2);
 
         // 有搜索词且匹配中日文，直接显示
         if(this.props.keyword){
