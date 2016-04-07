@@ -1,5 +1,7 @@
 var Dispacher    = require('../dispatcher/Dispatcher'),
-    _            = require('../lib/lodash.custom'),
+    _assign      = require('lodash/assign'),
+    _isEmpty     = require('lodash/isEmpty'),
+    _forIn       = require('lodash/forIn'),
     Utils        = require('../mod/Utils'),
     EventEmitter = require('events').EventEmitter;
 
@@ -23,14 +25,14 @@ var DEFAULT = {
 
 var STORAGE_NAMESAPCE = 'bgmlist_sites';
 
-var BgmSitesStore = _.assign({}, EventEmitter.prototype, {
+var BgmSitesStore = _assign({}, EventEmitter.prototype, {
     reset: function(){
         _sites = DEFAULT;
         this.saveToStorage();
         console.info('sites reseted');
     },
     getSites: function(domain){
-        if(_.isEmpty(_sites) && !this.readFromStorage()){
+        if(_isEmpty(_sites) && !this.readFromStorage()){
             this.reset();
         }
 
@@ -41,7 +43,7 @@ var BgmSitesStore = _.assign({}, EventEmitter.prototype, {
         }
     },
     toggleAll: function(enable){
-        _.forIn(_sites, function(info, domain){
+        _forIn(_sites, function(info, domain){
             info.enable = enable;
         });
     },
@@ -55,14 +57,14 @@ var BgmSitesStore = _.assign({}, EventEmitter.prototype, {
         this.emit('change');
     },
     updateSite: function(domain, newConfg){
-        _.assign(_sites[domain], newConfg);
+        _assign(_sites[domain], newConfg);
     },
     updateAll: function(sitesConfg){
-        _sites = _.assign({}, _sites, sitesConfg);
+        _sites = _assign({}, _sites, sitesConfg);
     },
     readFromStorage: function(){
         var data = Utils.store(STORAGE_NAMESAPCE);
-        if(!_.isEmpty(data)){
+        if(!_isEmpty(data)){
             this.updateAll(data);
             console.info('sites read successed');
             return true;

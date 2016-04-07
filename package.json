@@ -22,8 +22,7 @@
     "serve": "http-server -p 8080",
     "clean:dist": "rm -rf dist",
     "rename:build": "mv build/ dist/",
-    "dev": "webpack-dev-server --progress --colors --hot --port 8090 --host 0.0.0.0",
-    "lodash": "lodash include=isEmpty,size,map,each,chain,sortByAll,sortBy,value,filter,assign,merge,every,forIn,isArray exports=node -d -o src/js/lib/lodash.custom.js"
+    "dev": "webpack-dev-server --progress --colors --hot --port 8090 --host 0.0.0.0"
   },
   "main": "./src/js/main.js",
   "author": "wxt2005@gmail.com",
@@ -48,6 +47,7 @@
   },
   "dependencies": {
     "flux": "^2.0.3",
+    "lodash": "^4.8.2",
     "qwest": "^1.7.0",
     "react": "^0.13.3"
   }

@@ -1,4 +1,6 @@
-var _           = require('../lib/lodash.custom'),
+var _map        = require('lodash/map'),
+    _isArray    = require('lodash/isArray'),
+    _each       = require('lodash/each'),
     React       = require('react'),
     configStore = require('../store/BgmConfigStore');
 
@@ -50,7 +52,7 @@ var BgmItemSub = React.createClass({
             }
         };
 
-        return _.map(downloadSites, function(conf, domain){
+        return _map(downloadSites, function(conf, domain){
             var keyword = '';
 
             // 如果在数据中有覆盖选项，则直接使用
@@ -60,9 +62,9 @@ var BgmItemSub = React.createClass({
                 if(typeof conf.default === 'string' && conf.default){
                     // 如果为字符串，则直接获取
                     keyword = data['title' + conf.default];
-                }else if(_.isArray(conf.default)){
+                }else if(_isArray(conf.default)){
                     // 如为数组，则依优先级获取
-                    _.each(conf.default, function(value, i){
+                    _each(conf.default, function(value, i){
                         if(data['title' + value]){
                             keyword = data['title' + value];
                             return false;

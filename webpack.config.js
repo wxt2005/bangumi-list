@@ -7,7 +7,7 @@ var isProduction = process.env.NODE_ENV === 'production';
 
 module.exports = {
     entry: {
-        vendor: ['react', 'flux', 'qwest'],
+        vendor: ['react', 'flux', 'qwest', 'lodash'],
         app: isProduction ? './src/js/main.js' : [
             'webpack-dev-server/client?http://localhost:8090',
             'webpack/hot/dev-server',

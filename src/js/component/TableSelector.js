@@ -1,4 +1,4 @@
-var _     = require('../lib/lodash.custom'),
+var _map  = require('lodash/map'),
     React = require('react'),
     Utils = require('../mod/Utils');
 
@@ -34,7 +34,7 @@ var TableSelector = React.createClass({
         ];
 
         var _self = this,
-            tabItems = _.map(tabs, function(tab, i){
+            tabItems = _map(tabs, function(tab, i){
                 var selectdTab = _self.props.isInSearch ? 7 : _self.props.tab,
                     className = Utils.classList({
                         'cur': tab.key === selectdTab

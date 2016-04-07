@@ -1,5 +1,9 @@
 var Dispacher    = require('../dispatcher/Dispatcher'),
-    _            = require('../lib/lodash.custom'),
+    _isEmpty     = require('lodash/isEmpty'),
+    _assign      = require('lodash/assign'),
+    _isObject    = require('lodash/isObject'),
+    _merge       = require('lodash/merge'),
+    _forIn       = require('lodash/forIn'),
     Utils        = require('../mod/Utils'),
     EventEmitter = require('events').EventEmitter;
 
@@ -9,9 +13,9 @@ var _data = {};
 
 var STORAGE_NAMESAPCE = 'bgmlist_data';
 
-var BgmDataStore = _.assign({}, EventEmitter.prototype, {
+var BgmDataStore = _assign({}, EventEmitter.prototype, {
     reset: function(){
-        if(_.isEmpty(_data)){
+        if(_isEmpty(_data)){
             console.info('data store is empty');
             return;
         }else{
@@ -21,21 +25,21 @@ var BgmDataStore = _.assign({}, EventEmitter.prototype, {
         }
     },
     getData: function(){
-        if(_.isEmpty(_data) && !this.readFromStorage()){
+        if(_isEmpty(_data) && !this.readFromStorage()){
             console.info('data store is empty');
         }
 
         return _data;
     },
     saveData: function(data){
-        if(!_.isObject(data)){
+        if(!_isObject(data)){
             console.warn('data format wrong');
             return;
         }
 
         if(data.version !== 0 && _data.path === data.path){
             console.info('data maerged');
-            _data = _.merge(_data, data, function(objectValue, sourceValue, key, source, value){
+            _data = _merge(_data, data, function(objectValue, sourceValue, key, source, value){
                 if(key === 'onAirSite'){
                     return sourceValue;
                 }else{
@@ -51,7 +55,7 @@ var BgmDataStore = _.assign({}, EventEmitter.prototype, {
         this.saveToStorage();
     },
     toggle: function(id, hide){
-        if(_.isEmpty(_data)){
+        if(_isEmpty(_data)){
             console.info('data store is empty');
             return;
         }
@@ -60,12 +64,12 @@ var BgmDataStore = _.assign({}, EventEmitter.prototype, {
         this.saveToStorage();
     },
     toggleAll: function(hide){
-        if(_.isEmpty(_data)){
+        if(_isEmpty(_data)){
             console.info('data store is empty');
             return;
         }
 
-        _.forIn(_data.items, function(item, id){
+        _forIn(_data.items, function(item, id){
             hide = !!hide;
             if(hide){
                 item.hide = hide;
@@ -76,7 +80,7 @@ var BgmDataStore = _.assign({}, EventEmitter.prototype, {
         this.saveToStorage();
     },
     highlight: function(id, highlight){
-        if(_.isEmpty(_data)){
+        if(_isEmpty(_data)){
             console.info('data store is empty');
             return;
         }
@@ -95,7 +99,7 @@ var BgmDataStore = _.assign({}, EventEmitter.prototype, {
     },
     readFromStorage: function(){
         var data = Utils.store(STORAGE_NAMESAPCE);
-        if(!_.isEmpty(data)){
+        if(!_isEmpty(data)){
             _data = data;
             console.info('data read successed');
             return true;

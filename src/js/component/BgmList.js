@@ -1,4 +1,4 @@
-var _           = require('../lib/lodash.custom'),
+var _           = require('lodash'),
     React       = require('react'),
     Utils       = require('../mod/Utils'),
     Actions     = require('../action/Actions'),
@@ -93,7 +93,7 @@ var BgmList = React.createClass({
                     return this._decideShow(item);
                 }.bind(this))
                 // 排序
-                .sortByAll(sortArr)
+                .sortBy(sortArr)
                 // 生成列表
                 .map(function(item, i){
                     var className = Utils.classList({

@@ -1,4 +1,6 @@
-var _           = require('../lib/lodash.custom'),
+var _isEmpty     = require('lodash/isEmpty'),
+    _forIn       = require('lodash/forIn'),
+    _size        = require('lodash/size'),
     React       = require('react'),
     qwest       = require('qwest'),
     Actions     = require('../action/Actions'),
@@ -27,7 +29,7 @@ var BgmApp = React.createClass({
             this.initUrl = nextProps.currentArchive.path;
         }
 
-        if(_.isEmpty(this.state.data) ||
+        if(_isEmpty(this.state.data) ||
                 this.state.data.path !== nextProps.currentArchive.path ||
                 typeof this.state.data.version === 'undefined' ||
                 nextProps.currentArchive.version === 0 ||
@@ -40,7 +42,7 @@ var BgmApp = React.createClass({
                         state = {};
                     data.path = nextProps.currentArchive.path;
                     data.version = nextProps.currentArchive.version;
-                    data.items = _.forIn(response, function(item, id){
+                    data.items = _forIn(response, function(item, id){
                         item.id = id;
                     });
 
@@ -99,7 +101,7 @@ var BgmApp = React.createClass({
                     month={this.props.month}
                     year={this.props.year}
                     handleSearch={this.handleSearch}
-                    count={_.size(this.state.data.items)}
+                    count={_size(this.state.data.items)}
                 />
                 <BgmTable
                     data={this.state.data.items}

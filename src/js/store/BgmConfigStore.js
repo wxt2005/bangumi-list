@@ -1,5 +1,6 @@
 var Dispacher    = require('../dispatcher/Dispatcher'),
-    _            = require('../lib/lodash.custom'),
+    _isEmpty     = require('lodash/isEmpty'),
+    _assign      = require('lodash/assign'),
     Utils        = require('../mod/Utils'),
     EventEmitter = require('events').EventEmitter;
 
@@ -21,14 +22,14 @@ var DEFAULT = {
     bangumiDomain: 'bangumi.tv'
 };
 
-var BgmConfigStore = _.assign({}, EventEmitter.prototype, {
+var BgmConfigStore = _assign({}, EventEmitter.prototype, {
     reset: function(){
         _config = DEFAULT;
         this.saveToStorage();
         console.info('config reseted');
     },
     getConfig: function(name){
-        if(_.isEmpty(_config) && !this.readFromStorage()){
+        if(_isEmpty(_config) && !this.readFromStorage()){
             this.reset();
         }
 
@@ -48,11 +49,11 @@ var BgmConfigStore = _.assign({}, EventEmitter.prototype, {
         this.emit('change');
     },
     update: function(newConfg){
-        _config = _.assign({}, _config, newConfg);
+        _config = _assign({}, _config, newConfg);
     },
     readFromStorage: function(){
         var data = Utils.store(STORAGE_NAMESAPCE);
-        if(!_.isEmpty(data)){
+        if(!_isEmpty(data)){
             this.update(data);
             console.info('config read successed');
             return true;

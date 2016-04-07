@@ -1,4 +1,4 @@
-var _           = require('../lib/lodash.custom'),
+var _           = require('lodash'),
     React       = require('react'),
     Utils       = require('../mod/Utils'),
     configStore = require('../store/BgmConfigStore'),
