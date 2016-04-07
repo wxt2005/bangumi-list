@@ -144,6 +144,55 @@
         }
     });
 
+    var SelectList = React.createClass({
+        propTypes: {
+            configName: React.PropTypes.string.isRequired,
+            children: React.PropTypes.string.isRequired,
+            value: React.PropTypes.string.isRequired,
+            changeHandler: React.PropTypes.func
+        },
+        getInitialState: function(){
+            return {
+                value: this.props.value
+            };
+        },
+        componentWillReceiveProps: function(nextProps){
+            this.setState({
+                value: nextProps.value
+            });
+        },
+        _handleChange: function(event) {
+            var newValue = event.target.value;
+            this.props.changeHandler(this.props.configName, newValue);
+        },
+        render: function() {
+            var options = this.props.options.map(function(option) {
+                return (
+                    <option
+                        value={option.value}
+                        key={option.value}
+                    >
+                        {option.title || option.value}
+                    </option>
+                );
+            });
+
+            return (
+                <li>
+                    <label htmlFor={this.props.configName}>{this.props.children}</label>
+                    <select
+                        className="select-list"
+                        id={this.props.configName}
+                        value={this.props.value}
+                        onChange={this._handleChange}
+                    >
+                        {options}
+                    </select>
+                </li>
+            );
+        }
+    });
+
     var BgmPreferences = React.createClass({
         mixins: [Mixins.configMixin, Mixins.sitesMixin],
         propTypes: {
@@ -256,6 +305,18 @@
                                             maxNumber={this.state.config.dayDivideMax}
                                             minNumber={this.state.config.dayDivideMin}
                                         >转到次日</NumberSelector>
+                                        <SelectList
+                                            configName="bangumiDomain"
+                                            value={this.state.config.bangumiDomain}
+                                            options={
+                                                [
+                                                    {value: 'bangumi.tv'},
+                                                    {value: 'bgm.tv'},
+                                                    {value: 'chii.in'}
+                                                ]
+                                            }
+                                            changeHandler={this._handleConfigChange}
+                                        >Banugmi域名</SelectList>
                                     </ul>
                                 </div>
                             </div>

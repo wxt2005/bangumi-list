@@ -167,6 +167,7 @@ var BgmListItem = React.createClass({
                     />
                     <BgmItemSub
                         data={this.props.data}
+                        bangumiDomain={this.props.config.bangumiDomain}
                         disableNewTab={this.props.config.disableNewTab}
                         handleHideChange={this.handleHideChange}
                         handleHighlightChange={this.handleHighlightChange}

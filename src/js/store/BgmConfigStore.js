@@ -17,7 +17,8 @@ var DEFAULT = {
     jpTitle: false,
     dayDivide: 24,
     dayDivideMax: 24,
-    dayDivideMin: 5
+    dayDivideMin: 5,
+    bangumiDomain: 'bangumi.tv'
 };
 
 var BgmConfigStore = _.assign({}, EventEmitter.prototype, {

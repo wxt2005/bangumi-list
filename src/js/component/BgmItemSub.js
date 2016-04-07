@@ -10,7 +10,8 @@ var BgmItemSub = React.createClass({
         handleHighlightChange: React.PropTypes.func,
         hide: React.PropTypes.bool,
         highlight: React.PropTypes.bool,
-        isHistory: React.PropTypes.bool
+        isHistory: React.PropTypes.bool,
+        bangumiDomain: React.PropTypes.string
     },
     getInitialState: function(){
         return {
@@ -88,8 +89,10 @@ var BgmItemSub = React.createClass({
     },
     render: function(){
         var data = this.props.data,
+            bangumiDomain = this.props.bangumiDomain,
             comment = data.comment ? <p><span className="sub-title">备注：</span>{data.comment}</p> : <p></p>,
-            bangumi = data.bgmId ? <a href={'http://bangumi.tv/subject/' + data.bgmId} target={this.props.disableNewTab ? '_self' : '_blank'}>Bangumi页面</a> : '',
+            bangumi = data.bgmId ?
+                <a href={`http://${bangumiDomain || 'bangumi.tv'}/subject/${data.bgmId}`} target={this.props.disableNewTab ? '_self' : '_blank'}>Bangumi页面</a> : '',
             downloadSites = this.getDownloadSites(data);
 
         return (
