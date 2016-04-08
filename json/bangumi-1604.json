@@ -955,14 +955,14 @@
     "bgmId": 138053
   },
   "1604_62": {
-    "titleCN": "黑骸",
+    "titleCN": "黑色残骸",
     "titleJP": "クロムクロ",
     "titleEN": "",
     "officalSite": "http://kuromukuro.com/",
     "weekDayJP": 4,
-    "weekDayCN": 4,
+    "weekDayCN": 5,
     "timeJP": "2000",
-    "timeCN": "",
+    "timeCN": "1830",
     "onAirSite": [
       "http://www.bilibili.com/bangumi/i/3551/",
       "http://v.pptv.com/page/7103tR2D8zGUEno.html"
@@ -1019,7 +1019,7 @@
     "weekDayJP": 5,
     "weekDayCN": 5,
     "timeJP": "0128",
-    "timeCN": "",
+    "timeCN": "1100",
     "onAirSite": [
       "http://www.bilibili.com/bangumi/i/3450/"
     ],
