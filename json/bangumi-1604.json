@@ -178,6 +178,9 @@
     "timeCN": "",
     "onAirSite": [
       "http://www.bilibili.com/bangumi/i/3105/",
+      "http://www.youku.com/show_page/id_zd8eb7ab6a88411e5b432.html",
+      "http://www.tudou.com/albumcover/hPSoTYCAUoY.html",
+      "http://v.pptv.com/page/FiaQQjvZczApt61M.html",
       "http://www.tucao.tv/index.php?m=search&c=index&a=init2&catid=24&q=亚人"
     ],
     "newBgm": false,
@@ -246,7 +249,7 @@
       "http://www.tudou.com/albumcover/rK0nYZTowwE.html",
       "http://www.youku.com/show_page/id_z40654fa2f09511e59e2a.html",
       "http://www.acfun.tv/v/ab1470402_0",
-      "http://tv.sohu.com/item/MTIwNTI0OA==.html",
+      "http://tv.sohu.com/s2016/dhpgwdz2/",
       "http://www.letv.com/comic/10014412.html",
       "http://v.pptv.com/page/xnVf3UWrG1m8OqI.html",
       "http://www.tucao.tv/index.php?m=search&c=index&a=init2&q=怪物弹珠"
@@ -352,6 +355,7 @@
     "timeCN": "",
     "onAirSite": [
       "http://www.bilibili.com/bangumi/i/3529/",
+      "http://v.pptv.com/page/8T8Zlic9l1RN29Fw.html",
       "http://www.acfun.tv/v/ab1470450"
     ],
     "newBgm": true,
@@ -519,6 +523,8 @@
     "timeCN": "",
     "onAirSite": [
       "http://www.bilibili.com/bangumi/i/3530/",
+      "http://v.pptv.com/page/TvzYVr4klNI1sxs.html",
+      "http://www.le.com/comic/10020552.html",
       "http://www.acfun.tv/v/ab1470448"
     ],
     "newBgm": true,
@@ -725,7 +731,8 @@
       "http://www.iqiyi.com/a_19rrhaj3bp.html",
       "http://www.bilibili.com/bangumi/i/3532/",
       "http://www.youku.com/show_page/id_z2cc2fb60e4ed11e59e2a.html",
-      "http://www.letv.com/comic/10020453.html"
+      "http://www.letv.com/comic/10020453.html",
+      "http://www.acfun.tv/v/ab1470456"
     ],
     "newBgm": true,
     "showDate": "2016-04-05",
@@ -788,7 +795,8 @@
     "timeJP": "2200",
     "timeCN": "",
     "onAirSite": [
-      "http://www.bilibili.com/bangumi/i/3537/"
+      "http://www.bilibili.com/bangumi/i/3537/",
+      "http://v.pptv.com/page/TibDMSrIYiaMYppw8.html"
     ],
     "newBgm": true,
     "showDate": "2016-04-05",
@@ -859,7 +867,8 @@
       "http://v.qq.com/detail/9/9ecz5xa7658m72d.html",
       "http://www.youku.com/show_page/id_z037cd3e6e66611e5b2ad.html",
       "http://www.letv.com/comic/10020432.html",
-      "http://v.pptv.com/page/NwTwbtY8rOpNyzM.html"
+      "http://v.pptv.com/page/NwTwbtY8rOpNyzM.html",
+      "http://www.iqiyi.com/a_19rrhak5s9.html"
     ],
     "newBgm": true,
     "showDate": "2016-04-06",
@@ -938,6 +947,7 @@
       "http://www.bilibili.com/bangumi/i/3498/",
       "http://www.tudou.com/albumcover/pbj-DtjHwtk.html",
       "http://www.youku.com/show_page/id_z40d31318e43611e5b32f.html",
+      "http://www.acfun.tv/v/ab1470459",
       "http://v.pptv.com/show/9EIurBR66iaiaLCXE.html"
     ],
     "newBgm": true,
@@ -953,7 +963,10 @@
     "weekDayCN": 4,
     "timeJP": "2000",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://www.bilibili.com/bangumi/i/3551/",
+      "http://v.pptv.com/page/7103tR2D8zGUEno.html"
+    ],
     "newBgm": true,
     "showDate": "2016-04-07",
     "bgmId": 159661
@@ -991,6 +1004,7 @@
       "http://www.bilibili.com/bangumi/i/3494/",
       "http://www.tudou.com/albumcover/IoB0NkjQPOc.html",
       "http://www.youku.com/show_page/id_zf726f2b8e4e711e5b432.html",
+      "http://www.acfun.tv/v/ab1470461",
       "http://v.pptv.com/page/icFE7uSGH9zWYFn4.html"
     ],
     "newBgm": true,
@@ -1007,7 +1021,7 @@
     "timeJP": "0128",
     "timeCN": "",
     "onAirSite": [
-      "http://www.bilibili.com/bangumi/i/105524/"
+      "http://www.bilibili.com/bangumi/i/3450/"
     ],
     "newBgm": true,
     "showDate": "2016-04-08",
