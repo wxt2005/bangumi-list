@@ -837,6 +837,22 @@
     "showDate": "2016-04-06",
     "bgmId": 155778
   },
+  "1604_54": {
+    "titleCN": "猫猫日本史",
+    "titleJP": "ねこねこ日本史",
+    "titleEN": "",
+    "officalSite": "http://www6.nhk.or.jp/anime/program/detail.html?i=nekoneko",
+    "weekDayJP": 3,
+    "weekDayCN": 5,
+    "timeJP": "1745",
+    "timeCN": "",
+    "onAirSite": [
+      "http://www.bilibili.com/bangumi/i/3549/"
+    ],
+    "newBgm": true,
+    "showDate": "2016-04-06",
+    "bgmId": 168468
+  },
   "1604_55": {
     "titleCN": "Crane Game Girl",
     "titleJP": "美少女遊戯ユニットクレーンゲール",
@@ -1211,7 +1227,7 @@
     "weekDayJP": 0,
     "weekDayCN": 1,
     "timeJP": "2300",
-    "timeCN": "",
+    "timeCN": "0000",
     "onAirSite": [
       "http://www.bilibili.com/bangumi/i/3452/"
     ],
