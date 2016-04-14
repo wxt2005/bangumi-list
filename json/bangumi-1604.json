@@ -603,6 +603,7 @@
       "http://www.tudou.com/albumcover/9OzlvAD4rqw.html",
       "http://www.youku.com/show_page/id_z1f114782e66f11e5b432.html",
       "http://v.pptv.com/page/x3Rg3kasHFq9O6M.html",
+      "http://www.letv.com/comic/10020564.html",
       "http://www.acfun.tv/v/ab1470452"
     ],
     "newBgm": true,
@@ -654,7 +655,7 @@
     "weekDayJP": 1,
     "weekDayCN": 2,
     "timeJP": "2200",
-    "timeCN": "",
+    "timeCN": "0115",
     "onAirSite": [
       "http://www.iqiyi.com/a_19rrhaj2vd.html"
     ],
@@ -796,6 +797,8 @@
     "timeCN": "",
     "onAirSite": [
       "http://www.bilibili.com/bangumi/i/3537/",
+      "http://www.youku.com/show_page/id_z79f5e89ce4da11e5a2a2.html",
+      "http://www.tudou.com/albumcover/-Ea_ESJ-e2M.html",
       "http://v.pptv.com/page/TibDMSrIYiaMYppw8.html"
     ],
     "newBgm": true,
@@ -847,6 +850,7 @@
     "timeJP": "1745",
     "timeCN": "",
     "onAirSite": [
+      "http://v.pptv.com/page/7l03tR2D8zGUEno.html",
       "http://www.bilibili.com/bangumi/i/3549/"
     ],
     "newBgm": true,
@@ -861,7 +865,7 @@
     "weekDayJP": 3,
     "weekDayCN": 3,
     "timeJP": "2100",
-    "timeCN": "",
+    "timeCN": "2320",
     "onAirSite": [
       "http://www.bilibili.com/bangumi/i/3478/"
     ],
@@ -923,15 +927,17 @@
     "bgmId": 144357
   },
   "1604_59": {
-    "titleCN": "偶像活动 Stars",
+    "titleCN": "偶像活动 Stars!",
     "titleJP": "アイカツ スターズ！",
     "titleEN": "",
     "officalSite": "http://www.aikatsu.net/aikatsustars.html",
     "weekDayJP": 4,
     "weekDayCN": 4,
     "timeJP": "1725",
-    "timeCN": "",
-    "onAirSite": [],
+    "timeCN": "1930",
+    "onAirSite": [
+      "http://www.iqiyi.com/a_19rrhajuwx.html"
+    ],
     "newBgm": true,
     "showDate": "2016-04-07",
     "bgmId": 169274
@@ -964,6 +970,7 @@
       "http://www.tudou.com/albumcover/pbj-DtjHwtk.html",
       "http://www.youku.com/show_page/id_z40d31318e43611e5b32f.html",
       "http://www.acfun.tv/v/ab1470459",
+      "http://www.iqiyi.com/a_19rrhak5wl.html",
       "http://v.pptv.com/show/9EIurBR66iaiaLCXE.html"
     ],
     "newBgm": true,
@@ -981,6 +988,7 @@
     "timeCN": "1830",
     "onAirSite": [
       "http://www.bilibili.com/bangumi/i/3551/",
+      "http://www.letv.com/comic/10020777.html",
       "http://v.pptv.com/page/7103tR2D8zGUEno.html"
     ],
     "newBgm": true,
@@ -1001,6 +1009,7 @@
       "http://www.tudou.com/albumcover/eJcUnm1hNF8.html",
       "http://v.qq.com/detail/3/3llbhhwzykl7in7.html",
       "http://www.youku.com/show_page/id_z450caa42e66711e5b432.html",
+      "http://www.iqiyi.com/a_19rrhajw3h.html",
       "http://v.pptv.com/page/XerGRKwSgsAjoQk.html"
     ],
     "newBgm": true,
@@ -1021,6 +1030,7 @@
       "http://www.tudou.com/albumcover/IoB0NkjQPOc.html",
       "http://www.youku.com/show_page/id_zf726f2b8e4e711e5b432.html",
       "http://www.acfun.tv/v/ab1470461",
+      "http://www.letv.com/comic/10020639.html",
       "http://v.pptv.com/page/icFE7uSGH9zWYFn4.html"
     ],
     "newBgm": true,
@@ -1097,7 +1107,10 @@
     "weekDayCN": 6,
     "timeJP": "0900",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://www.bilibili.com/bangumi/i/3550/",
+      "http://v.pptv.com/page/fcqmJIzyYqADgek.html"
+    ],
     "newBgm": true,
     "showDate": "2016-04-09",
     "bgmId": 106264
@@ -1112,10 +1125,10 @@
     "timeJP": "1630",
     "timeCN": "1900",
     "onAirSite": [
-        "http://www.youku.com/show_page/id_z498c224cf7b411e59e2a.html",
-        "http://www.tudou.com/albumcover/AdJ3cLCWYTw.html",
-        "http://www.tucao.cc/index.php?m=search&c=index&a=init2&q=境界之轮回"
-      ],
+      "http://www.youku.com/show_page/id_z498c224cf7b411e59e2a.html",
+      "http://www.tudou.com/albumcover/AdJ3cLCWYTw.html",
+      "http://www.tucao.cc/index.php?m=search&c=index&a=init2&q=境界之轮回"
+    ],
     "newBgm": true,
     "showDate": "2016-04-09",
     "bgmId": 146503
@@ -1161,7 +1174,7 @@
     "weekDayJP": 6,
     "weekDayCN": 0,
     "timeJP": "2300",
-    "timeCN": "",
+    "timeCN": "0030",
     "onAirSite": [
       "http://www.bilibili.com/bangumi/i/3453/"
     ],
@@ -1243,7 +1256,7 @@
     "weekDayJP": 2,
     "weekDayCN": 2,
     "timeJP": "0005",
-    "timeCN": "",
+    "timeCN": "0015",
     "onAirSite": [
       "http://www.bilibili.com/bangumi/i/3457/"
     ],
@@ -1259,7 +1272,7 @@
     "weekDayJP": 2,
     "weekDayCN": 2,
     "timeJP": "0010",
-    "timeCN": "",
+    "timeCN": "0010",
     "onAirSite": [
       "http://www.bilibili.com/bangumi/i/3497/"
     ],
@@ -1268,14 +1281,14 @@
     "bgmId": 143753
   },
   "1604_80": {
-    "titleCN": "Big Order",
+    "titleCN": "至高指令",
     "titleJP": "ビッグオーダー",
     "titleEN": "",
     "officalSite": "http://www.future-diary.tv/bo/",
     "weekDayJP": 6,
     "weekDayCN": 6,
     "timeJP": "0040",
-    "timeCN": "",
+    "timeCN": "0210",
     "onAirSite": [
       "http://v.pptv.com/page/0HlT0TmfD02wLpY.html"
     ],
