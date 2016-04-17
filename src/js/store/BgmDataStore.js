@@ -2,7 +2,7 @@ var Dispacher    = require('../dispatcher/Dispatcher'),
     _isEmpty     = require('lodash/isEmpty'),
     _assign      = require('lodash/assign'),
     _isObject    = require('lodash/isObject'),
-    _merge       = require('lodash/merge'),
+    _mergeWith   = require('lodash/mergeWith'),
     _forIn       = require('lodash/forIn'),
     Utils        = require('../mod/Utils'),
     EventEmitter = require('events').EventEmitter;
@@ -39,7 +39,7 @@ var BgmDataStore = _assign({}, EventEmitter.prototype, {
 
         if(data.version !== 0 && _data.path === data.path){
             console.info('data maerged');
-            _data = _merge(_data, data, function(objectValue, sourceValue, key, source, value){
+            _data = _mergeWith(_data, data, function(objectValue, sourceValue, key, source, value){
                 if(key === 'onAirSite'){
                     return sourceValue;
                 }else{
