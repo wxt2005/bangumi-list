@@ -1091,15 +1091,8 @@
     "weekDayJP": 4,
     "weekDayCN": 5,
     "timeJP": "2325",
-    "timeCN": "0200",
-    "onAirSite": [
-      "http://www.bilibili.com/bangumi/i/3494/",
-      "http://www.tudou.com/albumcover/IoB0NkjQPOc.html",
-      "http://www.youku.com/show_page/id_zf726f2b8e4e711e5b432.html",
-      "http://www.acfun.tv/v/ab1470461",
-      "http://www.letv.com/comic/10020639.html",
-      "http://v.pptv.com/page/icFE7uSGH9zWYFn4.html"
-    ],
+    "timeCN": "",
+    "onAirSite": [],
     "downloadKeyword": {
       "dmhy": "甲鐵城"
     },
