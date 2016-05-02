@@ -392,7 +392,9 @@ header {
     .table {
         background: @main-green;
         border-radius: 4px;
-        border: 10px solid @main-green;
+        border-style: solid;
+        border-color: @main-green;
+        border-width: 10px 2px 2px;
     }
 
     .table-left {
@@ -513,8 +515,11 @@ header {
                     width: 90%;
                     padding: 6px 0 6px 8px;
                     line-height: 1;
-                    border: 1px solid @bg-gray;
-                    border-right: none;
+                    border-style: solid;
+                    border-color: @bg-gray;
+                    border-width: 1px 0 1px 4px;
+                    border-top-left-radius: 4px;
+                    border-bottom-left-radius: 4px;
                     .transition(all 0.5s ease);
                 }
 
@@ -538,10 +543,7 @@ header {
                 &.cur, &:hover {
                     a {
                         background: #fff;
-                        border: 1px solid @border-gray;
-                        border-right: none;
-                        border-top-left-radius: 4px;
-                        border-bottom-left-radius: 4px;
+                        border-left-color: @main-green;
                     }
                 }
             }
