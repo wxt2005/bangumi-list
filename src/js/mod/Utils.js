@@ -1,14 +1,42 @@
+var url = require('url');
+
 var WEEKDAYCN = ['周日', '周一', '周二', '周三', '周四', '周五', '周六'],
     WEEKDAYJP = ['日曜', '月曜', '火曜', '水曜', '木曜', '金曜', '土曜'];
 
+var SITE_REGEX = {
+    'acfun'   : 'acfun\\.(tv|tudou)',
+    'bilibili': 'bilibili\\.com',
+    'tucao'   : 'tucao\\.(tv|cc)',
+    'sohu'    : 'sohu\\.com',
+    'youku'   : 'youku\\.com',
+    'qq'      : 'qq\\.com',
+    'iqiyi'   : 'iqiyi\\.com',
+    'letv'    : '(le|letv)\\.com',
+    'pptv'    : 'pptv\\.com',
+    'tudou'   : 'tudou\\.com',
+    'movie'   : 'kankan\\.com'
+};
+
 /**
  * 从主域名获得站点名称
- * @param  {string} domain 主域名
+ * @param  {string} urlString 网址
  * @param  {sites} array 站点数组
- * @return {string}        站点名称
+ * @return {Object}        站点信息
  */
-function getLinkSite(domain, sites){
-    return sites[domain] ? sites[domain].name || sites[domain] : '未知';
+function getLinkSite(urlString, sites){
+    var host = url.parse(urlString).host,
+        siteKey = '',
+        siteRegex = null;
+
+    for (siteKey in SITE_REGEX) {
+        siteRegex = new RegExp(SITE_REGEX[siteKey]);
+
+        if (siteRegex.test(host)) {
+            return sites[siteKey];
+        }
+    }
+
+    return {};
 }
 
 /**
@@ -81,21 +109,6 @@ function monthToSeason(month){
 }
 
 /**
- * 获取链接中的主域名
- * @param {string} url 网址
- * @return {string} 主域名或者空字符串
- * @TODO 正确获取迅雷看看的域名，现在只用movie来代替
- */
-function getDomain(url){
-    var re = /^https{0,}:\/\/\w+\.(\w+)\.\w+/i;
-    if (url !== '#') {
-        return url.match(re)[1].toLowerCase();
-    } else {
-        return '';
-    }
-}
-
-/**
  * 辅助生成className
  * @param  {object} obj className的key value对, value为true则输出
  * @return {string}     class string
@@ -151,7 +164,6 @@ module.exports = {
     formatTime: formatTime,
     store: store,
     monthToSeason: monthToSeason,
-    getDomain: getDomain,
     classList: classList,
     hasOnair: hasOnair,
     hasEnded: hasEnded
