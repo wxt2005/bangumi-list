@@ -50,6 +50,10 @@
             "4": {
                 "path": "json/bangumi-1604.json",
                 "version": 2016050401
+            },
+            "7": {
+                "path": "json/bangumi-1607.json",
+                "version": 2016062701
             }
         }
     }
