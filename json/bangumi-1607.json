@@ -913,7 +913,9 @@
     "weekDayCN": 3,
     "timeJP": "2200",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://bangumi.bilibili.com/anime/5038/"
+    ],
     "newBgm": true,
     "showDate": "2016-07-06",
     "bgmId": 117282
@@ -941,7 +943,9 @@
     "weekDayCN": 3,
     "timeJP": "2300",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://bangumi.bilibili.com/anime/5039/"
+    ],
     "newBgm": true,
     "showDate": "2016-07-06",
     "bgmId": 168902
@@ -969,7 +973,9 @@
     "weekDayCN": 4,
     "timeJP": "2100",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://bangumi.bilibili.com/anime/5041/"
+    ],
     "newBgm": true,
     "showDate": "2016-07-07",
     "bgmId": 174519
@@ -997,7 +1003,9 @@
     "weekDayCN": 5,
     "timeJP": "0100",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://bangumi.bilibili.com/anime/2700/"
+    ],
     "newBgm": false,
     "showDate": "2016-07-08",
     "bgmId": 50535
@@ -1011,7 +1019,9 @@
     "weekDayCN": 5,
     "timeJP": "0128",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://bangumi.bilibili.com/anime/5043/"
+    ],
     "newBgm": true,
     "showDate": "2016-07-08",
     "bgmId": 150746
@@ -1025,7 +1035,9 @@
     "weekDayCN": 5,
     "timeJP": "0205",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://bangumi.bilibili.com/anime/5044/"
+    ],
     "newBgm": true,
     "showDate": "2016-07-08",
     "bgmId": 143099
@@ -1039,7 +1051,9 @@
     "weekDayCN": 3,
     "timeJP": "2300",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://bangumi.bilibili.com/anime/5045/"
+    ],
     "newBgm": true,
     "showDate": "2016-07-06",
     "bgmId": 176518
@@ -1067,7 +1081,9 @@
     "weekDayCN": 5,
     "timeJP": "2200",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://bangumi.bilibili.com/anime/5064/"
+    ],
     "newBgm": true,
     "showDate": "2016-07-08",
     "bgmId": 168395
@@ -1081,7 +1097,9 @@
     "weekDayCN": 6,
     "timeJP": "0005",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://bangumi.bilibili.com/anime/5047/"
+    ],
     "newBgm": true,
     "showDate": "2016-07-09",
     "bgmId": 148097
@@ -1109,7 +1127,9 @@
     "weekDayCN": 6,
     "timeJP": "0600",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://bangumi.bilibili.com/anime/5049/"
+    ],
     "newBgm": true,
     "showDate": "2016-07-09",
     "bgmId": 183554
@@ -1151,7 +1171,9 @@
     "weekDayCN": 0,
     "timeJP": "0030",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://bangumi.bilibili.com/anime/5053/"
+    ],
     "newBgm": true,
     "showDate": "2016-07-10",
     "bgmId": 119687
@@ -1179,7 +1201,9 @@
     "weekDayCN": 1,
     "timeJP": "2200",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://bangumi.bilibili.com/anime/5056/"
+    ],
     "newBgm": true,
     "showDate": "2016-07-11",
     "bgmId": 158415
@@ -1193,7 +1217,9 @@
     "weekDayCN": 1,
     "timeJP": "2300",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://bangumi.bilibili.com/anime/5058/"
+    ],
     "newBgm": true,
     "showDate": "2016-07-11",
     "bgmId": 158316
@@ -1207,7 +1233,9 @@
     "weekDayCN": 4,
     "timeJP": "2230",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://bangumi.bilibili.com/anime/5057/"
+    ],
     "newBgm": true,
     "showDate": "2016-07-14",
     "bgmId": 177092
