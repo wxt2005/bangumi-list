@@ -3,7 +3,7 @@
         "2013": {
             "10": {
                 "path": "json/bangumi-1310.json",
-                "version": 2015090701
+                "version": 2016062801
             }
         },
         "2014": {
@@ -21,7 +21,7 @@
             },
             "10": {
                 "path": "json/bangumi-1410.json",
-                "version": 2015100904
+                "version": 2016062801
             }
         },
         "2015": {
@@ -53,7 +53,7 @@
             },
             "7": {
                 "path": "json/bangumi-1607.json",
-                "version": 2016062701
+                "version": 2016062801
             }
         }
     }

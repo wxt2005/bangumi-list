@@ -9,11 +9,10 @@
     "timeJP": "1800",
     "timeCN": "1930",
     "onAirSite": [
-      "http://www.acfun.tv/a/aa127_0",
       "http://www.iqiyi.com/a_19rrhc0gyd.html",
       "http://v.qq.com/detail/h/hzgtnf6tbvfekfv.html",
       "http://tv.sohu.com/s2012/mztkn/",
-      "http://www.letv.com/comic/5938.html",
+      "http://www.le.com/comic/5938.html",
       "http://v.pptv.com/page/ac24Np4EdLIVkics.html"
     ],
     "newBgm": false,
@@ -30,8 +29,6 @@
     "timeJP": "0930",
     "timeCN": "",
     "onAirSite": [
-      "http://www.bilibili.com/sp/海贼王",
-      "http://www.acfun.tv/a/aa126_0",
       "http://tv.sohu.com/s2013/onepiece/",
       "http://www.iqiyi.com/a_19rrhb3xvl.html",
       "http://www.tucao.tv/index.php?m=search&c=index&a=init2&q=海贼王"
@@ -69,7 +66,7 @@
     "timeJP": "1630",
     "timeCN": "",
     "onAirSite": [
-      "http://www.letv.com/comic/10000913.html",
+      "http://www.le.com/comic/10000913.html",
       "http://v.pptv.com/page/afDcWsIomNY5tx8.html",
       "http://www.youku.com/show_page/id_z40c8abaa99e511e3b8b7.html",
       "http://www.tudou.com/albumcover/j6bLOojGi-I.html",
@@ -154,10 +151,9 @@
     "onAirSite": [
       "http://www.tudou.com/albumcover/rK0nYZTowwE.html",
       "http://www.youku.com/show_page/id_z40654fa2f09511e59e2a.html",
-      "http://www.acfun.tv/v/ab1470402_0",
+      "http://www.acfun.tv/v/ab1470402",
       "http://tv.sohu.com/s2016/dhpgwdz2/",
-      "http://www.letv.com/comic/10014412.html",
-      "http://v.pptv.com/page/xnVf3UWrG1m8OqI.html",
+      "http://www.le.com/comic/10014412.html",
       "http://www.tucao.tv/index.php?m=search&c=index&a=init2&q=怪物弹珠"
     ],
     "newBgm": false,
@@ -200,7 +196,7 @@
       "http://www.youku.com/show_page/id_zc306dcc2e59711e5a080.html",
       "http://v.pptv.com/page/cLibZF3iclVZP2dNw.html",
       "http://www.bilibili.com/bangumi/i/3527/",
-      "http://www.letv.com/comic/10020524.html",
+      "http://www.le.com/comic/10020524.html",
       "http://www.iqiyi.com/a_19rrhaix5t.html",
       "http://www.acfun.tv/v/ab1470446"
     ],
@@ -242,7 +238,7 @@
     "onAirSite": [
       "http://www.bilibili.com/bangumi/i/3530/",
       "http://v.pptv.com/page/TvzYVr4klNI1sxs.html",
-      "http://www.letv.com/comic/10020552.html",
+      "http://www.le.com/comic/10020552.html",
       "http://www.acfun.tv/v/ab1470448"
     ],
     "downloadKeyword": {
@@ -266,7 +262,7 @@
       "http://www.tudou.com/albumcover/iF2R9jBUhso.html",
       "http://www.iqiyi.com/a_19rrhaer39.html",
       "http://www.youku.com/show_page/id_z1b7c90e0e4df11e59e2a.html",
-      "http://www.letv.com/comic/10020322.html",
+      "http://www.le.com/comic/10020322.html",
       "http://www.acfun.tv/v/ab1470449"
     ],
     "downloadKeyword": {
@@ -289,7 +285,7 @@
       "http://www.tudou.com/albumcover/9OzlvAD4rqw.html",
       "http://www.youku.com/show_page/id_z1f114782e66f11e5b432.html",
       "http://v.pptv.com/page/x3Rg3kasHFq9O6M.html",
-      "http://www.letv.com/comic/10020564.html",
+      "http://www.le.com/comic/10020564.html",
       "http://www.acfun.tv/v/ab1470452"
     ],
     "newBgm": false,
@@ -319,8 +315,8 @@
   },
   "1604_51": {
     "titleCN": "战斗之魂 双重驱动",
-    "titleJP": "バトルスピリッツ ダブルドライブ  Official",
-    "titleEN": "",
+    "titleJP": "バトルスピリッツ ダブルドライブ",
+    "titleEN": "BattleSpirits Double Drive",
     "officalSite": "http://www.sunrise-inc.co.jp/battlespirits8/",
     "weekDayJP": 3,
     "weekDayCN": 3,
@@ -345,7 +341,7 @@
       "http://www.tudou.com/albumcover/6YUIGawleII.html",
       "http://www.iqiyi.com/a_19rrhaeqtd.html",
       "http://www.youku.com/show_page/id_z31c53954e34c11e5a2a2.html",
-      "http://www.letv.com/comic/10020446.html",
+      "http://www.le.com/comic/10020446.html",
       "http://www.acfun.tv/v/ab1470457"
     ],
     "downloadKeyword": {
@@ -365,8 +361,7 @@
     "timeJP": "1745",
     "timeCN": "",
     "onAirSite": [
-      "http://v.pptv.com/page/7l03tR2D8zGUEno.html",
-      "http://www.bilibili.com/bangumi/i/3549/"
+      "http://v.pptv.com/page/7l03tR2D8zGUEno.html"
     ],
     "newBgm": false,
     "showDate": "2016-04-06",
@@ -400,7 +395,7 @@
     "timeCN": "1830",
     "onAirSite": [
       "http://www.bilibili.com/bangumi/i/3551/",
-      "http://www.letv.com/comic/10020777.html",
+      "http://www.le.com/comic/10020777.html",
       "http://v.pptv.com/page/7103tR2D8zGUEno.html"
     ],
     "downloadKeyword": {
@@ -422,7 +417,7 @@
     "onAirSite": [
       "http://www.youku.com/show_page/id_z498c224cf7b411e59e2a.html",
       "http://www.tudou.com/albumcover/AdJ3cLCWYTw.html",
-      "http://www.tucao.cc/index.php?m=search&c=index&a=init2&q=境界之轮回"
+      "http://www.tucao.tv/index.php?m=search&c=index&a=init2&q=境界之轮回"
     ],
     "downloadKeyword": {
       "dmhy": "界 輪"
@@ -548,7 +543,9 @@
     "weekDayCN": 5,
     "timeJP": "2130",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://bangumi.bilibili.com/anime/5016/"
+    ],
     "newBgm": true,
     "showDate": "2016-07-01",
     "bgmId": 185001
@@ -562,7 +559,9 @@
     "weekDayCN": 6,
     "timeJP": "2100",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://bangumi.bilibili.com/anime/5017/"
+    ],
     "newBgm": true,
     "showDate": "2016-07-02",
     "bgmId": 160124
@@ -576,13 +575,15 @@
     "weekDayCN": 6,
     "timeJP": "2130",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://bangumi.bilibili.com/anime/5062/"
+    ],
     "newBgm": true,
     "showDate": "2016-07-02",
     "bgmId": 165553
   },
   "1607_13": {
-    "titleCN": "初恋Monster",
+    "titleCN": "初恋怪兽",
     "titleJP": "初恋モンスター",
     "titleEN": "",
     "officalSite": "http://hatsukoimonster.jp/",
@@ -590,7 +591,9 @@
     "weekDayCN": 6,
     "timeJP": "2200",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://bangumi.bilibili.com/anime/5018/"
+    ],
     "newBgm": true,
     "showDate": "2016-07-02",
     "bgmId": 138440
@@ -618,7 +621,9 @@
     "weekDayCN": 0,
     "timeJP": "0158",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://bangumi.bilibili.com/anime/5063/"
+    ],
     "newBgm": true,
     "showDate": "2016-07-03",
     "bgmId": 165046
@@ -632,7 +637,9 @@
     "weekDayCN": 6,
     "timeJP": "2230",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://bangumi.bilibili.com/anime/5020/"
+    ],
     "newBgm": true,
     "showDate": "2016-07-02",
     "bgmId": 147568
@@ -646,7 +653,9 @@
     "weekDayCN": 0,
     "timeJP": "",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://bangumi.bilibili.com/anime/5066/"
+    ],
     "newBgm": true,
     "showDate": "2016-07-02",
     "bgmId": 182341
@@ -660,7 +669,9 @@
     "weekDayCN": 0,
     "timeJP": "1600",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://bangumi.bilibili.com/anime/5021"
+    ],
     "newBgm": true,
     "showDate": "2016-07-03",
     "bgmId": 148436
@@ -674,7 +685,9 @@
     "weekDayCN": 0,
     "timeJP": "2200",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://bangumi.bilibili.com/anime/5022/"
+    ],
     "newBgm": true,
     "showDate": "2016-07-03",
     "bgmId": 136371
@@ -702,7 +715,9 @@
     "weekDayCN": 1,
     "timeJP": "0605",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://bangumi.bilibili.com/anime/5069/"
+    ],
     "newBgm": true,
     "showDate": "2016-07-04",
     "bgmId": 181354
@@ -716,7 +731,9 @@
     "weekDayCN": 1,
     "timeJP": "1725",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://bangumi.bilibili.com/anime/5025/"
+    ],
     "newBgm": true,
     "showDate": "2016-07-04",
     "bgmId": 169076
@@ -744,7 +761,9 @@
     "weekDayCN": 1,
     "timeJP": "2130",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://bangumi.bilibili.com/anime/5027/"
+    ],
     "newBgm": true,
     "showDate": "2016-07-04",
     "bgmId": 150775
@@ -772,7 +791,9 @@
     "weekDayCN": 2,
     "timeJP": "0005",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://bangumi.bilibili.com/anime/5029/"
+    ],
     "newBgm": true,
     "showDate": "2016-07-05",
     "bgmId": 170261
@@ -786,7 +807,9 @@
     "weekDayCN": 2,
     "timeJP": "0035",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://bangumi.bilibili.com/anime/5030/"
+    ],
     "newBgm": true,
     "showDate": "2016-07-05",
     "bgmId": 161793
@@ -800,7 +823,9 @@
     "weekDayCN": 2,
     "timeJP": "0105",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://bangumi.bilibili.com/anime/5031/"
+    ],
     "newBgm": true,
     "showDate": "2016-07-05",
     "bgmId": 123178
@@ -828,7 +853,9 @@
     "weekDayCN": 2,
     "timeJP": "2155",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://bangumi.bilibili.com/anime/5033/"
+    ],
     "newBgm": true,
     "showDate": "2016-07-05",
     "bgmId": 180211
@@ -856,7 +883,9 @@
     "weekDayCN": 2,
     "timeJP": "2330",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://bangumi.bilibili.com/anime/5036/"
+    ],
     "newBgm": true,
     "showDate": "2016-07-05",
     "bgmId": 147438

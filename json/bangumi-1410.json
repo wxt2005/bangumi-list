@@ -2,11 +2,12 @@
   "1410_0": {
     "titleCN": "名侦探柯南",
     "titleJP": "名探偵コナン",
+    "titleEN": "Detective Conan",
     "officalSite": "http://www.ytv.co.jp/conan/",
     "weekDayJP": 6,
-    "weekDayCN": 0,
+    "weekDayCN": 6,
     "timeJP": "1800",
-    "timeCN": "",
+    "timeCN": "1930",
     "onAirSite": [
       "http://www.iqiyi.com/a_19rrhc0gyd.html",
       "http://v.qq.com/detail/h/hzgtnf6tbvfekfv.html",
@@ -21,6 +22,7 @@
   "1410_1": {
     "titleCN": "海贼王",
     "titleJP": "ONE PIECE",
+    "titleEN": "ONE PIECE",
     "officalSite": "http://www.toei-anim.co.jp/tv/onep/",
     "weekDayJP": 0,
     "weekDayCN": 0,
@@ -38,6 +40,7 @@
   "1410_2": {
     "titleCN": "火影忍者 疾风传",
     "titleJP": "NARUTO -ナルト- 疾風伝",
+    "titleEN": "Naruto Shippuuden",
     "officalSite": "http://www.tv-tokyo.co.jp/anime/naruto/index2.html",
     "weekDayJP": 4,
     "weekDayCN": 4,
@@ -45,6 +48,7 @@
     "timeCN": "1900",
     "onAirSite": [
       "http://www.tudou.com/albumcover/Lqfme5hSolM.html",
+      "http://www.bilibili.com/bangumi/i/3287/",
       "http://www.youku.com/show_page/id_zcc001f06962411de83b1.html",
       "http://www.tucao.tv/index.php?m=search&c=index&a=init2&q=火影忍者"
     ],
@@ -70,6 +74,7 @@
   "1410_4": {
     "titleCN": "游戏王ARC-V",
     "titleJP": "遊☆戯☆王ARC-V ",
+    "titleEN": "Yu-Gi-Oh ARC V",
     "officalSite": "http://www.tv-tokyo.co.jp/anime/yugioh-arcv/",
     "weekDayJP": 0,
     "weekDayCN": 1,
