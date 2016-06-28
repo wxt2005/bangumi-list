@@ -2,18 +2,18 @@
   "1501_0": {
     "titleCN": "名侦探柯南",
     "titleJP": "名探偵コナン",
+    "titleEN": "Detective Conan",
     "officalSite": "http://www.ytv.co.jp/conan/",
     "weekDayJP": 6,
-    "weekDayCN": 0,
+    "weekDayCN": 6,
     "timeJP": "1800",
-    "timeCN": "",
+    "timeCN": "1930",
     "onAirSite": [
-      "http://www.acfun.tv/a/aa127_0",
       "http://www.iqiyi.com/a_19rrhc0gyd.html",
       "http://v.qq.com/detail/h/hzgtnf6tbvfekfv.html",
       "http://tv.sohu.com/s2012/mztkn/",
-      "http://www.letv.com/comic/5938.html",
-      "http://www.pptv.com/page/2815.html"
+      "http://www.le.com/comic/5938.html",
+      "http://v.pptv.com/page/ac24Np4EdLIVkics.html"
     ],
     "newBgm": false,
     "bgmId": 899,
@@ -22,17 +22,16 @@
   "1501_1": {
     "titleCN": "海贼王",
     "titleJP": "ONE PIECE",
+    "titleEN": "ONE PIECE",
     "officalSite": "http://www.toei-anim.co.jp/tv/onep/",
     "weekDayJP": 0,
     "weekDayCN": 0,
     "timeJP": "0930",
     "timeCN": "",
     "onAirSite": [
-      "http://www.bilibili.com/sp/海贼王",
-      "http://www.acfun.tv/a/aa126_0",
       "http://tv.sohu.com/s2013/onepiece/",
       "http://www.iqiyi.com/a_19rrhb3xvl.html",
-      "http://www.tucao.cc/index.php?m=search&c=index&a=init2&q=海贼王"
+      "http://www.tucao.tv/index.php?m=search&c=index&a=init2&q=海贼王"
     ],
     "newBgm": false,
     "bgmId": 975,
@@ -41,6 +40,7 @@
   "1501_2": {
     "titleCN": "火影忍者 疾风传",
     "titleJP": "NARUTO -ナルト- 疾風伝",
+    "titleEN": "Naruto Shippuuden",
     "officalSite": "http://www.tv-tokyo.co.jp/anime/naruto/index2.html",
     "weekDayJP": 4,
     "weekDayCN": 4,
@@ -48,25 +48,24 @@
     "timeCN": "1900",
     "onAirSite": [
       "http://www.tudou.com/albumcover/Lqfme5hSolM.html",
-      "http://www.bilibili.com/sp/火影忍者",
+      "http://www.bilibili.com/bangumi/i/3287/",
       "http://www.youku.com/show_page/id_zcc001f06962411de83b1.html",
-      "http://www.tucao.cc/index.php?m=search&c=index&a=init2&q=火影忍者"
+      "http://www.tucao.tv/index.php?m=search&c=index&a=init2&q=火影忍者"
     ],
     "newBgm": false,
     "bgmId": 2782,
     "showDate": "2007-02-15"
   },
   "1501_3": {
-    "titleCN": "偶像活动! 三期",
-    "titleJP": "アイカツ!アイドルカツドウ!",
-    "officalSite": "http://www.aikatsu.net",
+    "titleCN": "偶像活动！第三年",
+    "titleJP": "アイカツ!3年目",
+    "titleEN": "Aikatsu",
+    "officalSite": "http://www.aikatsu.net/03/index.html",
     "weekDayJP": 4,
     "weekDayCN": 4,
     "timeJP": "1700",
     "timeCN": "1900",
     "onAirSite": [
-      "http://www.bilibili.com/sp/偶像活动",
-      "http://www.acfun.tv/a/aa1464858",
       "http://www.iqiyi.com/a_19rrhc0yjx.html"
     ],
     "newBgm": false,
@@ -76,17 +75,18 @@
   "1501_4": {
     "titleCN": "游戏王ARC-V",
     "titleJP": "遊☆戯☆王ARC-V ",
+    "titleEN": "Yu-Gi-Oh Arc-V",
     "officalSite": "http://www.tv-tokyo.co.jp/anime/yugioh-arcv/",
     "weekDayJP": 0,
     "weekDayCN": 1,
     "timeJP": "1630",
     "timeCN": "",
     "onAirSite": [
-      "http://www.letv.com/comic/10000913.html",
-      "http://www.pptv.com/page/286416.html",
+      "http://www.le.com/comic/10000913.html",
+      "http://v.pptv.com/page/afDcWsIomNY5tx8.html",
       "http://www.youku.com/show_page/id_z40c8abaa99e511e3b8b7.html",
       "http://www.tudou.com/albumcover/j6bLOojGi-I.html",
-      "http://www.tucao.cc/index.php?m=search&c=index&a=init2&q=游戏王ARC-V"
+      "http://www.tucao.tv/index.php?m=search&c=index&a=init2&q=游戏王ARC-V"
     ],
     "newBgm": false,
     "bgmId": 92161,
@@ -102,8 +102,7 @@
     "timeCN": "1030",
     "onAirSite": [
       "http://www.iqiyi.com/a_19rrgjao65.html",
-      "http://www.bilibili.com/sp/钻石王牌",
-      "http://www.acfun.tv/v/ab1465812"
+      "http://www.acfun.tv/v/ab103"
     ],
     "newBgm": false,
     "bgmId": 73083,
@@ -112,6 +111,7 @@
   "1501_6": {
     "titleCN": "口袋妖怪 XY",
     "titleJP": "ポケットモンスター XY",
+    "titleEN": "Pokemon XY",
     "officalSite": "http://www.tv-tokyo.co.jp/anime/pokemon_xy/",
     "weekDayJP": 4,
     "weekDayCN": 5,
@@ -121,10 +121,8 @@
       "http://v.qq.com/detail/o/o6ftuwm1j0xfa62.html",
       "http://www.tudou.com/albumcover/CIK0mT03n_M.html",
       "http://www.youku.com/show_page/id_zca5b9dc41c3f11e3b8b7.html",
-      "http://www.letv.com/comic/93548.html",
-      "http://www.bilibili.com/sp/宠物小精灵",
-      "http://www.acfun.tv/a/aa109_0",
-      "http://www.tucao.cc/index.php?m=search&c=index&a=init2&q=宠物小精灵XY"
+      "http://www.le.com/comic/93548.html",
+      "http://www.tucao.tv/index.php?m=search&c=index&a=init2&q=%E5%AE%A0%E7%89%A9%E5%B0%8F%E7%B2%BE%E7%81%B5XY"
     ],
     "newBgm": false,
     "bgmId": 78799,
@@ -380,11 +378,7 @@
     "timeJP": "1730",
     "timeCN": "",
     "onAirSite": [
-      "http://www.tudou.com/albumcover/vAUyu0OTz-M.html",
-      "http://www.youku.com/show_page/id_zab2d79f86dd011e3b8b7.html",
-      "http://v.qq.com/detail/h/hbccdwvo9t21w4i.html",
-      "http://www.bilibili.com/sp/妖怪手表",
-      "http://www.acfun.tv/a/aa220_0"
+      "http://v.qq.com/detail/h/hbccdwvo9t21w4i.html"
     ],
     "newBgm": false,
     "bgmId": 83124,
@@ -432,15 +426,14 @@
   "1501_23": {
     "titleCN": "妖精的尾巴 2期",
     "titleJP": "FAIRY TAIL 新シリーズ",
+    "titleEN": "FAIRY TAIL",
     "officalSite": "http://www.fairytail-tv.com/",
     "weekDayJP": 6,
     "weekDayCN": 6,
     "timeJP": "0930",
     "timeCN": "1400",
     "onAirSite": [
-      "http://tv.sohu.com/s2011/yjdwb/",
-      "http://www.bilibili.com/sp/妖精的尾巴",
-      "http://www.acfun.tv/a/aa1214#group=1"
+      "http://tv.sohu.com/s2011/yjdwb/"
     ],
     "newBgm": false,
     "bgmId": 91946,
@@ -457,7 +450,6 @@
     "onAirSite": [
       "http://tv.sohu.com/s2014/lzg2",
       "http://www.iqiyi.com/a_19rrhb1cr1.html",
-      "http://www.bilibili.com/sp/龙珠#S-867",
       "http://www.acfun.tv/a/aa1243"
     ],
     "newBgm": false,
@@ -1144,6 +1136,7 @@
   "1501_61": {
     "titleCN": "美少女战士 Crystal 2期",
     "titleJP": "美少女戦士セーラームーン Crystal ブラック・ムーン編 (第2期)",
+    "titleEN": "Sailor Moon Crystal",
     "officalSite": "http://sailormoon-official.com/animation/",
     "weekDayJP": 6,
     "weekDayCN": 6,
@@ -1151,8 +1144,7 @@
     "timeCN": "2000",
     "onAirSite": [
       "http://tv.sohu.com/s2014/msnzsc/",
-      "http://www.bilibili.com/sp/美少女战士",
-      "http://www.acfun.tv/a/aa2659"
+      "http://www.iqiyi.com/a_19rrhb12nd.html"
     ],
     "newBgm": true,
     "bgmId": 147686,
@@ -1190,14 +1182,16 @@
   },
   "1501_64": {
     "titleCN": "GO! Princess Precure",
-    "titleJP": "Ｇｏ！プリンセスプリキュア",
+    "titleJP": "Ｇｏ！プリンセスプリキュア！",
+    "titleEN": "Go! Princess Precure",
     "officalSite": "http://www.toei-anim.co.jp/tv/princess_precure/",
     "weekDayJP": 0,
     "weekDayCN": 0,
     "timeJP": "0730",
     "timeCN": "1230",
     "onAirSite": [
-      "http://www.iqiyi.com/a_19rrhawapx.html"
+      "http://www.iqiyi.com/a_19rrhawapx.html",
+      "http://www.tucao.tv/index.php?m=search&c=index&a=init2&q=Go!%20Princess%20光之美少女"
     ],
     "newBgm": true,
     "bgmId": 119279,

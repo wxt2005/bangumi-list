@@ -57,9 +57,9 @@
     "showDate": "2007-02-15"
   },
   "1310_3": {
-    "titleCN": "偶像活动! 二期",
-    "titleJP": "アイカツ!アイドルカツドウ!",
-    "officalSite": "http://www.aikatsu.net",
+    "titleCN": "偶像活动！第二年",
+    "titleJP": "アイカツ!2年目",
+    "officalSite": "http://www.aikatsu.net/02/index.html",
     "weekDayJP": 4,
     "weekDayCN": 5,
     "timeJP": "1800",
@@ -83,8 +83,7 @@
     "timeCN": "",
     "onAirSite": [
       "http://www.iqiyi.com/a_19rrifq03u.html",
-      "http://www.bilibili.com/bangumi/i/583/",
-      "http://www.acfun.tv/a/aa112"
+      "http://www.bilibili.com/bangumi/i/583/"
     ],
     "newBgm": false,
     "bgmId": 62281,
@@ -581,6 +580,7 @@
   "1310_36": {
     "titleCN": "口袋妖怪 XY",
     "titleJP": "ポケットモンスター XY",
+    "titleEN": "Pokemon XY",
     "officalSite": "http://www.tv-tokyo.co.jp/anime/pokemon_xy/",
     "weekDayJP": 4,
     "weekDayCN": 5,
@@ -591,8 +591,7 @@
       "http://www.tudou.com/albumcover/CIK0mT03n_M.html",
       "http://www.youku.com/show_page/id_zca5b9dc41c3f11e3b8b7.html",
       "http://www.le.com/comic/93548.html",
-      "http://www.acfun.tv/a/aa109",
-      "http://www.tucao.tv/index.php?m=search&c=index&a=init2&q=宠物小精灵XY"
+      "http://www.tucao.tv/index.php?m=search&c=index&a=init2&q=%E5%AE%A0%E7%89%A9%E5%B0%8F%E7%B2%BE%E7%81%B5XY"
     ],
     "newBgm": true,
     "bgmId": 78799,

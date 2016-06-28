@@ -57,9 +57,10 @@
     "showDate": "2007-02-15"
   },
   "1410_3": {
-    "titleCN": "偶像活动! 三期",
-    "titleJP": "アイカツ!アイドルカツドウ!",
-    "officalSite": "http://www.aikatsu.net",
+    "titleCN": "偶像活动！第三年",
+    "titleJP": "アイカツ!3年目",
+    "titleEN": "Aikatsu",
+    "officalSite": "http://www.aikatsu.net/03/index.html",
     "weekDayJP": 4,
     "weekDayCN": 4,
     "timeJP": "1700",
@@ -74,7 +75,7 @@
   "1410_4": {
     "titleCN": "游戏王ARC-V",
     "titleJP": "遊☆戯☆王ARC-V ",
-    "titleEN": "Yu-Gi-Oh ARC V",
+    "titleEN": "Yu-Gi-Oh Arc-V",
     "officalSite": "http://www.tv-tokyo.co.jp/anime/yugioh-arcv/",
     "weekDayJP": 0,
     "weekDayCN": 1,
@@ -855,7 +856,7 @@
     "timeCN": "1030",
     "onAirSite": [
       "http://www.iqiyi.com/a_19rrgjao65.html",
-      "http://www.acfun.tv/v/ab1465812"
+      "http://www.acfun.tv/v/ab103"
     ],
     "newBgm": false,
     "bgmId": 73083,
@@ -916,6 +917,7 @@
   "1410_54": {
     "titleCN": "口袋妖怪 XY",
     "titleJP": "ポケットモンスター XY",
+    "titleEN": "Pokemon XY",
     "officalSite": "http://www.tv-tokyo.co.jp/anime/pokemon_xy/",
     "weekDayJP": 4,
     "weekDayCN": 5,
@@ -1029,6 +1031,7 @@
   "1410_61": {
     "titleCN": "妖精的尾巴 2期",
     "titleJP": "FAIRY TAIL 新シリーズ",
+    "titleEN": "FAIRY TAIL",
     "officalSite": "http://www.fairytail-tv.com/",
     "weekDayJP": 6,
     "weekDayCN": 6,

@@ -2,18 +2,18 @@
   "1401_0": {
     "titleCN": "名侦探柯南",
     "titleJP": "名探偵コナン",
+    "titleEN": "Detective Conan",
     "officalSite": "http://www.ytv.co.jp/conan/",
     "weekDayJP": 6,
-    "weekDayCN": 0,
+    "weekDayCN": 6,
     "timeJP": "1800",
-    "timeCN": "",
+    "timeCN": "1930",
     "onAirSite": [
-      "http://www.acfun.tv/a/aa127_0",
       "http://www.iqiyi.com/a_19rrhc0gyd.html",
       "http://v.qq.com/detail/h/hzgtnf6tbvfekfv.html",
       "http://tv.sohu.com/s2012/mztkn/",
-      "http://www.letv.com/comic/5938.html",
-      "http://www.pptv.com/page/2815.html"
+      "http://www.le.com/comic/5938.html",
+      "http://v.pptv.com/page/ac24Np4EdLIVkics.html"
     ],
     "newBgm": false,
     "bgmId": 899,
@@ -22,17 +22,16 @@
   "1401_1": {
     "titleCN": "海贼王",
     "titleJP": "ONE PIECE",
+    "titleEN": "ONE PIECE",
     "officalSite": "http://www.toei-anim.co.jp/tv/onep/",
     "weekDayJP": 0,
     "weekDayCN": 0,
     "timeJP": "0930",
     "timeCN": "",
     "onAirSite": [
-      "http://www.bilibili.com/sp/海贼王",
-      "http://www.acfun.tv/a/aa126_0",
       "http://tv.sohu.com/s2013/onepiece/",
       "http://www.iqiyi.com/a_19rrhb3xvl.html",
-      "http://www.tucao.cc/index.php?m=search&c=index&a=init2&q=海贼王"
+      "http://www.tucao.tv/index.php?m=search&c=index&a=init2&q=海贼王"
     ],
     "newBgm": false,
     "bgmId": 975,
@@ -41,6 +40,7 @@
   "1401_2": {
     "titleCN": "火影忍者 疾风传",
     "titleJP": "NARUTO -ナルト- 疾風伝",
+    "titleEN": "Naruto Shippuuden",
     "officalSite": "http://www.tv-tokyo.co.jp/anime/naruto/index2.html",
     "weekDayJP": 4,
     "weekDayCN": 4,
@@ -48,24 +48,23 @@
     "timeCN": "1900",
     "onAirSite": [
       "http://www.tudou.com/albumcover/Lqfme5hSolM.html",
-      "http://www.bilibili.com/sp/火影忍者",
+      "http://www.bilibili.com/bangumi/i/3287/",
       "http://www.youku.com/show_page/id_zcc001f06962411de83b1.html",
-      "http://www.tucao.cc/index.php?m=search&c=index&a=init2&q=火影忍者"
+      "http://www.tucao.tv/index.php?m=search&c=index&a=init2&q=火影忍者"
     ],
     "newBgm": false,
     "bgmId": 2782,
     "showDate": "2007-02-15"
   },
   "1401_3": {
-    "titleCN": "偶像活动! 二期",
-    "titleJP": "アイカツ!アイドルカツドウ!",
-    "officalSite": "http://www.aikatsu.net",
+    "titleCN": "偶像活动！第二年",
+    "titleJP": "アイカツ!2年目",
+    "officalSite": "http://www.aikatsu.net/02/index.html",
     "weekDayJP": 4,
     "weekDayCN": 5,
     "timeJP": "1800",
     "timeCN": "",
     "onAirSite": [
-      "http://www.bilibili.com/sp/偶像活动",
       "http://www.youku.com/show_page/id_z12b8f2e01c4211e3a705.html",
       "http://www.tudou.com/albumcover/B9DlhZTCGd0.html",
       "http://www.iqiyi.com/a_19rrhayx3d.html"
@@ -84,8 +83,7 @@
     "timeCN": "",
     "onAirSite": [
       "http://www.iqiyi.com/a_19rrifq03u.html",
-      "http://www.bilibili.com/bangumi/i/583/",
-      "http://www.acfun.tv/a/aa112"
+      "http://www.bilibili.com/bangumi/i/583/"
     ],
     "newBgm": false,
     "bgmId": 62281,
@@ -237,16 +235,12 @@
     "titleCN": "妖怪手表",
     "titleJP": "妖怪ウォッチ",
     "officalSite": "http://www.tv-tokyo.co.jp/anime/youkai-watch/",
-    "weekDayJP": 3,
-    "weekDayCN": 4,
-    "timeJP": "1800",
+    "weekDayJP": 5,
+    "weekDayCN": 6,
+    "timeJP": "1730",
     "timeCN": "",
     "onAirSite": [
-      "http://www.tudou.com/albumcover/vAUyu0OTz-M.html",
-      "http://www.youku.com/show_page/id_zab2d79f86dd011e3b8b7.html",
-      "http://v.qq.com/detail/h/hbccdwvo9t21w4i.html",
-      "http://www.bilibili.com/sp/妖怪手表",
-      "http://www.acfun.tv/a/aa220_0"
+      "http://v.qq.com/detail/h/hbccdwvo9t21w4i.html"
     ],
     "newBgm": true,
     "bgmId": 83124,
@@ -746,9 +740,7 @@
     "timeJP": "0530",
     "timeCN": "",
     "onAirSite": [
-      "http://www.iqiyi.com/a_19rrhb1ce1.html",
-      "http://www.bilibili.com/sp/圣斗士星矢#S-226",
-      "http://www.acfun.tv/a/aa134"
+      "http://www.iqiyi.com/a_19rrhb1ce1.html"
     ],
     "newBgm": false,
     "bgmId": 33446,
@@ -757,6 +749,7 @@
   "1401_42": {
     "titleCN": "口袋妖怪 XY",
     "titleJP": "ポケットモンスター XY",
+    "titleEN": "Pokemon XY",
     "officalSite": "http://www.tv-tokyo.co.jp/anime/pokemon_xy/",
     "weekDayJP": 4,
     "weekDayCN": 5,
@@ -766,10 +759,8 @@
       "http://v.qq.com/detail/o/o6ftuwm1j0xfa62.html",
       "http://www.tudou.com/albumcover/CIK0mT03n_M.html",
       "http://www.youku.com/show_page/id_zca5b9dc41c3f11e3b8b7.html",
-      "http://www.letv.com/comic/93548.html",
-      "http://www.bilibili.com/sp/宠物小精灵",
-      "http://www.acfun.tv/a/aa109_0",
-      "http://www.tucao.cc/index.php?m=search&c=index&a=init2&q=宠物小精灵XY"
+      "http://www.le.com/comic/93548.html",
+      "http://www.tucao.tv/index.php?m=search&c=index&a=init2&q=%E5%AE%A0%E7%89%A9%E5%B0%8F%E7%B2%BE%E7%81%B5XY"
     ],
     "newBgm": false,
     "bgmId": 78799,
@@ -873,8 +864,7 @@
     "timeCN": "1030",
     "onAirSite": [
       "http://www.iqiyi.com/a_19rrgjao65.html",
-      "http://www.bilibili.com/sp/钻石王牌",
-      "http://www.acfun.tv/sp/diamondace/"
+      "http://www.acfun.tv/v/ab103"
     ],
     "newBgm": false,
     "bgmId": 73083,
@@ -963,8 +953,7 @@
     "onAirSite": [
       "http://www.iqiyi.com/a_19rrhc0xgd.html",
       "http://www.youku.com/show_page/id_zb9229c08e3cb11e29748.html",
-      "http://www.bilibili.com/bangumi/i/289/",
-      "http://www.acfun.tv/a/aa70"
+      "http://www.bilibili.com/bangumi/i/289/"
     ],
     "newBgm": false,
     "bgmId": 64140,
@@ -1047,9 +1036,7 @@
       "http://www.tudou.com/albumcover/NBUkfZHMX0g.html",
       "http://www.youku.com/show_page/id_z0546d626525811e3a705.html",
       "http://v.qq.com/detail/1/1nx4dcrhqgqjibp.html",
-      "http://www.letv.com/comic/95038.html",
-      "http://www.bilibili.com/sp/噗哔啵%20来自未来",
-      "http://www.acfun.tv/a/aa167"
+      "http://www.le.com/comic/95038.html"
     ],
     "newBgm": false,
     "bgmId": 88441,
