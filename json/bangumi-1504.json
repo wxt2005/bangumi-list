@@ -66,6 +66,8 @@
     "timeJP": "1800",
     "timeCN": "",
     "onAirSite": [
+      "http://www.iqiyi.com/a_19rrhab3gh.html",
+      "http://v.pptv.com/page/VicbiaYMguntwicvSU.html",
       "http://v.qq.com/detail/o/o6ftuwm1j0xfa62.html",
       "http://www.tudou.com/albumcover/CIK0mT03n_M.html",
       "http://www.youku.com/show_page/id_zca5b9dc41c3f11e3b8b7.html",
@@ -834,16 +836,14 @@
   },
   "1504_27": {
     "titleCN": "SHOW BY ROCK!!",
-    "titleJP": "SHOW BY ROCK！！",
+    "titleJP": "SHOW BY ROCK!!",
     "officalSite": "http://showbyrock-anime.com/",
     "weekDayJP": 0,
     "weekDayCN": 1,
     "timeJP": "2100",
     "timeCN": "",
     "onAirSite": [
-      "http://www.youku.com/show_page/id_zda589ea6d37811e4b432.html",
-      "http://www.tudou.com/albumcover/Clug8mMZVHI.html",
-      "http://v.pptv.com/page/hKqGBGzSQoDjYck.html",
+      "http://www.iqiyi.com/a_19rrhb7k19.html",
       "http://www.tucao.tv/index.php?m=search&c=index&a=init2&q=摇滚都市"
     ],
     "newBgm": true,
@@ -872,8 +872,8 @@
   "1504_29": {
     "titleCN": "亚尔斯兰战记",
     "titleJP": "アルスラーン戦記",
-    "titleEN": "Arslan Senki",
-    "officalSite": "http://www.arslan.jp/",
+    "titleEN": "The Heroic Legend of Arslan",
+    "officalSite": "http://arslan.jp/index2.html",
     "weekDayJP": 0,
     "weekDayCN": 0,
     "timeJP": "1600",

@@ -377,8 +377,8 @@
   },
   "1604_44": {
     "titleCN": "偶像活动 Stars!",
-    "titleJP": "アイカツ スターズ！",
-    "titleEN": "",
+    "titleJP": "アイカツスターズ!",
+    "titleEN": "Aikatsu Stars!",
     "officalSite": "http://www.aikatsu.net/aikatsustars.html",
     "weekDayJP": 4,
     "weekDayCN": 4,
@@ -465,8 +465,8 @@
   },
   "1607_1": {
     "titleCN": "RS计划 -Rebirth Storage-",
-    "titleJP": "RS計画　-Rebirth Storage-",
-    "titleEN": "",
+    "titleJP": "RS計画 -Rebirth Storage-",
+    "titleEN": "RS Project -Rebirth Storage-",
     "officalSite": "http://rsproject.jp/",
     "weekDayJP": 0,
     "weekDayCN": 0,
@@ -481,7 +481,7 @@
   "1607_2": {
     "titleCN": "忧郁的物怪庵",
     "titleJP": "不機嫌なモノノケ庵",
-    "titleEN": "",
+    "titleEN": "The Morose Mononokean",
     "officalSite": "http://mononokean.tv/",
     "weekDayJP": 2,
     "weekDayCN": 2,
@@ -494,8 +494,8 @@
   },
   "1607_3": {
     "titleCN": "ReLIFE",
-    "titleJP": "ReLIFE(リライフ)",
-    "titleEN": "",
+    "titleJP": "ReLIFE",
+    "titleEN": "ReLIFE",
     "officalSite": "http://relife-anime.com/",
     "weekDayJP": 5,
     "weekDayCN": 6,
@@ -508,8 +508,8 @@
   },
   "1607_4": {
     "titleCN": "剑风传奇",
-    "titleJP": "ベルセルク 新作",
-    "titleEN": "",
+    "titleJP": "ベルセルク",
+    "titleEN": "Berserk",
     "officalSite": "http://berserk-anime.com/",
     "weekDayJP": 5,
     "weekDayCN": 5,
@@ -522,7 +522,7 @@
   },
   "1607_5": {
     "titleCN": "GranP&Rodeo夫 2期",
-    "titleJP": "ぐらＰ＆ろで夫 第２Season",
+    "titleJP": "ぐらP&ろで夫",
     "titleEN": "",
     "officalSite": "http://www.grap-rodeo.net/",
     "weekDayJP": 5,
@@ -553,7 +553,7 @@
   "1607_7": {
     "titleCN": "初恋怪兽",
     "titleJP": "初恋モンスター",
-    "titleEN": "",
+    "titleEN": "First Love Monster",
     "officalSite": "http://hatsukoimonster.jp/",
     "weekDayJP": 6,
     "weekDayCN": 6,
@@ -568,8 +568,8 @@
   },
   "1607_8": {
     "titleCN": "Rewrite",
-    "titleJP": "Rewrite(リライト)",
-    "titleEN": "",
+    "titleJP": "Rewrite",
+    "titleEN": "Rewrite",
     "officalSite": "http://www.rewrite-anime.tv/",
     "weekDayJP": 6,
     "weekDayCN": 6,
@@ -584,7 +584,7 @@
   },
   "1607_9": {
     "titleCN": "食戟之灵 2期",
-    "titleJP": "食戟のソーマ 弍ノ皿 (第2期)",
+    "titleJP": "食戟のソーマ 弍ノ皿",
     "titleEN": "",
     "officalSite": "http://shokugekinosoma.com/",
     "weekDayJP": 6,
@@ -601,7 +601,7 @@
   "1607_10": {
     "titleCN": "Love Live! Sunshine!!",
     "titleJP": "ラブライブ！サンシャイン!!",
-    "titleEN": "",
+    "titleEN": "Love Live! Sunshine!!",
     "officalSite": "http://www.lovelive-anime.jp/uranohoshi/",
     "weekDayJP": 6,
     "weekDayCN": 6,
@@ -629,7 +629,7 @@
     "bgmId": 175568
   },
   "1607_12": {
-    "titleCN": "屁吾郎",
+    "titleCN": "屁屁吾郎",
     "titleJP": "おなら吾郎",
     "titleEN": "",
     "officalSite": "http://www.onaragoro.jp/",
@@ -647,7 +647,7 @@
   "1607_13": {
     "titleCN": "情热传说 the X",
     "titleJP": "テイルズ オブ ゼスティリア ザ クロス",
-    "titleEN": "",
+    "titleEN": "Tales of Zestiria the X",
     "officalSite": "http://toz-thex-anime.tales-ch.jp/",
     "weekDayJP": 0,
     "weekDayCN": 0,
@@ -662,8 +662,8 @@
   },
   "1607_14": {
     "titleCN": "亚尔斯兰战记 风尘乱舞",
-    "titleJP": "アルスラーン戦記 風塵乱舞 (第2期)",
-    "titleEN": "",
+    "titleJP": "アルスラーン戦記 風塵乱舞",
+    "titleEN": "The Heroic Legend of Arslan: Dust Storm Dance",
     "officalSite": "http://www.arslan.jp/",
     "weekDayJP": 0,
     "weekDayCN": 0,
@@ -679,7 +679,7 @@
   "1607_15": {
     "titleCN": "DAYS",
     "titleJP": "DAYS",
-    "titleEN": "",
+    "titleEN": "Days",
     "officalSite": "http://days-project.jp/",
     "weekDayJP": 0,
     "weekDayCN": 0,
@@ -694,7 +694,7 @@
   },
   "1607_16": {
     "titleCN": "orange",
-    "titleJP": "orange-オレンジ-",
+    "titleJP": "orange",
     "titleEN": "",
     "officalSite": "http://orange-anime.com/",
     "weekDayJP": 0,
@@ -756,7 +756,7 @@
     "titleCN": "齐木楠雄的灾难",
     "titleJP": "斉木楠雄のΨ難",
     "titleEN": "",
-    "officalSite": "http://www.tv-tokyo.co.jp/anime/saikikusuo/index.html",
+    "officalSite": "http://www.saikikusuo.com/",
     "weekDayJP": 1,
     "weekDayCN": 1,
     "timeJP": "0605",
@@ -770,8 +770,8 @@
   },
   "1607_21": {
     "titleCN": "禁忌咒纹",
-    "titleJP": "TABOO-TATTOO(タブー・タトゥー)",
-    "titleEN": "",
+    "titleJP": "タブー・タトゥー",
+    "titleEN": "Taboo Tattoo",
     "officalSite": "http://tabootattoo-anime.com/",
     "weekDayJP": 2,
     "weekDayCN": 2,
@@ -834,7 +834,7 @@
     "titleCN": "SHOW BY ROCK!! SHOR～T!!",
     "titleJP": "SHOW BY ROCK!! しょ～と!!",
     "titleEN": "",
-    "officalSite": "http://showbyrock-anime.com/",
+    "officalSite": "http://showbyrock-anime.com/short/",
     "weekDayJP": 2,
     "weekDayCN": 2,
     "timeJP": "0000",
@@ -847,7 +847,7 @@
   "1607_26": {
     "titleCN": "天真与闪电",
     "titleJP": "甘々と稲妻",
-    "titleEN": "",
+    "titleEN": "Sweetness and Lightning",
     "officalSite": "http://www.amaama.jp/",
     "weekDayJP": 2,
     "weekDayCN": 2,
@@ -908,9 +908,9 @@
   },
   "1607_30": {
     "titleCN": "魔法少女☆伊莉雅 3rei!!",
-    "titleJP": "プリズマ☆イリヤ ドライ!! (第4期)",
+    "titleJP": "Fate/kaleid liner プリズマ☆イリヤ ドライ!!",
     "titleEN": "",
-    "officalSite": "http://anime.prisma-illya.jp/",
+    "officalSite": "http://anime.prisma-illya.jp/3rei/",
     "weekDayJP": 3,
     "weekDayCN": 3,
     "timeJP": "2200",
@@ -1014,16 +1014,17 @@
   },
   "1607_37": {
     "titleCN": "美男高校地球防卫部LOVE!LOVE!",
-    "titleJP": "美男高校地球防衛部LOVE!LOVE! (第2期)",
+    "titleJP": "美男高校地球防衛部LOVE!LOVE!",
     "titleEN": "",
     "officalSite": "http://boueibu.com/",
     "weekDayJP": 5,
     "weekDayCN": 5,
-    "timeJP": "0205",
+    "timeJP": "0135",
     "timeCN": "",
     "onAirSite": [
       "http://bangumi.bilibili.com/anime/5044/"
     ],
+    "comment": "第一话于 3:05 放送",
     "newBgm": true,
     "showDate": "2016-07-08",
     "bgmId": 143099
@@ -1107,7 +1108,7 @@
   "1607_43": {
     "titleCN": "代号Qualidea",
     "titleJP": "クオリディア・コード",
-    "titleEN": "",
+    "titleEN": "Qualidea Code",
     "officalSite": "http://qualidea.jp/",
     "weekDayJP": 6,
     "weekDayCN": 6,
@@ -1147,9 +1148,9 @@
     "bgmId": 175457
   },
   "1607_46": {
-    "titleCN": "时间旅行少女～真理、和花与8名科学家～",
+    "titleCN": "时间旅行少女",
     "titleJP": "タイムトラベル少女～マリ・ワカと8人の科学者たち～",
-    "titleEN": "",
+    "titleEN": "Time Travel Girl",
     "officalSite": "http://mariwaka.com/",
     "weekDayJP": 6,
     "weekDayCN": 6,
@@ -1180,7 +1181,7 @@
   },
   "1607_48": {
     "titleCN": "Active Raid -机动强袭室第八课 2期",
-    "titleJP": "アクティヴレイド 機動強襲室第八係 第二期",
+    "titleJP": "アクティヴレイド -機動強襲室第八係- 2nd",
     "titleEN": "",
     "officalSite": "http://activeraid.net/",
     "weekDayJP": 0,
