@@ -1,5 +1,5 @@
 {
-  "1507_0": {
+  "1310_0": {
     "titleCN": "名侦探柯南",
     "titleJP": "名探偵コナン",
     "titleEN": "Detective Conan",
@@ -9,18 +9,17 @@
     "timeJP": "1800",
     "timeCN": "1930",
     "onAirSite": [
-      "http://www.acfun.tv/a/aa127_0",
       "http://www.iqiyi.com/a_19rrhc0gyd.html",
       "http://v.qq.com/detail/h/hzgtnf6tbvfekfv.html",
       "http://tv.sohu.com/s2012/mztkn/",
-      "http://www.letv.com/comic/5938.html",
+      "http://www.le.com/comic/5938.html",
       "http://v.pptv.com/page/ac24Np4EdLIVkics.html"
     ],
     "newBgm": false,
     "bgmId": 899,
     "showDate": "1996-01-08"
   },
-  "1507_1": {
+  "1310_1": {
     "titleCN": "海贼王",
     "titleJP": "ONE PIECE",
     "titleEN": "ONE PIECE",
@@ -30,8 +29,6 @@
     "timeJP": "0930",
     "timeCN": "",
     "onAirSite": [
-      "http://www.bilibili.com/sp/海贼王",
-      "http://www.acfun.tv/a/aa126_0",
       "http://tv.sohu.com/s2013/onepiece/",
       "http://www.iqiyi.com/a_19rrhb3xvl.html",
       "http://www.tucao.tv/index.php?m=search&c=index&a=init2&q=海贼王"
@@ -40,7 +37,7 @@
     "bgmId": 975,
     "showDate": "1999-10-20"
   },
-  "1507_2": {
+  "1310_2": {
     "titleCN": "火影忍者 疾风传",
     "titleJP": "NARUTO -ナルト- 疾風伝",
     "titleEN": "Naruto Shippuuden",
@@ -59,17 +56,17 @@
     "bgmId": 2782,
     "showDate": "2007-02-15"
   },
-  "1507_4": {
+  "1404_30": {
     "titleCN": "游戏王ARC-V",
-    "titleJP": "遊☆戯☆王ARC-V",
-    "titleEN": "Yu-Gi-Oh ARC V",
+    "titleJP": "遊☆戯☆王ARC-V ",
+    "titleEN": "Yu-Gi-Oh Arc-V",
     "officalSite": "http://www.tv-tokyo.co.jp/anime/yugioh-arcv/",
     "weekDayJP": 0,
     "weekDayCN": 1,
     "timeJP": "1630",
     "timeCN": "",
     "onAirSite": [
-      "http://www.letv.com/comic/10000913.html",
+      "http://www.le.com/comic/10000913.html",
       "http://v.pptv.com/page/afDcWsIomNY5tx8.html",
       "http://www.youku.com/show_page/id_z40c8abaa99e511e3b8b7.html",
       "http://www.tudou.com/albumcover/j6bLOojGi-I.html",
@@ -79,7 +76,7 @@
     "bgmId": 92161,
     "showDate": "2014-04-06"
   },
-  "1507_45": {
+  "1507_24": {
     "titleCN": "龙珠超",
     "titleJP": "ドラゴンボール超(スーパー)",
     "titleEN": "DragonBall Super",
@@ -96,7 +93,7 @@
     "showDate": "2015-07-05",
     "bgmId": 132220
   },
-  "1510_70": {
+  "1510_59": {
     "titleCN": "口袋妖怪 XY & Z",
     "titleJP": "ポケットモンスター XY ＆ Z",
     "titleEN": "Pokemon XY & Z",
@@ -112,7 +109,7 @@
     "showDate": "2015-10-29",
     "bgmId": 146408
   },
-  "1601_47": {
+  "1601_41": {
     "titleCN": "莉露莉露妖精莉露～妖精之门～",
     "titleJP": "リルリルフェアリル～妖精のドア～",
     "titleEN": "",
@@ -126,7 +123,7 @@
     "showDate": "2016-02-06",
     "bgmId": 162663
   },
-  "1601_49": {
+  "1601_42": {
     "titleCN": "魔法使光之美少女！",
     "titleJP": "魔法つかいプリキュア！",
     "titleEN": "Maho Girls PreCure!",
@@ -142,7 +139,7 @@
     "bgmId": 159826,
     "showDate": "2016-02-07"
   },
-  "1604_7": {
+  "1604_0": {
     "titleCN": "怪物弹珠 2期",
     "titleJP": "モンスターストライク 第2クール",
     "titleEN": "Monster Strike",
@@ -154,17 +151,16 @@
     "onAirSite": [
       "http://www.tudou.com/albumcover/rK0nYZTowwE.html",
       "http://www.youku.com/show_page/id_z40654fa2f09511e59e2a.html",
-      "http://www.acfun.tv/v/ab1470402_0",
+      "http://www.acfun.tv/v/ab1470402",
       "http://tv.sohu.com/s2016/dhpgwdz2/",
-      "http://www.letv.com/comic/10014412.html",
-      "http://v.pptv.com/page/xnVf3UWrG1m8OqI.html",
+      "http://www.le.com/comic/10014412.html",
       "http://www.tucao.tv/index.php?m=search&c=index&a=init2&q=怪物弹珠"
     ],
     "newBgm": false,
     "showDate": "2016-03-26",
     "bgmId": 173691
   },
-  "1604_14": {
+  "1604_2": {
     "titleCN": "JOJO的奇妙冒险 不灭钻石",
     "titleJP": "ジョジョの奇妙な冒険 第4部-ダイヤモンドは砕けない-",
     "titleEN": "",
@@ -186,7 +182,7 @@
     "showDate": "2016-04-01",
     "bgmId": 150490
   },
-  "1604_21": {
+  "1604_7": {
     "titleCN": "逆转裁判",
     "titleJP": "逆転裁判",
     "titleEN": "",
@@ -200,7 +196,7 @@
       "http://www.youku.com/show_page/id_zc306dcc2e59711e5a080.html",
       "http://v.pptv.com/page/cLibZF3iclVZP2dNw.html",
       "http://www.bilibili.com/bangumi/i/3527/",
-      "http://www.letv.com/comic/10020524.html",
+      "http://www.le.com/comic/10020524.html",
       "http://www.iqiyi.com/a_19rrhaix5t.html",
       "http://www.acfun.tv/v/ab1470446"
     ],
@@ -209,9 +205,31 @@
     },
     "newBgm": false,
     "showDate": "2016-04-02",
-    "bgmId":146737
+    "bgmId": 146737
   },
-  "1604_27": {
+  "1604_11": {
+    "titleCN": "超时空要塞Δ",
+    "titleJP": "マクロスΔ(デルタ)",
+    "titleEN": "",
+    "officalSite": "http://macross.jp/",
+    "weekDayJP": 0,
+    "weekDayCN": 1,
+    "timeJP": "2130",
+    "timeCN": "",
+    "onAirSite": [
+      "http://www.bilibili.com/bangumi/i/3530/",
+      "http://v.pptv.com/page/TvzYVr4klNI1sxs.html",
+      "http://www.le.com/comic/10020552.html",
+      "http://www.acfun.tv/v/ab1470448"
+    ],
+    "downloadKeyword": {
+      "dmhy": "超時空要塞 Δ"
+    },
+    "newBgm": false,
+    "showDate": "2016-04-03",
+    "bgmId": 100858
+  },
+  "1604_16": {
     "titleCN": "机动战士高达UC RE:0096",
     "titleJP": "機動戦士ガンダムUC RE：0096",
     "titleEN": "",
@@ -230,29 +248,27 @@
     "showDate": "2016-04-03",
     "bgmId": 169917
   },
-  "1604_31": {
-    "titleCN": "超时空要塞Δ",
-    "titleJP": "マクロスΔ(デルタ)",
+  "1604_20": {
+    "titleCN": "战斗陀螺 爆裂",
+    "titleJP": "ベイブレードバースト",
     "titleEN": "",
-    "officalSite": "http://macross.jp/",
-    "weekDayJP": 0,
-    "weekDayCN": 1,
-    "timeJP": "2130",
-    "timeCN": "",
+    "officalSite": "http://www.tv-tokyo.co.jp/anime/beyblade/",
+    "weekDayJP": 1,
+    "weekDayCN": 2,
+    "timeJP": "1655",
+    "timeCN": "0030",
     "onAirSite": [
-      "http://www.bilibili.com/bangumi/i/3530/",
-      "http://v.pptv.com/page/TvzYVr4klNI1sxs.html",
-      "http://www.letv.com/comic/10020552.html",
-      "http://www.acfun.tv/v/ab1470448"
+      "http://www.tudou.com/albumcover/9OzlvAD4rqw.html",
+      "http://www.youku.com/show_page/id_z1f114782e66f11e5b432.html",
+      "http://v.pptv.com/page/x3Rg3kasHFq9O6M.html",
+      "http://www.le.com/comic/10020564.html",
+      "http://www.acfun.tv/v/ab1470452"
     ],
-    "downloadKeyword": {
-      "dmhy": "超時空要塞 Δ"
-    },
     "newBgm": false,
-    "showDate": "2016-04-03",
-    "bgmId": 100858
+    "showDate": "2016-04-04",
+    "bgmId": 137693
   },
-  "1604_34": {
+  "1604_21": {
     "titleCN": "Re:从零开始的异世界生活",
     "titleJP": "Re:ゼロから始める異世界生活",
     "titleEN": "",
@@ -266,7 +282,7 @@
       "http://www.tudou.com/albumcover/iF2R9jBUhso.html",
       "http://www.iqiyi.com/a_19rrhaer39.html",
       "http://www.youku.com/show_page/id_z1b7c90e0e4df11e59e2a.html",
-      "http://www.letv.com/comic/10020322.html",
+      "http://www.le.com/comic/10020322.html",
       "http://www.acfun.tv/v/ab1470449"
     ],
     "downloadKeyword": {
@@ -276,27 +292,7 @@
     "showDate": "2016-04-04",
     "bgmId": 140001
   },
-  "1604_36": {
-    "titleCN": "战斗陀螺 爆裂",
-    "titleJP": "ベイブレードバースト",
-    "titleEN": "",
-    "officalSite": "http://www.tv-tokyo.co.jp/anime/beyblade/",
-    "weekDayJP": 1,
-    "weekDayCN": 2,
-    "timeJP": "1655",
-    "timeCN": "0030",
-    "onAirSite": [
-      "http://www.tudou.com/albumcover/9OzlvAD4rqw.html",
-      "http://www.youku.com/show_page/id_z1f114782e66f11e5b432.html",
-      "http://v.pptv.com/page/x3Rg3kasHFq9O6M.html",
-      "http://www.letv.com/comic/10020564.html",
-      "http://www.acfun.tv/v/ab1470452"
-    ],
-    "newBgm": false,
-    "showDate": "2016-04-04",
-    "bgmId": 137693
-  },
-  "1604_45": {
+  "1604_29": {
     "titleCN": "美妙天堂 3期",
     "titleJP": "プリパラ 3rdシーズン",
     "titleEN": "",
@@ -310,28 +306,14 @@
       "http://www.iqiyi.com/a_19rrhaj3bp.html",
       "http://www.bilibili.com/bangumi/i/3532/",
       "http://www.youku.com/show_page/id_z2cc2fb60e4ed11e59e2a.html",
-      "http://www.letv.com/comic/10020453.html",
+      "http://www.le.com/comic/10020453.html",
       "http://www.acfun.tv/v/ab1470456"
     ],
     "newBgm": false,
     "showDate": "2016-04-05",
     "bgmId": 162802
   },
-  "1604_51": {
-    "titleCN": "战斗之魂 双重驱动",
-    "titleJP": "バトルスピリッツ ダブルドライブ  Official",
-    "titleEN": "",
-    "officalSite": "http://www.sunrise-inc.co.jp/battlespirits8/",
-    "weekDayJP": 3,
-    "weekDayCN": 3,
-    "timeJP": "1655",
-    "timeCN": "",
-    "onAirSite": [],
-    "newBgm": false,
-    "showDate": "2016-04-06",
-    "bgmId": 170044
-  },
-  "1604_53": {
+  "1604_33": {
     "titleCN": "双星之阴阳师",
     "titleJP": "双星の陰陽師",
     "titleEN": "",
@@ -345,7 +327,7 @@
       "http://www.tudou.com/albumcover/6YUIGawleII.html",
       "http://www.iqiyi.com/a_19rrhaeqtd.html",
       "http://www.youku.com/show_page/id_z31c53954e34c11e5a2a2.html",
-      "http://www.letv.com/comic/10020446.html",
+      "http://www.le.com/comic/10020446.html",
       "http://www.acfun.tv/v/ab1470457"
     ],
     "downloadKeyword": {
@@ -355,7 +337,7 @@
     "showDate": "2016-04-06",
     "bgmId": 155778
   },
-  "1604_54": {
+  "1604_34": {
     "titleCN": "猫猫日本史",
     "titleJP": "ねこねこ日本史",
     "titleEN": "",
@@ -365,18 +347,38 @@
     "timeJP": "1745",
     "timeCN": "",
     "onAirSite": [
-      "http://v.pptv.com/page/7l03tR2D8zGUEno.html",
-      "http://www.bilibili.com/bangumi/i/3549/"
+      "http://v.pptv.com/page/7l03tR2D8zGUEno.html"
     ],
     "newBgm": false,
     "showDate": "2016-04-06",
     "endDate": "2016-07-06",
     "bgmId": 168468
   },
-  "1604_59": {
-    "titleCN": "偶像活动 Stars!",
-    "titleJP": "アイカツ スターズ！",
+  "1604_42": {
+    "titleCN": "黑色残骸",
+    "titleJP": "クロムクロ",
     "titleEN": "",
+    "officalSite": "http://kuromukuro.com/",
+    "weekDayJP": 4,
+    "weekDayCN": 5,
+    "timeJP": "2000",
+    "timeCN": "1830",
+    "onAirSite": [
+      "http://www.bilibili.com/bangumi/i/3551/",
+      "http://www.le.com/comic/10020777.html",
+      "http://v.pptv.com/page/7103tR2D8zGUEno.html"
+    ],
+    "downloadKeyword": {
+      "dmhy": "黑 骸"
+    },
+    "newBgm": false,
+    "showDate": "2016-04-07",
+    "bgmId": 159661
+  },
+  "1604_44": {
+    "titleCN": "偶像活动 Stars!",
+    "titleJP": "アイカツスターズ!",
+    "titleEN": "Aikatsu Stars!",
     "officalSite": "http://www.aikatsu.net/aikatsustars.html",
     "weekDayJP": 4,
     "weekDayCN": 4,
@@ -389,28 +391,7 @@
     "showDate": "2016-04-07",
     "bgmId": 169274
   },
-  "1604_62": {
-    "titleCN": "黑色残骸",
-    "titleJP": "クロムクロ",
-    "titleEN": "",
-    "officalSite": "http://kuromukuro.com/",
-    "weekDayJP": 4,
-    "weekDayCN": 5,
-    "timeJP": "2000",
-    "timeCN": "1830",
-    "onAirSite": [
-      "http://www.bilibili.com/bangumi/i/3551/",
-      "http://www.letv.com/comic/10020777.html",
-      "http://v.pptv.com/page/7103tR2D8zGUEno.html"
-    ],
-    "downloadKeyword": {
-      "dmhy": "黑 骸"
-    },
-    "newBgm": false,
-    "showDate": "2016-04-07",
-    "bgmId": 159661
-  },
-  "1604_70": {
+  "1604_51": {
     "titleCN": "境界的轮回 2期",
     "titleJP": "境界のRINNE 第2シリーズ",
     "titleEN": "",
@@ -422,7 +403,7 @@
     "onAirSite": [
       "http://www.youku.com/show_page/id_z498c224cf7b411e59e2a.html",
       "http://www.tudou.com/albumcover/AdJ3cLCWYTw.html",
-      "http://www.tucao.cc/index.php?m=search&c=index&a=init2&q=境界之轮回"
+      "http://www.tucao.tv/index.php?m=search&c=index&a=init2&q=境界之轮回"
     ],
     "downloadKeyword": {
       "dmhy": "界 輪"
@@ -431,7 +412,7 @@
     "showDate": "2016-04-09",
     "bgmId": 146503
   },
-  "1604_81": {
+  "1604_60": {
     "titleCN": "魔笛MAGI 辛巴达的冒险",
     "titleJP": "マギ シンドバッドの冒険",
     "titleEN": "",
@@ -454,7 +435,7 @@
     "endDate": "2016-07-08",
     "bgmId": 147780
   },
-  "1604_82": {
+  "1604_62": {
     "titleCN": "神技旺达",
     "titleJP": "カミワザ・ワンダ",
     "titleEN": "",
@@ -468,24 +449,24 @@
     "showDate": "2016-04-16",
     "bgmId": 166121
   },
-  "1607_5": {
-    "titleCN": "ReLIFE",
-    "titleJP": "ReLIFE(リライフ)",
-    "titleEN": "",
-    "officalSite": "http://relife-anime.com/",
-    "weekDayJP": 5,
-    "weekDayCN": 6,
-    "timeJP": "2300",
+  "1607_0": {
+    "titleCN": "战斗之魂 双重驱动",
+    "titleJP": "バトルスピリッツ ダブルドライブ",
+    "titleEN": "BattleSpirits Double Drive",
+    "officalSite": "http://www.sunrise-inc.co.jp/battlespirits8/",
+    "weekDayJP": 3,
+    "weekDayCN": 3,
+    "timeJP": "1655",
     "timeCN": "",
     "onAirSite": [],
-    "newBgm": true,
-    "showDate": "2016-07-01",
-    "bgmId": 126173
+    "newBgm": false,
+    "showDate": "2016-04-06",
+    "bgmId": 170044
   },
-  "1607_6": {
+  "1607_1": {
     "titleCN": "RS计划 -Rebirth Storage-",
-    "titleJP": "RS計画　-Rebirth Storage-",
-    "titleEN": "",
+    "titleJP": "RS計画 -Rebirth Storage-",
+    "titleEN": "RS Project -Rebirth Storage-",
     "officalSite": "http://rsproject.jp/",
     "weekDayJP": 0,
     "weekDayCN": 0,
@@ -497,10 +478,10 @@
     "endDate": "2016-06-26",
     "bgmId": 174147
   },
-  "1607_7": {
+  "1607_2": {
     "titleCN": "忧郁的物怪庵",
     "titleJP": "不機嫌なモノノケ庵",
-    "titleEN": "",
+    "titleEN": "The Morose Mononokean",
     "officalSite": "http://mononokean.tv/",
     "weekDayJP": 2,
     "weekDayCN": 2,
@@ -511,9 +492,37 @@
     "showDate": "2016-06-28",
     "bgmId": 168905
   },
-  "1607_8": {
+  "1607_3": {
+    "titleCN": "ReLIFE",
+    "titleJP": "ReLIFE",
+    "titleEN": "ReLIFE",
+    "officalSite": "http://relife-anime.com/",
+    "weekDayJP": 5,
+    "weekDayCN": 6,
+    "timeJP": "2300",
+    "timeCN": "",
+    "onAirSite": [],
+    "newBgm": true,
+    "showDate": "2016-07-01",
+    "bgmId": 126173
+  },
+  "1607_4": {
+    "titleCN": "剑风传奇",
+    "titleJP": "ベルセルク",
+    "titleEN": "Berserk",
+    "officalSite": "http://berserk-anime.com/",
+    "weekDayJP": 5,
+    "weekDayCN": 5,
+    "timeJP": "2130",
+    "timeCN": "",
+    "onAirSite": [],
+    "newBgm": true,
+    "showDate": "2016-07-01",
+    "bgmId": 162040
+  },
+  "1607_5": {
     "titleCN": "GranP&Rodeo夫 2期",
-    "titleJP": "ぐらＰ＆ろで夫 第２Season",
+    "titleJP": "ぐらP&ろで夫",
     "titleEN": "",
     "officalSite": "http://www.grap-rodeo.net/",
     "weekDayJP": 5,
@@ -525,21 +534,7 @@
     "showDate": "2016-07-01",
     "bgmId": 182342
   },
-  "1607_9": {
-    "titleCN": "剑风传奇",
-    "titleJP": "ベルセルク 新作",
-    "titleEN": "",
-    "officalSite": "http://berserk-anime.com/",
-    "weekDayJP": 5,
-    "weekDayCN": 5,
-    "timeJP": "2130",
-    "timeCN": "",
-    "onAirSite": [],
-    "newBgm": true,
-    "showDate": "2016-07-01",
-    "bgmId": 162040
-  },
-  "1607_10": {
+  "1607_6": {
     "titleCN": "小桃小栗 Love Love物语",
     "titleJP": "ももくり",
     "titleEN": "",
@@ -548,54 +543,78 @@
     "weekDayCN": 5,
     "timeJP": "2130",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://bangumi.bilibili.com/anime/5016/"
+    ],
     "newBgm": true,
     "showDate": "2016-07-01",
     "bgmId": 185001
   },
-  "1607_11": {
+  "1607_7": {
+    "titleCN": "初恋怪兽",
+    "titleJP": "初恋モンスター",
+    "titleEN": "First Love Monster",
+    "officalSite": "http://hatsukoimonster.jp/",
+    "weekDayJP": 6,
+    "weekDayCN": 6,
+    "timeJP": "2200",
+    "timeCN": "",
+    "onAirSite": [
+      "http://bangumi.bilibili.com/anime/5018/"
+    ],
+    "newBgm": true,
+    "showDate": "2016-07-02",
+    "bgmId": 138440
+  },
+  "1607_8": {
+    "titleCN": "Rewrite",
+    "titleJP": "Rewrite",
+    "titleEN": "Rewrite",
+    "officalSite": "http://www.rewrite-anime.tv/",
+    "weekDayJP": 6,
+    "weekDayCN": 6,
+    "timeJP": "2230",
+    "timeCN": "",
+    "onAirSite": [
+      "http://bangumi.bilibili.com/anime/5020/"
+    ],
+    "newBgm": true,
+    "showDate": "2016-07-02",
+    "bgmId": 147568
+  },
+  "1607_9": {
     "titleCN": "食戟之灵 2期",
-    "titleJP": "食戟のソーマ 弍ノ皿 (第2期)",
+    "titleJP": "食戟のソーマ 弍ノ皿",
     "titleEN": "",
     "officalSite": "http://shokugekinosoma.com/",
     "weekDayJP": 6,
     "weekDayCN": 6,
     "timeJP": "2100",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://bangumi.bilibili.com/anime/5017/"
+    ],
     "newBgm": true,
     "showDate": "2016-07-02",
     "bgmId": 160124
   },
-  "1607_12": {
+  "1607_10": {
     "titleCN": "Love Live! Sunshine!!",
     "titleJP": "ラブライブ！サンシャイン!!",
-    "titleEN": "",
+    "titleEN": "Love Live! Sunshine!!",
     "officalSite": "http://www.lovelive-anime.jp/uranohoshi/",
     "weekDayJP": 6,
     "weekDayCN": 6,
     "timeJP": "2130",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://bangumi.bilibili.com/anime/5062/"
+    ],
     "newBgm": true,
     "showDate": "2016-07-02",
     "bgmId": 165553
   },
-  "1607_13": {
-    "titleCN": "初恋Monster",
-    "titleJP": "初恋モンスター",
-    "titleEN": "",
-    "officalSite": "http://hatsukoimonster.jp/",
-    "weekDayJP": 6,
-    "weekDayCN": 6,
-    "timeJP": "2200",
-    "timeCN": "",
-    "onAirSite": [],
-    "newBgm": true,
-    "showDate": "2016-07-02",
-    "bgmId": 138440
-  },
-  "1607_14": {
+  "1607_11": {
     "titleCN": "B-PROJECT～鼓动＊Ambitious～",
     "titleJP": "B-PROJECT～鼓動＊アンビシャス～",
     "titleEN": "",
@@ -609,36 +628,8 @@
     "showDate": "2016-07-02",
     "bgmId": 175568
   },
-  "1607_15": {
-    "titleCN": "DAYS",
-    "titleJP": "DAYS",
-    "titleEN": "",
-    "officalSite": "http://days-project.jp/",
-    "weekDayJP": 0,
-    "weekDayCN": 0,
-    "timeJP": "0158",
-    "timeCN": "",
-    "onAirSite": [],
-    "newBgm": true,
-    "showDate": "2016-07-03",
-    "bgmId": 165046
-  },
-  "1607_16": {
-    "titleCN": "Rewrite",
-    "titleJP": "Rewrite(リライト)",
-    "titleEN": "",
-    "officalSite": "http://www.rewrite-anime.tv/",
-    "weekDayJP": 6,
-    "weekDayCN": 6,
-    "timeJP": "2230",
-    "timeCN": "",
-    "onAirSite": [],
-    "newBgm": true,
-    "showDate": "2016-07-02",
-    "bgmId": 147568
-  },
-  "1607_17": {
-    "titleCN": "屁吾郎",
+  "1607_12": {
+    "titleCN": "屁屁吾郎",
     "titleJP": "おなら吾郎",
     "titleEN": "",
     "officalSite": "http://www.onaragoro.jp/",
@@ -646,42 +637,64 @@
     "weekDayCN": 0,
     "timeJP": "",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://bangumi.bilibili.com/anime/5066/"
+    ],
     "newBgm": true,
     "showDate": "2016-07-02",
     "bgmId": 182341
   },
-  "1607_18": {
-    "titleCN": "亚尔斯兰战记 风尘乱舞",
-    "titleJP": "アルスラーン戦記 風塵乱舞 (第2期)",
-    "titleEN": "",
-    "officalSite": "http://www.arslan.jp/",
-    "weekDayJP": 0,
-    "weekDayCN": 0,
-    "timeJP": "1600",
-    "timeCN": "",
-    "onAirSite": [],
-    "newBgm": true,
-    "showDate": "2016-07-03",
-    "bgmId": 148436
-  },
-  "1607_20": {
+  "1607_13": {
     "titleCN": "情热传说 the X",
     "titleJP": "テイルズ オブ ゼスティリア ザ クロス",
-    "titleEN": "",
+    "titleEN": "Tales of Zestiria the X",
     "officalSite": "http://toz-thex-anime.tales-ch.jp/",
     "weekDayJP": 0,
     "weekDayCN": 0,
     "timeJP": "2200",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://bangumi.bilibili.com/anime/5022/"
+    ],
     "newBgm": true,
     "showDate": "2016-07-03",
     "bgmId": 136371
   },
-  "1607_21": {
+  "1607_14": {
+    "titleCN": "亚尔斯兰战记 风尘乱舞",
+    "titleJP": "アルスラーン戦記 風塵乱舞",
+    "titleEN": "The Heroic Legend of Arslan: Dust Storm Dance",
+    "officalSite": "http://www.arslan.jp/",
+    "weekDayJP": 0,
+    "weekDayCN": 0,
+    "timeJP": "1600",
+    "timeCN": "",
+    "onAirSite": [
+      "http://bangumi.bilibili.com/anime/5021"
+    ],
+    "newBgm": true,
+    "showDate": "2016-07-03",
+    "bgmId": 148436
+  },
+  "1607_15": {
+    "titleCN": "DAYS",
+    "titleJP": "DAYS",
+    "titleEN": "Days",
+    "officalSite": "http://days-project.jp/",
+    "weekDayJP": 0,
+    "weekDayCN": 0,
+    "timeJP": "0158",
+    "timeCN": "",
+    "onAirSite": [
+      "http://bangumi.bilibili.com/anime/5063/"
+    ],
+    "newBgm": true,
+    "showDate": "2016-07-03",
+    "bgmId": 165046
+  },
+  "1607_16": {
     "titleCN": "orange",
-    "titleJP": "orange-オレンジ-",
+    "titleJP": "orange",
     "titleEN": "",
     "officalSite": "http://orange-anime.com/",
     "weekDayJP": 0,
@@ -693,35 +706,23 @@
     "showDate": "2016-07-03",
     "bgmId": 169425
   },
-  "1607_22": {
-    "titleCN": "齐木楠雄的灾难",
-    "titleJP": "斉木楠雄のΨ難",
+  "1607_17": {
+    "titleCN": "NEW GAME!",
+    "titleJP": "NEW GAME!",
     "titleEN": "",
-    "officalSite": "http://www.tv-tokyo.co.jp/anime/saikikusuo/index.html",
+    "officalSite": "http://newgame-anime.com/",
     "weekDayJP": 1,
     "weekDayCN": 1,
-    "timeJP": "0605",
+    "timeJP": "2130",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://bangumi.bilibili.com/anime/5027/"
+    ],
     "newBgm": true,
     "showDate": "2016-07-04",
-    "bgmId": 181354
+    "bgmId": 150775
   },
-  "1607_23": {
-    "titleCN": "智龙迷城X",
-    "titleJP": "パズドラクロス",
-    "titleEN": "",
-    "officalSite": "http://www.tv-tokyo.co.jp/anime/pad-x/index.html",
-    "weekDayJP": 1,
-    "weekDayCN": 1,
-    "timeJP": "1725",
-    "timeCN": "",
-    "onAirSite": [],
-    "newBgm": true,
-    "showDate": "2016-07-04",
-    "bgmId": 169076
-  },
-  "1607_24": {
+  "1607_18": {
     "titleCN": "香蕉猫咪",
     "titleJP": "ばなにゃ",
     "titleEN": "",
@@ -735,77 +736,55 @@
     "showDate": "2016-07-04",
     "bgmId": 168123
   },
-  "1607_25": {
-    "titleCN": "NEW GAME!",
-    "titleJP": "NEW GAME!",
+  "1607_19": {
+    "titleCN": "智龙迷城X",
+    "titleJP": "パズドラクロス",
     "titleEN": "",
-    "officalSite": "http://newgame-anime.com/",
+    "officalSite": "http://www.tv-tokyo.co.jp/anime/pad-x/index.html",
     "weekDayJP": 1,
     "weekDayCN": 1,
-    "timeJP": "2130",
+    "timeJP": "1725",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://bangumi.bilibili.com/anime/5025/"
+    ],
     "newBgm": true,
     "showDate": "2016-07-04",
-    "bgmId": 150775
+    "bgmId": 169076
   },
-  "1607_26": {
-    "titleCN": "SHOW BY ROCK!! SHOR～T!!",
-    "titleJP": "SHOW BY ROCK!! しょ～と!!",
+  "1607_20": {
+    "titleCN": "齐木楠雄的灾难",
+    "titleJP": "斉木楠雄のΨ難",
     "titleEN": "",
-    "officalSite": "http://showbyrock-anime.com/",
-    "weekDayJP": 2,
-    "weekDayCN": 2,
-    "timeJP": "0000",
+    "officalSite": "http://www.saikikusuo.com/",
+    "weekDayJP": 1,
+    "weekDayCN": 1,
+    "timeJP": "0605",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://bangumi.bilibili.com/anime/5069/"
+    ],
     "newBgm": true,
-    "showDate": "2016-07-05",
-    "bgmId": 167729
+    "showDate": "2016-07-04",
+    "bgmId": 181354
   },
-  "1607_27": {
-    "titleCN": "天真与闪电",
-    "titleJP": "甘々と稲妻",
-    "titleEN": "",
-    "officalSite": "http://www.amaama.jp/",
-    "weekDayJP": 2,
-    "weekDayCN": 2,
-    "timeJP": "0005",
-    "timeCN": "",
-    "onAirSite": [],
-    "newBgm": true,
-    "showDate": "2016-07-05",
-    "bgmId": 170261
-  },
-  "1607_28": {
-    "titleCN": "驱魔少年 HALLOW",
-    "titleJP": "D.Gray-man HALLOW",
-    "titleEN": "",
-    "officalSite": "http://dgrayman-anime.com/",
-    "weekDayJP": 2,
-    "weekDayCN": 2,
-    "timeJP": "0035",
-    "timeCN": "",
-    "onAirSite": [],
-    "newBgm": true,
-    "showDate": "2016-07-05",
-    "bgmId": 161793
-  },
-  "1607_29": {
+  "1607_21": {
     "titleCN": "禁忌咒纹",
-    "titleJP": "TABOO-TATTOO(タブー・タトゥー)",
-    "titleEN": "",
+    "titleJP": "タブー・タトゥー",
+    "titleEN": "Taboo Tattoo",
     "officalSite": "http://tabootattoo-anime.com/",
     "weekDayJP": 2,
     "weekDayCN": 2,
     "timeJP": "0105",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://bangumi.bilibili.com/anime/5031/"
+    ],
     "newBgm": true,
     "showDate": "2016-07-05",
     "bgmId": 123178
   },
-  "1607_30": {
+  "1607_22": {
     "titleCN": "吸血鬼仆人",
     "titleJP": "SERVAMP -サーヴァンプ-",
     "titleEN": "",
@@ -819,21 +798,69 @@
     "showDate": "2016-07-05",
     "bgmId": 139964
   },
-  "1607_31": {
-    "titleCN": "腐男子高中生活",
-    "titleJP": "腐男子高校生活",
+  "1607_23": {
+    "titleCN": "魔装学园H×H",
+    "titleJP": "魔装学園H×H",
     "titleEN": "",
-    "officalSite": "http://www.dreamcreation.co.jp/fudanshi/",
+    "officalSite": "http://www.masou-hh.com/",
     "weekDayJP": 2,
     "weekDayCN": 2,
-    "timeJP": "2155",
+    "timeJP": "2330",
+    "timeCN": "",
+    "onAirSite": [
+      "http://bangumi.bilibili.com/anime/5036/"
+    ],
+    "newBgm": true,
+    "showDate": "2016-07-05",
+    "bgmId": 147438
+  },
+  "1607_24": {
+    "titleCN": "驱魔少年 HALLOW",
+    "titleJP": "D.Gray-man HALLOW",
+    "titleEN": "",
+    "officalSite": "http://dgrayman-anime.com/",
+    "weekDayJP": 2,
+    "weekDayCN": 2,
+    "timeJP": "0035",
+    "timeCN": "",
+    "onAirSite": [
+      "http://bangumi.bilibili.com/anime/5030/"
+    ],
+    "newBgm": true,
+    "showDate": "2016-07-05",
+    "bgmId": 161793
+  },
+  "1607_25": {
+    "titleCN": "SHOW BY ROCK!! SHOR～T!!",
+    "titleJP": "SHOW BY ROCK!! しょ～と!!",
+    "titleEN": "",
+    "officalSite": "http://showbyrock-anime.com/short/",
+    "weekDayJP": 2,
+    "weekDayCN": 2,
+    "timeJP": "0000",
     "timeCN": "",
     "onAirSite": [],
     "newBgm": true,
     "showDate": "2016-07-05",
-    "bgmId": 180211
+    "bgmId": 167729
   },
-  "1607_32": {
+  "1607_26": {
+    "titleCN": "天真与闪电",
+    "titleJP": "甘々と稲妻",
+    "titleEN": "Sweetness and Lightning",
+    "officalSite": "http://www.amaama.jp/",
+    "weekDayJP": 2,
+    "weekDayCN": 2,
+    "timeJP": "0005",
+    "timeCN": "",
+    "onAirSite": [
+      "http://bangumi.bilibili.com/anime/5029/"
+    ],
+    "newBgm": true,
+    "showDate": "2016-07-05",
+    "bgmId": 170261
+  },
+  "1607_27": {
     "titleCN": "男子啦啦队!!",
     "titleJP": "チア男子!!",
     "titleEN": "",
@@ -847,21 +874,85 @@
     "showDate": "2016-07-05",
     "bgmId": 175402
   },
-  "1607_33": {
-    "titleCN": "魔装学园H×H",
-    "titleJP": "魔装学園H×H",
+  "1607_28": {
+    "titleCN": "腐男子高中生活",
+    "titleJP": "腐男子高校生活",
     "titleEN": "",
-    "officalSite": "http://www.masou-hh.com/",
+    "officalSite": "http://www.dreamcreation.co.jp/fudanshi/",
     "weekDayJP": 2,
     "weekDayCN": 2,
-    "timeJP": "2330",
+    "timeJP": "2155",
+    "timeCN": "",
+    "onAirSite": [
+      "http://bangumi.bilibili.com/anime/5033/"
+    ],
+    "newBgm": true,
+    "showDate": "2016-07-05",
+    "bgmId": 180211
+  },
+  "1607_29": {
+    "titleCN": "月歌",
+    "titleJP": "ツキウタ。 THE ANIMATION",
+    "titleEN": "",
+    "officalSite": "http://www.tsukiani.com/",
+    "weekDayJP": 3,
+    "weekDayCN": 3,
+    "timeJP": "2200",
+    "timeCN": "",
+    "onAirSite": [
+      "http://bangumi.bilibili.com/anime/5038/"
+    ],
+    "newBgm": true,
+    "showDate": "2016-07-06",
+    "bgmId": 117282
+  },
+  "1607_30": {
+    "titleCN": "魔法少女☆伊莉雅 3rei!!",
+    "titleJP": "Fate/kaleid liner プリズマ☆イリヤ ドライ!!",
+    "titleEN": "",
+    "officalSite": "http://anime.prisma-illya.jp/3rei/",
+    "weekDayJP": 3,
+    "weekDayCN": 3,
+    "timeJP": "2200",
     "timeCN": "",
     "onAirSite": [],
     "newBgm": true,
-    "showDate": "2016-07-05",
-    "bgmId": 147438
+    "showDate": "2016-07-06",
+    "bgmId": 147466
   },
-  "1607_34": {
+  "1607_31": {
+    "titleCN": "OZMAFIA!!",
+    "titleJP": "OZMAFIA!!",
+    "titleEN": "",
+    "officalSite": "http://anime.ozmafia.com/",
+    "weekDayJP": 3,
+    "weekDayCN": 3,
+    "timeJP": "2300",
+    "timeCN": "",
+    "onAirSite": [
+      "http://bangumi.bilibili.com/anime/5039/"
+    ],
+    "newBgm": true,
+    "showDate": "2016-07-06",
+    "bgmId": 168902
+  },
+  "1607_32": {
+    "titleCN": "星之梦",
+    "titleJP": "planetarian(プラネタリアン)",
+    "titleEN": "",
+    "officalSite": "http://planetarian-project.com/",
+    "weekDayJP": 3,
+    "weekDayCN": 3,
+    "timeJP": "2300",
+    "timeCN": "",
+    "onAirSite": [
+      "http://bangumi.bilibili.com/anime/5045/"
+    ],
+    "newBgm": true,
+    "showDate": "2016-07-06",
+    "bgmId": 176518
+  },
+  "1607_33": {
     "titleCN": "惊鸿骑士杰克斯",
     "titleJP": "スカーレッドライダーゼクス",
     "titleEN": "",
@@ -875,49 +966,7 @@
     "showDate": "2016-07-06",
     "bgmId": 176958
   },
-  "1607_35": {
-    "titleCN": "月歌",
-    "titleJP": "ツキウタ。 THE ANIMATION",
-    "titleEN": "",
-    "officalSite": "http://www.tsukiani.com/",
-    "weekDayJP": 3,
-    "weekDayCN": 3,
-    "timeJP": "2200",
-    "timeCN": "",
-    "onAirSite": [],
-    "newBgm": true,
-    "showDate": "2016-07-06",
-    "bgmId": 117282
-  },
-  "1607_36": {
-    "titleCN": "魔法少女☆伊莉雅 3rei!!",
-    "titleJP": "プリズマ☆イリヤ ドライ!! (第4期)",
-    "titleEN": "",
-    "officalSite": "http://anime.prisma-illya.jp/",
-    "weekDayJP": 3,
-    "weekDayCN": 3,
-    "timeJP": "2200",
-    "timeCN": "",
-    "onAirSite": [],
-    "newBgm": true,
-    "showDate": "2016-07-06",
-    "bgmId": 147466
-  },
-  "1607_37": {
-    "titleCN": "OZMAFIA!!",
-    "titleJP": "OZMAFIA!!",
-    "titleEN": "",
-    "officalSite": "http://anime.ozmafia.com/",
-    "weekDayJP": 3,
-    "weekDayCN": 3,
-    "timeJP": "2300",
-    "timeCN": "",
-    "onAirSite": [],
-    "newBgm": true,
-    "showDate": "2016-07-06",
-    "bgmId": 168902
-  },
-  "1607_38": {
+  "1607_34": {
     "titleCN": "魔法少女？Naria☆Girls",
     "titleJP": "魔法少女？なりあ☆がーるず",
     "titleEN": "",
@@ -931,7 +980,7 @@
     "showDate": "2016-07-06",
     "bgmId": 184299
   },
-  "1607_39": {
+  "1607_35": {
     "titleCN": "Regalia 三圣星",
     "titleJP": "レガリア The Three Sacred Stars",
     "titleEN": "",
@@ -940,10 +989,75 @@
     "weekDayCN": 4,
     "timeJP": "2100",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://bangumi.bilibili.com/anime/5041/"
+    ],
     "newBgm": true,
     "showDate": "2016-07-07",
     "bgmId": 174519
+  },
+  "1607_36": {
+    "titleCN": "银河机攻队 Majestic Prince",
+    "titleJP": "銀河機攻隊 マジェスティックプリンス",
+    "titleEN": "",
+    "officalSite": "http://mjp-anime.jp/",
+    "weekDayJP": 5,
+    "weekDayCN": 5,
+    "timeJP": "0100",
+    "timeCN": "",
+    "onAirSite": [
+      "http://bangumi.bilibili.com/anime/2700/"
+    ],
+    "newBgm": false,
+    "showDate": "2016-07-08",
+    "bgmId": 50535
+  },
+  "1607_37": {
+    "titleCN": "美男高校地球防卫部LOVE!LOVE!",
+    "titleJP": "美男高校地球防衛部LOVE!LOVE!",
+    "titleEN": "",
+    "officalSite": "http://boueibu.com/",
+    "weekDayJP": 5,
+    "weekDayCN": 5,
+    "timeJP": "0135",
+    "timeCN": "",
+    "onAirSite": [
+      "http://bangumi.bilibili.com/anime/5044/"
+    ],
+    "comment": "第一话于 3:05 放送",
+    "newBgm": true,
+    "showDate": "2016-07-08",
+    "bgmId": 143099
+  },
+  "1607_38": {
+    "titleCN": "蓝海少女",
+    "titleJP": "あまんちゅ！",
+    "titleEN": "",
+    "officalSite": "http://amanchu-anime.com/",
+    "weekDayJP": 5,
+    "weekDayCN": 5,
+    "timeJP": "2200",
+    "timeCN": "",
+    "onAirSite": [],
+    "newBgm": true,
+    "showDate": "2016-07-08",
+    "bgmId": 148142
+  },
+  "1607_39": {
+    "titleCN": "这个美术部有问题！",
+    "titleJP": "この美術部には問題がある！",
+    "titleEN": "",
+    "officalSite": "http://www.tbs.co.jp/anime/konobi/",
+    "weekDayJP": 5,
+    "weekDayCN": 5,
+    "timeJP": "0128",
+    "timeCN": "",
+    "onAirSite": [
+      "http://bangumi.bilibili.com/anime/5043/"
+    ],
+    "newBgm": true,
+    "showDate": "2016-07-08",
+    "bgmId": 150746
   },
   "1607_40": {
     "titleCN": "半田君",
@@ -960,76 +1074,6 @@
     "bgmId": 167980
   },
   "1607_41": {
-    "titleCN": "银河机攻队 Majestic Prince",
-    "titleJP": "銀河機攻隊 マジェスティックプリンス",
-    "titleEN": "",
-    "officalSite": "http://mjp-anime.jp/",
-    "weekDayJP": 5,
-    "weekDayCN": 5,
-    "timeJP": "0100",
-    "timeCN": "",
-    "onAirSite": [],
-    "newBgm": false,
-    "showDate": "2016-07-08",
-    "bgmId": 50535
-  },
-  "1607_42": {
-    "titleCN": "这个美术部有问题！",
-    "titleJP": "この美術部には問題がある！",
-    "titleEN": "",
-    "officalSite": "http://www.tbs.co.jp/anime/konobi/",
-    "weekDayJP": 5,
-    "weekDayCN": 5,
-    "timeJP": "0128",
-    "timeCN": "",
-    "onAirSite": [],
-    "newBgm": true,
-    "showDate": "2016-07-08",
-    "bgmId": 150746
-  },
-  "1607_43": {
-    "titleCN": "美男高校地球防卫部LOVE!LOVE!",
-    "titleJP": "美男高校地球防衛部LOVE!LOVE! (第2期)",
-    "titleEN": "",
-    "officalSite": "http://boueibu.com/",
-    "weekDayJP": 5,
-    "weekDayCN": 5,
-    "timeJP": "0205",
-    "timeCN": "",
-    "onAirSite": [],
-    "newBgm": true,
-    "showDate": "2016-07-08",
-    "bgmId": 143099
-  },
-  "1607_44": {
-    "titleCN": "星之梦",
-    "titleJP": "planetarian(プラネタリアン)",
-    "titleEN": "",
-    "officalSite": "http://planetarian-project.com/",
-    "weekDayJP": 3,
-    "weekDayCN": 3,
-    "timeJP": "2300",
-    "timeCN": "",
-    "onAirSite": [],
-    "newBgm": true,
-    "showDate": "2016-07-06",
-    "bgmId": 176518
-  },
-  "1607_45": {
-    "titleCN": "蓝海少女",
-    "titleJP": "あまんちゅ！",
-    "titleEN": "",
-    "officalSite": "http://amanchu-anime.com/",
-    "weekDayJP": 5,
-    "weekDayCN": 5,
-    "timeJP": "2200",
-    "timeCN": "",
-    "onAirSite": [],
-    "newBgm": true,
-    "showDate": "2016-07-08",
-    "bgmId": 148142
-  },
-  "1607_46": {
     "titleCN": "Thunderbolt Fantasy 东离剑游纪",
     "titleJP": "Thunderbolt Fantasy 東離劍遊紀",
     "titleEN": "",
@@ -1038,12 +1082,14 @@
     "weekDayCN": 5,
     "timeJP": "2200",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://bangumi.bilibili.com/anime/5064/"
+    ],
     "newBgm": true,
     "showDate": "2016-07-08",
     "bgmId": 168395
   },
-  "1607_47": {
+  "1607_42": {
     "titleCN": "发条精灵战记 天镜的极北之星",
     "titleJP": "ねじ巻き精霊戦記 天鏡のアルデラミン",
     "titleEN": "",
@@ -1052,12 +1098,28 @@
     "weekDayCN": 6,
     "timeJP": "0005",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://bangumi.bilibili.com/anime/5047/"
+    ],
     "newBgm": true,
     "showDate": "2016-07-09",
     "bgmId": 148097
   },
-  "1607_48": {
+  "1607_43": {
+    "titleCN": "代号Qualidea",
+    "titleJP": "クオリディア・コード",
+    "titleEN": "Qualidea Code",
+    "officalSite": "http://qualidea.jp/",
+    "weekDayJP": 6,
+    "weekDayCN": 6,
+    "timeJP": "2300",
+    "timeCN": "",
+    "onAirSite": [],
+    "newBgm": true,
+    "showDate": "2016-07-09",
+    "bgmId": 161704
+  },
+  "1607_44": {
     "titleCN": "91天",
     "titleJP": "91Days",
     "titleEN": "",
@@ -1071,21 +1133,7 @@
     "showDate": "2016-07-09",
     "bgmId": 175198
   },
-  "1607_49": {
-    "titleCN": "时间旅行少女～真理、和花与8名科学家～",
-    "titleJP": "タイムトラベル少女～マリ・ワカと8人の科学者たち～",
-    "titleEN": "",
-    "officalSite": "http://mariwaka.com/",
-    "weekDayJP": 6,
-    "weekDayCN": 6,
-    "timeJP": "0600",
-    "timeCN": "",
-    "onAirSite": [],
-    "newBgm": true,
-    "showDate": "2016-07-09",
-    "bgmId": 183554
-  },
-  "1607_50": {
+  "1607_45": {
     "titleCN": "一人之下",
     "titleJP": "一人之下 the outcast",
     "titleEN": "",
@@ -1099,21 +1147,23 @@
     "showDate": "2016-07-09",
     "bgmId": 175457
   },
-  "1607_51": {
-    "titleCN": "代号Qualidea",
-    "titleJP": "クオリディア・コード",
-    "titleEN": "",
-    "officalSite": "http://qualidea.jp/",
+  "1607_46": {
+    "titleCN": "时间旅行少女",
+    "titleJP": "タイムトラベル少女～マリ・ワカと8人の科学者たち～",
+    "titleEN": "Time Travel Girl",
+    "officalSite": "http://mariwaka.com/",
     "weekDayJP": 6,
     "weekDayCN": 6,
-    "timeJP": "2300",
+    "timeJP": "0600",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://bangumi.bilibili.com/anime/5049/"
+    ],
     "newBgm": true,
     "showDate": "2016-07-09",
-    "bgmId": 161704
+    "bgmId": 183554
   },
-  "1607_52": {
+  "1607_47": {
     "titleCN": "Ange Vierge",
     "titleJP": "アンジュ・ヴィエルジュ",
     "titleEN": "",
@@ -1122,14 +1172,16 @@
     "weekDayCN": 0,
     "timeJP": "0030",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://bangumi.bilibili.com/anime/5053/"
+    ],
     "newBgm": true,
     "showDate": "2016-07-10",
     "bgmId": 119687
   },
-  "1607_53": {
+  "1607_48": {
     "titleCN": "Active Raid -机动强袭室第八课 2期",
-    "titleJP": "アクティヴレイド 機動強襲室第八係 第二期",
+    "titleJP": "アクティヴレイド -機動強襲室第八係- 2nd",
     "titleEN": "",
     "officalSite": "http://activeraid.net/",
     "weekDayJP": 0,
@@ -1141,21 +1193,7 @@
     "showDate": "2016-07-10",
     "bgmId": 160220
   },
-  "1607_54": {
-    "titleCN": "弹丸论破3 -The End of 希望之峰学园- 未来篇",
-    "titleJP": "ダンガンロンパ3-The End of 希望ケ峰学園- 未来編",
-    "titleEN": "",
-    "officalSite": "http://www.nbcuni.co.jp/anime/danganronpa3/",
-    "weekDayJP": 1,
-    "weekDayCN": 1,
-    "timeJP": "2200",
-    "timeCN": "",
-    "onAirSite": [],
-    "newBgm": true,
-    "showDate": "2016-07-11",
-    "bgmId": 158415
-  },
-  "1607_55": {
+  "1607_49": {
     "titleCN": "灵能百分百",
     "titleJP": "モブサイコ100",
     "titleEN": "",
@@ -1164,26 +1202,30 @@
     "weekDayCN": 1,
     "timeJP": "2300",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://bangumi.bilibili.com/anime/5058/"
+    ],
     "newBgm": true,
     "showDate": "2016-07-11",
     "bgmId": 158316
   },
-  "1607_56": {
-    "titleCN": "弹丸论破3 -The End of 希望之峰学园- 绝望篇",
-    "titleJP": "ダンガンロンパ3-The End of 希望ケ峰学園- 絶望編",
+  "1607_50": {
+    "titleCN": "弹丸论破3 -The End of 希望之峰学园- 未来篇",
+    "titleJP": "ダンガンロンパ3-The End of 希望ケ峰学園- 未来編",
     "titleEN": "",
     "officalSite": "http://www.nbcuni.co.jp/anime/danganronpa3/",
-    "weekDayJP": 4,
-    "weekDayCN": 4,
-    "timeJP": "2230",
+    "weekDayJP": 1,
+    "weekDayCN": 1,
+    "timeJP": "2200",
     "timeCN": "",
-    "onAirSite": [],
+    "onAirSite": [
+      "http://bangumi.bilibili.com/anime/5056/"
+    ],
     "newBgm": true,
-    "showDate": "2016-07-14",
-    "bgmId": 177092
+    "showDate": "2016-07-11",
+    "bgmId": 158415
   },
-  "1607_57": {
+  "1607_51": {
     "titleCN": "野球少年",
     "titleJP": "バッテリー",
     "titleEN": "",
@@ -1197,7 +1239,23 @@
     "showDate": "2016-07-14",
     "bgmId": 174141
   },
-  "1607_58": {
+  "1607_52": {
+    "titleCN": "弹丸论破3 -The End of 希望之峰学园- 绝望篇",
+    "titleJP": "ダンガンロンパ3-The End of 希望ケ峰学園- 絶望編",
+    "titleEN": "",
+    "officalSite": "http://www.nbcuni.co.jp/anime/danganronpa3/",
+    "weekDayJP": 4,
+    "weekDayCN": 4,
+    "timeJP": "2230",
+    "timeCN": "",
+    "onAirSite": [
+      "http://bangumi.bilibili.com/anime/5057/"
+    ],
+    "newBgm": true,
+    "showDate": "2016-07-14",
+    "bgmId": 177092
+  },
+  "1607_53": {
     "titleCN": "海贼王 特别篇 黄金之心",
     "titleJP": "ワンピース ～ハートオブ ゴールド～",
     "titleEN": "",
@@ -1212,7 +1270,7 @@
     "endDate": "2016-07-16",
     "bgmId": 183591
   },
-  "1607_59": {
+  "1607_54": {
     "titleCN": "七大罪 圣战的预兆",
     "titleJP": "七つの大罪 聖戦の予兆",
     "titleEN": "",
