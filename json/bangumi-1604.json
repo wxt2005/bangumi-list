@@ -1403,15 +1403,17 @@
     "bgmId": 149959
   },
   "1604_62": {
-    "titleCN": "神技旺达",
+    "titleCN": "超能旺达",
     "titleJP": "カミワザ・ワンダ",
     "titleEN": "",
     "officalSite": "http://www.tbs.co.jp/kamiwaza_wanda/",
     "weekDayJP": 6,
     "weekDayCN": 6,
     "timeJP": "0600",
-    "timeCN": "",
-    "onAirSite": [],
+    "timeCN": "0800",
+    "onAirSite": [
+      "http://www.le.com/comic/10020758.html"
+    ],
     "newBgm": true,
     "showDate": "2016-04-16",
     "bgmId": 166121
