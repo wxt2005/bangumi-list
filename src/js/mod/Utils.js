@@ -14,7 +14,8 @@ var SITE_REGEX = {
     'letv'    : '(le|letv)\\.com',
     'pptv'    : 'pptv\\.com',
     'tudou'   : 'tudou\\.com',
-    'movie'   : 'kankan\\.com'
+    'movie'   : 'kankan\\.com',
+    'mgtv'    : 'mgtv\\.com'
 };
 
 /**

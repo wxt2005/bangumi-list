@@ -20,7 +20,8 @@ var DEFAULT = {
         'letv'    : { name: '乐视', enable: true },
         'pptv'    : { name: 'PPTV', enable: true },
         'tudou'   : { name: '土豆', enable: true },
-        'movie'   : { name: '迅雷', enable: true }
+        'movie'   : { name: '迅雷', enable: true },
+        'mgtv'    : { name: '芒果', enable: true }
     };
 
 var STORAGE_NAMESAPCE = 'bgmlist_sites';
@@ -60,7 +61,7 @@ var BgmSitesStore = _assign({}, EventEmitter.prototype, {
         _assign(_sites[domain], newConfg);
     },
     updateAll: function(sitesConfg){
-        _sites = _assign({}, _sites, sitesConfg);
+        _sites = _assign({}, DEFAULT, _sites, sitesConfg);
     },
     readFromStorage: function(){
         var data = Utils.store(STORAGE_NAMESAPCE);
