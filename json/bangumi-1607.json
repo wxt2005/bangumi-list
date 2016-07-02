@@ -672,10 +672,10 @@
     "titleJP": "おなら吾郎",
     "titleEN": "",
     "officalSite": "http://www.onaragoro.jp/",
-    "weekDayJP": 6,
+    "weekDayJP": 0,
     "weekDayCN": 0,
-    "timeJP": "",
-    "timeCN": "",
+    "timeJP": "0057",
+    "timeCN": "0100",
     "onAirSite": [
       "http://bangumi.bilibili.com/anime/5066/"
     ],
