@@ -771,9 +771,9 @@
     "titleEN": "",
     "officalSite": "http://newgame-anime.com/",
     "weekDayJP": 1,
-    "weekDayCN": 2,
+    "weekDayCN": 3,
     "timeJP": "2130",
-    "timeCN": "2330",
+    "timeCN": "0100",
     "onAirSite": [
       "http://bangumi.bilibili.com/anime/5027/",
       "http://www.tudou.com/albumcover/uGqEOjd4Wd4.html",
@@ -831,16 +831,17 @@
     "officalSite": "http://www.saikikusuo.com/",
     "weekDayJP": 1,
     "weekDayCN": 1,
-    "timeJP": "0105",
-    "timeCN": "0135",
+    "timeJP": "0605",
+    "timeCN": "0800",
     "onAirSite": [
-      "http://bangumi.bilibili.com/anime/5069/",
+      "http://bangumi.bilibili.com/anime/5070/",
       "http://www.iqiyi.com/a_19rrhanq6h.html",
       "http://www.tudou.com/albumcover/vW8S6PLn8Qk.html",
       "http://www.youku.com/show_page/id_z6431c5ca3cd311e6a080.html"
     ],
     "newBgm": true,
-    "showDate": "2016-07-10",
+    "showDate": "2016-07-04",
+    "comment": "短篇版周一至周五每日播放一话，再合并为 30 分版于次周一播放",
     "bgmId": 181354
   },
   "1607_21": {
@@ -1129,7 +1130,7 @@
       "http://www.tudou.com/albumcover/eAzP6qKWn3A.html",
       "http://www.iqiyi.com/a_19rrhanrkd.html"
     ],
-    "comment": "第一话于 3:05 放送",
+    "comment": "第一话于 2:05 放送",
     "newBgm": true,
     "showDate": "2016-07-08",
     "bgmId": 143099
@@ -1247,7 +1248,7 @@
     "weekDayJP": 6,
     "weekDayCN": 6,
     "timeJP": "0055",
-    "timeCN": "",
+    "timeCN": "0155",
     "onAirSite": [
       "http://v.pptv.com/page/Y8ibpJ4ic1ZaMGhOw.html"
     ],
