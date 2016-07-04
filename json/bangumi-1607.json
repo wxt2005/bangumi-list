@@ -797,7 +797,8 @@
       "http://www.tudou.com/albumcover/7Ufpcw4Fiz4.html",
       "http://www.iqiyi.com/a_19rrhanq3d.html",
       "http://v.pptv.com/page/gbGbGYHnV5X4dt4.html",
-      "http://www.iqiyi.com/a_19rrhanq3d.html?vfm=m_294_wgtv"
+      "http://www.youku.com/show_page/id_zea3b7d353cd511e6bdbb.html",
+      "http://www.mgtv.com/v/7/294436/"
     ],
     "newBgm": true,
     "showDate": "2016-07-04",
@@ -815,7 +816,9 @@
     "onAirSite": [
       "http://bangumi.bilibili.com/anime/5025/",
       "http://www.tudou.com/albumcover/7g-yj9B8I5c.html",
-      "http://www.iqiyi.com/a_19rrhanq81.html"
+      "http://www.iqiyi.com/a_19rrhanq81.html",
+      "http://www.youku.com/show_page/id_z76105a7e3cd911e6bdbb.html",
+      "http://www.le.com/comic/10024413.html"
     ],
     "newBgm": true,
     "showDate": "2016-07-04",
@@ -833,10 +836,11 @@
     "onAirSite": [
       "http://bangumi.bilibili.com/anime/5069/",
       "http://www.iqiyi.com/a_19rrhanq6h.html",
-      "http://www.tudou.com/albumcover/vW8S6PLn8Qk.html"
+      "http://www.tudou.com/albumcover/vW8S6PLn8Qk.html",
+      "http://www.youku.com/show_page/id_z6431c5ca3cd311e6a080.html"
     ],
     "newBgm": true,
-    "showDate": "2016-07-04",
+    "showDate": "2016-07-10",
     "bgmId": 181354
   },
   "1607_21": {
@@ -901,7 +905,8 @@
     "onAirSite": [
       "http://bangumi.bilibili.com/anime/5030/",
       "http://www.tudou.com/albumcover/syjFVGHvOLM.html",
-      "http://www.iqiyi.com/a_19rrhansmx.html"
+      "http://www.iqiyi.com/a_19rrhansmx.html",
+      "http://www.youku.com/show_page/id_z0a27cd323cd211e6abda.html"
     ],
     "newBgm": true,
     "showDate": "2016-07-05",
@@ -915,7 +920,7 @@
     "weekDayJP": 2,
     "weekDayCN": 2,
     "timeJP": "0000",
-    "timeCN": "",
+    "timeCN": "0015",
     "onAirSite": [
       "http://bangumi.bilibili.com/anime/5028/"
     ],
