@@ -4,35 +4,31 @@ var WEEKDAYCN = ['周日', '周一', '周二', '周三', '周四', '周五', '�
     WEEKDAYJP = ['日曜', '月曜', '火曜', '水曜', '木曜', '金曜', '土曜'];
 
 var SITE_REGEX = {
-    'acfun'   : 'acfun\\.(tv|tudou)',
-    'bilibili': 'bilibili\\.com',
-    'tucao'   : 'tucao\\.(tv|cc)',
-    'sohu'    : 'sohu\\.com',
-    'youku'   : 'youku\\.com',
-    'qq'      : 'qq\\.com',
-    'iqiyi'   : 'iqiyi\\.com',
-    'letv'    : '(le|letv)\\.com',
-    'pptv'    : 'pptv\\.com',
-    'tudou'   : 'tudou\\.com',
-    'movie'   : 'kankan\\.com',
-    'mgtv'    : 'mgtv\\.com'
+    'acfun'   : /acfun\.(tv|tudou)/,
+    'bilibili': /bilibili\.com/,
+    'tucao'   : /tucao\.(tv|cc)/,
+    'sohu'    : /sohu\.com/,
+    'youku'   : /youku\.com/,
+    'qq'      : /qq\.com/,
+    'iqiyi'   : /iqiyi\.com/,
+    'letv'    : /(le|letv)\.com/,
+    'pptv'    : /pptv\.com/,
+    'tudou'   : /tudou\.com/,
+    'movie'   : /kankan\.com/,
+    'mgtv'    : /mgtv\.com/
 };
 
 /**
  * 从主域名获得站点名称
  * @param  {string} urlString 网址
- * @param  {sites} array 站点数组
- * @return {Object}        站点信息
+ * @param  {Object[]} sites 站点数组
+ * @returns {Object}        站点信息
  */
 function getLinkSite(urlString, sites){
-    var host = url.parse(urlString).host,
-        siteKey = '',
-        siteRegex = null;
+    var host = url.parse(urlString).host;
 
-    for (siteKey in SITE_REGEX) {
-        siteRegex = new RegExp(SITE_REGEX[siteKey]);
-
-        if (siteRegex.test(host)) {
+    for (var siteKey in SITE_REGEX) {
+        if (SITE_REGEX[siteKey].test(host)) {
             return sites[siteKey];
         }
     }
@@ -43,8 +39,8 @@ function getLinkSite(urlString, sites){
 /**
  * 格式化周天
  * @param {number} index 周天序号
- * @optional {string} country 国家代号 'cn' or 'jp'
- * @return {string} 格式化后的周天
+ * @param {string} [country=cn] 国家代号 'cn' or 'jp'
+ * @returns {string} 格式化后的周天
  */
 function formatWeekDay(index, country){
     if(country && country.toLowerCase() === 'jp'){
