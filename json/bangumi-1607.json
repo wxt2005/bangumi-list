@@ -874,7 +874,8 @@
     "timeJP": "2200",
     "timeCN": "2330",
     "onAirSite": [
-      "http://www.tudou.com/albumcover/qB4qXUbS6NM.html"
+      "http://www.tudou.com/albumcover/qB4qXUbS6NM.html",
+      "http://www.youku.com/show_page/id_zcaa6e1e63da011e69b6d.html"
     ],
     "newBgm": true,
     "showDate": "2016-07-05",
@@ -886,9 +887,9 @@
     "titleEN": "",
     "officalSite": "http://www.masou-hh.com/",
     "weekDayJP": 2,
-    "weekDayCN": 2,
+    "weekDayCN": 3,
     "timeJP": "2330",
-    "timeCN": "",
+    "timeCN": "0100",
     "onAirSite": [
       "http://bangumi.bilibili.com/anime/5036/"
     ],
@@ -977,7 +978,7 @@
     "weekDayJP": 2,
     "weekDayCN": 2,
     "timeJP": "2155",
-    "timeCN": "",
+    "timeCN": "2155",
     "onAirSite": [
       "http://bangumi.bilibili.com/anime/5033/"
     ],
