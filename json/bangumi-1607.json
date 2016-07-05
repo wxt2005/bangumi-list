@@ -778,7 +778,9 @@
       "http://bangumi.bilibili.com/anime/5027/",
       "http://www.tudou.com/albumcover/uGqEOjd4Wd4.html",
       "http://www.iqiyi.com/a_19rrhanpqp.html",
-      "http://v.pptv.com/page/Z9O9O6MJebcamAA.html"
+      "http://v.pptv.com/page/Z9O9O6MJebcamAA.html",
+      "http://www.youku.com/show_page/id_zc9b2f1283cd611e6abda.html",
+      "http://www.le.com/comic/10024415.html"
     ],
     "newBgm": true,
     "showDate": "2016-07-04",
@@ -964,9 +966,10 @@
     "timeCN": "0000",
     "onAirSite": [
       "http://www.tudou.com/albumcover/QI9_lX3BegM.html",
-      ""
+      "http://www.youku.com/show_page/id_zc87eb8763d9b11e69b6d.html"
     ],
     "newBgm": true,
+    "comment": "优酷土豆为收费观看",
     "showDate": "2016-07-05",
     "bgmId": 175402
   },
@@ -1066,7 +1069,8 @@
       "http://www.tudou.com/albumcover/rUzNKGU_ffQ.html",
       "http://www.youku.com/show_page/id_z6a5bd68c3da211e6b432.html",
       "http://www.iqiyi.com/a_19rrhans3h.html",
-      "http://bangumi.bilibili.com/anime/5037/"
+      "http://bangumi.bilibili.com/anime/5037/",
+      "http://www.le.com/comic/10024420.html"
     ],
     "newBgm": true,
     "showDate": "2016-07-06",
