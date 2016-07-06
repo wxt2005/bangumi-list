@@ -1002,7 +1002,9 @@
       "http://bangumi.bilibili.com/anime/5038/",
       "http://www.tudou.com/albumcover/Qa4Wr_jDxB8.html",
       "http://v.pptv.com/page/FSQQjvZczApt61M.html",
-      "http://v.qq.com/detail/f/fh9qxmu1x4631aj.html"
+      "http://v.qq.com/detail/f/fh9qxmu1x4631aj.html",
+      "http://www.youku.com/show_page/id_z9c2736e63d9f11e69e2a.html",
+      "http://www.le.com/comic/10024418.html"
     ],
     "newBgm": true,
     "showDate": "2016-07-06",
@@ -1032,7 +1034,7 @@
     "weekDayJP": 3,
     "weekDayCN": 3,
     "timeJP": "2300",
-    "timeCN": "",
+    "timeCN": "2300",
     "onAirSite": [
       "http://bangumi.bilibili.com/anime/5039/"
     ],
@@ -1046,9 +1048,9 @@
     "titleEN": "",
     "officalSite": "http://planetarian-project.com/",
     "weekDayJP": 3,
-    "weekDayCN": 3,
+    "weekDayCN": 4,
     "timeJP": "2300",
-    "timeCN": "",
+    "timeCN": "0030",
     "onAirSite": [
       "http://bangumi.bilibili.com/anime/5045/"
     ],
@@ -1084,7 +1086,7 @@
     "weekDayJP": 3,
     "weekDayCN": 3,
     "timeJP": "2305",
-    "timeCN": "",
+    "timeCN": "2305",
     "onAirSite": [
       "http://bangumi.bilibili.com/anime/5040/"
     ],
