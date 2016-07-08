@@ -1159,7 +1159,8 @@
     "timeJP": "2200",
     "timeCN": "2300",
     "onAirSite": [
-      "http://www.tudou.com/albumcover/K0VnyPoc-74.html"
+      "http://www.tudou.com/albumcover/K0VnyPoc-74.html",
+      "http://www.youku.com/show_page/id_zeb1d7b003e7311e6a080.html"
     ],
     "newBgm": true,
     "showDate": "2016-07-08",
@@ -1195,8 +1196,10 @@
     "timeJP": "0058",
     "timeCN": "2100",
     "onAirSite": [
-      "http://www.tudou.com/albumcover/4Izz8YNGVVI.html"
+      "http://www.tudou.com/albumcover/4Izz8YNGVVI.html",
+      "http://v.youku.com/v_show/id_XMTYzNjE1NDY4NA==.html?from=s1.8-3-1.1"
     ],
+    "comment": "优酷土豆为收费观看",
     "newBgm": true,
     "showDate": "2016-07-08",
     "bgmId": 167980
@@ -1209,7 +1212,7 @@
     "weekDayJP": 5,
     "weekDayCN": 5,
     "timeJP": "2200",
-    "timeCN": "",
+    "timeCN": "2200",
     "onAirSite": [
       "http://bangumi.bilibili.com/anime/5064/"
     ],
@@ -1295,7 +1298,7 @@
     "weekDayJP": 6,
     "weekDayCN": 6,
     "timeJP": "0600",
-    "timeCN": "",
+    "timeCN": "0630",
     "onAirSite": [
       "http://bangumi.bilibili.com/anime/5049/"
     ],
