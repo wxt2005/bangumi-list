@@ -317,7 +317,7 @@ var BgmPreferences = React.createClass({
                                             ]
                                         }
                                         changeHandler={this._handleConfigChange}
-                                    >Banugmi域名</SelectList>
+                                    >Bangumi域名</SelectList>
                                 </ul>
                             </div>
                         </div>
