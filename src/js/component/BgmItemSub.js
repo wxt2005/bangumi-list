@@ -40,14 +40,9 @@ var BgmItemSub = React.createClass({
                 prefix: 'http://share.dmhy.org/topics/list?keyword=',
                 default: 'CN'
             },
-            /*'popgo': {
-                name: '漫游',
-                prefix: 'http://share.popgo.org/search.php?title=',
-                default: 'CN'
-            },*/
             'nyaa': {
                 name: 'Nyaa',
-                prefix: 'http://www.nyaa.se/?page=search&term=',
+                prefix: 'https://www.nyaa.se/?page=search&term=',
                 default: ['EN', 'JP']
             }
         };
