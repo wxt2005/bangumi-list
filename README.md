@@ -4,6 +4,12 @@
 
 放送时间数据源：http://www.kansou.me
 
+## Attention
+
+本站点的数据已分离至单独的 Repository 维护，请需要大陆新番放送站点数据的同学们移步至：[bangumi-data](https://github.com/bangumi-data/bangumi-data)
+
+从 2017 年 1 月开始，本目录下的 json 数据将不会再更新，视情况而定也可能会删除，谢谢大家的理解。
+
 ## deploy
 
 ```sh
