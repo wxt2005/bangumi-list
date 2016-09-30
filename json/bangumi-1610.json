@@ -370,22 +370,8 @@
     "comment": "短篇版周一至周五每日播放一话，再合并为 30 分版于次周一播放",
     "bgmId": 181354
   },
-  "1610_7": {
-    "titleCN": "",
-    "titleJP": "タマ＆フレンズ ～うちのタマ知りませんか？～",
-    "titleEN": "",
-    "officalSite": "http://www.scp.co.jp/Tama/",
-    "weekDayJP": 6,
-    "weekDayCN": 6,
-    "timeJP": "0600",
-    "timeCN": "",
-    "onAirSite": [],
-    "newBgm": true,
-    "showDate": "2016-10-01",
-    "bgmId": 0
-  },
   "1610_8": {
-    "titleCN": "",
+    "titleCN": "数码兽宇宙 应用怪兽",
     "titleJP": "デジモンユニバース アプリモンスターズ",
     "titleEN": "",
     "officalSite": "http://www.toei-anim.co.jp/tv/appmon/",
@@ -396,10 +382,10 @@
     "onAirSite": [],
     "newBgm": true,
     "showDate": "2016-10-01",
-    "bgmId": 0
+    "bgmId": 183216
   },
   "1610_9": {
-    "titleCN": "",
+    "titleCN": "时间飞船24",
     "titleJP": "タイムボカン24",
     "titleEN": "",
     "officalSite": "http://www.ytv.co.jp/timebokan24/",
@@ -410,10 +396,10 @@
     "onAirSite": [],
     "newBgm": true,
     "showDate": "2016-10-01",
-    "bgmId": 0
+    "bgmId": 175529
   },
   "1610_10": {
-    "titleCN": "",
+    "titleCN": "Bloodivores",
     "titleJP": "Bloodivores(ブラッディヴォーレス)",
     "titleEN": "",
     "officalSite": "http://bloodivores.com/",
@@ -424,10 +410,10 @@
     "onAirSite": [],
     "newBgm": true,
     "showDate": "2016-10-01",
-    "bgmId": 0
+    "bgmId": 191653
   },
   "1610_11": {
-    "titleCN": "",
+    "titleCN": "舞兵器舞乱伎 星之巨人",
     "titleJP": "ブブキ･ブランキ 星の巨人 (第2期)",
     "titleEN": "",
     "officalSite": "http://bbkbrnk.com/",
@@ -438,10 +424,10 @@
     "onAirSite": [],
     "newBgm": true,
     "showDate": "2016-10-01",
-    "bgmId": 0
+    "bgmId": 170772
   },
   "1610_12": {
-    "titleCN": "",
+    "titleCN": "终末的伊泽塔",
     "titleJP": "終末のイゼッタ",
     "titleEN": "",
     "officalSite": "http://izetta.jp/",
@@ -452,10 +438,10 @@
     "onAirSite": [],
     "newBgm": true,
     "showDate": "2016-10-01",
-    "bgmId": 0
+    "bgmId": 184840
   },
   "1610_13": {
-    "titleCN": "",
+    "titleCN": "WWW.迷糊餐厅",
     "titleJP": "WWW.WORKING!!",
     "titleEN": "",
     "officalSite": "http://working-www.com/",
@@ -466,24 +452,10 @@
     "onAirSite": [],
     "newBgm": true,
     "showDate": "2016-10-01",
-    "bgmId": 0
-  },
-  "1610_14": {
-    "titleCN": "",
-    "titleJP": "デュラララ!!×２ 結 外伝!? 第19.5話「デュフフフ!!」",
-    "titleEN": "",
-    "officalSite": "http://www.durarara.com/",
-    "weekDayJP": 6,
-    "weekDayCN": 6,
-    "timeJP": "2300",
-    "timeCN": "",
-    "onAirSite": [],
-    "newBgm": true,
-    "showDate": "2016-10-01",
-    "bgmId": 0
+    "bgmId": 176599
   },
   "1610_15": {
-    "titleCN": "",
+    "titleCN": "魔法少女育成计划",
     "titleJP": "魔法少女育成計画",
     "titleEN": "",
     "officalSite": "http://mahoiku.jp/",
@@ -494,10 +466,10 @@
     "onAirSite": [],
     "newBgm": true,
     "showDate": "2016-10-01",
-    "bgmId": 0
+    "bgmId": 145946
   },
   "1610_16": {
-    "titleCN": "",
+    "titleCN": "ViVid Strike",
     "titleJP": "ViVid Strike！",
     "titleEN": "",
     "officalSite": "http://vivid-strike.com/",
@@ -508,10 +480,10 @@
     "onAirSite": [],
     "newBgm": true,
     "showDate": "2016-10-01",
-    "bgmId": 0
+    "bgmId": 186613
   },
   "1610_17": {
-    "titleCN": "",
+    "titleCN": "歌之王子殿下 真爱LEGEND STAR",
     "titleJP": "うたの☆プリンスさまっ♪マジLOVEレジェンドスター (第4期)",
     "titleEN": "",
     "officalSite": "http://utapri.tv/",
@@ -522,10 +494,10 @@
     "onAirSite": [],
     "newBgm": true,
     "showDate": "2016-10-02",
-    "bgmId": 0
+    "bgmId": 138754
   },
   "1610_18": {
-    "titleCN": "",
+    "titleCN": "虎头假面W",
     "titleJP": "タイガーマスクW",
     "titleEN": "",
     "officalSite": "http://www.toei-anim.co.jp/tv/tigermask_w/",
@@ -536,10 +508,10 @@
     "onAirSite": [],
     "newBgm": true,
     "showDate": "2016-10-02",
-    "bgmId": 0
+    "bgmId": 171366
   },
   "1610_19": {
-    "titleCN": "",
+    "titleCN": "甜甜私房猫 3期",
     "titleJP": "チーズスイートホーム こねこのチー",
     "titleEN": "",
     "officalSite": "http://chissweethome.com/",
@@ -550,10 +522,10 @@
     "onAirSite": [],
     "newBgm": true,
     "showDate": "2016-10-02",
-    "bgmId": 0
+    "bgmId": 180710
   },
   "1610_20": {
-    "titleCN": "",
+    "titleCN": "怪物猎人物语 RIDE ON",
     "titleJP": "モンスターハンター ストーリーズ RIDE ON",
     "titleEN": "",
     "officalSite": "http://www.mh-stories-rideon.jp/",
@@ -564,10 +536,10 @@
     "onAirSite": [],
     "newBgm": true,
     "showDate": "2016-10-02",
-    "bgmId": 0
+    "bgmId": 146754
   },
   "1610_21": {
-    "titleCN": "",
+    "titleCN": "卡片战斗先导者G NEXT",
     "titleJP": "カードファイト!! ヴァンガードG NEXT(第8期)",
     "titleEN": "",
     "officalSite": "http://www.tv-tokyo.co.jp/anime/cf-vanguard-g2/",
@@ -578,10 +550,10 @@
     "onAirSite": [],
     "newBgm": true,
     "showDate": "2016-10-02",
-    "bgmId": 0
+    "bgmId": 191766
   },
   "1610_22": {
-    "titleCN": "",
+    "titleCN": "机动战士高达 铁血的孤儿 2期",
     "titleJP": "機動戦士ガンダム鉄血のオルフェンズ 第2期",
     "titleEN": "",
     "officalSite": "http://g-tekketsu.com/",
@@ -592,10 +564,10 @@
     "onAirSite": [],
     "newBgm": true,
     "showDate": "2016-10-02",
-    "bgmId": 0
+    "bgmId": 170191
   },
   "1610_23": {
-    "titleCN": "",
+    "titleCN": "SHOW BY ROCK!! 2期",
     "titleJP": "SHOW BY ROCK!!# 第2期",
     "titleEN": "",
     "officalSite": "http://showbyrock-anime.com/",
@@ -606,10 +578,10 @@
     "onAirSite": [],
     "newBgm": true,
     "showDate": "2016-10-02",
-    "bgmId": 0
+    "bgmId": 154073
   },
   "1610_24": {
-    "titleCN": "",
+    "titleCN": "超心动！文艺复兴",
     "titleJP": "マジきゅんっ！ルネッサンス",
     "titleEN": "",
     "officalSite": "http://www.magic-kyun.jp/",
@@ -620,10 +592,10 @@
     "onAirSite": [],
     "newBgm": true,
     "showDate": "2016-10-02",
-    "bgmId": 0
+    "bgmId": 154689
   },
   "1610_25": {
-    "titleCN": "",
+    "titleCN": "我老婆是学生会长 2期",
     "titleJP": "おくさまが生徒会長!+! (第2期)",
     "titleEN": "",
     "officalSite": "http://www.dreamcreation.co.jp/okusama/",
@@ -637,7 +609,7 @@
     "bgmId": 0
   },
   "1610_26": {
-    "titleCN": "",
+    "titleCN": "刀剑乱舞-花丸-",
     "titleJP": "刀剣乱舞-花丸-",
     "titleEN": "",
     "officalSite": "http://touken-hanamaru.jp/",
@@ -648,10 +620,10 @@
     "onAirSite": [],
     "newBgm": true,
     "showDate": "2016-10-02",
-    "bgmId": 0
+    "bgmId": 175525
   },
   "1610_27": {
-    "titleCN": "",
+    "titleCN": "星梦手记",
     "titleJP": "アイドルメモリーズ",
     "titleEN": "",
     "officalSite": "http://idol-memories.com/",
@@ -662,10 +634,10 @@
     "onAirSite": [],
     "newBgm": true,
     "showDate": "2016-10-02",
-    "bgmId": 0
+    "bgmId": 186553
   },
   "1610_28": {
-    "titleCN": "",
+    "titleCN": "青鬼",
     "titleJP": "あおおに ～じ・あにめぇしょん～",
     "titleEN": "",
     "officalSite": "http://aooni-anime.com/tv/",
@@ -676,10 +648,10 @@
     "onAirSite": [],
     "newBgm": true,
     "showDate": "2016-10-03",
-    "bgmId": 0
+    "bgmId": 189659
   },
   "1610_29": {
-    "titleCN": "",
+    "titleCN": "怪盗Joker4",
     "titleJP": "怪盗ジョーカー シーズン4",
     "titleEN": "",
     "officalSite": "http://s.mxtv.jp/joker/",
@@ -690,10 +662,10 @@
     "onAirSite": [],
     "newBgm": true,
     "showDate": "2016-10-03",
-    "bgmId": 0
+    "bgmId": 185825
   },
   "1610_30": {
-    "titleCN": "",
+    "titleCN": "12岁。小小的胸口心跳加速 2期",
     "titleJP": "12歳。～ちっちゃなムネのトキメキ～2ndシーズン",
     "titleEN": "",
     "officalSite": "http://www.shogakukan.co.jp/pr/12sai/",
@@ -707,7 +679,7 @@
     "bgmId": 0
   },
   "1610_31": {
-    "titleCN": "",
+    "titleCN": "3年D班玻璃假面",
     "titleJP": "3ねんDぐみガラスの仮面",
     "titleEN": "",
     "officalSite": "http://www.garasunokamen3d.com/",
@@ -718,10 +690,10 @@
     "onAirSite": [],
     "newBgm": true,
     "showDate": "2016-10-03",
-    "bgmId": 0
+    "bgmId": 191390
   },
   "1610_32": {
-    "titleCN": "",
+    "titleCN": "斯特拉的魔法",
     "titleJP": "ステラのまほう",
     "titleEN": "",
     "officalSite": "http://magicofstella.com/",
@@ -732,24 +704,10 @@
     "onAirSite": [],
     "newBgm": true,
     "showDate": "2016-10-03",
-    "bgmId": 0
-  },
-  "1610_33": {
-    "titleCN": "",
-    "titleJP": "聖闘士星矢 黄金魂 -soul of gold-",
-    "titleEN": "",
-    "officalSite": "http://saintseiya-gold.com/",
-    "weekDayJP": 1,
-    "weekDayCN": 1,
-    "timeJP": "2330",
-    "timeCN": "",
-    "onAirSite": [],
-    "newBgm": true,
-    "showDate": "2016-10-03",
-    "bgmId": 0
+    "bgmId": 165972
   },
   "1610_34": {
-    "titleCN": "",
+    "titleCN": "学园帅哥",
     "titleJP": "学園ハンサム",
     "titleEN": "",
     "officalSite": "http://penet.co.jp/animehandsome/",
@@ -760,10 +718,10 @@
     "onAirSite": [],
     "newBgm": true,
     "showDate": "2016-10-04",
-    "bgmId": 0
+    "bgmId": 184285
   },
   "1610_35": {
-    "titleCN": "",
+    "titleCN": "TRICKSTER -来自江户川乱步「少年侦探团」-",
     "titleJP": "TRICKSTER -江戸川乱歩「少年探偵団」より-",
     "titleEN": "",
     "officalSite": "http://trickster-project.com/anime/",
@@ -774,10 +732,10 @@
     "onAirSite": [],
     "newBgm": true,
     "showDate": "2016-10-04",
-    "bgmId": 0
+    "bgmId": 184153
   },
   "1610_36": {
-    "titleCN": "",
+    "titleCN": "灼热的乒乓球娘",
     "titleJP": "灼熱の卓球娘",
     "titleEN": "",
     "officalSite": "http://syakunetsu.com/",
@@ -788,10 +746,10 @@
     "onAirSite": [],
     "newBgm": true,
     "showDate": "2016-10-04",
-    "bgmId": 0
+    "bgmId": 175536
   },
   "1610_37": {
-    "titleCN": "",
+    "titleCN": "侍灵演武：将星乱",
     "titleJP": "侍霊演武(ソウルバスター)",
     "titleEN": "",
     "officalSite": "http://soulbuster.jp/",
@@ -802,10 +760,10 @@
     "onAirSite": [],
     "newBgm": true,
     "showDate": "2016-10-04",
-    "bgmId": 0
+    "bgmId": 165785
   },
   "1610_38": {
-    "titleCN": "",
+    "titleCN": "信长的忍者",
     "titleJP": "信長の忍び",
     "titleEN": "",
     "officalSite": "http://nobunaga-no-shinobi.com/",
@@ -816,10 +774,10 @@
     "onAirSite": [],
     "newBgm": true,
     "showDate": "2016-10-04",
-    "bgmId": 0
+    "bgmId": 170242
   },
   "1610_39": {
-    "titleCN": "",
+    "titleCN": "装神少女小缠",
     "titleJP": "装神少女まとい",
     "titleEN": "",
     "officalSite": "http://www.matoi-anime.com/",
@@ -830,10 +788,10 @@
     "onAirSite": [],
     "newBgm": true,
     "showDate": "2016-10-04",
-    "bgmId": 0
+    "bgmId": 187112
   },
   "1610_40": {
-    "titleCN": "",
+    "titleCN": "夏目友人帐 伍",
     "titleJP": "夏目友人帳 伍 (第5期)",
     "titleEN": "",
     "officalSite": "http://www.natsume-anime.jp/",
@@ -844,10 +802,10 @@
     "onAirSite": [],
     "newBgm": true,
     "showDate": "2016-10-05",
-    "bgmId": 0
+    "bgmId": 174638
   },
   "1610_41": {
-    "titleCN": "",
+    "titleCN": "黑白来看守所",
     "titleJP": "ナンバカ",
     "titleEN": "",
     "officalSite": "http://nanbaka.tv/",
@@ -858,10 +816,10 @@
     "onAirSite": [],
     "newBgm": true,
     "showDate": "2016-10-05",
-    "bgmId": 0
+    "bgmId": 126177
   },
   "1610_42": {
-    "titleCN": "",
+    "titleCN": "一课一练",
     "titleJP": "CHEATING CRAFT(チーティングクラフト)",
     "titleEN": "",
     "officalSite": "http://cheating-craft.com/",
@@ -872,10 +830,10 @@
     "onAirSite": [],
     "newBgm": true,
     "showDate": "2016-10-05",
-    "bgmId": 0
+    "bgmId": 188050
   },
   "1610_43": {
-    "titleCN": "",
+    "titleCN": "突变英雄",
     "titleJP": "TO BE HERO(トゥ ビー ヒーロー)",
     "titleEN": "",
     "officalSite": "http://tobe-hero.com/",
@@ -886,10 +844,10 @@
     "onAirSite": [],
     "newBgm": true,
     "showDate": "2016-10-05",
-    "bgmId": 0
+    "bgmId": 192247
   },
   "1610_44": {
-    "titleCN": "",
+    "titleCN": "Crane Game Girls 2期",
     "titleJP": "美少女遊戯ユニット クレーンゲールギャラクシー (第2期)",
     "titleEN": "",
     "officalSite": "http://cranegale.com/",
@@ -900,10 +858,10 @@
     "onAirSite": [],
     "newBgm": true,
     "showDate": "2016-10-05",
-    "bgmId": 0
+    "bgmId": 186035
   },
   "1610_45": {
-    "titleCN": "",
+    "titleCN": "解谜之音",
     "titleJP": "ナゾトキネ -NAZOTOKINE-",
     "titleEN": "",
     "officalSite": "http://nazotokine.com/",
@@ -914,10 +872,10 @@
     "onAirSite": [],
     "newBgm": true,
     "showDate": "2016-10-05",
-    "bgmId": 0
+    "bgmId": 187556
   },
   "1610_46": {
-    "titleCN": "",
+    "titleCN": "网球少女 8期",
     "titleJP": "てーきゅう 第8期",
     "titleEN": "",
     "officalSite": "http://te-kyu.com/",
@@ -931,7 +889,7 @@
     "bgmId": 0
   },
   "1610_47": {
-    "titleCN": "",
+    "titleCN": "奇异太郎少年的妖怪绘日记",
     "titleJP": "奇異太郎少年の妖怪絵日記",
     "titleEN": "",
     "officalSite": "http://kiitarou.jp/",
@@ -942,10 +900,10 @@
     "onAirSite": [],
     "newBgm": true,
     "showDate": "2016-10-05",
-    "bgmId": 0
+    "bgmId": 181090
   },
   "1610_48": {
-    "titleCN": "",
+    "titleCN": "魔法少女什么的已经够了啦 2期",
     "titleJP": "魔法少女なんてもういいですから。セカンドシーズン",
     "titleEN": "",
     "officalSite": "http://mouiidesukara.com/",
@@ -956,10 +914,10 @@
     "onAirSite": [],
     "newBgm": true,
     "showDate": "2016-10-05",
-    "bgmId": 0
+    "bgmId": 189415
   },
   "1610_49": {
-    "titleCN": "",
+    "titleCN": "动画锻炼 2期",
     "titleJP": "あにトレ！XX -ひとつ屋根の下で-(第2期)",
     "titleEN": "",
     "officalSite": "http://anime-training.com/",
@@ -970,10 +928,10 @@
     "onAirSite": [],
     "newBgm": true,
     "showDate": "2016-10-05",
-    "bgmId": 0
+    "bgmId": 188453
   },
   "1610_50": {
-    "titleCN": "",
+    "titleCN": "吹响！悠风号 2期",
     "titleJP": "響け！ユーフォニアム 第2期",
     "titleEN": "",
     "officalSite": "http://anime-eupho.com/",
@@ -987,7 +945,7 @@
     "bgmId": 0
   },
   "1610_51": {
-    "titleCN": "",
+    "titleCN": "文豪野犬 2期",
     "titleJP": "文豪ストレイドッグス 第2クール",
     "titleEN": "",
     "officalSite": "http://bungo-stray-dogs.jp/",
@@ -1001,7 +959,7 @@
     "bgmId": 0
   },
   "1610_52": {
-    "titleCN": "",
+    "titleCN": "勇武魔女",
     "titleJP": "ブレイブウィッチーズ",
     "titleEN": "",
     "officalSite": "http://w-witch.jp/",
@@ -1012,10 +970,10 @@
     "onAirSite": [],
     "newBgm": true,
     "showDate": "2016-10-06",
-    "bgmId": 0
+    "bgmId": 85338
   },
   "1610_53": {
-    "titleCN": "",
+    "titleCN": "勇利!!! on ICE",
     "titleJP": "ユーリ!!! on ICE",
     "titleEN": "",
     "officalSite": "http://yurionice.com/",
@@ -1026,10 +984,10 @@
     "onAirSite": [],
     "newBgm": true,
     "showDate": "2016-10-06",
-    "bgmId": 0
+    "bgmId": 174998
   },
   "1610_54": {
-    "titleCN": "",
+    "titleCN": "Flip Flappers",
     "titleJP": "フリップフラッパーズ",
     "titleEN": "",
     "officalSite": "http://www.flipflappers.com/",
@@ -1040,10 +998,10 @@
     "onAirSite": [],
     "newBgm": true,
     "showDate": "2016-10-06",
-    "bgmId": 0
+    "bgmId": 174584
   },
   "1610_55": {
-    "titleCN": "",
+    "titleCN": "竞女",
     "titleJP": "競女!!!!!!!!",
     "titleEN": "",
     "officalSite": "http://keijollllllll.com/",
@@ -1054,10 +1012,10 @@
     "onAirSite": [],
     "newBgm": true,
     "showDate": "2016-10-06",
-    "bgmId": 0
+    "bgmId": 168634
   },
   "1610_56": {
-    "titleCN": "",
+    "titleCN": "ALL OUT!!",
     "titleJP": "ALL OUT!! [オールアウト!!]",
     "titleEN": "",
     "officalSite": "http://allout-anime.com/",
@@ -1068,10 +1026,10 @@
     "onAirSite": [],
     "newBgm": true,
     "showDate": "2016-10-06",
-    "bgmId": 0
+    "bgmId": 146172
   },
   "1610_57": {
-    "titleCN": "",
+    "titleCN": "伯纳德小姐说",
     "titleJP": "バーナード嬢曰く。",
     "titleEN": "",
     "officalSite": "http://www.dreamcreation.co.jp/bernard/",
@@ -1082,10 +1040,10 @@
     "onAirSite": [],
     "newBgm": true,
     "showDate": "2016-10-07",
-    "bgmId": 0
+    "bgmId": 185420
   },
   "1610_58": {
-    "titleCN": "",
+    "titleCN": "我太受欢迎了该怎么办",
     "titleJP": "私がモテてどうすんだ",
     "titleEN": "",
     "officalSite": "http://www.tbs.co.jp/anime/watamote/",
@@ -1096,10 +1054,10 @@
     "onAirSite": [],
     "newBgm": true,
     "showDate": "2016-10-07",
-    "bgmId": 0
+    "bgmId": 172492
   },
   "1610_59": {
-    "titleCN": "",
+    "titleCN": "少女编号",
     "titleJP": "ガーリッシュ ナンバー",
     "titleEN": "",
     "officalSite": "http://www.tbs.co.jp/anime/gn/",
@@ -1110,10 +1068,10 @@
     "onAirSite": [],
     "newBgm": true,
     "showDate": "2016-10-07",
-    "bgmId": 0
+    "bgmId": 167434
   },
   "1610_60": {
-    "titleCN": "",
+    "titleCN": "漂流武士",
     "titleJP": "ドリフターズ",
     "titleEN": "",
     "officalSite": "http://www.nbcuni.co.jp/rondorobe/anime/drifters/",
@@ -1124,10 +1082,10 @@
     "onAirSite": [],
     "newBgm": true,
     "showDate": "2016-10-07",
-    "bgmId": 0
+    "bgmId": 60011
   },
   "1610_61": {
-    "titleCN": "",
+    "titleCN": "Lostorage incited WIXOSS",
     "titleJP": "Lostorage　incited　WIXOSS",
     "titleEN": "",
     "officalSite": "http://lostorage-wixoss.com/",
@@ -1138,10 +1096,10 @@
     "onAirSite": [],
     "newBgm": true,
     "showDate": "2016-10-07",
-    "bgmId": 0
+    "bgmId": 179097
   },
   "1610_62": {
-    "titleCN": "",
+    "titleCN": "排球少年 乌野高校 VS 白鸟泽学园高校",
     "titleJP": "ハイキュー!!-烏野高校 VS 白鳥沢学園高校- (第3期)",
     "titleEN": "",
     "officalSite": "http://www.j-haikyu.com/anime/",
@@ -1152,10 +1110,10 @@
     "onAirSite": [],
     "newBgm": true,
     "showDate": "2016-10-08",
-    "bgmId": 0
+    "bgmId": 173849
   },
   "1610_63": {
-    "titleCN": "",
+    "titleCN": "亚人 2期",
     "titleJP": "亜人 第2クール",
     "titleEN": "",
     "officalSite": "http://www.ajin.net/",
@@ -1166,10 +1124,10 @@
     "onAirSite": [],
     "newBgm": true,
     "showDate": "2016-10-08",
-    "bgmId": 0
+    "bgmId": 181640
   },
   "1610_64": {
-    "titleCN": "",
+    "titleCN": "临时女友♪",
     "titleJP": "ガールフレンド(♪) WEBアニメ",
     "titleEN": "",
     "officalSite": "https://lp.gf-music.amebagames.com/",
@@ -1180,10 +1138,10 @@
     "onAirSite": [],
     "newBgm": true,
     "showDate": "2016-10-07",
-    "bgmId": 0
+    "bgmId": 189632
   },
   "1610_65": {
-    "titleCN": "",
+    "titleCN": "克拉斯卡劳埃德",
     "titleJP": "クラシカロイド",
     "titleEN": "",
     "officalSite": "http://www9.nhk.or.jp/anime/classica/",
@@ -1194,10 +1152,10 @@
     "onAirSite": [],
     "newBgm": true,
     "showDate": "2016-10-08",
-    "bgmId": 0
+    "bgmId": 139137
   },
   "1610_66": {
-    "titleCN": "",
+    "titleCN": "长骑美眉",
     "titleJP": "ろんぐらいだぁす！",
     "titleEN": "",
     "officalSite": "http://anime-longriders.com/index.html",
@@ -1208,10 +1166,10 @@
     "onAirSite": [],
     "newBgm": true,
     "showDate": "2016-10-08",
-    "bgmId": 0
+    "bgmId": 131800
   },
   "1610_67": {
-    "titleCN": "",
+    "titleCN": "3月的狮子",
     "titleJP": "3月のライオン",
     "titleEN": "",
     "officalSite": "http://3lion-anime.com/",
@@ -1222,10 +1180,10 @@
     "onAirSite": [],
     "newBgm": true,
     "showDate": "2016-10-08",
-    "bgmId": 0
+    "bgmId": 147068
   },
   "1610_68": {
-    "titleCN": "",
+    "titleCN": "超自然9人组",
     "titleJP": "Occultic；Nine -オカルティック・ナイン-",
     "titleEN": "",
     "officalSite": "http://occultic-nine.com/",
@@ -1236,10 +1194,10 @@
     "onAirSite": [],
     "newBgm": true,
     "showDate": "2016-10-08",
-    "bgmId": 0
+    "bgmId": 174544
   },
   "1610_69": {
-    "titleCN": "",
+    "titleCN": "战国鸟兽戏画",
     "titleJP": "戦国鳥獣戯画",
     "titleEN": "",
     "officalSite": "http://www.kbc.co.jp/scg/",
@@ -1250,10 +1208,10 @@
     "onAirSite": [],
     "newBgm": true,
     "showDate": "2016-10-09",
-    "bgmId": 0
+    "bgmId": 189545
   },
   "1610_70": {
-    "titleCN": "",
+    "titleCN": "乌冬面之国的金色毛毬",
     "titleJP": "うどんの国の金色毛鞠",
     "titleEN": "",
     "officalSite": "http://www.udonnokuni-anime.jp/",
@@ -1264,10 +1222,10 @@
     "onAirSite": [],
     "newBgm": true,
     "showDate": "2016-10-09",
-    "bgmId": 0
+    "bgmId": 168417
   },
   "1610_71": {
-    "titleCN": "",
+    "titleCN": "钢之管弦乐",
     "titleJP": "はがねオーケストラ",
     "titleEN": "",
     "officalSite": "http://hagane-orchestra.jp/",
@@ -1278,10 +1236,10 @@
     "onAirSite": [],
     "newBgm": true,
     "showDate": "2016-10-10",
-    "bgmId": 0
+    "bgmId": 192314
   },
   "1610_72": {
-    "titleCN": "",
+    "titleCN": "编舟记",
     "titleJP": "舟を編む",
     "titleEN": "",
     "officalSite": "http://www.funewoamu.com/",
@@ -1292,10 +1250,10 @@
     "onAirSite": [],
     "newBgm": true,
     "showDate": "2016-10-13",
-    "bgmId": 0
+    "bgmId": 174142
   },
   "1610_73": {
-    "titleCN": "",
+    "titleCN": "100%帕斯卡老师",
     "titleJP": "100%パスカル先生",
     "titleEN": "",
     "officalSite": "https://www.youtube.com/channel/UCKtxF3ufOkuJohTeKyNbYrQ",
@@ -1306,10 +1264,10 @@
     "onAirSite": [],
     "newBgm": true,
     "showDate": "2016-10-15",
-    "bgmId": 0
+    "bgmId": 192842
   },
   "1610_74": {
-    "titleCN": "",
+    "titleCN": "人狼暗号1951",
     "titleJP": "ルガーコード 1951",
     "titleEN": "",
     "officalSite": "https://www.animax.co.jp/luger-code",
@@ -1320,6 +1278,6 @@
     "onAirSite": [],
     "newBgm": true,
     "showDate": "2016-10-22",
-    "bgmId": 0
+    "bgmId": 146028
   }
 }
