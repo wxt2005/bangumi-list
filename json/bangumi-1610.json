@@ -413,8 +413,11 @@
     "weekDayJP": 0,
     "weekDayCN": 0,
     "timeJP": "0600",
-    "timeCN": "",
-    "onAirSite": [],
+    "timeCN": "0630",
+    "onAirSite": [
+      "http://www.le.com/comic/10029958.html",
+      "http://v.pptv.com/page/lJ9591icFNXPWVLw.html"
+    ],
     "newBgm": true,
     "showDate": "2016-09-18",
     "bgmId": 184884
@@ -675,7 +678,8 @@
       "http://v.pptv.com/page/Zc6qKJD2ZqQHhe0.html",
       "http://v.qq.com/detail/v/vmyhlcrhf8639bi.html",
       "http://www.mgtv.com/v/7/301740/",
-      "http://www.tudou.com/albumcover/KY5OaxL5PcU.html"
+      "http://www.tudou.com/albumcover/KY5OaxL5PcU.html",
+      "http://www.le.com/comic/10029959.html"
     ],
     "newBgm": true,
     "showDate": "2016-10-02",
@@ -719,7 +723,8 @@
     "timeJP": "1600",
     "timeCN": "1830",
     "onAirSite": [
-      "http://www.tudou.com/albumcover/0cpgYEhhh8Y.html"
+      "http://www.tudou.com/albumcover/0cpgYEhhh8Y.html",
+      "http://www.youku.com/show_page/id_z2c1e303055f011e5a080.html"
     ],
     "newBgm": true,
     "showDate": "2016-10-02",
