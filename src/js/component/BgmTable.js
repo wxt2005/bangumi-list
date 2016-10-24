@@ -30,6 +30,8 @@ var BgmTable = React.createClass({
         this.setState({
             tabName: tabName
         });
+
+        React.findDOMNode(this.refs.selectorToggle).checked = false;
     },
     render: function(){
         var props = this.props,
@@ -60,7 +62,8 @@ var BgmTable = React.createClass({
                         </div>
                     </div>
                     <div className="table-container">
-                        <input id="selectorToggle" type="checkbox" className="toggle-input" />
+                        <input id="selectorToggle" type="checkbox" className="toggle-input"
+                            ref="selectorToggle"/>
                         <TableSelector
                             onTabChange={this.handleTabChange}
                             tab={props.tab}
