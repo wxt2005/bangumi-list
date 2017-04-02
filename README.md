@@ -1,4 +1,4 @@
-#[番组放送](http://bgmlist.com/) v2
+# [番组放送](http://bgmlist.com/) v2
 
 新番放送兼版权引进播放地址聚合站
 
@@ -14,6 +14,7 @@
 
 ```sh
 npm install
+cp src/js/_config.js src/js/config.js
 npm run deploy
 ```
 
