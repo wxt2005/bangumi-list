@@ -38,14 +38,21 @@ var BgmDataStore = _assign({}, EventEmitter.prototype, {
         }
 
         if(data.version !== 0 && _data.path === data.path){
-            console.info('data maerged');
-            _data = _mergeWith(_data, data, function(objectValue, sourceValue, key, source, value){
-                if(key === 'onAirSite'){
-                    return sourceValue;
-                }else{
-                    return undefined;
+            (function() {
+                var oldItems = {}, id;
+                _data.version = data.version;
+                oldItems = _data.items;
+                _data.items = data.items;
+
+                for (id in _data.items) {
+                    if (id in oldItems) {
+                        _data.items[id].hide = oldItems[id].hide || false;
+                        _data.items[id].highlight = oldItems[id].highlight || false;
+                    }
                 }
-            });
+            })();
+
+            console.info('data maerged');
         }else{
             console.info('data replaced');
             _data = data;

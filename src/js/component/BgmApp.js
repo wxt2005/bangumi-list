@@ -33,7 +33,7 @@ var BgmApp = React.createClass({
                 this.state.data.path !== nextProps.currentArchive.path ||
                 typeof this.state.data.version === 'undefined' ||
                 nextProps.currentArchive.version === 0 ||
-                this.state.data.version < nextProps.currentArchive.version ||
+                this.state.data.version !== nextProps.currentArchive.version ||
                 nextProps.currentArchive.path !== this.initUrl
             ){
             qwest.get(nextProps.currentArchive.path)
