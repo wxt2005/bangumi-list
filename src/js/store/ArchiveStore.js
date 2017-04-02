@@ -1,7 +1,8 @@
 var _assign      = require('lodash/assign'),
     _isEmpty     = require('lodash/isEmpty'),
     qwest        = require('qwest'),
-    EventEmitter = require('events').EventEmitter;
+    EventEmitter = require('events').EventEmitter,
+    config       = require('../config');
 
 var now = new Date();
 
@@ -31,7 +32,7 @@ var ArchiveStore = _assign({}, EventEmitter.prototype, {
         return _archive;
     },
     init: function(){
-        qwest.get('json/archive.json')
+        qwest.get(config.archiveUrl || 'json/archive.json')
             .then(function(response){
                 _archive = response.data;
                 this.emitInit();

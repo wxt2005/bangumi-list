@@ -4,3 +4,4 @@ dist
 build
 node_modules
 .idea
+src/js/config.js
