@@ -39,11 +39,6 @@ var BgmItemSub = React.createClass({
                 name: '花园',
                 prefix: 'http://share.dmhy.org/topics/list?keyword=',
                 default: 'CN'
-            },
-            'nyaa': {
-                name: 'Nyaa',
-                prefix: 'https://www.nyaa.se/?page=search&term=',
-                default: ['EN', 'JP']
             }
         };
 
