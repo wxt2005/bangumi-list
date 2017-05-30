@@ -37,7 +37,7 @@ var BgmItemSub = React.createClass({
         var downloadSites = {
             'dmhy': {
                 name: '花园',
-                prefix: 'http://share.dmhy.org/topics/list?keyword=',
+                prefix: 'https://share.dmhy.org/topics/list?keyword=',
                 default: 'CN'
             }
         };
