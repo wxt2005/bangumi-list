@@ -40,8 +40,8 @@ var BgmList = React.createClass({
             return false;
         }
 
-        // 如果设定只显示关注项目则隐藏其他所以项目
-        if(this.state.config.highlightOnly && !item.highlight){
+        // 非历史模式，设定只显示关注项目则隐藏其他所以项目
+        if(!this.props.isHistory && this.state.config.highlightOnly && !item.highlight){
             return false;
         }
 
