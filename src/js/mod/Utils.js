@@ -4,7 +4,7 @@ var WEEKDAYCN = ['周日', '周一', '周二', '周三', '周四', '周五', '�
     WEEKDAYJP = ['日曜', '月曜', '火曜', '水曜', '木曜', '金曜', '土曜'];
 
 var SITE_REGEX = {
-    'acfun'   : /acfun\.(tv|tudou)/,
+    'acfun'   : /acfun\.(cn|tv|tudou)/,
     'bilibili': /bilibili\.com/,
     'tucao'   : /tucao\.(tv|cc)/,
     'sohu'    : /sohu\.com/,
