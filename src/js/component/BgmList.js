@@ -6,7 +6,8 @@ var _           = require('lodash'),
     BgmItemSub  = require('./BgmItemSub'),
     Mixins      = require('./Mixins'),
     configStore = require('../store/BgmConfigStore'),
-    sitesStore  = require('../store/BgmSitesStore');
+    sitesStore  = require('../store/BgmSitesStore'),
+    getPinyin   = require('../mod/getPinyin');
 
 var BgmList = React.createClass({
     mixins: [
@@ -31,6 +32,9 @@ var BgmList = React.createClass({
 
         // 有搜索词且匹配中日文，直接显示
         if(this.props.keyword){
+            if (this.props.keyword.match(/^[a-zA-Z]+$/)) {
+                return getPinyin(item.titleJP + item.titleCN).toLowerCase().indexOf(this.props.keyword.toLowerCase()) !== -1;
+            }
             return (item.titleJP + item.titleCN).toLowerCase().indexOf(this.props.keyword.toLowerCase()) !== -1;
         }
 
