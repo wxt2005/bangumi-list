@@ -1,10 +1,12 @@
 var _every      = require('lodash/every'),
     _map        = require('lodash/map'),
+    _           = require('lodash'),
     React       = require('react'),
     Utils       = require('../mod/Utils'),
     Mixins      = require('./Mixins'),
     Actions     = require('../action/Actions'),
     configStore = require('../store/BgmConfigStore'),
+    dataStore   = require('../store/BgmDataStore'),
     sitesStore  = require('../store/BgmSitesStore');
 
 var PanelSwitch = React.createClass({
@@ -235,6 +237,51 @@ var BgmPreferences = React.createClass({
         Actions.saveSites();
         this.props.toggleHandler(e);
     },
+    _handleExport: function(e){
+        var data, dn, blob;
+        e.preventDefault();
+        data = dataStore.getData();
+        dn = this.refs.exportSetting.getDOMNode();
+        blob = new Blob(
+            [JSON.stringify(_.assign({}, {
+                config: this.state.config,
+                supportSites: this.state.supportSites,
+                data: {
+                    path: data.path,
+                    version: data.version,
+                    items: _.pickBy(data.items, function(val, key) {
+                        return val.hide || val.highlight
+                    })
+                }
+            }))],
+            {type: "application/json"}
+        );
+        dn.href = URL.createObjectURL(blob);
+        dn.click();
+        this.props.toggleHandler(e);
+    },
+    _handleImport: function(e){
+        e.preventDefault();
+        var fileSelector = this.refs.importSetting.getDOMNode();
+        fileSelector.onchange = function() {
+            var files = fileSelector.files;
+            if (files.length) {
+                var reader = new FileReader();
+                reader.onload = function () {
+                    try {
+                        var setting = JSON.parse(reader.result);
+                        Actions.updateConfig(setting.config);
+                        Actions.importSites(setting.supportSites);
+                        Actions.importData(setting.data);
+                    } catch (e) {
+                        alert('无效');
+                    }
+                }
+                reader.readAsText(files[0]);
+            }
+        };
+        fileSelector.click();
+    },
     _handleReset: function(e){
         e.preventDefault();
         Actions.showDialog(
@@ -343,9 +390,36 @@ var BgmPreferences = React.createClass({
                     >确定</a>
                     <a
                         href="#"
+                        target="_blank"
+                        className="setting-confirm"
+                        onClick={this._handleExport}
+                    >导出</a>
+                    <a
+                        href="#"
+                        target="_blank"
+                        className="setting-confirm"
+                        onClick={this._handleImport}
+                    >导入</a>
+                    <a
+                        href="#"
                         className="setting-reset"
                         onClick={this._handleReset}
                     >重置</a>
+                    <input
+                        type="file"
+                        accept="json"
+                        className="setting-import"
+                        ref="importSetting"
+                        style={{display: 'none'}}
+                    />
+                    <a
+                        href="#"
+                        target="_blank"
+                        className="setting-export"
+                        ref="exportSetting"
+                        style={{display: 'none'}}
+                        download="bgmlist-setting.json"
+                    >导出</a>
                 </div>
             </div>
         );
