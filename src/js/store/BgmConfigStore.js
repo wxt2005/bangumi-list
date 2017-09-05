@@ -1,6 +1,7 @@
 var Dispacher    = require('../dispatcher/Dispatcher'),
     _isEmpty     = require('lodash/isEmpty'),
     _assign      = require('lodash/assign'),
+    _isObject    = require('lodash/isObject'),
     Utils        = require('../mod/Utils'),
     EventEmitter = require('events').EventEmitter;
 
@@ -49,6 +50,10 @@ var BgmConfigStore = _assign({}, EventEmitter.prototype, {
         this.emit('change');
     },
     update: function(newConfg){
+        if(!_isObject(newConfg)){
+            console.warn('newConfg format wrong');
+            return;
+        }
         _config = _assign({}, _config, newConfg);
     },
     readFromStorage: function(){

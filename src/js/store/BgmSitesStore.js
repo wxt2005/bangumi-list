@@ -1,6 +1,7 @@
 var Dispacher    = require('../dispatcher/Dispatcher'),
     _assign      = require('lodash/assign'),
     _isEmpty     = require('lodash/isEmpty'),
+    _isObject    = require('lodash/isObject'),
     _forIn       = require('lodash/forIn'),
     Utils        = require('../mod/Utils'),
     EventEmitter = require('events').EventEmitter;
@@ -60,6 +61,13 @@ var BgmSitesStore = _assign({}, EventEmitter.prototype, {
     updateSite: function(domain, newConfg){
         _assign(_sites[domain], newConfg);
     },
+    importSites: function (sites) {
+        if(!_isObject(sites)){
+            console.warn('sites format wrong');
+            return;
+        }
+        _sites = _assign(_sites, sites);
+    },
     updateAll: function(sitesConfg){
         _sites = _assign({}, DEFAULT, _sites, sitesConfg);
     },
@@ -94,6 +102,10 @@ Dispacher.register(function(action){
             break;
         case 'SITES_SAVE':
             BgmSitesStore.saveToStorage();
+            break;
+        case 'SITES_IMPORT':
+            BgmSitesStore.importSites(action.sites);
+            BgmSitesStore.emitChange();
             break;
         case 'SITES_TOGGLE_ALL':
             toggleFlag = action.toggleFlag;

@@ -61,6 +61,18 @@ var BgmDataStore = _assign({}, EventEmitter.prototype, {
 
         this.saveToStorage();
     },
+    importData: function(data) {
+        if(!_isObject(data)){
+            console.warn('data format wrong');
+            return;
+        }
+
+        if(data.version !== 0 && _data.path === data.path){
+            var items = data.items;
+            _data.items = _assign(_data.items, items);
+        }
+        this.saveToStorage();
+    },
     toggle: function(id, hide){
         if(_isEmpty(_data)){
             console.info('data store is empty');
@@ -142,6 +154,11 @@ Dispacher.register(function(action){
         case 'DATA_SAVE':
             data = action.data;
             BgmDataStore.saveData(data);
+            break;
+        case 'DATA_IMPORT':
+            data = action.data;
+            BgmDataStore.importData(data);
+            BgmDataStore.emitChange();
             break;
         case 'DATA_TOGGLE_ALL':
             toggleFlag = action.toggleFlag;
