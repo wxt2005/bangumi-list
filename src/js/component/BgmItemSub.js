@@ -89,9 +89,11 @@ var BgmItemSub = React.createClass({
                         <span className="sub-comment" title={data.comment}>{data.comment}</span>
                     </p>
                 ) : <p></p>,
-            bangumi = data.bgmId ?
-                <a href={`http://${bangumiDomain || 'bangumi.tv'}/subject/${data.bgmId}`} target={this.props.disableNewTab ? '_self' : '_blank'}>Bangumi页面</a> : '',
             downloadSites = this.getDownloadSites(data);
+
+        var processedBangumiDomain = /^https?:\/\//.test(bangumiDomain) ? bangumiDomain : `http://${bangumiDomain || 'bangumi.tv'}`;
+        var bangumi = data.bgmId ?
+            <a href={`${processedBangumiDomain}/subject/${data.bgmId}`} target={this.props.disableNewTab ? '_self' : '_blank'}>Bangumi页面</a> : '';
 
         return (
             <div className="item-sub">
