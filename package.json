@@ -18,7 +18,8 @@
   ],
   "scripts": {
     "start": "npm run serve | npm run dev",
-    "deploy": "NODE_ENV=production webpack -p && npm run clean:dist && npm run rename:build",
+    "deploy": "NODE_ENV=production webpack -p && npm run clean:dist && npm run rename:build && npm run copy:favicon",
+    "copy:favicon": "cp -r favicons dist",
     "serve": "http-server -p 8080",
     "clean:dist": "rm -rf dist",
     "rename:build": "mv build/ dist/",
