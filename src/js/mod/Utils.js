@@ -15,7 +15,9 @@ var SITE_REGEX = {
     'pptv'    : /pptv\.com/,
     'tudou'   : /tudou\.com/,
     'movie'   : /kankan\.com/,
-    'mgtv'    : /mgtv\.com/
+    'mgtv'    : /mgtv\.com/,
+    'netflix' : /netflix\.com/,
+    'niconico': /nicovideo\.jp/
 };
 
 /**
