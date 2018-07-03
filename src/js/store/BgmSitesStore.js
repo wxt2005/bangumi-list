@@ -22,7 +22,9 @@ var DEFAULT = {
         'pptv'    : { name: 'PPTV', enable: true },
         'tudou'   : { name: '土豆', enable: true },
         'movie'   : { name: '迅雷', enable: true },
-        'mgtv'    : { name: '芒果', enable: true }
+        'mgtv'    : { name: '芒果', enable: true },
+        'netflix' : { name: '网飞', enable: true },
+        'niconico': { name: 'N站', enable: true }
     };
 
 var STORAGE_NAMESAPCE = 'bgmlist_sites';
