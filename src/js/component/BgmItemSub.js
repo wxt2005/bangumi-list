@@ -91,7 +91,7 @@ var BgmItemSub = React.createClass({
                 ) : <p></p>,
             downloadSites = this.getDownloadSites(data);
 
-        var processedBangumiDomain = /^https?:\/\//.test(bangumiDomain) ? bangumiDomain : `http://${bangumiDomain || 'bangumi.tv'}`;
+        var processedBangumiDomain = `https://${bangumiDomain || 'bangumi.tv'}`;
         var bangumi = data.bgmId ?
             <a href={`${processedBangumiDomain}/subject/${data.bgmId}`} target={this.props.disableNewTab ? '_self' : '_blank'}>Bangumi页面</a> : '';
 
