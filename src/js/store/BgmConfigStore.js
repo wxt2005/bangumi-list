@@ -18,8 +18,6 @@ var DEFAULT = {
     disableNewTab: false,
     jpTitle: false,
     dayDivide: 24,
-    dayDivideMax: 24,
-    dayDivideMin: 5,
     bangumiDomain: 'bangumi.tv'
 };
 

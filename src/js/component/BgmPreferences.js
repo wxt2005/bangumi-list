@@ -350,8 +350,8 @@ var BgmPreferences = React.createClass({
                                         configName="dayDivide"
                                         changeHandler={this._handleConfigChange}
                                         value={this.state.config.dayDivide}
-                                        maxNumber={this.state.config.dayDivideMax}
-                                        minNumber={this.state.config.dayDivideMin}
+                                        maxNumber={30}
+                                        minNumber={5}
                                     >转到次日</NumberSelector>
                                     <SelectList
                                         configName="bangumiDomain"
