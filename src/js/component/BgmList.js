@@ -26,6 +26,24 @@ var BgmList = React.createClass({
             supportSites: sitesStore.getSites()
         };
     },
+    _thirtyHours: function(item){
+        if(this.state.config.dayDivide <= 24) return item;
+        // 相当于前一天的几时
+        var asPrevDayCN = (+item.timeCN) + 2400;
+        // 如果这样算没跨过分日线则修正为前一天的日期时间
+        var fixCN = (asPrevDayCN < this.state.config.dayDivide * 100)?{
+            weekDayCN: (item.weekDayCN === 0) ? 6 : (item.weekDayCN - 1),
+            timeCN: asPrevDayCN.toString()
+        }:{};
+        // 同上对 *JP 操作
+        var asPrevDayJP = (+item.timeJP) + 2400;
+        var fixJP = (asPrevDayJP < this.state.config.dayDivide * 100)?{
+            weekDayJP: (item.weekDayJP === 0) ? 6 : (item.weekDayJP - 1),
+            timeJP: asPrevDayJP.toString()
+        }:{};
+        // 并入法修正
+        return _.assign({}, item, fixCN, fixJP);
+    },
     _decideShow: function(item){
         var useCNTime = item.timeCN || item.weekDayCN !== item.weekDayJP;
         var showHour = +(useCNTime ? item.timeCN : item.timeJP).slice(0, 2);
@@ -93,6 +111,10 @@ var BgmList = React.createClass({
         var sortArr = (this.props.tab === 7 ? // 如果tab为全部，则以日本时间排序。否则以大陆时间排序
                 ['weekDayJP', 'timeJP'] : ['weekDayCN', 'timeCN']),
             listItems = _(this.props.items)
+                // 转换 30 小时制
+                .map(function(item, id){
+                    return this._thirtyHours(item);
+                }.bind(this))
                 // 过滤掉不显示的番组
                 .filter(function(item, id){
                     return this._decideShow(item);
