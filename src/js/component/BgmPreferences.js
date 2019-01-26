@@ -361,7 +361,6 @@ var BgmPreferences = React.createClass({
                                                 {value: 'bangumi.tv'},
                                                 {value: 'bgm.tv'},
                                                 {value: 'chii.in'},
-                                                {value: 'https://bgm.tv'}
                                             ]
                                         }
                                         changeHandler={this._handleConfigChange}
