@@ -31,13 +31,13 @@ var BgmList = React.createClass({
         // 相当于前一天的几时
         var asPrevDayCN = (+item.timeCN) + 2400;
         // 如果这样算没跨过分日线则修正为前一天的日期时间
-        var fixCN = (asPrevDayCN < this.state.config.dayDivide * 100)?{
+        var fixCN = (item.timeCN !== -1 && item.timeCN && asPrevDayCN < this.state.config.dayDivide * 100)?{
             weekDayCN: (item.weekDayCN === 0) ? 6 : (item.weekDayCN - 1),
             timeCN: asPrevDayCN.toString()
         }:{};
         // 同上对 *JP 操作
         var asPrevDayJP = (+item.timeJP) + 2400;
-        var fixJP = (asPrevDayJP < this.state.config.dayDivide * 100)?{
+        var fixJP = (item.timeJP !== -1 && item.timeJP && asPrevDayJP < this.state.config.dayDivide * 100)?{
             weekDayJP: (item.weekDayJP === 0) ? 6 : (item.weekDayJP - 1),
             timeJP: asPrevDayJP.toString()
         }:{};
