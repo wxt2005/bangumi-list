@@ -40,6 +40,12 @@ var Actions = {
             actionType: 'SITES_SAVE'
         });
     },
+    importSites: function (sites) {
+        Dispatcher.dispatch({
+            actionType: 'SITES_IMPORT',
+            sites: sites
+        });
+    },
     toggleItem: function(id, toggleFlag){
         Dispatcher.dispatch({
             actionType: 'TOGGLE_ITEM',
@@ -65,10 +71,26 @@ var Actions = {
             data: data
         });
     },
+    importData: function(data){
+        Dispatcher.dispatch({
+            actionType: 'DATA_IMPORT',
+            data: data
+        });
+    },
     toggleAllItems: function(toggleFlag){
         Dispatcher.dispatch({
             actionType: 'DATA_TOGGLE_ALL',
             toggleFlag: toggleFlag
+        });
+    },
+    showDialog: function(type, content, buttons){
+        Dispatcher.dispatch({
+            actionType: 'SHOW_DIALOG',
+            option: {
+                type: type,
+                content: content,
+                buttons: buttons || ''
+            }
         });
     }
 };

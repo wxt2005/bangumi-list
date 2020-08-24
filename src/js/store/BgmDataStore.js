@@ -1,5 +1,9 @@
 var Dispacher    = require('../dispatcher/Dispatcher'),
-    _            = require('../lib/lodash.custom'),
+    _isEmpty     = require('lodash/isEmpty'),
+    _assign      = require('lodash/assign'),
+    _isObject    = require('lodash/isObject'),
+    _mergeWith   = require('lodash/mergeWith'),
+    _forIn       = require('lodash/forIn'),
     Utils        = require('../mod/Utils'),
     EventEmitter = require('events').EventEmitter;
 
@@ -9,9 +13,9 @@ var _data = {};
 
 var STORAGE_NAMESAPCE = 'bgmlist_data';
 
-var BgmDataStore = _.assign({}, EventEmitter.prototype, {
+var BgmDataStore = _assign({}, EventEmitter.prototype, {
     reset: function(){
-        if(_.isEmpty(_data)){
+        if(_isEmpty(_data)){
             console.info('data store is empty');
             return;
         }else{
@@ -21,27 +25,34 @@ var BgmDataStore = _.assign({}, EventEmitter.prototype, {
         }
     },
     getData: function(){
-        if(_.isEmpty(_data) && !this.readFromStorage()){
+        if(_isEmpty(_data) && !this.readFromStorage()){
             console.info('data store is empty');
         }
 
         return _data;
     },
     saveData: function(data){
-        if(!_.isObject(data)){
+        if(!_isObject(data)){
             console.warn('data format wrong');
             return;
         }
 
         if(data.version !== 0 && _data.path === data.path){
-            console.info('data maerged');
-            _data = _.merge(_data, data, function(objectValue, sourceValue, key, source, value){
-                if(key === 'onAirSite'){
-                    return sourceValue;
-                }else{
-                    return undefined;
+            (function() {
+                var oldItems = {}, id;
+                _data.version = data.version;
+                oldItems = _data.items;
+                _data.items = data.items;
+
+                for (id in _data.items) {
+                    if (id in oldItems) {
+                        _data.items[id].hide = oldItems[id].hide || false;
+                        _data.items[id].highlight = oldItems[id].highlight || false;
+                    }
                 }
-            });
+            })();
+
+            console.info('data maerged');
         }else{
             console.info('data replaced');
             _data = data;
@@ -50,8 +61,20 @@ var BgmDataStore = _.assign({}, EventEmitter.prototype, {
 
         this.saveToStorage();
     },
+    importData: function(data) {
+        if(!_isObject(data)){
+            console.warn('data format wrong');
+            return;
+        }
+
+        if(data.version !== 0 && _data.path === data.path){
+            var items = data.items;
+            _data.items = _assign(_data.items, items);
+        }
+        this.saveToStorage();
+    },
     toggle: function(id, hide){
-        if(_.isEmpty(_data)){
+        if(_isEmpty(_data)){
             console.info('data store is empty');
             return;
         }
@@ -60,12 +83,12 @@ var BgmDataStore = _.assign({}, EventEmitter.prototype, {
         this.saveToStorage();
     },
     toggleAll: function(hide){
-        if(_.isEmpty(_data)){
+        if(_isEmpty(_data)){
             console.info('data store is empty');
             return;
         }
 
-        _.forIn(_data.items, function(item, id){
+        _forIn(_data.items, function(item, id){
             hide = !!hide;
             if(hide){
                 item.hide = hide;
@@ -76,7 +99,7 @@ var BgmDataStore = _.assign({}, EventEmitter.prototype, {
         this.saveToStorage();
     },
     highlight: function(id, highlight){
-        if(_.isEmpty(_data)){
+        if(_isEmpty(_data)){
             console.info('data store is empty');
             return;
         }
@@ -95,7 +118,7 @@ var BgmDataStore = _.assign({}, EventEmitter.prototype, {
     },
     readFromStorage: function(){
         var data = Utils.store(STORAGE_NAMESAPCE);
-        if(!_.isEmpty(data)){
+        if(!_isEmpty(data)){
             _data = data;
             console.info('data read successed');
             return true;
@@ -131,6 +154,11 @@ Dispacher.register(function(action){
         case 'DATA_SAVE':
             data = action.data;
             BgmDataStore.saveData(data);
+            break;
+        case 'DATA_IMPORT':
+            data = action.data;
+            BgmDataStore.importData(data);
+            BgmDataStore.emitChange();
             break;
         case 'DATA_TOGGLE_ALL':
             toggleFlag = action.toggleFlag;

@@ -1,4 +1,4 @@
-var _           = require('../lib/lodash.custom'),
+var _           = require('lodash'),
     React       = require('react'),
     Utils       = require('../mod/Utils'),
     configStore = require('../store/BgmConfigStore'),
@@ -16,17 +16,17 @@ var ItemSites = React.createClass({
     render: function(){
         var siteItems = _(this.props.sites)
             .filter(function(url){
-                return this.props.supportSites[Utils.getDomain(url)].enable;
+                return Utils.getLinkSite(url, this.props.supportSites).enable;
             }.bind(this))
             .sortBy(function(url){
-                return Utils.getLinkSite(Utils.getDomain(url), this.props.supportSites);
+                return Utils.getLinkSite(url, this.props.supportSites).name;
             }.bind(this))
             .map(function(url, i){
-                var siteName = Utils.getLinkSite(Utils.getDomain(url), this.props.supportSites);
+                var siteName = Utils.getLinkSite(url, this.props.supportSites).name;
                 return (
                     <li key={i}>
                         <a
-                            href={url}
+                            href={encodeURI(decodeURI(url))}
                             onClick={this._handleClick}
                             target={this.props.disableNewTab ? '_self' : '_blank'}
                         >{siteName}</a>

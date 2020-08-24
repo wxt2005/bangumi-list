@@ -1,5 +1,5 @@
-var _           = require('../lib/lodash.custom'),
-    React       = require('react');
+var _map  = require('lodash/map'),
+    React = require('react');
 
 var BgmHeader = React.createClass({
     propTypes: {
@@ -74,8 +74,8 @@ var ArchiveSelector = React.createClass({
     },
     render: function(){
         var _self = this,
-            dropItems = _.map(this.props.items, function(months, year){
-                var monthItems = _.map(months, function(path, month){
+            dropItems = _map(this.props.items, function(months, year){
+                var monthItems = _map(months, function(path, month){
                     return (
                         <li key={month}>
                             <a

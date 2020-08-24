@@ -3,39 +3,61 @@
         "2013": {
             "10": {
                 "path": "json/bangumi-1310.json",
-                "version": 2015090701
+                "version": 2016062801
             }
         },
         "2014": {
             "1": {
                 "path": "json/bangumi-1401.json",
-                "version": 2015090701
+                "version": 2016062801
             },
             "4": {
                 "path": "json/bangumi-1404.json",
-                "version": 2015090701
+                "version": 2016062801
             },
             "7": {
                 "path": "json/bangumi-1407.json",
-                "version": 2015090701
+                "version": 2016062801
             },
             "10": {
                 "path": "json/bangumi-1410.json",
-                "version": 2015090701
+                "version": 2016062801
             }
         },
         "2015": {
             "1": {
                 "path": "json/bangumi-1501.json",
-                "version": 2015090701
+                "version": 2016062801
             },
             "4": {
                 "path": "json/bangumi-1504.json",
-                "version": 2015090701
+                "version": 2016062801
             },
             "7": {
                 "path": "json/bangumi-1507.json",
-                "version": 2015090701
+                "version": 2016070501
+            },
+            "10": {
+                "path": "json/bangumi-1510.json",
+                "version": 2016062801
+            }
+        },
+        "2016": {
+            "1": {
+                "path": "json/bangumi-1601.json",
+                "version": 2016062801
+            },
+            "4": {
+                "path": "json/bangumi-1604.json",
+                "version": 2016062801
+            },
+            "7": {
+                "path": "json/bangumi-1607.json",
+                "version": 2016071201
+            },
+            "10": {
+                "path": "json/bangumi-1610.json",
+                "version": 2016102501
             }
         }
     }

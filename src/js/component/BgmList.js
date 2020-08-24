@@ -1,4 +1,4 @@
-var _           = require('../lib/lodash.custom'),
+var _           = require('lodash'),
     React       = require('react'),
     Utils       = require('../mod/Utils'),
     Actions     = require('../action/Actions'),
@@ -6,7 +6,8 @@ var _           = require('../lib/lodash.custom'),
     BgmItemSub  = require('./BgmItemSub'),
     Mixins      = require('./Mixins'),
     configStore = require('../store/BgmConfigStore'),
-    sitesStore  = require('../store/BgmSitesStore');
+    sitesStore  = require('../store/BgmSitesStore'),
+    getPinyin   = require('../mod/getPinyin');
 
 var BgmList = React.createClass({
     mixins: [
@@ -25,19 +26,47 @@ var BgmList = React.createClass({
             supportSites: sitesStore.getSites()
         };
     },
+    _thirtyHours: function(item){
+        if(this.state.config.dayDivide <= 24) return item;
+        // 相当于前一天的几时
+        var asPrevDayCN = (+item.timeCN) + 2400;
+        // 如果这样算没跨过分日线则修正为前一天的日期时间
+        var fixCN = (item.timeCN && asPrevDayCN < this.state.config.dayDivide * 100)?{
+            weekDayCN: (item.weekDayCN === 0) ? 6 : (item.weekDayCN - 1),
+            timeCN: asPrevDayCN.toString()
+        }:{};
+        // 同上对 *JP 操作
+        var asPrevDayJP = (+item.timeJP) + 2400;
+        var fixJP = (item.timeJP && asPrevDayJP < this.state.config.dayDivide * 100)?{
+            weekDayJP: (item.weekDayJP === 0) ? 6 : (item.weekDayJP - 1),
+            timeJP: asPrevDayJP.toString()
+        }:{};
+        // 并入法修正
+        return _.assign({}, item, fixCN, fixJP);
+    },
     _decideShow: function(item){
-        var showHour = +item.timeCN.slice(0, 2);
+        var useCNTime = item.timeCN || item.weekDayCN !== item.weekDayJP;
+        var showHour = +(useCNTime ? item.timeCN : item.timeJP).slice(0, 2);
 
         // 有搜索词且匹配中日文，直接显示
         if(this.props.keyword){
+            if (this.props.keyword.match(/^[a-zA-Z]+$/)) {
+                return getPinyin(item.titleJP + item.titleCN).toLowerCase().indexOf(this.props.keyword.toLowerCase()) !== -1;
+            }
             return (item.titleJP + item.titleCN).toLowerCase().indexOf(this.props.keyword.toLowerCase()) !== -1;
         }
 
-        // 如果有结束日期并且已经结束一周,则不显示
-        if(typeof item.endDate !== 'undefined' &&
+        // 非历史模式，有结束日期并且已经结束一周,则不显示
+        if(!this.props.isHistory && typeof item.endDate !== 'undefined' &&
             Utils.hasEnded(item.endDate, item.timeJP, 7)){
             return false;
         }
+
+        // 非历史模式，设定只显示关注项目则隐藏其他所以项目
+        if(!this.props.isHistory && this.state.config.highlightOnly && !item.highlight){
+            return false;
+        }
+
 
         // 如为全部tab,显示
         if(this.props.tab === 7){
@@ -82,12 +111,16 @@ var BgmList = React.createClass({
         var sortArr = (this.props.tab === 7 ? // 如果tab为全部，则以日本时间排序。否则以大陆时间排序
                 ['weekDayJP', 'timeJP'] : ['weekDayCN', 'timeCN']),
             listItems = _(this.props.items)
+                // 转换 30 小时制
+                .map(function(item, id){
+                    return this._thirtyHours(item);
+                }.bind(this))
                 // 过滤掉不显示的番组
                 .filter(function(item, id){
                     return this._decideShow(item);
                 }.bind(this))
                 // 排序
-                .sortByAll(sortArr)
+                .sortBy(sortArr)
                 // 生成列表
                 .map(function(item, i){
                     var className = Utils.classList({
@@ -161,6 +194,7 @@ var BgmListItem = React.createClass({
                     />
                     <BgmItemSub
                         data={this.props.data}
+                        bangumiDomain={this.props.config.bangumiDomain}
                         disableNewTab={this.props.config.disableNewTab}
                         handleHideChange={this.handleHideChange}
                         handleHighlightChange={this.handleHighlightChange}

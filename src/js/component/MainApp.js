@@ -5,10 +5,21 @@ var React        = require('react'),
     configStore  = require('../store/BgmConfigStore'),
     ArchiveStore = require('../store/ArchiveStore'),
     BgmApp       = require('./BgmApp'),
-    BgmHeader    = require('./BgmHeader');
+    BgmHeader    = require('./BgmHeader'),
+    Dialog       = require('./Dialog'),
+    Dispacher    = require('../dispatcher/Dispatcher');
 
 var App = React.createClass({
     getInitialState: function(){
+
+        Dispacher.register(action => {
+            switch(action.actionType){
+                case 'SHOW_DIALOG':
+                    this.setState({dialog: action.option}, ()=>this.refs.dialog.show());
+                    break;
+                default:
+            }
+        });
         var dateNow = new Date(),
             monthNow = dateNow.getMonth() + 1,
             yeartNow = dateNow.getFullYear(),
@@ -18,7 +29,12 @@ var App = React.createClass({
             yearNow: yeartNow,
             monthNow: seasonNow,
             archiveData: {},
-            currentArchive: {}
+            currentArchive: {},
+            dialog:{
+              type: 'info', // 'info', 'error', 'warning'
+              content: '',
+              buttons: [] // [{text:'OK', callback: function(){}}]
+            }
         };
     },
     changeDataUrl: function(year, month){
@@ -56,6 +72,7 @@ var App = React.createClass({
                 <footer>
                 <p className="inner">©2014 - {state.yearNow}&nbsp;&nbsp;番组放送 | <a href="https://github.com/wxt2005/bangumi-list" title="欢迎提出宝贵的意见">Github 项目地址</a></p>
                 </footer>
+                <Dialog type={state.dialog.type} content={state.dialog.content} buttons={state.dialog.buttons} ref="dialog"/>
             </div>
         );
     }

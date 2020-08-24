@@ -1,4 +1,6 @@
-var _           = require('../lib/lodash.custom'),
+var _map        = require('lodash/map'),
+    _isArray    = require('lodash/isArray'),
+    _each       = require('lodash/each'),
     React       = require('react'),
     configStore = require('../store/BgmConfigStore');
 
@@ -10,7 +12,8 @@ var BgmItemSub = React.createClass({
         handleHighlightChange: React.PropTypes.func,
         hide: React.PropTypes.bool,
         highlight: React.PropTypes.bool,
-        isHistory: React.PropTypes.bool
+        isHistory: React.PropTypes.bool,
+        bangumiDomain: React.PropTypes.string
     },
     getInitialState: function(){
         return {
@@ -34,22 +37,12 @@ var BgmItemSub = React.createClass({
         var downloadSites = {
             'dmhy': {
                 name: '花园',
-                prefix: 'http://share.dmhy.org/topics/list?keyword=',
+                prefix: 'https://share.dmhy.org/topics/list?keyword=',
                 default: 'CN'
-            },
-            'popgo': {
-                name: '漫游',
-                prefix: 'http://share.popgo.org/search.php?title=',
-                default: 'CN'
-            },
-            'nyaa': {
-                name: 'Nyaa',
-                prefix: 'http://www.nyaa.se/?page=search&term=',
-                default: ['EN', 'JP']
             }
         };
 
-        return _.map(downloadSites, function(conf, domain){
+        return _map(downloadSites, function(conf, domain){
             var keyword = '';
 
             // 如果在数据中有覆盖选项，则直接使用
@@ -59,9 +52,9 @@ var BgmItemSub = React.createClass({
                 if(typeof conf.default === 'string' && conf.default){
                     // 如果为字符串，则直接获取
                     keyword = data['title' + conf.default];
-                }else if(_.isArray(conf.default)){
+                }else if(_isArray(conf.default)){
                     // 如为数组，则依优先级获取
-                    _.each(conf.default, function(value, i){
+                    _each(conf.default, function(value, i){
                         if(data['title' + value]){
                             keyword = data['title' + value];
                             return false;
@@ -78,7 +71,7 @@ var BgmItemSub = React.createClass({
             return (
                 <a
                     key={domain}
-                    href={conf.prefix + keyword}
+                    href={conf.prefix + encodeURIComponent(keyword)}
                     target={this.props.disableNewTab ? '_self' : '_blank'}
                 >
                     {conf.name}
@@ -88,9 +81,19 @@ var BgmItemSub = React.createClass({
     },
     render: function(){
         var data = this.props.data,
-            comment = data.comment ? <p><span className="sub-title">备注：</span>{data.comment}</p> : <p></p>,
-            bangumi = data.bgmId ? <a href={'http://bangumi.tv/subject/' + data.bgmId} target={this.props.disableNewTab ? '_self' : '_blank'}>Bangumi页面</a> : '',
+            bangumiDomain = this.props.bangumiDomain,
+            comment = data.comment ?
+                (
+                    <p>
+                        <span className="sub-title">备注：</span>
+                        <span className="sub-comment" title={data.comment}>{data.comment}</span>
+                    </p>
+                ) : <p></p>,
             downloadSites = this.getDownloadSites(data);
+
+        var processedBangumiDomain = `https://${bangumiDomain || 'bangumi.tv'}`;
+        var bangumi = data.bgmId ?
+            <a href={`${processedBangumiDomain}/subject/${data.bgmId}`} target={this.props.disableNewTab ? '_self' : '_blank'}>Bangumi页面</a> : '';
 
         return (
             <div className="item-sub">

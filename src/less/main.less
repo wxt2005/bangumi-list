@@ -56,7 +56,7 @@ body {
     -webkit-text-size-adjust: none;
     -webkit-tap-highlight-color: transparent;
     color: @font-dark;
-    font-family: "Open Sans", Arial, "Hiragino Sans GB", "Microsoft YaHei", "微软雅黑", "STHeiti", "WenQuanYi Micro Hei", "SimSun", "宋体", sans-serif;
+    font-family: "PingFang SC","Source Han Sans SC","Noto Sans CJK SC","Hiragino Sans GB","Microsoft YaHei UI","Microsoft YaHei",sans-serif;
     min-width: 300px;
     position: relative;
 }
@@ -392,7 +392,9 @@ header {
     .table {
         background: @main-green;
         border-radius: 4px;
-        border: 10px solid @main-green;
+        border-style: solid;
+        border-color: @main-green;
+        border-width: 10px 2px 2px;
     }
 
     .table-left {
@@ -513,8 +515,11 @@ header {
                     width: 90%;
                     padding: 6px 0 6px 8px;
                     line-height: 1;
-                    border: 1px solid @bg-gray;
-                    border-right: none;
+                    border-style: solid;
+                    border-color: @bg-gray;
+                    border-width: 1px 0 1px 4px;
+                    border-top-left-radius: 4px;
+                    border-bottom-left-radius: 4px;
                     .transition(all 0.5s ease);
                 }
 
@@ -538,10 +543,7 @@ header {
                 &.cur, &:hover {
                     a {
                         background: #fff;
-                        border: 1px solid @border-gray;
-                        border-right: none;
-                        border-top-left-radius: 4px;
-                        border-bottom-left-radius: 4px;
+                        border-left-color: @main-green;
                     }
                 }
             }
@@ -577,6 +579,8 @@ header {
                 display: -ms-flexbox;
                 display: flex;
 
+                -webkit-box-orient: vertical;
+                box-orient: vertical;
                 -webkit-flex-direction: column;
                 -ms-flex-direction: column;
                 flex-direction: column;
@@ -775,6 +779,15 @@ header {
                     .sub-title {
                         color: lighten(@font-light, 20%);
                     }
+                }
+
+                .sub-comment {
+                    white-space: nowrap;
+                    display: inline-block;
+                    overflow: hidden;
+                    text-overflow: ellipsis;
+                    max-width: 70%;
+                    vertical-align: top;
                 }
 
                 & > p {
@@ -1083,6 +1096,12 @@ header {
                 }
             }
 
+            .select-list {
+                position: absolute;
+                right: 0;
+                top: 0;
+            }
+
             .setting-confirm,
             .setting-reset {
                 float: right;
@@ -1326,6 +1345,9 @@ header {
                     display: -ms-flexbox;
                     display: flex;
 
+                    -webkit-box-align: center;
+                    box-align: center;
+
                     -ms-flex-align: center;
                     -webkit-align-items: center;
                     -webkit-box-align: center;
@@ -1429,6 +1451,10 @@ header {
                     .sub-right {
                         display: none;
                     }
+
+                    .sub-comment {
+                        max-width: 90%;
+                    }
                 }
             }
         }
@@ -1443,6 +1469,83 @@ footer {
     }
 }
 
+.dialog-mask {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: 100;
+    top: 0;
+    left: 0;
+    display: none;
+    text-align: center;
+    &.show{
+        display: block;
+    }
+    >.dialog{
+        position: absolute;
+        width: 80%;
+        max-width: 420px;
+        background: white;
+        border-radius: 6px;
+        left: 50%;
+        top: 50%;
+        .transform(translate(-50%, -50%));
+        overflow: hidden;
+        >.title{
+            .fs(22);
+            font-weight: bold;
+            color: white;
+            line-height: 40px;
+            text-align: center;
+        }
+        &.info >.title{
+            background-color: @dark-green;
+        }
+        &.warning >.title{
+            background-color: @notify-red;
+        }
+        &.error >.title{
+            background-color: @notify-red;
+        }
+        >.content{
+            min-height: 120px;
+            padding: 25px;
+            .fs(18);
+            text-align: left;
+        }
+        >.footer{
+            position: relative;
+            padding: 10px 20px;
+            text-align: right;
+            &:before{
+                content: "";
+                display: block;
+                position: absolute;
+                border-width: 0;
+                border-top: 1px solid rgba(0,0,0,0.2);
+                left: 15px;
+                right: 15px;
+                top: 0;
+            }
+            >.button{
+                display: inline-block;
+                background: @dark-green;
+                color: #fff;
+                .fs(14);
+                padding: 5px 15px;
+                margin: 0 5px;
+                border-radius: 4px;
+                .transition(background-color 0.5s ease);
+
+                &:hover {
+                    background-color: darken(@dark-green, 5%);
+                }
+            }
+        }
+    }
+}
+
 /*.mask {
     position: fixed;
     width: 100%;
@@ -1452,3 +1555,5 @@ footer {
     top: 0;
     left: 0;
 }*/
+
+// vim: set expandtab ts=4 sw=4:

@@ -1,5 +1,8 @@
 var Dispacher    = require('../dispatcher/Dispatcher'),
-    _            = require('../lib/lodash.custom'),
+    _assign      = require('lodash/assign'),
+    _isEmpty     = require('lodash/isEmpty'),
+    _isObject    = require('lodash/isObject'),
+    _forIn       = require('lodash/forIn'),
     Utils        = require('../mod/Utils'),
     EventEmitter = require('events').EventEmitter;
 
@@ -18,19 +21,22 @@ var DEFAULT = {
         'letv'    : { name: '乐视', enable: true },
         'pptv'    : { name: 'PPTV', enable: true },
         'tudou'   : { name: '土豆', enable: true },
-        'movie'   : { name: '迅雷', enable: true }
+        'movie'   : { name: '迅雷', enable: true },
+        'mgtv'    : { name: '芒果', enable: true },
+        'netflix' : { name: '网飞', enable: true },
+        'niconico': { name: 'N站', enable: true }
     };
 
 var STORAGE_NAMESAPCE = 'bgmlist_sites';
 
-var BgmSitesStore = _.assign({}, EventEmitter.prototype, {
+var BgmSitesStore = _assign({}, EventEmitter.prototype, {
     reset: function(){
         _sites = DEFAULT;
         this.saveToStorage();
         console.info('sites reseted');
     },
     getSites: function(domain){
-        if(_.isEmpty(_sites) && !this.readFromStorage()){
+        if(_isEmpty(_sites) && !this.readFromStorage()){
             this.reset();
         }
 
@@ -41,7 +47,7 @@ var BgmSitesStore = _.assign({}, EventEmitter.prototype, {
         }
     },
     toggleAll: function(enable){
-        _.forIn(_sites, function(info, domain){
+        _forIn(_sites, function(info, domain){
             info.enable = enable;
         });
     },
@@ -55,14 +61,21 @@ var BgmSitesStore = _.assign({}, EventEmitter.prototype, {
         this.emit('change');
     },
     updateSite: function(domain, newConfg){
-        _.assign(_sites[domain], newConfg);
+        _assign(_sites[domain], newConfg);
+    },
+    importSites: function (sites) {
+        if(!_isObject(sites)){
+            console.warn('sites format wrong');
+            return;
+        }
+        _sites = _assign(_sites, sites);
     },
     updateAll: function(sitesConfg){
-        _sites = _.assign({}, _sites, sitesConfg);
+        _sites = _assign({}, DEFAULT, _sites, sitesConfg);
     },
     readFromStorage: function(){
         var data = Utils.store(STORAGE_NAMESAPCE);
-        if(!_.isEmpty(data)){
+        if(!_isEmpty(data)){
             this.updateAll(data);
             console.info('sites read successed');
             return true;
@@ -91,6 +104,10 @@ Dispacher.register(function(action){
             break;
         case 'SITES_SAVE':
             BgmSitesStore.saveToStorage();
+            break;
+        case 'SITES_IMPORT':
+            BgmSitesStore.importSites(action.sites);
+            BgmSitesStore.emitChange();
             break;
         case 'SITES_TOGGLE_ALL':
             toggleFlag = action.toggleFlag;

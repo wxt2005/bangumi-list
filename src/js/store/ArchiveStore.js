@@ -1,14 +1,16 @@
-var _            = require('../lib/lodash.custom'),
+var _assign      = require('lodash/assign'),
+    _isEmpty     = require('lodash/isEmpty'),
     qwest        = require('qwest'),
-    EventEmitter = require('events').EventEmitter;
+    EventEmitter = require('events').EventEmitter,
+    config       = require('../config');
 
 var now = new Date();
 
 var _archive = {};
 
-var ArchiveStore = _.assign({}, EventEmitter.prototype, {
+var ArchiveStore = _assign({}, EventEmitter.prototype, {
     getArchive: function(year, month){
-        if(_.isEmpty(_archive)){
+        if(_isEmpty(_archive)){
             this.init();
         }
 
@@ -23,14 +25,14 @@ var ArchiveStore = _.assign({}, EventEmitter.prototype, {
         }
     },
     getArchiveData: function(){
-        if(_.isEmpty(_archive)){
+        if(_isEmpty(_archive)){
             this.init();
         }
 
         return _archive;
     },
     init: function(){
-        qwest.get('json/archive.json')
+        qwest.get(config.archiveUrl || 'json/archive.json')
             .then(function(response){
                 _archive = response.data;
                 this.emitInit();

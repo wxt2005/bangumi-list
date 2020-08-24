@@ -1,21 +1,48 @@
+var url = require('url');
+
 var WEEKDAYCN = ['周日', '周一', '周二', '周三', '周四', '周五', '周六'],
     WEEKDAYJP = ['日曜', '月曜', '火曜', '水曜', '木曜', '金曜', '土曜'];
 
+var SITE_REGEX = {
+    'acfun'   : /acfun\.(cn|tv|tudou)/,
+    'bilibili': /bilibili\.com/,
+    'tucao'   : /tucao\.(tv|cc)/,
+    'sohu'    : /sohu\.com/,
+    'youku'   : /youku\.com/,
+    'qq'      : /qq\.com/,
+    'iqiyi'   : /iqiyi\.com/,
+    'letv'    : /(le|letv)\.com/,
+    'pptv'    : /pptv\.com/,
+    'tudou'   : /tudou\.com/,
+    'movie'   : /kankan\.com/,
+    'mgtv'    : /mgtv\.com/,
+    'netflix' : /netflix\.com/,
+    'niconico': /nicovideo\.jp/
+};
+
 /**
  * 从主域名获得站点名称
- * @param  {string} domain 主域名
- * @param  {sites} array 站点数组
- * @return {string}        站点名称
+ * @param  {string} urlString 网址
+ * @param  {Object[]} sites 站点数组
+ * @returns {Object}        站点信息
  */
-function getLinkSite(domain, sites){
-    return sites[domain] ? sites[domain].name || sites[domain] : '未知';
+function getLinkSite(urlString, sites){
+    var host = url.parse(urlString).host;
+
+    for (var siteKey in SITE_REGEX) {
+        if (SITE_REGEX[siteKey].test(host)) {
+            return sites[siteKey];
+        }
+    }
+
+    return {};
 }
 
 /**
  * 格式化周天
  * @param {number} index 周天序号
- * @optional {string} country 国家代号 'cn' or 'jp'
- * @return {string} 格式化后的周天
+ * @param {string} [country=cn] 国家代号 'cn' or 'jp'
+ * @returns {string} 格式化后的周天
  */
 function formatWeekDay(index, country){
     if(country && country.toLowerCase() === 'jp'){
@@ -81,21 +108,6 @@ function monthToSeason(month){
 }
 
 /**
- * 获取链接中的主域名
- * @param {string} url 网址
- * @return {string} 主域名或者空字符串
- * @TODO 正确获取迅雷看看的域名，现在只用movie来代替
- */
-function getDomain(url){
-    var re = /^https{0,}:\/\/\w+\.(\w+)\.\w+/i;
-    if (url !== '#') {
-        return url.match(re)[1].toLowerCase();
-    } else {
-        return '';
-    }
-}
-
-/**
  * 辅助生成className
  * @param  {object} obj className的key value对, value为true则输出
  * @return {string}     class string
@@ -139,10 +151,9 @@ function hasOnair(dateStr, timeStr){
 function hasEnded(dateStr, timeStr, offset){
     var now = new Date(),
         endDate = new Date(dateStr.replace(/-/g, '/') + ' ' +
-            timeStr.slice(0, 2) + ':' +
-            (+timeStr.slice(2) + (offset || 0)) +
+            timeStr.slice(0, 2) + ':' + timeStr.slice(2) +
             ' GMT+0800 (CST)');
-
+    endDate.setDate(endDate.getDate() + (offset || 0))
     return now >= endDate;
 }
 
@@ -152,7 +163,6 @@ module.exports = {
     formatTime: formatTime,
     store: store,
     monthToSeason: monthToSeason,
-    getDomain: getDomain,
     classList: classList,
     hasOnair: hasOnair,
     hasEnded: hasEnded

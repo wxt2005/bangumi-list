@@ -2,7 +2,8 @@ var React          = require('react'),
     configStore    = require('../store/BgmConfigStore'),
     TableSelector  = require('./TableSelector'),
     BgmList        = require('./BgmList'),
-    BgmPreferences = require('./BgmPreferences');
+    BgmPreferences = require('./BgmPreferences'),
+    Utils          = require('../mod/Utils');
 
 var BgmTable = React.createClass({
     propTypes: {
@@ -15,7 +16,7 @@ var BgmTable = React.createClass({
     getInitialState: function(){
         return ({
             prefShow: false,
-            tabName: '周天'
+            tabName: Utils.formatWeekDay((new Date()).getDay())
         });
     },
     togglePref: function(e){
@@ -29,6 +30,8 @@ var BgmTable = React.createClass({
         this.setState({
             tabName: tabName
         });
+
+        React.findDOMNode(this.refs.selectorToggle).checked = false;
     },
     render: function(){
         var props = this.props,
@@ -59,7 +62,8 @@ var BgmTable = React.createClass({
                         </div>
                     </div>
                     <div className="table-container">
-                        <input id="selectorToggle" type="checkbox" className="toggle-input" />
+                        <input id="selectorToggle" type="checkbox" className="toggle-input"
+                            ref="selectorToggle"/>
                         <TableSelector
                             onTabChange={this.handleTabChange}
                             tab={props.tab}
