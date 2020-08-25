@@ -70,7 +70,7 @@ var App = React.createClass({
                     year={state.yearNow}
                 />
                 <footer>
-                <p className="inner">©2014 - {state.yearNow}&nbsp;&nbsp;番组放送 | <a href="https://github.com/wxt2005/bangumi-list" title="欢迎提出宝贵的意见">Github 项目地址</a></p>
+                <p className="inner">©2014 - {state.yearNow}&nbsp;&nbsp;番组放送 | <a href="https://github.com/wxt2005/bangumi-list" title="欢迎提出宝贵的意见">GitHub 项目地址</a></p>
                 </footer>
                 <Dialog type={state.dialog.type} content={state.dialog.content} buttons={state.dialog.buttons} ref="dialog"/>
             </div>
