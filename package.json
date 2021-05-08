@@ -48,7 +48,7 @@
   },
   "dependencies": {
     "flux": "^2.0.3",
-    "lodash": "^4.8.2",
+    "lodash": "^4.17.21",
     "qwest": "^1.7.0",
     "react": "^0.13.3"
   }
