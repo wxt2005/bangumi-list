@@ -24,7 +24,9 @@ var DEFAULT = {
         'movie'   : { name: '迅雷', enable: true },
         'mgtv'    : { name: '芒果', enable: true },
         'netflix' : { name: '网飞', enable: true },
-        'niconico': { name: 'N站', enable: true }
+        'niconico': { name: 'N站', enable: true },
+        'gamer': { name: '動畫瘋', enable: true },
+        'muse_hk': { name: '木棉花香港', enable: true },
     };
 
 var STORAGE_NAMESAPCE = 'bgmlist_sites';

@@ -17,7 +17,9 @@ var SITE_REGEX = {
     'movie'   : /kankan\.com/,
     'mgtv'    : /mgtv\.com/,
     'netflix' : /netflix\.com/,
-    'niconico': /nicovideo\.jp/
+    'niconico': /nicovideo\.jp/,
+    'gamer'   : /acg\.gamer\.com\.tw/,
+    'muse_hk' : /youtube\.com\/playlist\?list=PLuxqoToY7Uc/,
 };
 
 /**
@@ -27,10 +29,8 @@ var SITE_REGEX = {
  * @returns {Object}        站点信息
  */
 function getLinkSite(urlString, sites){
-    var host = url.parse(urlString).host;
-
     for (var siteKey in SITE_REGEX) {
-        if (SITE_REGEX[siteKey].test(host)) {
+        if (SITE_REGEX[siteKey].test(urlString)) {
             return sites[siteKey];
         }
     }
